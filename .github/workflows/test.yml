@@ -1,0 +1,55 @@
+name: Test Scraper
+
+on:
+  push:
+    branches: [ main, master, develop ]
+  pull_request:
+    branches: [ main, master, develop ]
+  schedule:
+    # Run tests daily at 6 AM UTC to catch website changes
+    - cron: '0 6 * * *'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.9', '3.10', '3.11', '3.12']
+
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run tests
+      run: |
+        python test_scraper.py
+    
+    - name: Test scraper on live website
+      run: |
+        python scraper.py
+        # Verify output files were created
+        test -f tours.json
+        test -s tours.json
+    
+    - name: Check for encoding issues
+      run: |
+        # Verify no encoding issues in output
+        python -c "import json; data=json.load(open('tours.json', 'r', encoding='utf-8')); print(f'Tours: {len(data[\"tours\"])}')"
+    
+    - name: Upload test results
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: test-results-${{ matrix.python-version }}
+        path: |
+          tours.json
+          tours_delta.json
