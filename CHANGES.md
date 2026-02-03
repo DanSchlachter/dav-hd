@@ -1,5 +1,14 @@
 # Changes Summary
 
+## Latest Changes
+
+### GitHub Actions Update (2026-02-03)
+- ✅ Updated `actions/checkout` from v3 to v4
+- ✅ Updated `actions/setup-python` from v4 to v5
+- ✅ Updated `actions/upload-artifact` from v3 to v4 (fixes deprecation error)
+
+**Why:** GitHub deprecated v3 of artifact actions. Using v4 ensures the CI/CD pipeline continues to work.
+
 ## Field Structure Changes
 
 ### What Changed
