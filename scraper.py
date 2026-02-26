@@ -177,6 +177,35 @@ def save_data(data: Dict, filename: str = 'tours.json'):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
+def _normalize_value(v):
+    """Normalize values for comparison (trim and collapse whitespace for strings)."""
+    if isinstance(v, str):
+        # Collapse all whitespace runs to a single space and strip
+        return re.sub(r"\s+", " ", v).strip()
+    return v
+
+
+def _diff_fields(prev: Dict, curr: Dict) -> Dict:
+    """Return a mapping of changed fields with from/to values."""
+    changes = {}
+    # Fields we care about in deltas (skip very verbose HTML)
+    preferred_keys = {
+        'begin_date','end_date','title','tour_type','leader','leader_full',
+        'registration_status','registration_text','location','requirements',
+        'max_participants','meeting_point','registration_deadline','course_fee',
+        'equipment','pre_meeting','description_full'
+    }
+    keys = preferred_keys.union(set(prev.keys())).union(set(curr.keys()))
+    for k in sorted(keys):
+        if k == 'description_html':
+            continue  # too noisy
+        pv = prev.get(k)
+        cv = curr.get(k)
+        if _normalize_value(pv) != _normalize_value(cv):
+            changes[k] = {'from': pv, 'to': cv}
+    return changes
+
+
 def compute_deltas(previous: Dict, current: List[Dict]) -> Dict:
     """
     Compute changes between previous and current tour data.
@@ -201,12 +230,16 @@ def compute_deltas(previous: Dict, current: List[Dict]) -> Dict:
     for tour_id, tour in current_tours.items():
         if tour_id not in previous_tours:
             deltas['added'].append(tour)
-        elif tour != previous_tours[tour_id]:
-            deltas['modified'].append({
-                'id': tour_id,
-                'previous': previous_tours[tour_id],
-                'current': tour
-            })
+        else:
+            prev = previous_tours[tour_id]
+            if tour != prev:
+                changed_fields = _diff_fields(prev, tour)
+                deltas['modified'].append({
+                    'id': tour_id,
+                    'changed_fields': changed_fields,
+                    'previous': prev,
+                    'current': tour
+                })
     
     # Find removed tours
     for tour_id, tour in previous_tours.items():
@@ -263,6 +296,35 @@ def main():
         print(f"  - Added: {delta_data['summary']['added']}")
         print(f"  - Removed: {delta_data['summary']['removed']}")
         print(f"  - Modified: {delta_data['summary']['modified']}")
+
+        # Also write human-readable markdown log entry for repo traceability
+        # File: changes/CHANGES-YYYY-MM-DD.md (append per day)
+        day = datetime.now().strftime('%Y-%m-%d')
+        os.makedirs('changes', exist_ok=True)
+        md_path = os.path.join('changes', f'CHANGES-{day}.md')
+        with open(md_path, 'a', encoding='utf-8') as md:
+            md.write(f"\n## {datetime.now().isoformat()}\n")
+            md.write(f"Added: {delta_data['summary']['added']}, Removed: {delta_data['summary']['removed']}, Modified: {delta_data['summary']['modified']}\n\n")
+            if deltas['added']:
+                md.write("### Added\n")
+                for t in deltas['added']:
+                    md.write(f"- {t.get('id')} · {t.get('begin_date')}–{t.get('end_date')} · {t.get('title')}\n")
+            if deltas['removed']:
+                md.write("\n### Removed\n")
+                for t in deltas['removed']:
+                    md.write(f"- {t.get('id')} · {t.get('begin_date')}–{t.get('end_date')} · {t.get('title')}\n")
+            if deltas['modified']:
+                md.write("\n### Modified\n")
+                for m in deltas['modified']:
+                    tcur = m['current']
+                    md.write(f"- {m['id']} · {tcur.get('begin_date')}–{tcur.get('end_date')} · {tcur.get('title')}\n")
+                    # Show field-level changes
+                    changes = m.get('changed_fields', {})
+                    for field, vals in changes.items():
+                        md.write(f"  - {field}: '{vals.get('from')}' → '{vals.get('to')}'\n")
+            md.write("\n---\n")
+            
+        print(f"Appended human-readable delta log to {md_path}")
     else:
         print("\nNo previous data found - this is the first run")
 

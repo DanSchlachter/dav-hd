@@ -9,6 +9,9 @@ on:
     # Run tests daily at 6 AM UTC to catch website changes
     - cron: '0 6 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -18,7 +21,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    
+      with:
+        persist-credentials: true
+
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v5
       with:
@@ -33,13 +38,26 @@ jobs:
       run: |
         python test_scraper.py
     
-    - name: Test scraper on live website
+    - name: Run scraper and generate outputs
       run: |
         python scraper.py
         # Verify output files were created
         test -f tours.json
         test -s tours.json
     
+    - name: Commit and push changes (scheduled only)
+      if: ${{ github.event_name == 'schedule' }}
+      run: |
+        git config user.name "DanSchlachter-01"
+        git config user.email "DanSchlachter-01@users.noreply.github.com"
+        if [ -n "$(git status --porcelain)" ]; then
+          git add tours.json tours_delta.json changes/ || true
+          git commit -m "chore(data): daily tours update [skip ci]"
+          git push
+        else
+          echo "No changes"
+        fi
+
     - name: Check for encoding issues
       run: |
         # Verify no encoding issues in output
@@ -53,3 +71,4 @@ jobs:
         path: |
           tours.json
           tours_delta.json
+          changes/
