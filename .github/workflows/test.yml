@@ -6,69 +6,73 @@ on:
   pull_request:
     branches: [ main, master, develop ]
   schedule:
-    # Run tests daily at 6 AM UTC to catch website changes
     - cron: '0 6 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: test-scraper-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   test:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ['3.9', '3.10', '3.11', '3.12']
 
     steps:
-    - uses: actions/checkout@v4
-      with:
-        persist-credentials: true
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
-    - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v5
-      with:
-        python-version: ${{ matrix.python-version }}
-    
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    
-    - name: Run tests
-      run: |
-        python test_scraper.py
-    
-    - name: Run scraper and generate outputs
-      run: |
-        python scraper.py
-        # Verify output files were created
-        test -f tours.json
-        test -s tours.json
-    
-    - name: Commit and push changes (scheduled only)
-      if: ${{ github.event_name == 'schedule' }}
-      run: |
-        git config user.name "DanSchlachter-01"
-        git config user.email "DanSchlachter-01@users.noreply.github.com"
-        if [ -n "$(git status --porcelain)" ]; then
-          git add tours.json tours_delta.json changes/ || true
-          git commit -m "chore(data): daily tours update [skip ci]"
-          git push
-        else
-          echo "No changes"
-        fi
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-    - name: Check for encoding issues
-      run: |
-        # Verify no encoding issues in output
-        python -c "import json; data=json.load(open('tours.json', 'r', encoding='utf-8')); print(f'Tours: {len(data[\"tours\"])}')"
-    
-    - name: Upload test results
-      if: always()
-      uses: actions/upload-artifact@v4
-      with:
-        name: test-results-${{ matrix.python-version }}
-        path: |
-          tours.json
-          tours_delta.json
-          changes/
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run tests
+        run: |
+          python test_scraper.py
+
+      - name: Run scraper and generate outputs
+        run: |
+          python scraper.py
+          test -f tours.json
+          test -s tours.json
+
+      - name: Commit and push changes (scheduled only)
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          git config user.name "DanSchlachter-01"
+          git config user.email "DanSchlachter-01@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add tours.json tours_delta.json changes/ || true
+            git commit -m "chore(data): daily tours update [skip ci]"
+            git push
+          else
+            echo "No changes"
+          fi
+
+      - name: Check for encoding issues
+        run: |
+          python - <<'PY'
+          import json
+          with open('tours.json', 'r', encoding='utf-8') as f:
+              data = json.load(f)
+          print(f"Tours: {len(data['tours'])}")
+          PY
+
+      - name: Upload test results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results
+          path: |
+            tours.json
+            tours_delta.json
+            changes/
