@@ -1,22 +1,8 @@
 {
-  "timestamp": "2026-03-04T06:36:59.400647",
+  "timestamp": "2026-03-05T06:40:25.508275",
   "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis",
-  "tour_count": 60,
+  "tour_count": 59,
   "tours": [
-    {
-      "begin_date": "04.03.26",
-      "end_date": "04.03.26",
-      "title": "Seniorenwanderung",
-      "tour_type": "Führungstour-7198",
-      "id": "t7198",
-      "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7198",
-      "leader": "Neil Canvin",
-      "leader_full": "Neil Canvin, Tel.: 0176-69320710",
-      "description_full": "Hambacher Schloss, Berg-Stein, Hohe Loog Haus (Einkehr), Bildbaum, Sonnenberg Schutzhütte, Hambacher Schloss.\nAnforderungen:\n9 Km; 280 Hm, Gehzeit ca. 3 Std.\nTreffpunkt:\nHeidelberg Hauptbahnhof Abfahrt 09:03 Uhr S 1 nach Neustadt",
-      "description_html": "<div class=\"klappbar\" id=\"b7198\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Hambacher Schloss, Berg-Stein, Hohe Loog Haus (Einkehr), Bildbaum, Sonnenberg Schutzhütte, Hambacher Schloss.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>9 Km; 280 Hm, Gehzeit ca. 3 Std.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>Heidelberg Hauptbahnhof Abfahrt 09:03 Uhr S 1 nach Neustadt</p>\n</div>",
-      "requirements": "9 Km; 280 Hm, Gehzeit ca. 3 Std.",
-      "meeting_point": "Heidelberg Hauptbahnhof Abfahrt 09:03 Uhr S 1 nach Neustadt"
-    },
     {
       "begin_date": "05.03.26",
       "end_date": "09.03.26",
