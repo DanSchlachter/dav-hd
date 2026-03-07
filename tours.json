@@ -1,24 +1,8 @@
 {
-  "timestamp": "2026-03-06T06:37:38.635431",
+  "timestamp": "2026-03-07T06:29:44.854682",
   "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis",
-  "tour_count": 58,
+  "tour_count": 57,
   "tours": [
-    {
-      "begin_date": "06.03.26",
-      "end_date": "06.03.26",
-      "title": "Klettern für Eltern mit Babys und Kleinkindern, 9:00-12:30 Uhr",
-      "tour_type": "Gemeinschaftstour-7108",
-      "id": "t7108",
-      "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7108",
-      "leader": "Judith Englert",
-      "leader_full": "Judith Englert, Tel.: 0157 83929180",
-      "registration_status": "gruen",
-      "registration_text": "Es sind noch genügend freie Plätze vorhanden",
-      "description_full": "Die Kinder werden wechselseitig von den teilnehmenden Eltern betreut, so dass immer mindestens zwei Erwachsene klettern können.\nVoraussetzung für alle Teilnehmer ist Kenntnis der Sicherungstechnik und Grundkenntnisse des Hallenkletterns.\nFür Vereinsmitglieder.\nOrt:\nDAV​ Kletter- und Boulderzentrum Heidelberg, Harbigweg 20, 69124 Heidelberg\nmax. Teilnehmerzahl:\n6\nonline anmelden",
-      "description_html": "<div class=\"klappbar\" id=\"b7108\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Die Kinder werden wechselseitig von den teilnehmenden Eltern betreut, so dass immer mindestens zwei Erwachsene klettern können.</p>\n<p>Voraussetzung für alle Teilnehmer ist Kenntnis der Sicherungstechnik und Grundkenntnisse des Hallenkletterns.</p>\n<p>Für Vereinsmitglieder.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>DAV​ Kletter- und Boulderzentrum Heidelberg, Harbigweg 20, 69124 Heidelberg</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>6</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7108\">online anmelden</a></p>\n</div>",
-      "location": "DAV​ Kletter- und Boulderzentrum Heidelberg, Harbigweg 20, 69124 Heidelberg",
-      "max_participants": "6"
-    },
     {
       "begin_date": "07.03.26",
       "end_date": "07.03.26",
