@@ -1,27 +1,8 @@
 {
-  "timestamp": "2026-03-07T06:29:44.854682",
+  "timestamp": "2026-03-08T06:33:17.283022",
   "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis",
-  "tour_count": 57,
+  "tour_count": 56,
   "tours": [
-    {
-      "begin_date": "07.03.26",
-      "end_date": "07.03.26",
-      "title": "ECO: 07.03.2026 Sportwanderung in der Pfalz (für Frühaussteiger geeignet)",
-      "tour_type": "Führungstour-7246",
-      "id": "t7246",
-      "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7246",
-      "leader": "Heike Lorenzen-Schmidt",
-      "leader_full": "Heike Lorenzen-Schmidt",
-      "registration_status": "orange",
-      "registration_text": "Warteliste",
-      "description_full": "Diese Tour eignet sich als Einstiegstour. Sie kann nach ca. 20-25 km abgebrochen werden\n(der Weg zur Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant. Die Tour findet ausnahmsweise an einem Samstag statt.\nAnmeldeschluss: Sa, 28.02.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist. (ACHTUNG: das Portal erlaubt eine Anmeldung nur bis Freitag, 27.02.26)\nAnforderungen:\nAnforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km/h\nmax. Teilnehmerzahl:\n9\nVorbesprechung:\nper Telefon/Mail\nTreffpunkt:\nAnfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\nAnmeldeschluss:\n28.02.26",
-      "description_html": "<div class=\"klappbar\" id=\"b7246\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Diese Tour eignet sich als Einstiegstour. Sie kann nach ca. 20-25 km abgebrochen werden\n(der Weg zur Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant. Die Tour findet ausnahmsweise an einem Samstag statt.</p>\n<p>Anmeldeschluss: Sa, 28.02.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist. (ACHTUNG: das Portal erlaubt eine Anmeldung nur bis Freitag, 27.02.26)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Anforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km/h</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>9</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>per Telefon/Mail</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>28.02.26</p>\n</div>",
-      "registration_deadline": "28.02.26",
-      "requirements": "Anforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km/h",
-      "max_participants": "9",
-      "pre_meeting": "per Telefon/Mail",
-      "meeting_point": "Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben."
-    },
     {
       "begin_date": "11.03.26",
       "end_date": "18.03.26",
