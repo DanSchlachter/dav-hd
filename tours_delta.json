@@ -1,74 +1,79 @@
 {
-  "timestamp": "2026-03-11T06:41:35.204536",
-  "previous_timestamp": "2026-03-10T06:38:38.055844",
+  "timestamp": "2026-03-12T06:43:20.120215",
+  "previous_timestamp": "2026-03-11T06:41:35.202245",
   "summary": {
     "added": 0,
-    "removed": 0,
+    "removed": 1,
     "modified": 1
   },
   "changes": {
     "added": [],
-    "removed": [],
+    "removed": [
+      {
+        "begin_date": "11.03.26",
+        "end_date": "18.03.26",
+        "title": "Lawinenkunde - Risiko und Tourenplanung, Suche und Bergung von Lawinenverschütteten",
+        "tour_type": "Ausbildungskurs-7131",
+        "id": "t7131",
+        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7131",
+        "leader": "Michael Pfisterer",
+        "leader_full": "Michael Pfisterer und Adrian Leibold",
+        "registration_status": "gelb",
+        "registration_text": "nur noch wenige Restplätze oder Warteliste",
+        "description_full": "In diesen Vorträgen und Seminaren werdet ihr über aktuelle Themen rund um den Bergsport informiert. Ihr erfahrt Wissenswertes über Training, neue Technologien und Neuerungen in der Sicherheitsforschung. Wir wollen, dass ihr gut informiert unterwegs seid ... Inhalte Teil 1: Grundlagen der Lawinenkunde, Lawinenbeurteilung anhand typischer Lawinengefahrenmuster, Schneedeckenprozesse und Lawinenbildung, Interpretation Lawinenlagebericht; Inhalte Teil 2: Vertiefung der Lawinenkunde, SnowCard und Faktorencheck, Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel, LVS-Geräte-Check (Empfangs- und Sendekontrolle), Verhalten bei Lawinenunfall (jeweils in der Theorie).\nOrt:\nVereinsheim DAV Heidelberg\nAnforderungen:\nKeine Vorkenntnisse, Vorbereitung zu LVS-Training sowie zu Lawinen-, Schneeschuh- und Skitourenkursen.\nmax. Teilnehmerzahl:\n10\nVorbesprechung:\nkeine\nTreffpunkt:\nVereinsheim DAV Heidelberg, 11.03.2026, Uhr 19:00 (2 Mittwoch Abende, jeweils bis etwa Uhr 21:30)\nKursgebühr (ermäßigt):\n15.00 EUR (10.00 EUR)\nAnmeldeschluss:\n04.03.26\nAusrüstung:\nSchreibbedarf (falls notwendig).",
+        "description_html": "<div class=\"klappbar\" id=\"b7131\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">In diesen Vorträgen und Seminaren werdet ihr über aktuelle Themen rund um den Bergsport informiert. Ihr erfahrt Wissenswertes über Training, neue Technologien und Neuerungen in der Sicherheitsforschung. Wir wollen, dass ihr gut informiert unterwegs seid ... Inhalte Teil 1: Grundlagen der Lawinenkunde, Lawinenbeurteilung anhand typischer Lawinengefahrenmuster, Schneedeckenprozesse und Lawinenbildung, Interpretation Lawinenlagebericht; Inhalte Teil 2: Vertiefung der Lawinenkunde, SnowCard und Faktorencheck, Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel, LVS-Geräte-Check (Empfangs- und Sendekontrolle), Verhalten bei Lawinenunfall (jeweils in der Theorie).</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>Vereinsheim DAV Heidelberg</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Keine Vorkenntnisse, Vorbereitung zu LVS-Training sowie zu Lawinen-, Schneeschuh- und Skitourenkursen.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>10</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>keine</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>Vereinsheim DAV Heidelberg, 11.03.2026, Uhr 19:00 (2 Mittwoch Abende, jeweils bis etwa Uhr 21:30)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Kursgebühr (ermäßigt): </b>15.00 EUR (10.00 EUR)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>04.03.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ausrüstung: </b>Schreibbedarf (falls notwendig).</p>\n</div>",
+        "location": "Vereinsheim DAV Heidelberg",
+        "requirements": "Keine Vorkenntnisse, Vorbereitung zu LVS-Training sowie zu Lawinen-, Schneeschuh- und Skitourenkursen.",
+        "max_participants": "10",
+        "pre_meeting": "keine",
+        "meeting_point": "Vereinsheim DAV Heidelberg, 11.03.2026, Uhr 19:00 (2 Mittwoch Abende, jeweils bis etwa Uhr 21:30)",
+        "course_fee": "Kursgebühr (ermäßigt):15.00 EUR (10.00 EUR)",
+        "registration_deadline": "04.03.26",
+        "equipment": "Schreibbedarf (falls notwendig)."
+      }
+    ],
     "modified": [
       {
-        "id": "t7136",
+        "id": "t7199",
         "changed_fields": {
           "description_full": {
-            "from": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: Das Lawinenopfer kann nicht rechtzeitig, das heisst binnen der ersten 15 min der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. Lernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen Ernstfall unter realistischen Bedingungen. Für Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. Vermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. Inhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle), Handhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung, Freischaufeln des Verschütteten; Ausrüstungs- und Materialkunde, Grundwissen in Schnee- und Lawinenkunde.\nOrt:\nWipptal bzw. Obernbergtal, Wipptaler Alpen\nAnforderungen:\nTheorie- und Seminarreihe Lawinenkunde, LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel (Wintersaison 2025/2026), allgemeine Sportlichkeit, Kondition für Aufstiege bis 2 h sowie 400 Hm mit anschließender Abfahrt bzw. anschließenden Abstieg (mit Tourenski oder Schneeschuhen).\nmax. Teilnehmerzahl:\n6\nVorbesprechung:\nVereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache (obligatorisch)\nTreffpunkt:\n(Übernachtung in Almhütte, ÜN/HP etwa EUR 75,00 pro Person, Bitte um Rücksprache hinsichtlich Vegetarier und/oder Veganer)\nKursgebühr (ermäßigt):\n200.00 EUR (150.00 EUR)\nAnmeldeschluss:\n11.03.26\nAusrüstung:\nTourenski und -bindung (eingestellt), Steigfelle (Spann-Klebefelle), Harscheisen, LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Skihelm, Skitourenschuhe, Schneeschuhe, Ski-/Teleskopstöcke (Ausrüstung kann geliehen werden; \nLVS-Gerät excl. Batterien, Sonde und Schaufel kann bei der Sektion geliehen werden), weiteres bei der Vorbesprechung.\nDer Besuch eines Theoriekurses vorab ist obligatorisch.\nonline anmelden",
-            "to": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: Das Lawinenopfer kann nicht rechtzeitig, das heisst binnen der ersten 15 min der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. Lernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen Ernstfall unter realistischen Bedingungen. Für Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. Vermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. Inhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle), Handhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung, Freischaufeln des Verschütteten; Ausrüstungs- und Materialkunde, Grundwissen in Schnee- und Lawinenkunde.\nOrt:\nWipptal bzw. Obernbergtal, Wipptaler Alpen\nAnforderungen:\nTheorie- und Seminarreihe Lawinenkunde, LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel (Wintersaison 2025/2026), allgemeine Sportlichkeit, Kondition für Aufstiege bis 2 h sowie 400 Hm mit anschließender Abfahrt bzw. anschließenden Abstieg (mit Tourenski oder Schneeschuhen).\nmax. Teilnehmerzahl:\n6\nVorbesprechung:\nVereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache (obligatorisch)\nTreffpunkt:\n(Übernachtung in Almhütte, ÜN/HP etwa EUR 75,00 pro Person, Bitte um Rücksprache hinsichtlich Vegetarier und/oder Veganer)\nKursgebühr (ermäßigt):\n200.00 EUR (150.00 EUR)\nAnmeldeschluss:\n11.03.26\nAusrüstung:\nTourenski und -bindung (eingestellt), Steigfelle (Spann-Klebefelle), Harscheisen, LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Skihelm, Skitourenschuhe, Schneeschuhe, Ski-/Teleskopstöcke (Ausrüstung kann geliehen werden; \nLVS-Gerät excl. Batterien, Sonde und Schaufel kann bei der Sektion geliehen werden), weiteres bei der Vorbesprechung.\nDer Besuch eines Theoriekurses vorab ist obligatorisch."
+            "from": "",
+            "to": "Handschuhsheim, Blütenweg, Schriesheim (Schlusseinkehr)\nAnforderungen:\n8 Km; 180 Hm; Gehzeit ca. 3,5 Std.\nTreffpunkt:\nHeidelberg Bismarckplatz Abfahrt 09:04 Uhr Linie 5 Richtung Weinheim"
           },
-          "registration_status": {
-            "from": "orange",
-            "to": "gelb"
+          "meeting_point": {
+            "from": null,
+            "to": "Heidelberg Bismarckplatz Abfahrt 09:04 Uhr Linie 5 Richtung Weinheim"
           },
-          "registration_text": {
-            "from": "Warteliste",
-            "to": "nur noch wenige Restplätze oder Warteliste"
+          "requirements": {
+            "from": null,
+            "to": "8 Km; 180 Hm; Gehzeit ca. 3,5 Std."
           }
         },
         "previous": {
-          "begin_date": "20.03.26",
-          "end_date": "23.03.26",
-          "title": "LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
-          "tour_type": "Ausbildungskurs-7136",
-          "id": "t7136",
-          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7136",
-          "leader": "Michael Pfisterer",
-          "leader_full": "Michael Pfisterer und Adrian Leibold",
-          "registration_status": "orange",
-          "registration_text": "Warteliste",
-          "description_full": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: Das Lawinenopfer kann nicht rechtzeitig, das heisst binnen der ersten 15 min der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. Lernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen Ernstfall unter realistischen Bedingungen. Für Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. Vermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. Inhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle), Handhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung, Freischaufeln des Verschütteten; Ausrüstungs- und Materialkunde, Grundwissen in Schnee- und Lawinenkunde.\nOrt:\nWipptal bzw. Obernbergtal, Wipptaler Alpen\nAnforderungen:\nTheorie- und Seminarreihe Lawinenkunde, LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel (Wintersaison 2025/2026), allgemeine Sportlichkeit, Kondition für Aufstiege bis 2 h sowie 400 Hm mit anschließender Abfahrt bzw. anschließenden Abstieg (mit Tourenski oder Schneeschuhen).\nmax. Teilnehmerzahl:\n6\nVorbesprechung:\nVereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache (obligatorisch)\nTreffpunkt:\n(Übernachtung in Almhütte, ÜN/HP etwa EUR 75,00 pro Person, Bitte um Rücksprache hinsichtlich Vegetarier und/oder Veganer)\nKursgebühr (ermäßigt):\n200.00 EUR (150.00 EUR)\nAnmeldeschluss:\n11.03.26\nAusrüstung:\nTourenski und -bindung (eingestellt), Steigfelle (Spann-Klebefelle), Harscheisen, LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Skihelm, Skitourenschuhe, Schneeschuhe, Ski-/Teleskopstöcke (Ausrüstung kann geliehen werden; \nLVS-Gerät excl. Batterien, Sonde und Schaufel kann bei der Sektion geliehen werden), weiteres bei der Vorbesprechung.\nDer Besuch eines Theoriekurses vorab ist obligatorisch.\nonline anmelden",
-          "description_html": "<div class=\"klappbar\" id=\"b7136\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: Das Lawinenopfer kann nicht rechtzeitig, das heisst binnen der ersten 15 min der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. Lernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen Ernstfall unter realistischen Bedingungen. Für Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. Vermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. Inhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle), Handhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung, Freischaufeln des Verschütteten; Ausrüstungs- und Materialkunde, Grundwissen in Schnee- und Lawinenkunde.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>Wipptal bzw. Obernbergtal, Wipptaler Alpen</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Theorie- und Seminarreihe Lawinenkunde, LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel (Wintersaison 2025/2026), allgemeine Sportlichkeit, Kondition für Aufstiege bis 2 h sowie 400 Hm mit anschließender Abfahrt bzw. anschließenden Abstieg (mit Tourenski oder Schneeschuhen).</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>6</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>Vereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache (obligatorisch)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>(Übernachtung in Almhütte, ÜN/HP etwa EUR 75,00 pro Person, Bitte um Rücksprache hinsichtlich Vegetarier und/oder Veganer)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Kursgebühr (ermäßigt): </b>200.00 EUR (150.00 EUR)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>11.03.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ausrüstung: </b>Tourenski und -bindung (eingestellt), Steigfelle (Spann-Klebefelle), Harscheisen, LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Skihelm, Skitourenschuhe, Schneeschuhe, Ski-/Teleskopstöcke (Ausrüstung kann geliehen werden; \nLVS-Gerät excl. Batterien, Sonde und Schaufel kann bei der Sektion geliehen werden), weiteres bei der Vorbesprechung.\nDer Besuch eines Theoriekurses vorab ist obligatorisch.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7136\">online anmelden</a></p>\n</div>",
-          "location": "Wipptal bzw. Obernbergtal, Wipptaler Alpen",
-          "requirements": "Theorie- und Seminarreihe Lawinenkunde, LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel (Wintersaison 2025/2026), allgemeine Sportlichkeit, Kondition für Aufstiege bis 2 h sowie 400 Hm mit anschließender Abfahrt bzw. anschließenden Abstieg (mit Tourenski oder Schneeschuhen).",
-          "max_participants": "6",
-          "pre_meeting": "Vereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache (obligatorisch)",
-          "meeting_point": "(Übernachtung in Almhütte, ÜN/HP etwa EUR 75,00 pro Person, Bitte um Rücksprache hinsichtlich Vegetarier und/oder Veganer)",
-          "course_fee": "Kursgebühr (ermäßigt):200.00 EUR (150.00 EUR)",
-          "registration_deadline": "11.03.26",
-          "equipment": "Tourenski und -bindung (eingestellt), Steigfelle (Spann-Klebefelle), Harscheisen, LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Skihelm, Skitourenschuhe, Schneeschuhe, Ski-/Teleskopstöcke (Ausrüstung kann geliehen werden; \nLVS-Gerät excl. Batterien, Sonde und Schaufel kann bei der Sektion geliehen werden), weiteres bei der Vorbesprechung.\nDer Besuch eines Theoriekurses vorab ist obligatorisch."
+          "begin_date": "01.04.26",
+          "end_date": "01.04.26",
+          "title": "Seniorenwanderung",
+          "tour_type": "Führungstour-7199",
+          "id": "t7199",
+          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7199",
+          "leader": "Vera Jaroschek",
+          "leader_full": "Vera Jaroschek, Tel.: 0160-7269633",
+          "description_full": "",
+          "description_html": "<div class=\"klappbar\" id=\"b7199\" style=\"display:none\">\n</div>"
         },
         "current": {
-          "begin_date": "20.03.26",
-          "end_date": "23.03.26",
-          "title": "LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
-          "tour_type": "Ausbildungskurs-7136",
-          "id": "t7136",
-          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7136",
-          "leader": "Michael Pfisterer",
-          "leader_full": "Michael Pfisterer und Adrian Leibold",
-          "registration_status": "gelb",
-          "registration_text": "nur noch wenige Restplätze oder Warteliste",
-          "description_full": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: Das Lawinenopfer kann nicht rechtzeitig, das heisst binnen der ersten 15 min der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. Lernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen Ernstfall unter realistischen Bedingungen. Für Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. Vermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. Inhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle), Handhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung, Freischaufeln des Verschütteten; Ausrüstungs- und Materialkunde, Grundwissen in Schnee- und Lawinenkunde.\nOrt:\nWipptal bzw. Obernbergtal, Wipptaler Alpen\nAnforderungen:\nTheorie- und Seminarreihe Lawinenkunde, LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel (Wintersaison 2025/2026), allgemeine Sportlichkeit, Kondition für Aufstiege bis 2 h sowie 400 Hm mit anschließender Abfahrt bzw. anschließenden Abstieg (mit Tourenski oder Schneeschuhen).\nmax. Teilnehmerzahl:\n6\nVorbesprechung:\nVereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache (obligatorisch)\nTreffpunkt:\n(Übernachtung in Almhütte, ÜN/HP etwa EUR 75,00 pro Person, Bitte um Rücksprache hinsichtlich Vegetarier und/oder Veganer)\nKursgebühr (ermäßigt):\n200.00 EUR (150.00 EUR)\nAnmeldeschluss:\n11.03.26\nAusrüstung:\nTourenski und -bindung (eingestellt), Steigfelle (Spann-Klebefelle), Harscheisen, LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Skihelm, Skitourenschuhe, Schneeschuhe, Ski-/Teleskopstöcke (Ausrüstung kann geliehen werden; \nLVS-Gerät excl. Batterien, Sonde und Schaufel kann bei der Sektion geliehen werden), weiteres bei der Vorbesprechung.\nDer Besuch eines Theoriekurses vorab ist obligatorisch.",
-          "description_html": "<div class=\"klappbar\" id=\"b7136\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: Das Lawinenopfer kann nicht rechtzeitig, das heisst binnen der ersten 15 min der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. Lernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen Ernstfall unter realistischen Bedingungen. Für Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. Vermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. Inhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle), Handhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung, Freischaufeln des Verschütteten; Ausrüstungs- und Materialkunde, Grundwissen in Schnee- und Lawinenkunde.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>Wipptal bzw. Obernbergtal, Wipptaler Alpen</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Theorie- und Seminarreihe Lawinenkunde, LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel (Wintersaison 2025/2026), allgemeine Sportlichkeit, Kondition für Aufstiege bis 2 h sowie 400 Hm mit anschließender Abfahrt bzw. anschließenden Abstieg (mit Tourenski oder Schneeschuhen).</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>6</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>Vereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache (obligatorisch)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>(Übernachtung in Almhütte, ÜN/HP etwa EUR 75,00 pro Person, Bitte um Rücksprache hinsichtlich Vegetarier und/oder Veganer)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Kursgebühr (ermäßigt): </b>200.00 EUR (150.00 EUR)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>11.03.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ausrüstung: </b>Tourenski und -bindung (eingestellt), Steigfelle (Spann-Klebefelle), Harscheisen, LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Skihelm, Skitourenschuhe, Schneeschuhe, Ski-/Teleskopstöcke (Ausrüstung kann geliehen werden; \nLVS-Gerät excl. Batterien, Sonde und Schaufel kann bei der Sektion geliehen werden), weiteres bei der Vorbesprechung.\nDer Besuch eines Theoriekurses vorab ist obligatorisch.</p>\n</div>",
-          "location": "Wipptal bzw. Obernbergtal, Wipptaler Alpen",
-          "requirements": "Theorie- und Seminarreihe Lawinenkunde, LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel (Wintersaison 2025/2026), allgemeine Sportlichkeit, Kondition für Aufstiege bis 2 h sowie 400 Hm mit anschließender Abfahrt bzw. anschließenden Abstieg (mit Tourenski oder Schneeschuhen).",
-          "max_participants": "6",
-          "pre_meeting": "Vereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache (obligatorisch)",
-          "meeting_point": "(Übernachtung in Almhütte, ÜN/HP etwa EUR 75,00 pro Person, Bitte um Rücksprache hinsichtlich Vegetarier und/oder Veganer)",
-          "course_fee": "Kursgebühr (ermäßigt):200.00 EUR (150.00 EUR)",
-          "registration_deadline": "11.03.26",
-          "equipment": "Tourenski und -bindung (eingestellt), Steigfelle (Spann-Klebefelle), Harscheisen, LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Skihelm, Skitourenschuhe, Schneeschuhe, Ski-/Teleskopstöcke (Ausrüstung kann geliehen werden; \nLVS-Gerät excl. Batterien, Sonde und Schaufel kann bei der Sektion geliehen werden), weiteres bei der Vorbesprechung.\nDer Besuch eines Theoriekurses vorab ist obligatorisch."
+          "begin_date": "01.04.26",
+          "end_date": "01.04.26",
+          "title": "Seniorenwanderung",
+          "tour_type": "Führungstour-7199",
+          "id": "t7199",
+          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7199",
+          "leader": "Vera Jaroschek",
+          "leader_full": "Vera Jaroschek, Tel.: 0160-7269633",
+          "description_full": "Handschuhsheim, Blütenweg, Schriesheim (Schlusseinkehr)\nAnforderungen:\n8 Km; 180 Hm; Gehzeit ca. 3,5 Std.\nTreffpunkt:\nHeidelberg Bismarckplatz Abfahrt 09:04 Uhr Linie 5 Richtung Weinheim",
+          "description_html": "<div class=\"klappbar\" id=\"b7199\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Handschuhsheim, Blütenweg, Schriesheim (Schlusseinkehr)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>8 Km; 180 Hm; Gehzeit ca. 3,5 Std.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>Heidelberg Bismarckplatz Abfahrt 09:04 Uhr Linie 5 Richtung Weinheim</p>\n</div>",
+          "requirements": "8 Km; 180 Hm; Gehzeit ca. 3,5 Std.",
+          "meeting_point": "Heidelberg Bismarckplatz Abfahrt 09:04 Uhr Linie 5 Richtung Weinheim"
         }
       }
     ]
