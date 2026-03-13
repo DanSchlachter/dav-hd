@@ -1,81 +1,14 @@
 {
-  "timestamp": "2026-03-12T06:43:20.120215",
-  "previous_timestamp": "2026-03-11T06:41:35.202245",
+  "timestamp": "2026-03-13T06:41:17.518772",
+  "previous_timestamp": "2026-03-12T06:43:20.118182",
   "summary": {
     "added": 0,
-    "removed": 1,
-    "modified": 1
+    "removed": 0,
+    "modified": 0
   },
   "changes": {
     "added": [],
-    "removed": [
-      {
-        "begin_date": "11.03.26",
-        "end_date": "18.03.26",
-        "title": "Lawinenkunde - Risiko und Tourenplanung, Suche und Bergung von Lawinenverschütteten",
-        "tour_type": "Ausbildungskurs-7131",
-        "id": "t7131",
-        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7131",
-        "leader": "Michael Pfisterer",
-        "leader_full": "Michael Pfisterer und Adrian Leibold",
-        "registration_status": "gelb",
-        "registration_text": "nur noch wenige Restplätze oder Warteliste",
-        "description_full": "In diesen Vorträgen und Seminaren werdet ihr über aktuelle Themen rund um den Bergsport informiert. Ihr erfahrt Wissenswertes über Training, neue Technologien und Neuerungen in der Sicherheitsforschung. Wir wollen, dass ihr gut informiert unterwegs seid ... Inhalte Teil 1: Grundlagen der Lawinenkunde, Lawinenbeurteilung anhand typischer Lawinengefahrenmuster, Schneedeckenprozesse und Lawinenbildung, Interpretation Lawinenlagebericht; Inhalte Teil 2: Vertiefung der Lawinenkunde, SnowCard und Faktorencheck, Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel, LVS-Geräte-Check (Empfangs- und Sendekontrolle), Verhalten bei Lawinenunfall (jeweils in der Theorie).\nOrt:\nVereinsheim DAV Heidelberg\nAnforderungen:\nKeine Vorkenntnisse, Vorbereitung zu LVS-Training sowie zu Lawinen-, Schneeschuh- und Skitourenkursen.\nmax. Teilnehmerzahl:\n10\nVorbesprechung:\nkeine\nTreffpunkt:\nVereinsheim DAV Heidelberg, 11.03.2026, Uhr 19:00 (2 Mittwoch Abende, jeweils bis etwa Uhr 21:30)\nKursgebühr (ermäßigt):\n15.00 EUR (10.00 EUR)\nAnmeldeschluss:\n04.03.26\nAusrüstung:\nSchreibbedarf (falls notwendig).",
-        "description_html": "<div class=\"klappbar\" id=\"b7131\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">In diesen Vorträgen und Seminaren werdet ihr über aktuelle Themen rund um den Bergsport informiert. Ihr erfahrt Wissenswertes über Training, neue Technologien und Neuerungen in der Sicherheitsforschung. Wir wollen, dass ihr gut informiert unterwegs seid ... Inhalte Teil 1: Grundlagen der Lawinenkunde, Lawinenbeurteilung anhand typischer Lawinengefahrenmuster, Schneedeckenprozesse und Lawinenbildung, Interpretation Lawinenlagebericht; Inhalte Teil 2: Vertiefung der Lawinenkunde, SnowCard und Faktorencheck, Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel, LVS-Geräte-Check (Empfangs- und Sendekontrolle), Verhalten bei Lawinenunfall (jeweils in der Theorie).</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>Vereinsheim DAV Heidelberg</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Keine Vorkenntnisse, Vorbereitung zu LVS-Training sowie zu Lawinen-, Schneeschuh- und Skitourenkursen.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>10</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>keine</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>Vereinsheim DAV Heidelberg, 11.03.2026, Uhr 19:00 (2 Mittwoch Abende, jeweils bis etwa Uhr 21:30)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Kursgebühr (ermäßigt): </b>15.00 EUR (10.00 EUR)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>04.03.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ausrüstung: </b>Schreibbedarf (falls notwendig).</p>\n</div>",
-        "location": "Vereinsheim DAV Heidelberg",
-        "requirements": "Keine Vorkenntnisse, Vorbereitung zu LVS-Training sowie zu Lawinen-, Schneeschuh- und Skitourenkursen.",
-        "max_participants": "10",
-        "pre_meeting": "keine",
-        "meeting_point": "Vereinsheim DAV Heidelberg, 11.03.2026, Uhr 19:00 (2 Mittwoch Abende, jeweils bis etwa Uhr 21:30)",
-        "course_fee": "Kursgebühr (ermäßigt):15.00 EUR (10.00 EUR)",
-        "registration_deadline": "04.03.26",
-        "equipment": "Schreibbedarf (falls notwendig)."
-      }
-    ],
-    "modified": [
-      {
-        "id": "t7199",
-        "changed_fields": {
-          "description_full": {
-            "from": "",
-            "to": "Handschuhsheim, Blütenweg, Schriesheim (Schlusseinkehr)\nAnforderungen:\n8 Km; 180 Hm; Gehzeit ca. 3,5 Std.\nTreffpunkt:\nHeidelberg Bismarckplatz Abfahrt 09:04 Uhr Linie 5 Richtung Weinheim"
-          },
-          "meeting_point": {
-            "from": null,
-            "to": "Heidelberg Bismarckplatz Abfahrt 09:04 Uhr Linie 5 Richtung Weinheim"
-          },
-          "requirements": {
-            "from": null,
-            "to": "8 Km; 180 Hm; Gehzeit ca. 3,5 Std."
-          }
-        },
-        "previous": {
-          "begin_date": "01.04.26",
-          "end_date": "01.04.26",
-          "title": "Seniorenwanderung",
-          "tour_type": "Führungstour-7199",
-          "id": "t7199",
-          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7199",
-          "leader": "Vera Jaroschek",
-          "leader_full": "Vera Jaroschek, Tel.: 0160-7269633",
-          "description_full": "",
-          "description_html": "<div class=\"klappbar\" id=\"b7199\" style=\"display:none\">\n</div>"
-        },
-        "current": {
-          "begin_date": "01.04.26",
-          "end_date": "01.04.26",
-          "title": "Seniorenwanderung",
-          "tour_type": "Führungstour-7199",
-          "id": "t7199",
-          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7199",
-          "leader": "Vera Jaroschek",
-          "leader_full": "Vera Jaroschek, Tel.: 0160-7269633",
-          "description_full": "Handschuhsheim, Blütenweg, Schriesheim (Schlusseinkehr)\nAnforderungen:\n8 Km; 180 Hm; Gehzeit ca. 3,5 Std.\nTreffpunkt:\nHeidelberg Bismarckplatz Abfahrt 09:04 Uhr Linie 5 Richtung Weinheim",
-          "description_html": "<div class=\"klappbar\" id=\"b7199\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Handschuhsheim, Blütenweg, Schriesheim (Schlusseinkehr)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>8 Km; 180 Hm; Gehzeit ca. 3,5 Std.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>Heidelberg Bismarckplatz Abfahrt 09:04 Uhr Linie 5 Richtung Weinheim</p>\n</div>",
-          "requirements": "8 Km; 180 Hm; Gehzeit ca. 3,5 Std.",
-          "meeting_point": "Heidelberg Bismarckplatz Abfahrt 09:04 Uhr Linie 5 Richtung Weinheim"
-        }
-      }
-    ]
+    "removed": [],
+    "modified": []
   }
 }
