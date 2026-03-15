@@ -1,31 +1,153 @@
 {
-  "timestamp": "2026-03-14T06:36:03.779884",
-  "previous_timestamp": "2026-03-13T06:41:17.516942",
+  "timestamp": "2026-03-15T06:46:02.807638",
+  "previous_timestamp": "2026-03-14T06:36:03.778016",
   "summary": {
-    "added": 0,
-    "removed": 1,
-    "modified": 0
+    "added": 2,
+    "removed": 0,
+    "modified": 2
   },
   "changes": {
-    "added": [],
-    "removed": [
+    "added": [
       {
-        "begin_date": "13.03.26",
-        "end_date": "13.03.26",
-        "title": "Klettern für Eltern mit Babys und Kleinkindern, 9:00-12:30 Uhr",
-        "tour_type": "Gemeinschaftstour-7109",
-        "id": "t7109",
-        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7109",
-        "leader": "Judith Englert",
-        "leader_full": "Judith Englert, Tel.: 0157 83929180",
+        "begin_date": "24.04.26",
+        "end_date": "26.04.26",
+        "title": "24.-26.4.2026 Einführung ins „alpine“ Mehrseillängen-Klettern",
+        "tour_type": "Ausbildungskurs-7258",
+        "id": "t7258",
+        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7258",
+        "leader": "Kevin Rick",
+        "leader_full": "Kevin Rick",
         "registration_status": "gruen",
         "registration_text": "Es sind noch genügend freie Plätze vorhanden",
-        "description_full": "Die Kinder werden wechselseitig von den teilnehmenden Eltern betreut, so dass immer mindestens zwei Erwachsene klettern können.\nVoraussetzung für alle Teilnehmer ist Kenntnis der Sicherungstechnik und Grundkenntnisse des Hallenkletterns.\nFür Vereinsmitglieder.\nOrt:\nDAV​ Kletter- und Boulderzentrum Heidelberg, Harbigweg 20, 69124 Heidelberg\nmax. Teilnehmerzahl:\n6\nonline anmelden",
-        "description_html": "<div class=\"klappbar\" id=\"b7109\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Die Kinder werden wechselseitig von den teilnehmenden Eltern betreut, so dass immer mindestens zwei Erwachsene klettern können.</p>\n<p>Voraussetzung für alle Teilnehmer ist Kenntnis der Sicherungstechnik und Grundkenntnisse des Hallenkletterns.</p>\n<p>Für Vereinsmitglieder.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>DAV​ Kletter- und Boulderzentrum Heidelberg, Harbigweg 20, 69124 Heidelberg</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>6</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7109\">online anmelden</a></p>\n</div>",
-        "location": "DAV​ Kletter- und Boulderzentrum Heidelberg, Harbigweg 20, 69124 Heidelberg",
-        "max_participants": "6"
+        "description_full": "ZIEL DER VERANSTALTUNG: \nWir lernen die Grundlagen des Mehrseillängen-Kletterns in einem traditionell gesicherten Klettergebiet kennen – am Battert bei Baden-Baden! Hierzu gehören vor allem die wichtigsten Knoten (Halbmastwurf, Mastwurf), die Einschätzung sowie das eigenständige Anbringen von Sicherungen und Standplätzen, das Seil-Management sowie die Fixpunkt-Sicherung im Vor- und Nachstieg. Vor der Anmeldung zum Kurs ist die telefonische Absprache mit dem Trainer obligatorisch! Hierzu bitte Mail mit Telefonnummer an kevin.rick@alpenverein-heidelberg.de\nAblauf:\nFreitags werden wir uns ab ca. 16 Uhr in der Heidelberger Kletterhalle das theoretische Fundament für Samstag und Sonntag legen, wo wir uns jeweils um 08:30 Uhr zur gemeinsamen Fahrt nach Baden-Baden treffen. Wir kehren jeden Abend nach Hause zurück – der Kurs endet Samstag und Sonntag gegen ca. 18 Uhr und findet vorbehaltlich guten Wetters statt.\nOrt:\nDAV Kletter- und Boulderzentrum Heidelberg; Battertfelsen, Schwarzwald\nAnforderungen:\nVoraussetzungen:\nEigenständiges Klettern und Sichern im Klettergarten (draußen) im 5. Grad (UIAA)\nEigenständiges Abseilen und Routen abbauen (Durchfädeln)\nMaterial:\nPersönliche Sicherheitsausrüstung\nJe ein Paar Halbseile pro 2 TN (falls vorhanden)\nObligatorisch: Alpin Tuber (z.B. Reverso, ATC Guide), 3 HMS-Schraubkarabiner, Prusik-Schlinge, 2x 60-80cm Bandschlinge, 10 Express-Schlingen\nWünschenswert: Klemmgeräte, Klemmkeile, Klemmkeil-Entferner\nmax. Teilnehmerzahl:\n4\nVorbesprechung:\nper e-Mail und/oder Telefon\nTreffpunkt:\nDAV Kletter- und Boulderzentrum Heidelberg, 24.04.2026, Uhr 16:00; gemeinsame Anfahrt (Uhr 8:30) und Rückfahrt (etwa Uhr 18:00) am 25.04.2025 und 26.04.202617.05.2025\nKursgebühr (ermäßigt):\n160.00 EUR (120.00 EUR)\nAnmeldeschluss:\n17.04.26\nAusrüstung:\nBergsteigerschutzhelm, Kletterschuhe, Hüftgurt, AlpinTuber (Reverso, ATC Guide, etc.), 3x HMS-Karabiner, Prusikschlinge, 2x Bandschlinge (60 cm bis 80 cm), Klemmgeräte (Friends, Camalots, etc.), Klemmkeilentferner, 10x Expressschlinge, weiteres bei der Vorbesprechung.\nDer Halleneintritt am Freitag ist micht in der Kursgebühr enthalten.\nonline anmelden",
+        "description_html": "<div class=\"klappbar\" id=\"b7258\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">ZIEL DER VERANSTALTUNG: \nWir lernen die Grundlagen des Mehrseillängen-Kletterns in einem traditionell gesicherten Klettergebiet kennen – am Battert bei Baden-Baden! Hierzu gehören vor allem die wichtigsten Knoten (Halbmastwurf, Mastwurf), die Einschätzung sowie das eigenständige Anbringen von Sicherungen und Standplätzen, das Seil-Management sowie die Fixpunkt-Sicherung im Vor- und Nachstieg. Vor der Anmeldung zum Kurs ist die telefonische Absprache mit dem Trainer obligatorisch! Hierzu bitte Mail mit Telefonnummer an kevin.rick@alpenverein-heidelberg.de </p>\n<p>Ablauf:\nFreitags werden wir uns ab ca. 16 Uhr in der Heidelberger Kletterhalle das theoretische Fundament für Samstag und Sonntag legen, wo wir uns jeweils um 08:30 Uhr zur gemeinsamen Fahrt nach Baden-Baden treffen. Wir kehren jeden Abend nach Hause zurück – der Kurs endet Samstag und Sonntag gegen ca. 18 Uhr und findet vorbehaltlich guten Wetters statt.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>DAV Kletter- und Boulderzentrum Heidelberg; Battertfelsen, Schwarzwald</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Voraussetzungen:\nEigenständiges Klettern und Sichern im Klettergarten (draußen) im 5. Grad (UIAA)\nEigenständiges Abseilen und Routen abbauen (Durchfädeln)\nMaterial:\nPersönliche Sicherheitsausrüstung\nJe ein Paar Halbseile pro 2 TN (falls vorhanden)\nObligatorisch: Alpin Tuber (z.B. Reverso, ATC Guide), 3 HMS-Schraubkarabiner, Prusik-Schlinge, 2x 60-80cm Bandschlinge, 10 Express-Schlingen\nWünschenswert: Klemmgeräte, Klemmkeile, Klemmkeil-Entferner</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>4</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>per e-Mail und/oder Telefon</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>DAV Kletter- und Boulderzentrum Heidelberg, 24.04.2026, Uhr 16:00; gemeinsame Anfahrt (Uhr 8:30) und Rückfahrt (etwa Uhr 18:00) am 25.04.2025 und 26.04.202617.05.2025</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Kursgebühr (ermäßigt): </b>160.00 EUR (120.00 EUR)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>17.04.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ausrüstung: </b>Bergsteigerschutzhelm, Kletterschuhe, Hüftgurt, AlpinTuber (Reverso, ATC Guide, etc.), 3x HMS-Karabiner, Prusikschlinge, 2x Bandschlinge (60 cm bis 80 cm), Klemmgeräte (Friends, Camalots, etc.), Klemmkeilentferner, 10x Expressschlinge, weiteres bei der Vorbesprechung.</p>\n<p>Der Halleneintritt am Freitag ist micht in der Kursgebühr enthalten.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7258\">online anmelden</a></p>\n</div>",
+        "location": "DAV Kletter- und Boulderzentrum Heidelberg; Battertfelsen, Schwarzwald",
+        "requirements": "Voraussetzungen:\nEigenständiges Klettern und Sichern im Klettergarten (draußen) im 5. Grad (UIAA)\nEigenständiges Abseilen und Routen abbauen (Durchfädeln)\nMaterial:\nPersönliche Sicherheitsausrüstung\nJe ein Paar Halbseile pro 2 TN (falls vorhanden)\nObligatorisch: Alpin Tuber (z.B. Reverso, ATC Guide), 3 HMS-Schraubkarabiner, Prusik-Schlinge, 2x 60-80cm Bandschlinge, 10 Express-Schlingen\nWünschenswert: Klemmgeräte, Klemmkeile, Klemmkeil-Entferner",
+        "max_participants": "4",
+        "pre_meeting": "per e-Mail und/oder Telefon",
+        "meeting_point": "DAV Kletter- und Boulderzentrum Heidelberg, 24.04.2026, Uhr 16:00; gemeinsame Anfahrt (Uhr 8:30) und Rückfahrt (etwa Uhr 18:00) am 25.04.2025 und 26.04.202617.05.2025",
+        "course_fee": "Kursgebühr (ermäßigt):160.00 EUR (120.00 EUR)",
+        "registration_deadline": "17.04.26",
+        "equipment": "Bergsteigerschutzhelm, Kletterschuhe, Hüftgurt, AlpinTuber (Reverso, ATC Guide, etc.), 3x HMS-Karabiner, Prusikschlinge, 2x Bandschlinge (60 cm bis 80 cm), Klemmgeräte (Friends, Camalots, etc.), Klemmkeilentferner, 10x Expressschlinge, weiteres bei der Vorbesprechung."
+      },
+      {
+        "begin_date": "23.07.26",
+        "end_date": "27.07.26",
+        "title": "ECO /Naturkundliche Ausbildungstour in den Walliser und Waadtländer Alpen, rund um den Grand Muveran (Schweiz)",
+        "tour_type": "Ausbildungskurs-7259",
+        "id": "t7259",
+        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7259",
+        "leader": "Benedikt Kerle",
+        "leader_full": "Benedikt Kerle  , Tel.: 06272 - 920290 und Christian Scholz, Tel.: 06221 - 656607",
+        "registration_status": "gruen",
+        "registration_text": "Es sind noch genügend freie Plätze vorhanden",
+        "description_full": "5 tägige Wanderung von Hütte zu Hütte. Beschäftigung mit Geologie, Flora und Fauna sowie ökologischen Aspekten des Gebietes.\nGemeinsame Anreise mit öffentlichen Verkehrsmitteln (Gruppenfahrschein). Unterkunft in SAC-Berghütten (Lager mit Halbpension).\nAnforderungen:\nT3; Kondition für 6,5 h Gehzeit und 350 Hm Aufstieg in der Stunde; Auf- / Abstiege bis ca. 1.100 Hm und bis zu ca. 15 km Wegstrecke mit und ohne Gepäck im alpinen Gelände bis ca. 2.500 m Höhe. Schwindelfreiheit, Trittsicherheit. Interesse an der Natur und aktive Mitarbeit.\nmax. Teilnehmerzahl:\n12\nVorbesprechung:\nVereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache\nTreffpunkt:\nHbf Heidelberg, Uhrzeit nach Absprache (Öffentliche Verkehrsmittel, Gruppenfahrschein)\nKursgebühr (ermäßigt):\n90.00 EUR (70.00 EUR)\nAnmeldung ab:\n01.04.26\nAnmeldeschluss:\n15.05.26\nAusrüstung:\nAusrüstung zum Bergwandern, weiteres bei der Vorbesprechung bzw. nach Anmeldung schriftlich per E-Mail. Leitung: Christian Scholz, christian.scholz@geow.uni-heidelberg.de, Tel.: 06221-656607 und Benedikt Kerle, bkerle@web.de, Tel.: 06272-920290.\nDie Anmeldung ist erst ab dem 01.04.26 möglich.",
+        "description_html": "<div class=\"klappbar\" id=\"b7259\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">5 tägige Wanderung von Hütte zu Hütte. Beschäftigung mit Geologie, Flora und Fauna sowie ökologischen Aspekten des Gebietes.</p>\n<p>Gemeinsame Anreise mit öffentlichen Verkehrsmitteln (Gruppenfahrschein). Unterkunft in SAC-Berghütten (Lager mit Halbpension).</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>T3; Kondition für 6,5 h Gehzeit und 350 Hm Aufstieg in der Stunde; Auf- / Abstiege bis ca. 1.100 Hm und bis zu ca. 15 km Wegstrecke mit und ohne Gepäck im alpinen Gelände bis ca. 2.500 m Höhe. Schwindelfreiheit, Trittsicherheit. Interesse an der Natur und aktive Mitarbeit.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>12</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>Vereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>Hbf Heidelberg, Uhrzeit nach Absprache (Öffentliche Verkehrsmittel, Gruppenfahrschein)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Kursgebühr (ermäßigt): </b>90.00 EUR (70.00 EUR)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldung ab: </b>01.04.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>15.05.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ausrüstung: </b>Ausrüstung zum Bergwandern, weiteres bei der Vorbesprechung bzw. nach Anmeldung schriftlich per E-Mail. Leitung: Christian Scholz, christian.scholz@geow.uni-heidelberg.de, Tel.: 06221-656607 und Benedikt Kerle, bkerle@web.de, Tel.: 06272-920290.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Die Anmeldung ist erst ab dem 01.04.26 möglich.</b></p>\n</div>",
+        "requirements": "T3; Kondition für 6,5 h Gehzeit und 350 Hm Aufstieg in der Stunde; Auf- / Abstiege bis ca. 1.100 Hm und bis zu ca. 15 km Wegstrecke mit und ohne Gepäck im alpinen Gelände bis ca. 2.500 m Höhe. Schwindelfreiheit, Trittsicherheit. Interesse an der Natur und aktive Mitarbeit.",
+        "max_participants": "12",
+        "pre_meeting": "Vereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache",
+        "meeting_point": "Hbf Heidelberg, Uhrzeit nach Absprache (Öffentliche Verkehrsmittel, Gruppenfahrschein)",
+        "course_fee": "Kursgebühr (ermäßigt):90.00 EUR (70.00 EUR)",
+        "registration_deadline": "15.05.26",
+        "equipment": "Ausrüstung zum Bergwandern, weiteres bei der Vorbesprechung bzw. nach Anmeldung schriftlich per E-Mail. Leitung: Christian Scholz, christian.scholz@geow.uni-heidelberg.de, Tel.: 06221-656607 und Benedikt Kerle, bkerle@web.de, Tel.: 06272-920290."
       }
     ],
-    "modified": []
+    "removed": [],
+    "modified": [
+      {
+        "id": "t7192",
+        "changed_fields": {
+          "description_full": {
+            "from": "Traditionelles Anklettern am Battert oberhalb von Baden-Baden. Die Veranstaltung findet bei jeder Witterung statt. Übernachtet, gekocht und gequatscht wird auf der Wiedenbachhütte.\nAnforderungen:\nVorstieg V, eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten\nmax. Teilnehmerzahl:\n25\nAnmeldung ab:\n01.01.26\nAnmeldeschluss:\n15.03.26\nonline anmelden",
+            "to": "Traditionelles Anklettern am Battert oberhalb von Baden-Baden. Die Veranstaltung findet bei jeder Witterung statt. Übernachtet, gekocht und gequatscht wird auf der Wiedenbachhütte.\nAnforderungen:\nVorstieg V, eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten\nmax. Teilnehmerzahl:\n25\nAnmeldung ab:\n01.01.26\nAnmeldeschluss:\n15.03.26"
+          }
+        },
+        "previous": {
+          "begin_date": "27.03.26",
+          "end_date": "29.03.26",
+          "title": "Anklettern am Battert",
+          "tour_type": "Gemeinschaftstour-7192",
+          "id": "t7192",
+          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7192",
+          "leader": "Annett Brenner",
+          "leader_full": "Annett Brenner, Tel.: 06223-46962",
+          "registration_status": "gruen",
+          "registration_text": "Es sind noch genügend freie Plätze vorhanden",
+          "description_full": "Traditionelles Anklettern am Battert oberhalb von Baden-Baden. Die Veranstaltung findet bei jeder Witterung statt. Übernachtet, gekocht und gequatscht wird auf der Wiedenbachhütte.\nAnforderungen:\nVorstieg V, eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten\nmax. Teilnehmerzahl:\n25\nAnmeldung ab:\n01.01.26\nAnmeldeschluss:\n15.03.26\nonline anmelden",
+          "description_html": "<div class=\"klappbar\" id=\"b7192\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Traditionelles Anklettern am Battert oberhalb von Baden-Baden. Die Veranstaltung findet bei jeder Witterung statt. Übernachtet, gekocht und gequatscht wird auf der Wiedenbachhütte.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Vorstieg V, eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>25</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldung ab: </b>01.01.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>15.03.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7192\">online anmelden</a></p>\n</div>",
+          "requirements": "Vorstieg V, eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
+          "max_participants": "25",
+          "registration_deadline": "15.03.26"
+        },
+        "current": {
+          "begin_date": "27.03.26",
+          "end_date": "29.03.26",
+          "title": "Anklettern am Battert",
+          "tour_type": "Gemeinschaftstour-7192",
+          "id": "t7192",
+          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7192",
+          "leader": "Annett Brenner",
+          "leader_full": "Annett Brenner, Tel.: 06223-46962",
+          "registration_status": "gruen",
+          "registration_text": "Es sind noch genügend freie Plätze vorhanden",
+          "description_full": "Traditionelles Anklettern am Battert oberhalb von Baden-Baden. Die Veranstaltung findet bei jeder Witterung statt. Übernachtet, gekocht und gequatscht wird auf der Wiedenbachhütte.\nAnforderungen:\nVorstieg V, eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten\nmax. Teilnehmerzahl:\n25\nAnmeldung ab:\n01.01.26\nAnmeldeschluss:\n15.03.26",
+          "description_html": "<div class=\"klappbar\" id=\"b7192\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Traditionelles Anklettern am Battert oberhalb von Baden-Baden. Die Veranstaltung findet bei jeder Witterung statt. Übernachtet, gekocht und gequatscht wird auf der Wiedenbachhütte.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Vorstieg V, eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>25</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldung ab: </b>01.01.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>15.03.26</p>\n</div>",
+          "requirements": "Vorstieg V, eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
+          "max_participants": "25",
+          "registration_deadline": "15.03.26"
+        }
+      },
+      {
+        "id": "t7256",
+        "changed_fields": {
+          "registration_status": {
+            "from": "gruen",
+            "to": "gelb"
+          },
+          "registration_text": {
+            "from": "Es sind noch genügend freie Plätze vorhanden",
+            "to": "nur noch wenige Restplätze oder Warteliste"
+          }
+        },
+        "previous": {
+          "begin_date": "19.06.26",
+          "end_date": "21.06.26",
+          "title": "Klettersteigwochenende Allgäu",
+          "tour_type": "Führungstour-7256",
+          "id": "t7256",
+          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7256",
+          "leader": "Denis Pöhler",
+          "leader_full": "Denis Pöhler, Tel.: 0176 - 20504718",
+          "registration_status": "gruen",
+          "registration_text": "Es sind noch genügend freie Plätze vorhanden",
+          "description_full": "Zielgruppe: DAV Familienwandergruppe Heidelberg; Eltern mit Kinder ab ca. 8J.\nOrt:\nBad Hindelang\nAnforderungen:\nÜbungskurs Grundlagen Klettersteig. Für Eltern mit Kindern ab 8 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 Std. Verantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\nmax. Teilnehmerzahl:\n20\nTreffpunkt:\nDAV-Kletter- und Boulderzentrum, Harbigweg 20, 69124 Heidelberg\nAnmeldeschluss:\n13.06.26\nonline anmelden",
+          "description_html": "<div class=\"klappbar\" id=\"b7256\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Zielgruppe: DAV Familienwandergruppe Heidelberg; Eltern mit Kinder ab ca. 8J.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>Bad Hindelang</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Übungskurs Grundlagen Klettersteig. Für Eltern mit Kindern ab 8 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 Std. Verantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>20</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>DAV-Kletter- und Boulderzentrum, Harbigweg 20, 69124 Heidelberg</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>13.06.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7256\">online anmelden</a></p>\n</div>",
+          "location": "Bad Hindelang",
+          "requirements": "Übungskurs Grundlagen Klettersteig. Für Eltern mit Kindern ab 8 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 Std. Verantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.",
+          "max_participants": "20",
+          "meeting_point": "DAV-Kletter- und Boulderzentrum, Harbigweg 20, 69124 Heidelberg",
+          "registration_deadline": "13.06.26"
+        },
+        "current": {
+          "begin_date": "19.06.26",
+          "end_date": "21.06.26",
+          "title": "Klettersteigwochenende Allgäu",
+          "tour_type": "Führungstour-7256",
+          "id": "t7256",
+          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7256",
+          "leader": "Denis Pöhler",
+          "leader_full": "Denis Pöhler, Tel.: 0176 - 20504718",
+          "registration_status": "gelb",
+          "registration_text": "nur noch wenige Restplätze oder Warteliste",
+          "description_full": "Zielgruppe: DAV Familienwandergruppe Heidelberg; Eltern mit Kinder ab ca. 8J.\nOrt:\nBad Hindelang\nAnforderungen:\nÜbungskurs Grundlagen Klettersteig. Für Eltern mit Kindern ab 8 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 Std. Verantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\nmax. Teilnehmerzahl:\n20\nTreffpunkt:\nDAV-Kletter- und Boulderzentrum, Harbigweg 20, 69124 Heidelberg\nAnmeldeschluss:\n13.06.26\nonline anmelden",
+          "description_html": "<div class=\"klappbar\" id=\"b7256\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Zielgruppe: DAV Familienwandergruppe Heidelberg; Eltern mit Kinder ab ca. 8J.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>Bad Hindelang</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Übungskurs Grundlagen Klettersteig. Für Eltern mit Kindern ab 8 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 Std. Verantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>20</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>DAV-Kletter- und Boulderzentrum, Harbigweg 20, 69124 Heidelberg</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>13.06.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7256\">online anmelden</a></p>\n</div>",
+          "location": "Bad Hindelang",
+          "requirements": "Übungskurs Grundlagen Klettersteig. Für Eltern mit Kindern ab 8 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 Std. Verantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.",
+          "max_participants": "20",
+          "meeting_point": "DAV-Kletter- und Boulderzentrum, Harbigweg 20, 69124 Heidelberg",
+          "registration_deadline": "13.06.26"
+        }
+      }
+    ]
   }
 }
