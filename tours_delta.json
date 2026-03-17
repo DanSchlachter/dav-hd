@@ -1,137 +1,68 @@
 {
-  "timestamp": "2026-03-16T07:07:04.149649",
-  "previous_timestamp": "2026-03-15T06:46:02.805381",
+  "timestamp": "2026-03-17T06:54:49.881909",
+  "previous_timestamp": "2026-03-16T07:07:04.147286",
   "summary": {
-    "added": 2,
-    "removed": 2,
+    "added": 0,
+    "removed": 0,
     "modified": 1
   },
   "changes": {
-    "added": [
-      {
-        "begin_date": "03.05.26",
-        "end_date": "03.05.26",
-        "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
-        "tour_type": "Führungstour-7261",
-        "id": "t7261",
-        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7261",
-        "leader": "Sina Seidel",
-        "leader_full": "Sina Seidel",
-        "registration_status": "gruen",
-        "registration_text": "Es sind noch genügend freie Plätze vorhanden",
-        "description_full": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein.\nWas euch erwartet:\n•\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen\n•\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt\n•\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position)\n•\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen\nDie Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen.\nWir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen:\n•\tMountainbike\n•\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm)\n•\tBrille und Handschuhe\n•\tKnie- und Ellenbogenprotektoren (falls vorhanden)\nmax. Teilnehmerzahl:\n15\nVorbesprechung:\nper mail oder Telefon\nTreffpunkt:\nwird noch rechtzeitig bekannt gegeben\nAnmeldung ab:\n16.03.26\nHinweis für Familien mit kleineren Kindern:\nKinder können auch auf einem Shotgun-Sitz oder im Anhänger mitfahren. Für Kinder, die selbst fahren, wird ein Abschleppseil benötigt (kann bei uns ausgeliehen werden).\nonline anmelden",
-        "description_html": "<div class=\"klappbar\" id=\"b7261\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein.\nWas euch erwartet:\n•\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen\n•\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt\n•\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position)\n•\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen\nDie Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen.\nWir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>•\tMountainbike\n•\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm)\n•\tBrille und Handschuhe\n•\tKnie- und Ellenbogenprotektoren (falls vorhanden)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>15</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>per mail oder Telefon</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>wird noch rechtzeitig bekannt gegeben</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldung ab: </b>16.03.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Hinweis für Familien mit kleineren Kindern:\nKinder können auch auf einem Shotgun-Sitz oder im Anhänger mitfahren. Für Kinder, die selbst fahren, wird ein Abschleppseil benötigt (kann bei uns ausgeliehen werden). </p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7261\">online anmelden</a></p>\n</div>",
-        "requirements": "•\tMountainbike\n•\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm)\n•\tBrille und Handschuhe\n•\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
-        "max_participants": "15",
-        "pre_meeting": "per mail oder Telefon",
-        "meeting_point": "wird noch rechtzeitig bekannt gegeben"
-      },
-      {
-        "begin_date": "09.05.26",
-        "end_date": "09.05.26",
-        "title": "Trail-Taste für Frauen - Erste MTB-Trails zum Reinschnuppern",
-        "tour_type": "Führungstour-7260",
-        "id": "t7260",
-        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7260",
-        "leader": "Sina Seidel",
-        "leader_full": "Sina Seidel",
-        "registration_status": "gruen",
-        "registration_text": "Es sind noch genügend freie Plätze vorhanden",
-        "description_full": "Du wolltest schon immer mal Mountainbike ausprobieren, weißt aber nicht so recht, wo du anfangen sollst? Bei unserer Trail-Taste-Tour für Frauen kannst du ganz entspannt mit viel Spaß in den Sport reinschnuppern.\nWas dich erwartet:\n•\tEine lockere Einsteigertour auf leichten Trails\n•\tTechnik-Tipps in verständlicher Sprache: Grundposition, Bremsen, Kurven\n•\tZeit zum Ausprobieren, Fragen stellen und Pause machen\n•\tEine wertschätzende, motivierende Atmosphäre nur unter Frauen\nDie Tour richtet sich an alle, die neugierig sind und Freude an Bewegung draußen haben – Vorerfahrung mit dem Mountainbike ist nicht nötig, du solltest dich nur sicher auf einem Fahrrad fühlen. Folgende Ausrüstung ist nötig: ein gefedertes Mountainbike, Helm, Brille, Handschuhe. Knie-& Ellenbogenprotektoren, falls vorhanden.\nZiel der Tour ist, dass du ein gutes Gefühl für das Bike bekommst, erste kleine Erfolgserlebnisse auf dem Trail sammelst und herausfindest, ob Mountainbiken dein neuer Lieblingssport werden könnte.\nOrt:\nLoipenparkplatz in Wilhelmsfeld 10:00 Uhr\nmax. Teilnehmerzahl:\n6\nVorbesprechung:\nper mail\nAnmeldung ab:\n16.03.26\nonline anmelden",
-        "description_html": "<div class=\"klappbar\" id=\"b7260\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Du wolltest schon immer mal Mountainbike ausprobieren, weißt aber nicht so recht, wo du anfangen sollst? Bei unserer Trail-Taste-Tour für Frauen kannst du ganz entspannt mit viel Spaß in den Sport reinschnuppern.\nWas dich erwartet:\n•\tEine lockere Einsteigertour auf leichten Trails\n•\tTechnik-Tipps in verständlicher Sprache: Grundposition, Bremsen, Kurven\n•\tZeit zum Ausprobieren, Fragen stellen und Pause machen\n•\tEine wertschätzende, motivierende Atmosphäre nur unter Frauen\nDie Tour richtet sich an alle, die neugierig sind und Freude an Bewegung draußen haben – Vorerfahrung mit dem Mountainbike ist nicht nötig, du solltest dich nur sicher auf einem Fahrrad fühlen. Folgende Ausrüstung ist nötig: ein gefedertes Mountainbike, Helm, Brille, Handschuhe. Knie-&amp; Ellenbogenprotektoren, falls vorhanden.\nZiel der Tour ist, dass du ein gutes Gefühl für das Bike bekommst, erste kleine Erfolgserlebnisse auf dem Trail sammelst und herausfindest, ob Mountainbiken dein neuer Lieblingssport werden könnte.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>Loipenparkplatz in Wilhelmsfeld 10:00 Uhr</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>6</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>per mail</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldung ab: </b>16.03.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7260\">online anmelden</a></p>\n</div>",
-        "location": "Loipenparkplatz in Wilhelmsfeld 10:00 Uhr",
-        "max_participants": "6",
-        "pre_meeting": "per mail"
-      }
-    ],
-    "removed": [
-      {
-        "begin_date": "15.03.26",
-        "end_date": "20.03.26",
-        "title": "Skitour/Skihochtouren rund um die Zufallhütte",
-        "tour_type": "Führungstour-7160",
-        "id": "t7160",
-        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7160",
-        "leader": "Jürgen Stroh",
-        "leader_full": "Jürgen Stroh, Tel.: 0151 - 53139100",
-        "registration_status": "gelb",
-        "registration_text": "nur noch wenige Restplätze oder Warteliste",
-        "description_full": "Anreise: gemeinsame Anreise mit dem DAV Bus\nfür die Reservierung wird voraussichtlich ein Betrag von 10€ pro Tag fällig, der beim Aufenthalt auf der Hütte verrechnet wird.\nOrt:\nZufallhütte\nAnforderungen:\nA2/S2/K2\nmax. Teilnehmerzahl:\n6\nAusrüstung:\nLVS-Gerät (3-Antennen), Sonde + Schaufel, Skihochtourenausrüstung (Gurt, Steigeisen, Pickel, 1 Eisschraube) erforderlich\nonline anmelden",
-        "description_html": "<div class=\"klappbar\" id=\"b7160\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Anreise: gemeinsame Anreise mit dem DAV Bus</p>\n<p>für die Reservierung wird voraussichtlich ein Betrag von 10€ pro Tag fällig, der beim Aufenthalt auf der Hütte verrechnet wird.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>Zufallhütte</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>A2/S2/K2</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>6</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ausrüstung: </b> LVS-Gerät (3-Antennen), Sonde + Schaufel, Skihochtourenausrüstung (Gurt, Steigeisen, Pickel, 1 Eisschraube) erforderlich</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7160\">online anmelden</a></p>\n</div>",
-        "location": "Zufallhütte",
-        "requirements": "A2/S2/K2",
-        "max_participants": "6",
-        "equipment": "LVS-Gerät (3-Antennen), Sonde + Schaufel, Skihochtourenausrüstung (Gurt, Steigeisen, Pickel, 1 Eisschraube) erforderlich"
-      },
-      {
-        "begin_date": "15.03.26",
-        "end_date": "15.03.26",
-        "title": "Tagestour",
-        "tour_type": "Führungstour-7250",
-        "id": "t7250",
-        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7250",
-        "leader": "Denis Pöhler",
-        "leader_full": "Denis Pöhler, Tel.: 0176 - 20504718",
-        "registration_status": "gruen",
-        "registration_text": "Es sind noch genügend freie Plätze vorhanden",
-        "description_full": "Ort:\nDer genaue Veranstaltungsort wird noch bekannt gegeben.\nAnforderungen:\nKinder ab 7 Jahren; Tourenlängen 6-14 km;  Tourenzeiten 4-6 St.\nVerantwortung liegt bei den teilnehmenden Familien.\nmax. Teilnehmerzahl:\n20\nTreffpunkt:\nDAV-Kletter- und Boulderzentrum, Harbigweg 20, 69124 Heidelberg\nonline anmelden",
-        "description_html": "<div class=\"klappbar\" id=\"b7250\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>Der genaue Veranstaltungsort wird noch bekannt gegeben.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Kinder ab 7 Jahren; Tourenlängen 6-14 km;  Tourenzeiten 4-6 St.</p>\n<p>Verantwortung liegt bei den teilnehmenden Familien.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>20</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>DAV-Kletter- und Boulderzentrum, Harbigweg 20, 69124 Heidelberg</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7250\">online anmelden</a></p>\n</div>",
-        "location": "Der genaue Veranstaltungsort wird noch bekannt gegeben.",
-        "requirements": "Kinder ab 7 Jahren; Tourenlängen 6-14 km;  Tourenzeiten 4-6 St.",
-        "max_participants": "20",
-        "meeting_point": "DAV-Kletter- und Boulderzentrum, Harbigweg 20, 69124 Heidelberg"
-      }
-    ],
+    "added": [],
+    "removed": [],
     "modified": [
       {
-        "id": "t7248",
+        "id": "t7237",
         "changed_fields": {
           "registration_status": {
             "from": "gruen",
-            "to": "gelb"
+            "to": "orange"
           },
           "registration_text": {
             "from": "Es sind noch genügend freie Plätze vorhanden",
-            "to": "nur noch wenige Restplätze oder Warteliste"
+            "to": "Warteliste"
           }
         },
         "previous": {
-          "begin_date": "10.05.26",
-          "end_date": "10.05.26",
-          "title": "ECO: 10.05.2026 Sportwanderung im Schwarzwald (für Frühaussteiger geeignet)",
-          "tour_type": "Führungstour-7248",
-          "id": "t7248",
-          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7248",
-          "leader": "Heike Lorenzen-Schmidt",
-          "leader_full": "Heike Lorenzen-Schmidt",
+          "begin_date": "15.08.26",
+          "end_date": "19.08.26",
+          "title": "Wegearbeiten im Raum Heidelberger Hütte August 2026",
+          "tour_type": "Gemeinschaftstour-7237",
+          "id": "t7237",
+          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7237",
+          "leader": "Marc Derungs",
+          "leader_full": "Marc Derungs, Tel.: 06221-6507733 und Oliver Fischer",
           "registration_status": "gruen",
           "registration_text": "Es sind noch genügend freie Plätze vorhanden",
-          "description_full": "Diese Tour eignet sich als Einstiegstour. Sie kann nach ca. 20-25 km abgebrochen werden\n(der Weg zur Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr geplant.\nAAnmeldeschluss: So, 03.05.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist. (ACHTUNG: das Portal erlaubt eine Anmeldung nur bis Samstag, 02.05.26)\nAnforderungen:\nAnforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km/h\nmax. Teilnehmerzahl:\n9\nVorbesprechung:\nper Telefon/Mail\nTreffpunkt:\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\nAnmeldeschluss:\n03.05.26\nonline anmelden",
-          "description_html": "<div class=\"klappbar\" id=\"b7248\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Diese Tour eignet sich als Einstiegstour. Sie kann nach ca. 20-25 km abgebrochen werden\n(der Weg zur Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr geplant. </p>\n<p>AAnmeldeschluss: So, 03.05.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist. (ACHTUNG: das Portal erlaubt eine Anmeldung nur bis Samstag, 02.05.26)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Anforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km/h</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>9</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>per Telefon/Mail</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>Treffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>03.05.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7248\">online anmelden</a></p>\n</div>",
-          "requirements": "Anforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km/h",
-          "max_participants": "9",
-          "pre_meeting": "per Telefon/Mail",
-          "meeting_point": "Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.",
-          "registration_deadline": "03.05.26"
+          "description_full": "Auch für diesen Sommer haben wir uns das Ziel gesetzt, Sanierungsarbeiten einiger Wegeabschnitte in unserem Sektionsgebiet anzupacken. Dabei geht es insbesondere um Markierungs- und Ausbesserungsarbeiten, das Anlegen von Bachquerungen und das Setzen von Stufen.\nOrt:\nSilvretta (Graubünden & Tirol)\nAnforderungen:\n(a) Lust und Freude an der Arbeit im Freien mit frischer Alpenluft bei Wind und Wetter \n(b) Trittsicherheit und ausreichend Kondition (vergleichbar mit 6 – 8 h Gehzeiten und 1.000 m Aufstieg) \n(c) Improvisationstalent und handwerkliches Geschick\nmax. Teilnehmerzahl:\n8\nVorbesprechung:\nper Telefon/virtuell Ende Juli/Anfang August\nTreffpunkt:\nGeschäftsstelle der DAV Sektion Heidelberg\nAnmeldung ab:\n28.02.26\nAnmeldeschluss:\n30.06.26\nAusrüstung:\nEine Ausrüstungsliste wird den Teilnehmern in der Vorbesprechung zur Verfügung gestellt\nonline anmelden",
+          "description_html": "<div class=\"klappbar\" id=\"b7237\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Auch für diesen Sommer haben wir uns das Ziel gesetzt, Sanierungsarbeiten einiger Wegeabschnitte in unserem Sektionsgebiet anzupacken. Dabei geht es insbesondere um Markierungs- und Ausbesserungsarbeiten, das Anlegen von Bachquerungen und das Setzen von Stufen. </p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>Silvretta (Graubünden &amp; Tirol)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>(a) Lust und Freude an der Arbeit im Freien mit frischer Alpenluft bei Wind und Wetter \n(b) Trittsicherheit und ausreichend Kondition (vergleichbar mit 6 – 8 h Gehzeiten und 1.000 m Aufstieg) \n(c) Improvisationstalent und handwerkliches Geschick </p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>8</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>per Telefon/virtuell Ende Juli/Anfang August</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>Geschäftsstelle der DAV Sektion Heidelberg</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldung ab: </b>28.02.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>30.06.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ausrüstung: </b>Eine Ausrüstungsliste wird den Teilnehmern in der Vorbesprechung zur Verfügung gestellt</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7237\">online anmelden</a></p>\n</div>",
+          "location": "Silvretta (Graubünden & Tirol)",
+          "requirements": "(a) Lust und Freude an der Arbeit im Freien mit frischer Alpenluft bei Wind und Wetter \n(b) Trittsicherheit und ausreichend Kondition (vergleichbar mit 6 – 8 h Gehzeiten und 1.000 m Aufstieg) \n(c) Improvisationstalent und handwerkliches Geschick",
+          "max_participants": "8",
+          "pre_meeting": "per Telefon/virtuell Ende Juli/Anfang August",
+          "meeting_point": "Geschäftsstelle der DAV Sektion Heidelberg",
+          "registration_deadline": "30.06.26",
+          "equipment": "Eine Ausrüstungsliste wird den Teilnehmern in der Vorbesprechung zur Verfügung gestellt"
         },
         "current": {
-          "begin_date": "10.05.26",
-          "end_date": "10.05.26",
-          "title": "ECO: 10.05.2026 Sportwanderung im Schwarzwald (für Frühaussteiger geeignet)",
-          "tour_type": "Führungstour-7248",
-          "id": "t7248",
-          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7248",
-          "leader": "Heike Lorenzen-Schmidt",
-          "leader_full": "Heike Lorenzen-Schmidt",
-          "registration_status": "gelb",
-          "registration_text": "nur noch wenige Restplätze oder Warteliste",
-          "description_full": "Diese Tour eignet sich als Einstiegstour. Sie kann nach ca. 20-25 km abgebrochen werden\n(der Weg zur Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr geplant.\nAAnmeldeschluss: So, 03.05.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist. (ACHTUNG: das Portal erlaubt eine Anmeldung nur bis Samstag, 02.05.26)\nAnforderungen:\nAnforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km/h\nmax. Teilnehmerzahl:\n9\nVorbesprechung:\nper Telefon/Mail\nTreffpunkt:\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\nAnmeldeschluss:\n03.05.26\nonline anmelden",
-          "description_html": "<div class=\"klappbar\" id=\"b7248\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Diese Tour eignet sich als Einstiegstour. Sie kann nach ca. 20-25 km abgebrochen werden\n(der Weg zur Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr geplant. </p>\n<p>AAnmeldeschluss: So, 03.05.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist. (ACHTUNG: das Portal erlaubt eine Anmeldung nur bis Samstag, 02.05.26)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Anforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km/h</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>9</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>per Telefon/Mail</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>Treffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>03.05.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7248\">online anmelden</a></p>\n</div>",
-          "requirements": "Anforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km/h",
-          "max_participants": "9",
-          "pre_meeting": "per Telefon/Mail",
-          "meeting_point": "Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.",
-          "registration_deadline": "03.05.26"
+          "begin_date": "15.08.26",
+          "end_date": "19.08.26",
+          "title": "Wegearbeiten im Raum Heidelberger Hütte August 2026",
+          "tour_type": "Gemeinschaftstour-7237",
+          "id": "t7237",
+          "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7237",
+          "leader": "Marc Derungs",
+          "leader_full": "Marc Derungs, Tel.: 06221-6507733 und Oliver Fischer",
+          "registration_status": "orange",
+          "registration_text": "Warteliste",
+          "description_full": "Auch für diesen Sommer haben wir uns das Ziel gesetzt, Sanierungsarbeiten einiger Wegeabschnitte in unserem Sektionsgebiet anzupacken. Dabei geht es insbesondere um Markierungs- und Ausbesserungsarbeiten, das Anlegen von Bachquerungen und das Setzen von Stufen.\nOrt:\nSilvretta (Graubünden & Tirol)\nAnforderungen:\n(a) Lust und Freude an der Arbeit im Freien mit frischer Alpenluft bei Wind und Wetter \n(b) Trittsicherheit und ausreichend Kondition (vergleichbar mit 6 – 8 h Gehzeiten und 1.000 m Aufstieg) \n(c) Improvisationstalent und handwerkliches Geschick\nmax. Teilnehmerzahl:\n8\nVorbesprechung:\nper Telefon/virtuell Ende Juli/Anfang August\nTreffpunkt:\nGeschäftsstelle der DAV Sektion Heidelberg\nAnmeldung ab:\n28.02.26\nAnmeldeschluss:\n30.06.26\nAusrüstung:\nEine Ausrüstungsliste wird den Teilnehmern in der Vorbesprechung zur Verfügung gestellt\nonline anmelden",
+          "description_html": "<div class=\"klappbar\" id=\"b7237\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Auch für diesen Sommer haben wir uns das Ziel gesetzt, Sanierungsarbeiten einiger Wegeabschnitte in unserem Sektionsgebiet anzupacken. Dabei geht es insbesondere um Markierungs- und Ausbesserungsarbeiten, das Anlegen von Bachquerungen und das Setzen von Stufen. </p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>Silvretta (Graubünden &amp; Tirol)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>(a) Lust und Freude an der Arbeit im Freien mit frischer Alpenluft bei Wind und Wetter \n(b) Trittsicherheit und ausreichend Kondition (vergleichbar mit 6 – 8 h Gehzeiten und 1.000 m Aufstieg) \n(c) Improvisationstalent und handwerkliches Geschick </p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>8</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>per Telefon/virtuell Ende Juli/Anfang August</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>Geschäftsstelle der DAV Sektion Heidelberg</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldung ab: </b>28.02.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>30.06.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ausrüstung: </b>Eine Ausrüstungsliste wird den Teilnehmern in der Vorbesprechung zur Verfügung gestellt</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7237\">online anmelden</a></p>\n</div>",
+          "location": "Silvretta (Graubünden & Tirol)",
+          "requirements": "(a) Lust und Freude an der Arbeit im Freien mit frischer Alpenluft bei Wind und Wetter \n(b) Trittsicherheit und ausreichend Kondition (vergleichbar mit 6 – 8 h Gehzeiten und 1.000 m Aufstieg) \n(c) Improvisationstalent und handwerkliches Geschick",
+          "max_participants": "8",
+          "pre_meeting": "per Telefon/virtuell Ende Juli/Anfang August",
+          "meeting_point": "Geschäftsstelle der DAV Sektion Heidelberg",
+          "registration_deadline": "30.06.26",
+          "equipment": "Eine Ausrüstungsliste wird den Teilnehmern in der Vorbesprechung zur Verfügung gestellt"
         }
       }
     ]
