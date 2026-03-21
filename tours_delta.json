@@ -1,14 +1,85 @@
 {
-  "timestamp": "2026-03-19T06:48:17.230395",
-  "previous_timestamp": "2026-03-18T06:53:27.539381",
+  "timestamp": "2026-03-21T06:33:16.382677",
+  "previous_timestamp": "2026-03-19T06:48:17.228249",
   "summary": {
     "added": 0,
-    "removed": 0,
+    "removed": 4,
     "modified": 0
   },
   "changes": {
     "added": [],
-    "removed": [],
+    "removed": [
+      {
+        "begin_date": "19.03.26",
+        "end_date": "22.03.26",
+        "title": "Touren  von Bourg St. Pierre am Großen St. Bernhard",
+        "tour_type": "Führungstour-7096",
+        "id": "t7096",
+        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7096",
+        "leader": "Bernhard Jülg",
+        "leader_full": "Bernhard Jülg, Tel.: 0173-6644175",
+        "registration_status": "orange",
+        "registration_text": "Warteliste",
+        "description_full": "Frühmorgens (evtl. auch Vortag) Anfahrt nach Bourg St. Pierre, langer Aufstieg zur Valsoreyhütte mit 1350 Hm (Teil der Haute Route). Am nächsten Tag Abfahrt  wieder nach Bourg St. Pierre. Touren im Bereich des ehemaligen Skigebiets  Espace Super Saint-Bernard auf 2000m, z.B. Bec Noir, Hospiz St. Bernhard, Monts Telliers.\nUnterkunft: 1x Cabane de Valsorey und 2x Hotel in Bourg St. Pierre\nAnforderungen:\nS2, K1-2, A1\nmax. Teilnehmerzahl:\n7\nonline anmelden",
+        "description_html": "<div class=\"klappbar\" id=\"b7096\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Frühmorgens (evtl. auch Vortag) Anfahrt nach Bourg St. Pierre, langer Aufstieg zur Valsoreyhütte mit 1350 Hm (Teil der Haute Route). Am nächsten Tag Abfahrt  wieder nach Bourg St. Pierre. Touren im Bereich des ehemaligen Skigebiets  Espace Super Saint-Bernard auf 2000m, z.B. Bec Noir, Hospiz St. Bernhard, Monts Telliers.\nUnterkunft: 1x Cabane de Valsorey und 2x Hotel in Bourg St. Pierre</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>S2, K1-2, A1</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>7</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7096\">online anmelden</a></p>\n</div>",
+        "requirements": "S2, K1-2, A1",
+        "max_participants": "7"
+      },
+      {
+        "begin_date": "20.03.26",
+        "end_date": "20.03.26",
+        "title": "Klettern für Eltern mit Babys und Kleinkindern, 9:00-12:30 Uhr",
+        "tour_type": "Gemeinschaftstour-7110",
+        "id": "t7110",
+        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7110",
+        "leader": "Judith Englert",
+        "leader_full": "Judith Englert, Tel.: 0157 83929180",
+        "registration_status": "gruen",
+        "registration_text": "Es sind noch genügend freie Plätze vorhanden",
+        "description_full": "Die Kinder werden wechselseitig von den teilnehmenden Eltern betreut, so dass immer mindestens zwei Erwachsene klettern können.\nVoraussetzung für alle Teilnehmer ist Kenntnis der Sicherungstechnik und Grundkenntnisse des Hallenkletterns.\nFür Vereinsmitglieder.\nOrt:\nDAV​ Kletter- und Boulderzentrum Heidelberg, Harbigweg 20, 69124 Heidelberg\nmax. Teilnehmerzahl:\n6\nonline anmelden",
+        "description_html": "<div class=\"klappbar\" id=\"b7110\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Die Kinder werden wechselseitig von den teilnehmenden Eltern betreut, so dass immer mindestens zwei Erwachsene klettern können.</p>\n<p>Voraussetzung für alle Teilnehmer ist Kenntnis der Sicherungstechnik und Grundkenntnisse des Hallenkletterns.</p>\n<p>Für Vereinsmitglieder.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>DAV​ Kletter- und Boulderzentrum Heidelberg, Harbigweg 20, 69124 Heidelberg</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>6</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7110\">online anmelden</a></p>\n</div>",
+        "location": "DAV​ Kletter- und Boulderzentrum Heidelberg, Harbigweg 20, 69124 Heidelberg",
+        "max_participants": "6"
+      },
+      {
+        "begin_date": "20.03.26",
+        "end_date": "23.03.26",
+        "title": "LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
+        "tour_type": "Ausbildungskurs-7136",
+        "id": "t7136",
+        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7136",
+        "leader": "Michael Pfisterer",
+        "leader_full": "Michael Pfisterer und Adrian Leibold",
+        "registration_status": "gelb",
+        "registration_text": "nur noch wenige Restplätze oder Warteliste",
+        "description_full": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: Das Lawinenopfer kann nicht rechtzeitig, das heisst binnen der ersten 15 min der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. Lernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen Ernstfall unter realistischen Bedingungen. Für Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. Vermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. Inhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle), Handhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung, Freischaufeln des Verschütteten; Ausrüstungs- und Materialkunde, Grundwissen in Schnee- und Lawinenkunde.\nOrt:\nWipptal bzw. Obernbergtal, Wipptaler Alpen\nAnforderungen:\nTheorie- und Seminarreihe Lawinenkunde, LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel (Wintersaison 2025/2026), allgemeine Sportlichkeit, Kondition für Aufstiege bis 2 h sowie 400 Hm mit anschließender Abfahrt bzw. anschließenden Abstieg (mit Tourenski oder Schneeschuhen).\nmax. Teilnehmerzahl:\n6\nVorbesprechung:\nVereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache (obligatorisch)\nTreffpunkt:\n(Übernachtung in Almhütte, ÜN/HP etwa EUR 75,00 pro Person, Bitte um Rücksprache hinsichtlich Vegetarier und/oder Veganer)\nKursgebühr (ermäßigt):\n200.00 EUR (150.00 EUR)\nAnmeldeschluss:\n11.03.26\nAusrüstung:\nTourenski und -bindung (eingestellt), Steigfelle (Spann-Klebefelle), Harscheisen, LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Skihelm, Skitourenschuhe, Schneeschuhe, Ski-/Teleskopstöcke (Ausrüstung kann geliehen werden; \nLVS-Gerät excl. Batterien, Sonde und Schaufel kann bei der Sektion geliehen werden), weiteres bei der Vorbesprechung.\nDer Besuch eines Theoriekurses vorab ist obligatorisch.",
+        "description_html": "<div class=\"klappbar\" id=\"b7136\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: Das Lawinenopfer kann nicht rechtzeitig, das heisst binnen der ersten 15 min der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. Lernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen Ernstfall unter realistischen Bedingungen. Für Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. Vermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. Inhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle), Handhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung, Freischaufeln des Verschütteten; Ausrüstungs- und Materialkunde, Grundwissen in Schnee- und Lawinenkunde.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ort: </b>Wipptal bzw. Obernbergtal, Wipptaler Alpen</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>Theorie- und Seminarreihe Lawinenkunde, LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel (Wintersaison 2025/2026), allgemeine Sportlichkeit, Kondition für Aufstiege bis 2 h sowie 400 Hm mit anschließender Abfahrt bzw. anschließenden Abstieg (mit Tourenski oder Schneeschuhen).</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>6</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Vorbesprechung: </b>Vereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache (obligatorisch)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Treffpunkt: </b>(Übernachtung in Almhütte, ÜN/HP etwa EUR 75,00 pro Person, Bitte um Rücksprache hinsichtlich Vegetarier und/oder Veganer)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Kursgebühr (ermäßigt): </b>200.00 EUR (150.00 EUR)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anmeldeschluss: </b>11.03.26</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Ausrüstung: </b>Tourenski und -bindung (eingestellt), Steigfelle (Spann-Klebefelle), Harscheisen, LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Skihelm, Skitourenschuhe, Schneeschuhe, Ski-/Teleskopstöcke (Ausrüstung kann geliehen werden; \nLVS-Gerät excl. Batterien, Sonde und Schaufel kann bei der Sektion geliehen werden), weiteres bei der Vorbesprechung.\nDer Besuch eines Theoriekurses vorab ist obligatorisch.</p>\n</div>",
+        "location": "Wipptal bzw. Obernbergtal, Wipptaler Alpen",
+        "requirements": "Theorie- und Seminarreihe Lawinenkunde, LVS-Training - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel (Wintersaison 2025/2026), allgemeine Sportlichkeit, Kondition für Aufstiege bis 2 h sowie 400 Hm mit anschließender Abfahrt bzw. anschließenden Abstieg (mit Tourenski oder Schneeschuhen).",
+        "max_participants": "6",
+        "pre_meeting": "Vereinsheim DAV Heidelberg, Termin und Uhrzeit nach Absprache (obligatorisch)",
+        "meeting_point": "(Übernachtung in Almhütte, ÜN/HP etwa EUR 75,00 pro Person, Bitte um Rücksprache hinsichtlich Vegetarier und/oder Veganer)",
+        "course_fee": "Kursgebühr (ermäßigt):200.00 EUR (150.00 EUR)",
+        "registration_deadline": "11.03.26",
+        "equipment": "Tourenski und -bindung (eingestellt), Steigfelle (Spann-Klebefelle), Harscheisen, LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Skihelm, Skitourenschuhe, Schneeschuhe, Ski-/Teleskopstöcke (Ausrüstung kann geliehen werden; \nLVS-Gerät excl. Batterien, Sonde und Schaufel kann bei der Sektion geliehen werden), weiteres bei der Vorbesprechung.\nDer Besuch eines Theoriekurses vorab ist obligatorisch."
+      },
+      {
+        "begin_date": "20.03.26",
+        "end_date": "23.03.26",
+        "title": "Ausschreibung Amberger Hütte / Stubaier Alpen",
+        "tour_type": "Führungstour-7142",
+        "id": "t7142",
+        "url": "https://www.alpenverein-heidelberg.de/index.php?inhalt=tourensucheergebnis#t7142",
+        "leader": "Hannes Frey",
+        "leader_full": "Hannes Frey, Tel.: 06221-4337499",
+        "registration_status": "orange",
+        "registration_text": "Warteliste",
+        "description_full": "Tagestouren um die Amberger Hütte.\nDie Tour findet nur bei guten Verhältnissen statt und muﬂ ggf. kurzfristig abgesagt werden. Es werden dann Stornierungskosten fällig.\nAnforderungen:\nK2/S2/A2 (Gletscherausrüstung !)\nmax. Teilnehmerzahl:\n5\nonline anmelden",
+        "description_html": "<div class=\"klappbar\" id=\"b7142\" style=\"display:none\">\n<p style=\"margin-top:0pt; margin-bottom:0pt;\">Tagestouren um die Amberger Hütte.</p>\n<p>Die Tour findet nur bei guten Verhältnissen statt und muﬂ ggf. kurzfristig abgesagt werden. Es werden dann Stornierungskosten fällig.</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>Anforderungen: </b>K2/S2/A2 (Gletscherausrüstung !)</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><b>max. Teilnehmerzahl: </b>5</p>\n<p style=\"margin-top:0pt; margin-bottom:0pt;\"><a href=\"index.php?inhalt=anmeldung&amp;id=7142\">online anmelden</a></p>\n</div>",
+        "requirements": "K2/S2/A2 (Gletscherausrüstung !)",
+        "max_participants": "5"
+      }
+    ],
     "modified": []
   }
 }
