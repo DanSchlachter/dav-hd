@@ -10,28 +10,42 @@ import os
 import re
 from datetime import datetime
 from typing import Dict, List
-import requests
 from bs4 import BeautifulSoup
 
 
 def fetch_tour_page(url: str) -> str:
     """
-    Fetch the HTML content from the tour search results page.
-    
+    Fetch the HTML content from the tour search results page using Playwright
+    (full browser rendering to bypass WAF/Azure Application Gateway blocking).
+
     Args:
         url: The URL to fetch
-        
+
     Returns:
         HTML content as string
     """
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-    }
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-    # Explicitly set encoding to UTF-8 to handle German umlauts correctly
-    response.encoding = 'utf-8'
-    return response.text
+    from playwright.sync_api import sync_playwright
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent=(
+                "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/122.0.0.0 Safari/537.36"
+            ),
+            locale="de-DE",
+            extra_http_headers={
+                "Accept-Language": "de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7",
+            },
+        )
+        page = context.new_page()
+        response = page.goto(url, wait_until="networkidle", timeout=60000)
+        if response and response.status >= 400:
+            raise Exception(f"HTTP {response.status} for {url}")
+        html = page.content()
+        browser.close()
+        return html
 
 
 def parse_tours(html: str) -> List[Dict]:
