@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T07:53:10.893528+00:00",
+  "timestamp": "2026-05-11T08:55:24.567767+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 67,
   "tours": [
@@ -495,13 +495,13 @@
         "Schwarzwald"
       ],
       "description": "Diese Tour eignet sich als Einstiegstour. Sie kann nach ca. 20-25 km abgebrochen werden (der Weg zur Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr geplant.\nAAnmeldeschluss: So, 03.05.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist. (ACHTUNG: das Portal erlaubt eine Anmeldung nur bis Samstag, 02.05.26)\nAnforderungen: Anforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km",
-      "bookable_id": "69bd53cebd72746a96774510",
-      "bookable_start": "2026-05-10",
-      "bookable_end": "2026-05-10",
-      "free_places": 0,
-      "max_places": 10,
-      "bookable_places": 0,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1595,13 +1595,13 @@
         "Heidelberg"
       ],
       "description": "Leitung: Martin Benz, Edith Hoffmann, Hannah Wagner\n\nWir besuchen die Grotte de la Malatière im französischen Jura (ca. 4 Stunden Anfahrt)\nDiese Höhle bietet alles, was eine Höhle ausmacht, einen kurzen Eingangsschacht, den man entweder mit Seiltechnik oder mit einer Drahtseilleiter bewältigen kann, ein wenig Kletterei, mehrere Engstellen und einen Quergang.\nEs gibt beeindruckend große Gänge und wunderschöne Tropfsteinformationen zu bewundern. Die gesamte Tour in der Höhle dauert etwa 6 Stunden.\nHin- und Rückfahrt in Fahrgemeinschaften. 2 Übernachtungen in einer Unterkunft. Einzelheiten zu Fahrgemeinschaften, Unterkunft, Material, Anspruch… werden wir in einer Vorbesprechung bekanntgeben.\nAnforderungen: Sehr gute Trittsicherheit, wir befinden uns immer in äußerst unwegsamen Gelände. Kondition für eine Tour mit ca. 6 Stunden Dauer. Allgemeine körperliche Fitness und Beweglichkeit sowie keine Angst vor Engstellen.\nVorbesprechung im großen Seminarraum der Kletterhalle in Heidelberg am Dienstag 28.4. um 19 Uhr - eventuell kurzer Besuch der Stern-Staub-Höhle mit kleiner Einseiltechnik - / Trittleiterübung für den Einstiegsschacht.",
-      "bookable_id": "69d7dc7ba014b4cb7d004575",
-      "bookable_start": "2026-05-08",
-      "bookable_end": "2026-05-10",
-      "free_places": 0,
-      "max_places": 8,
-      "bookable_places": 0,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
