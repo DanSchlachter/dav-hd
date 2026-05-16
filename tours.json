@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T08:36:44.977258+00:00",
+  "timestamp": "2026-05-16T07:46:46.373698+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 67,
   "tours": [
@@ -1195,13 +1195,13 @@
         "Heidelberg Hauptbahnhof"
       ],
       "description": "Bf. Wiesloch/Walldorf, Frauenweiler, Malchenberg, Letzenbergkapelle, Malsch Reblaus (Einkehr) BF Roth/Malsch.\n13 Km; 200 Hm, Gehzeit ca. 3,5 - 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 10:18 Uhr S 3 Richtung Karlsruhe\nWanderführer empfängt die Gruppe am Bahnhof Wiesloch/Walldorf\n-Keine Anmeldung-",
-      "bookable_id": "69c3e21b09d475785b89d694",
-      "bookable_start": "2026-05-15",
-      "bookable_end": "2026-05-15",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {

@@ -1,14 +1,92 @@
 {
-  "timestamp": "2026-05-15T08:36:44.982712+00:00",
-  "previous_timestamp": "2026-05-14T08:25:28.626507+00:00",
+  "timestamp": "2026-05-16T07:46:46.379296+00:00",
+  "previous_timestamp": "2026-05-15T08:36:44.977258+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "69c3e21b09d475785b89d692",
+        "changed_fields": [
+          "bookable_end",
+          "waitlist_active",
+          "bookable_start",
+          "bookable_id"
+        ],
+        "changes": {
+          "bookable_end": {
+            "from": "2026-05-15",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-05-15",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "69c3e21b09d475785b89d694",
+            "to": null
+          }
+        },
+        "current": {
+          "id": "69c3e21b09d475785b89d692",
+          "number": "260515WA_012",
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-05-15",
+          "date_to": "2026-05-15",
+          "locations": [
+            "Heidelberg Hauptbahnhof"
+          ],
+          "description": "Bf. Wiesloch/Walldorf, Frauenweiler, Malchenberg, Letzenbergkapelle, Malsch Reblaus (Einkehr) BF Roth/Malsch.\n13 Km; 200 Hm, Gehzeit ca. 3,5 - 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 10:18 Uhr S 3 Richtung Karlsruhe\nWanderführer empfängt die Gruppe am Bahnhof Wiesloch/Walldorf\n-Keine Anmeldung-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69c3e21b09d475785b89d692",
+          "number": "260515WA_012",
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-05-15",
+          "date_to": "2026-05-15",
+          "locations": [
+            "Heidelberg Hauptbahnhof"
+          ],
+          "description": "Bf. Wiesloch/Walldorf, Frauenweiler, Malchenberg, Letzenbergkapelle, Malsch Reblaus (Einkehr) BF Roth/Malsch.\n13 Km; 200 Hm, Gehzeit ca. 3,5 - 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 10:18 Uhr S 3 Richtung Karlsruhe\nWanderführer empfängt die Gruppe am Bahnhof Wiesloch/Walldorf\n-Keine Anmeldung-",
+          "bookable_id": "69c3e21b09d475785b89d694",
+          "bookable_start": "2026-05-15",
+          "bookable_end": "2026-05-15",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
