@@ -1,107 +1,14 @@
 {
-  "timestamp": "2026-05-17T08:07:20.294114+00:00",
-  "previous_timestamp": "2026-05-16T07:46:46.373698+00:00",
+  "timestamp": "2026-05-18T09:36:43.591503+00:00",
+  "previous_timestamp": "2026-05-17T08:07:20.288671+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 0
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": [
-      {
-        "id": "69bd68cabd72746a967824a0",
-        "changed_fields": [
-          "bookable_id",
-          "max_places",
-          "bookable_start",
-          "free_places",
-          "waitlist_active",
-          "bookable_end",
-          "bookable_places"
-        ],
-        "changes": {
-          "bookable_id": {
-            "from": "69bd68cabd72746a967824a4",
-            "to": null
-          },
-          "max_places": {
-            "from": 10,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-05-16",
-            "to": ""
-          },
-          "free_places": {
-            "from": 9,
-            "to": null
-          },
-          "waitlist_active": {
-            "from": false,
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-05-16",
-            "to": ""
-          },
-          "bookable_places": {
-            "from": 9,
-            "to": null
-          }
-        },
-        "current": {
-          "id": "69bd68cabd72746a967824a0",
-          "number": "260516MTB_F006",
-          "title": "MTB Schnuppertour auf den Heidelberger Trails",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-05-16",
-          "date_to": "2026-05-16",
-          "locations": [
-            "Rohrbacher Straße 105, Heidelberg, Deutschland"
-          ],
-          "description": "Unsere Mountainbike-Tour dauert etwa vier Stunden, Pausen zum Durchatmen und Genießen inklusive. Wir sind gemeinsam im Heidelberger Stadtwald unterwegs, vorbei an alten Brunnen, Denkmälern und natürlich über viele schöne Trails. Es gibt verschiedene Schwierigkeitsstufen, und wir entscheiden zusammen, wie sportlich wir’s angehen wollen – entspannt, fordernd oder irgendwas dazwischen. Vor dem Start schauen wir, wer in welche Gruppe passt, damit jede*r gut aufgehoben ist. Wichtig ist, dass du sicher auf Trails fahren kannst und eine Grundkondition für Touren ab ca. 25 Kilometern mitbringst – ein paar Höhenmeter gehören natürlich dazu. Nach dem Motto „Natürlich biken“ vom DAV steht Rücksicht an erster Stelle. Wir wollen die Natur genießen, ohne sie zu beschädigen, und achten auf Wildtiere, Pflanzen und andere Menschen im Wald. So macht’s für alle Spaß – und genau darum geht’s beim Biken!\nAnforderungen: Zielgruppe Erwachsene\nmax. Teilnehmerzahl: 8\nTreffpunkt: Shell-Tankstelle, Rohrbacher Straße 105, Heidelberg",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69bd68cabd72746a967824a0",
-          "number": "260516MTB_F006",
-          "title": "MTB Schnuppertour auf den Heidelberger Trails",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-05-16",
-          "date_to": "2026-05-16",
-          "locations": [
-            "Rohrbacher Straße 105, Heidelberg, Deutschland"
-          ],
-          "description": "Unsere Mountainbike-Tour dauert etwa vier Stunden, Pausen zum Durchatmen und Genießen inklusive. Wir sind gemeinsam im Heidelberger Stadtwald unterwegs, vorbei an alten Brunnen, Denkmälern und natürlich über viele schöne Trails. Es gibt verschiedene Schwierigkeitsstufen, und wir entscheiden zusammen, wie sportlich wir’s angehen wollen – entspannt, fordernd oder irgendwas dazwischen. Vor dem Start schauen wir, wer in welche Gruppe passt, damit jede*r gut aufgehoben ist. Wichtig ist, dass du sicher auf Trails fahren kannst und eine Grundkondition für Touren ab ca. 25 Kilometern mitbringst – ein paar Höhenmeter gehören natürlich dazu. Nach dem Motto „Natürlich biken“ vom DAV steht Rücksicht an erster Stelle. Wir wollen die Natur genießen, ohne sie zu beschädigen, und achten auf Wildtiere, Pflanzen und andere Menschen im Wald. So macht’s für alle Spaß – und genau darum geht’s beim Biken!\nAnforderungen: Zielgruppe Erwachsene\nmax. Teilnehmerzahl: 8\nTreffpunkt: Shell-Tankstelle, Rohrbacher Straße 105, Heidelberg",
-          "bookable_id": "69bd68cabd72746a967824a4",
-          "bookable_start": "2026-05-16",
-          "bookable_end": "2026-05-16",
-          "free_places": 9,
-          "max_places": 10,
-          "bookable_places": 9,
-          "waitlist_active": false,
-          "bookable_canceled": false
-        }
-      }
-    ]
+    "modified": []
   }
 }
