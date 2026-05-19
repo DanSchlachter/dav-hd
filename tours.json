@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T09:36:43.585752+00:00",
+  "timestamp": "2026-05-19T08:55:42.742922+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 67,
   "tours": [
@@ -1673,9 +1673,9 @@
       "bookable_id": "69eb63664b9e3ae7f3dec079",
       "bookable_start": "2026-05-24",
       "bookable_end": "2026-05-24",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
+      "free_places": 0,
+      "max_places": 0,
+      "bookable_places": 0,
       "waitlist_active": true,
       "bookable_canceled": false
     }

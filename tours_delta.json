@@ -1,14 +1,87 @@
 {
-  "timestamp": "2026-05-18T09:36:43.591503+00:00",
-  "previous_timestamp": "2026-05-17T08:07:20.288671+00:00",
+  "timestamp": "2026-05-19T08:55:42.748555+00:00",
+  "previous_timestamp": "2026-05-18T09:36:43.585752+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "69eb63664b9e3ae7f3dec071",
+        "changed_fields": [
+          "free_places",
+          "bookable_places",
+          "max_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": null,
+            "to": 0
+          },
+          "bookable_places": {
+            "from": null,
+            "to": 0
+          },
+          "max_places": {
+            "from": null,
+            "to": 0
+          }
+        },
+        "current": {
+          "id": "69eb63664b9e3ae7f3dec071",
+          "number": null,
+          "title": "In Between-Gruppe",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-05-24",
+          "date_to": "2026-05-24",
+          "locations": [
+            "Bahnhof Schriesheim"
+          ],
+          "description": "Burgensteig. Schriesheim, Hirschberg-Großsachsen\n21 Km; 700 Hm; Gehzeit ca. 5,5 Std. \nKeine Einkehr, Rucksackverpflegung!\nAnmeldung Online",
+          "bookable_id": "69eb63664b9e3ae7f3dec079",
+          "bookable_start": "2026-05-24",
+          "bookable_end": "2026-05-24",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69eb63664b9e3ae7f3dec071",
+          "number": null,
+          "title": "In Between-Gruppe",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-05-24",
+          "date_to": "2026-05-24",
+          "locations": [
+            "Bahnhof Schriesheim"
+          ],
+          "description": "Burgensteig. Schriesheim, Hirschberg-Großsachsen\n21 Km; 700 Hm; Gehzeit ca. 5,5 Std. \nKeine Einkehr, Rucksackverpflegung!\nAnmeldung Online",
+          "bookable_id": "69eb63664b9e3ae7f3dec079",
+          "bookable_start": "2026-05-24",
+          "bookable_end": "2026-05-24",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
