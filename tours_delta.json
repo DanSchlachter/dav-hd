@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-19T08:55:42.748555+00:00",
-  "previous_timestamp": "2026-05-18T09:36:43.585752+00:00",
+  "timestamp": "2026-05-20T08:50:52.415008+00:00",
+  "previous_timestamp": "2026-05-19T08:55:42.742922+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
@@ -11,73 +11,68 @@
     "removed": [],
     "modified": [
       {
-        "id": "69eb63664b9e3ae7f3dec071",
+        "id": "69bd51be4e9957bf1e3235d7",
         "changed_fields": [
           "free_places",
-          "bookable_places",
-          "max_places"
+          "bookable_places"
         ],
         "changes": {
           "free_places": {
-            "from": null,
-            "to": 0
+            "from": 6,
+            "to": 4
           },
           "bookable_places": {
-            "from": null,
-            "to": 0
-          },
-          "max_places": {
-            "from": null,
-            "to": 0
+            "from": 6,
+            "to": 4
           }
         },
         "current": {
-          "id": "69eb63664b9e3ae7f3dec071",
-          "number": null,
-          "title": "In Between-Gruppe",
-          "type": "COURSE",
+          "id": "69bd51be4e9957bf1e3235d7",
+          "number": "260625Kl_G005",
+          "title": "Klettern in Baume-les-Dames",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Klettern"
           ],
-          "date_from": "2026-05-24",
-          "date_to": "2026-05-24",
+          "date_from": "2026-06-25",
+          "date_to": "2026-06-28",
           "locations": [
-            "Bahnhof Schriesheim"
+            "Baume-les-Dames"
           ],
-          "description": "Burgensteig. Schriesheim, Hirschberg-Großsachsen\n21 Km; 700 Hm; Gehzeit ca. 5,5 Std. \nKeine Einkehr, Rucksackverpflegung!\nAnmeldung Online",
-          "bookable_id": "69eb63664b9e3ae7f3dec079",
-          "bookable_start": "2026-05-24",
-          "bookable_end": "2026-05-24",
-          "free_places": 0,
-          "max_places": 0,
-          "bookable_places": 0,
+          "description": "Übernachtung auf dem Campingplatz in Beaumes-Les-Dames\nAnforderungen: Vorstieg V+, selbständiges Standplatzmanagement",
+          "bookable_id": "69bd51be4e9957bf1e3235d9",
+          "bookable_start": "2026-06-25",
+          "bookable_end": "2026-06-28",
+          "free_places": 4,
+          "max_places": 8,
+          "bookable_places": 4,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69eb63664b9e3ae7f3dec071",
-          "number": null,
-          "title": "In Between-Gruppe",
-          "type": "COURSE",
+          "id": "69bd51be4e9957bf1e3235d7",
+          "number": "260625Kl_G005",
+          "title": "Klettern in Baume-les-Dames",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Klettern"
           ],
-          "date_from": "2026-05-24",
-          "date_to": "2026-05-24",
+          "date_from": "2026-06-25",
+          "date_to": "2026-06-28",
           "locations": [
-            "Bahnhof Schriesheim"
+            "Baume-les-Dames"
           ],
-          "description": "Burgensteig. Schriesheim, Hirschberg-Großsachsen\n21 Km; 700 Hm; Gehzeit ca. 5,5 Std. \nKeine Einkehr, Rucksackverpflegung!\nAnmeldung Online",
-          "bookable_id": "69eb63664b9e3ae7f3dec079",
-          "bookable_start": "2026-05-24",
-          "bookable_end": "2026-05-24",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Übernachtung auf dem Campingplatz in Beaumes-Les-Dames\nAnforderungen: Vorstieg V+, selbständiges Standplatzmanagement",
+          "bookable_id": "69bd51be4e9957bf1e3235d9",
+          "bookable_start": "2026-06-25",
+          "bookable_end": "2026-06-28",
+          "free_places": 6,
+          "max_places": 8,
+          "bookable_places": 6,
           "waitlist_active": true,
           "bookable_canceled": false
         }
