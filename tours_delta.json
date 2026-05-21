@@ -1,82 +1,40 @@
 {
-  "timestamp": "2026-05-20T08:50:52.415008+00:00",
-  "previous_timestamp": "2026-05-19T08:55:42.742922+00:00",
+  "timestamp": "2026-05-21T08:52:56.683227+00:00",
+  "previous_timestamp": "2026-05-20T08:50:52.409386+00:00",
   "summary": {
-    "added": 0,
+    "added": 1,
     "removed": 0,
-    "modified": 1
+    "modified": 0
   },
   "changes": {
-    "added": [],
-    "removed": [],
-    "modified": [
+    "added": [
       {
-        "id": "69bd51be4e9957bf1e3235d7",
-        "changed_fields": [
-          "free_places",
-          "bookable_places"
+        "id": "6a0d8b647a37db9e80ee4999",
+        "number": "260520_MTB01",
+        "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Mountainbike"
         ],
-        "changes": {
-          "free_places": {
-            "from": 6,
-            "to": 4
-          },
-          "bookable_places": {
-            "from": 6,
-            "to": 4
-          }
-        },
-        "current": {
-          "id": "69bd51be4e9957bf1e3235d7",
-          "number": "260625Kl_G005",
-          "title": "Klettern in Baume-les-Dames",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Klettern"
-          ],
-          "date_from": "2026-06-25",
-          "date_to": "2026-06-28",
-          "locations": [
-            "Baume-les-Dames"
-          ],
-          "description": "Übernachtung auf dem Campingplatz in Beaumes-Les-Dames\nAnforderungen: Vorstieg V+, selbständiges Standplatzmanagement",
-          "bookable_id": "69bd51be4e9957bf1e3235d9",
-          "bookable_start": "2026-06-25",
-          "bookable_end": "2026-06-28",
-          "free_places": 4,
-          "max_places": 8,
-          "bookable_places": 4,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69bd51be4e9957bf1e3235d7",
-          "number": "260625Kl_G005",
-          "title": "Klettern in Baume-les-Dames",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Klettern"
-          ],
-          "date_from": "2026-06-25",
-          "date_to": "2026-06-28",
-          "locations": [
-            "Baume-les-Dames"
-          ],
-          "description": "Übernachtung auf dem Campingplatz in Beaumes-Les-Dames\nAnforderungen: Vorstieg V+, selbständiges Standplatzmanagement",
-          "bookable_id": "69bd51be4e9957bf1e3235d9",
-          "bookable_start": "2026-06-25",
-          "bookable_end": "2026-06-28",
-          "free_places": 6,
-          "max_places": 8,
-          "bookable_places": 6,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
+        "date_from": "2026-06-07",
+        "date_to": "2026-06-07",
+        "locations": [
+          "Heidelberg"
+        ],
+        "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
+        "bookable_id": "6a0d8b647a37db9e80ee499b",
+        "bookable_start": "2026-06-07",
+        "bookable_end": "2026-06-07",
+        "free_places": 10,
+        "max_places": 10,
+        "bookable_places": 10,
+        "waitlist_active": false,
+        "bookable_canceled": false
       }
-    ]
+    ],
+    "removed": [],
+    "modified": []
   }
 }
