@@ -1,40 +1,82 @@
 {
-  "timestamp": "2026-05-21T08:52:56.683227+00:00",
-  "previous_timestamp": "2026-05-20T08:50:52.409386+00:00",
+  "timestamp": "2026-05-22T08:46:25.432613+00:00",
+  "previous_timestamp": "2026-05-21T08:52:56.677607+00:00",
   "summary": {
-    "added": 1,
+    "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 1
   },
   "changes": {
-    "added": [
-      {
-        "id": "6a0d8b647a37db9e80ee4999",
-        "number": "260520_MTB01",
-        "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Mountainbike"
-        ],
-        "date_from": "2026-06-07",
-        "date_to": "2026-06-07",
-        "locations": [
-          "Heidelberg"
-        ],
-        "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
-        "bookable_id": "6a0d8b647a37db9e80ee499b",
-        "bookable_start": "2026-06-07",
-        "bookable_end": "2026-06-07",
-        "free_places": 10,
-        "max_places": 10,
-        "bookable_places": 10,
-        "waitlist_active": false,
-        "bookable_canceled": false
-      }
-    ],
+    "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "69bd69e3bd72746a967829c1",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 5,
+            "to": 6
+          },
+          "free_places": {
+            "from": 5,
+            "to": 6
+          }
+        },
+        "current": {
+          "id": "69bd69e3bd72746a967829c1",
+          "number": "260619MTB_F007",
+          "title": "Mountainbike Pfalzcross Juni 2026",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-06-19",
+          "date_to": "2026-06-21",
+          "locations": [
+            "nn"
+          ],
+          "description": "Von Wissembourg über Hauenstein nach Pirmasens. An zwei Tagen im Pfälzer erkunden wir verschlungene Pfade, eine Burgruine und ein Stück des Rodalbener Felsenwegs. Bei schönem Wetter lächelt ein See und lockt zum Bade. Pro Tag sind rund 40 Kilometer und etwa 1200 Höhenmeter zu fahren. Anreise am Freitagabend mit der Bahn, Sonntagabend zurück.\nAnforderungen: S2-3 und K2-K3",
+          "bookable_id": "69bd69e3bd72746a967829c3",
+          "bookable_start": "2026-06-19",
+          "bookable_end": "2026-06-21",
+          "free_places": 6,
+          "max_places": 10,
+          "bookable_places": 6,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd69e3bd72746a967829c1",
+          "number": "260619MTB_F007",
+          "title": "Mountainbike Pfalzcross Juni 2026",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-06-19",
+          "date_to": "2026-06-21",
+          "locations": [
+            "nn"
+          ],
+          "description": "Von Wissembourg über Hauenstein nach Pirmasens. An zwei Tagen im Pfälzer erkunden wir verschlungene Pfade, eine Burgruine und ein Stück des Rodalbener Felsenwegs. Bei schönem Wetter lächelt ein See und lockt zum Bade. Pro Tag sind rund 40 Kilometer und etwa 1200 Höhenmeter zu fahren. Anreise am Freitagabend mit der Bahn, Sonntagabend zurück.\nAnforderungen: S2-3 und K2-K3",
+          "bookable_id": "69bd69e3bd72746a967829c3",
+          "bookable_start": "2026-06-19",
+          "bookable_end": "2026-06-21",
+          "free_places": 5,
+          "max_places": 10,
+          "bookable_places": 5,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
