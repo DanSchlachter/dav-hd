@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T08:46:25.426784+00:00",
+  "timestamp": "2026-05-23T08:04:02.065699+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 68,
   "tours": [
@@ -98,9 +98,9 @@
       "bookable_id": "69bc359a9daefa4fefc1598f",
       "bookable_start": "2026-06-19",
       "bookable_end": "2026-06-21",
-      "free_places": 5,
+      "free_places": 6,
       "max_places": 22,
-      "bookable_places": 5,
+      "bookable_places": 6,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -648,9 +648,9 @@
       "bookable_id": "69bd6bea4e9957bf1e340113",
       "bookable_start": "2026-09-06",
       "bookable_end": "2026-09-12",
-      "free_places": 2,
+      "free_places": 1,
       "max_places": 8,
-      "bookable_places": 2,
+      "bookable_places": 1,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1245,13 +1245,13 @@
         "Heidelberg Hauptbahnhof"
       ],
       "description": "Gundelsheim, Burg Hornberg, Mosbach (Schlusseinkehr)\n18 Km; 400 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\n-Keine Anmeldung-",
-      "bookable_id": "69c3e34b6764ed781731233d",
-      "bookable_start": "2026-05-22",
-      "bookable_end": "2026-05-22",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
