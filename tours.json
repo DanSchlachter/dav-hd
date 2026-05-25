@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T08:14:27.778807+00:00",
+  "timestamp": "2026-05-25T09:44:47.269366+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 68,
   "tours": [
@@ -1317,9 +1317,9 @@
       "date_from": "2026-06-03",
       "date_to": "2026-06-03",
       "locations": [
-        "ND"
+        "Heidelberg Hauptbahnhof"
       ],
-      "description": "",
+      "description": "Neckarsteinach, Neckarsteig, Feste Dilsberg, Neckargemünd (Schlusseinkehr)\n5 m; 185 m; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken\n-Keine  Anmeldung-",
       "bookable_id": "69c3e4fc09d475785b89e94a",
       "bookable_start": "2026-06-03",
       "bookable_end": "2026-06-03",
@@ -1670,13 +1670,13 @@
         "Bahnhof Schriesheim"
       ],
       "description": "Burgensteig. Schriesheim, Hirschberg-Großsachsen\n21 Km; 700 Hm; Gehzeit ca. 5,5 Std. \nKeine Einkehr, Rucksackverpflegung!\nAnmeldung Online",
-      "bookable_id": "69eb63664b9e3ae7f3dec079",
-      "bookable_start": "2026-05-24",
-      "bookable_end": "2026-05-24",
-      "free_places": 0,
-      "max_places": 0,
-      "bookable_places": 0,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
