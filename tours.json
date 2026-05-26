@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T09:44:47.269366+00:00",
+  "timestamp": "2026-05-26T09:32:33.479586+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 68,
   "tours": [
@@ -98,9 +98,9 @@
       "bookable_id": "69bc359a9daefa4fefc1598f",
       "bookable_start": "2026-06-19",
       "bookable_end": "2026-06-21",
-      "free_places": 6,
+      "free_places": 10,
       "max_places": 22,
-      "bookable_places": 6,
+      "bookable_places": 10,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -595,13 +595,13 @@
         "Venedig"
       ],
       "description": "Diese erlebnisreiche Tour fängt schon vor der Tour an—die Anfahrt zu unserem Campingplatz auf dem Lido, der vorgelagerten Insel von Venedig, findet auf der Autofähre durch den Guidecca Kanal an- und ist schon selbst ein Erlebnis.\nWir starten die Vogalonga direkt von unserem Campingplatz aus- und die Tour zaubert Dir spätestens dann, wenn Du in den Canal Grande einfahren wirst, ein Lächeln nein- ein breites Grinsen ins Gesicht. Vorher werden wir Burano, Murano und das jüdische Ghetto in Venedig gesehen haben und durchpaddelt sein.\nOrt: Tourenstandort: Campingplatz Lido de Venezia San Nicolo\nAnforderungen: Anforderungen: gute Kondition, Paddelerfahrung im bewegten Wasser ( WW 0 bis 1 ) und eigene Paddelausrüstung\nAnreise: Bootstransport und Anreise im eigenen PKW (Fahrgemeinschaften)",
-      "bookable_id": "69bd5fcd4e9957bf1e330d2a",
-      "bookable_start": "2026-05-22",
-      "bookable_end": "2026-05-25",
-      "free_places": 1,
-      "max_places": 8,
-      "bookable_places": 1,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {

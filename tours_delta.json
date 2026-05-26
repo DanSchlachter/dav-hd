@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-05-25T09:44:47.274787+00:00",
-  "previous_timestamp": "2026-05-24T08:14:27.778807+00:00",
+  "timestamp": "2026-05-26T09:32:33.484971+00:00",
+  "previous_timestamp": "2026-05-25T09:44:47.269366+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
@@ -11,133 +11,129 @@
     "removed": [],
     "modified": [
       {
-        "id": "69c3e4fc09d475785b89e947",
+        "id": "69bc359a9daefa4fefc1598d",
         "changed_fields": [
-          "description",
-          "locations"
+          "bookable_places",
+          "free_places"
         ],
         "changes": {
-          "description": {
-            "from": "",
-            "to": "Neckarsteinach, Neckarsteig, Feste Dilsberg, Neckargemünd (Schlusseinkehr)\n5 m; 185 m; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken\n-Keine  Anmeldung-"
+          "bookable_places": {
+            "from": 6,
+            "to": 10
           },
-          "locations": {
-            "from": [
-              "ND"
-            ],
-            "to": [
-              "Heidelberg Hauptbahnhof"
-            ]
+          "free_places": {
+            "from": 6,
+            "to": 10
           }
         },
         "current": {
-          "id": "69c3e4fc09d475785b89e947",
-          "number": "260603WA_017",
-          "title": "Seniorenwanderung",
+          "id": "69bc359a9daefa4fefc1598d",
+          "number": "260619FAM_F001",
+          "title": "Klettersteigwochenende Allgäu",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-06-03",
-          "date_to": "2026-06-03",
+          "date_from": "2026-06-19",
+          "date_to": "2026-06-21",
           "locations": [
-            "Heidelberg Hauptbahnhof"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Neckarsteinach, Neckarsteig, Feste Dilsberg, Neckargemünd (Schlusseinkehr)\n5 m; 185 m; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken\n-Keine  Anmeldung-",
-          "bookable_id": "69c3e4fc09d475785b89e94a",
-          "bookable_start": "2026-06-03",
-          "bookable_end": "2026-06-03",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "DAV Familienwandergruppe Heidelberg; Eltern mit Kinder ab ca. 8J.\n\nVoraussetzung: Übungskurs Grundlagen Klettersteig. Für Eltern mit Kindern ab 8 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 Std. Verantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.",
+          "bookable_id": "69bc359a9daefa4fefc1598f",
+          "bookable_start": "2026-06-19",
+          "bookable_end": "2026-06-21",
+          "free_places": 10,
+          "max_places": 22,
+          "bookable_places": 10,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69c3e4fc09d475785b89e947",
-          "number": "260603WA_017",
-          "title": "Seniorenwanderung",
+          "id": "69bc359a9daefa4fefc1598d",
+          "number": "260619FAM_F001",
+          "title": "Klettersteigwochenende Allgäu",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-06-03",
-          "date_to": "2026-06-03",
+          "date_from": "2026-06-19",
+          "date_to": "2026-06-21",
           "locations": [
-            "ND"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "",
-          "bookable_id": "69c3e4fc09d475785b89e94a",
-          "bookable_start": "2026-06-03",
-          "bookable_end": "2026-06-03",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "DAV Familienwandergruppe Heidelberg; Eltern mit Kinder ab ca. 8J.\n\nVoraussetzung: Übungskurs Grundlagen Klettersteig. Für Eltern mit Kindern ab 8 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 Std. Verantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.",
+          "bookable_id": "69bc359a9daefa4fefc1598f",
+          "bookable_start": "2026-06-19",
+          "bookable_end": "2026-06-21",
+          "free_places": 6,
+          "max_places": 22,
+          "bookable_places": 6,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "69eb63664b9e3ae7f3dec071",
+        "id": "69bd5fcd4e9957bf1e330d28",
         "changed_fields": [
+          "bookable_places",
           "bookable_end",
-          "max_places",
           "bookable_id",
           "free_places",
           "waitlist_active",
-          "bookable_start",
-          "bookable_places"
+          "max_places",
+          "bookable_start"
         ],
         "changes": {
-          "bookable_end": {
-            "from": "2026-05-24",
-            "to": ""
-          },
-          "max_places": {
-            "from": 0,
+          "bookable_places": {
+            "from": 1,
             "to": null
           },
+          "bookable_end": {
+            "from": "2026-05-25",
+            "to": ""
+          },
           "bookable_id": {
-            "from": "69eb63664b9e3ae7f3dec079",
+            "from": "69bd5fcd4e9957bf1e330d2a",
             "to": null
           },
           "free_places": {
-            "from": 0,
+            "from": 1,
             "to": null
           },
           "waitlist_active": {
             "from": true,
             "to": null
           },
-          "bookable_start": {
-            "from": "2026-05-24",
-            "to": ""
-          },
-          "bookable_places": {
-            "from": 0,
+          "max_places": {
+            "from": 8,
             "to": null
+          },
+          "bookable_start": {
+            "from": "2026-05-22",
+            "to": ""
           }
         },
         "current": {
-          "id": "69eb63664b9e3ae7f3dec071",
-          "number": null,
-          "title": "In Between-Gruppe",
-          "type": "COURSE",
+          "id": "69bd5fcd4e9957bf1e330d28",
+          "number": "260522B_F006",
+          "title": "In der Lagune von Venedig unterwegs bei der 40. Vogalonga - 30km paddeln mit einer Pause",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Bergsteigen"
           ],
-          "date_from": "2026-05-24",
-          "date_to": "2026-05-24",
+          "date_from": "2026-05-22",
+          "date_to": "2026-05-25",
           "locations": [
-            "Bahnhof Schriesheim"
+            "Venedig"
           ],
-          "description": "Burgensteig. Schriesheim, Hirschberg-Großsachsen\n21 Km; 700 Hm; Gehzeit ca. 5,5 Std. \nKeine Einkehr, Rucksackverpflegung!\nAnmeldung Online",
+          "description": "Diese erlebnisreiche Tour fängt schon vor der Tour an—die Anfahrt zu unserem Campingplatz auf dem Lido, der vorgelagerten Insel von Venedig, findet auf der Autofähre durch den Guidecca Kanal an- und ist schon selbst ein Erlebnis.\nWir starten die Vogalonga direkt von unserem Campingplatz aus- und die Tour zaubert Dir spätestens dann, wenn Du in den Canal Grande einfahren wirst, ein Lächeln nein- ein breites Grinsen ins Gesicht. Vorher werden wir Burano, Murano und das jüdische Ghetto in Venedig gesehen haben und durchpaddelt sein.\nOrt: Tourenstandort: Campingplatz Lido de Venezia San Nicolo\nAnforderungen: Anforderungen: gute Kondition, Paddelerfahrung im bewegten Wasser ( WW 0 bis 1 ) und eigene Paddelausrüstung\nAnreise: Bootstransport und Anreise im eigenen PKW (Fahrgemeinschaften)",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -148,27 +144,27 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69eb63664b9e3ae7f3dec071",
-          "number": null,
-          "title": "In Between-Gruppe",
-          "type": "COURSE",
+          "id": "69bd5fcd4e9957bf1e330d28",
+          "number": "260522B_F006",
+          "title": "In der Lagune von Venedig unterwegs bei der 40. Vogalonga - 30km paddeln mit einer Pause",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Bergsteigen"
           ],
-          "date_from": "2026-05-24",
-          "date_to": "2026-05-24",
+          "date_from": "2026-05-22",
+          "date_to": "2026-05-25",
           "locations": [
-            "Bahnhof Schriesheim"
+            "Venedig"
           ],
-          "description": "Burgensteig. Schriesheim, Hirschberg-Großsachsen\n21 Km; 700 Hm; Gehzeit ca. 5,5 Std. \nKeine Einkehr, Rucksackverpflegung!\nAnmeldung Online",
-          "bookable_id": "69eb63664b9e3ae7f3dec079",
-          "bookable_start": "2026-05-24",
-          "bookable_end": "2026-05-24",
-          "free_places": 0,
-          "max_places": 0,
-          "bookable_places": 0,
+          "description": "Diese erlebnisreiche Tour fängt schon vor der Tour an—die Anfahrt zu unserem Campingplatz auf dem Lido, der vorgelagerten Insel von Venedig, findet auf der Autofähre durch den Guidecca Kanal an- und ist schon selbst ein Erlebnis.\nWir starten die Vogalonga direkt von unserem Campingplatz aus- und die Tour zaubert Dir spätestens dann, wenn Du in den Canal Grande einfahren wirst, ein Lächeln nein- ein breites Grinsen ins Gesicht. Vorher werden wir Burano, Murano und das jüdische Ghetto in Venedig gesehen haben und durchpaddelt sein.\nOrt: Tourenstandort: Campingplatz Lido de Venezia San Nicolo\nAnforderungen: Anforderungen: gute Kondition, Paddelerfahrung im bewegten Wasser ( WW 0 bis 1 ) und eigene Paddelausrüstung\nAnreise: Bootstransport und Anreise im eigenen PKW (Fahrgemeinschaften)",
+          "bookable_id": "69bd5fcd4e9957bf1e330d2a",
+          "bookable_start": "2026-05-22",
+          "bookable_end": "2026-05-25",
+          "free_places": 1,
+          "max_places": 8,
+          "bookable_places": 1,
           "waitlist_active": true,
           "bookable_canceled": false
         }
