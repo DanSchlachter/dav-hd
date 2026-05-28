@@ -1,14 +1,92 @@
 {
-  "timestamp": "2026-05-27T08:58:11.627065+00:00",
-  "previous_timestamp": "2026-05-26T09:32:33.479586+00:00",
+  "timestamp": "2026-05-28T09:41:40.815895+00:00",
+  "previous_timestamp": "2026-05-27T08:58:11.621268+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "69c3e2a3922622f618d841d9",
+        "changed_fields": [
+          "bookable_id",
+          "bookable_start",
+          "bookable_end",
+          "waitlist_active"
+        ],
+        "changes": {
+          "bookable_id": {
+            "from": "69c3e2a3922622f618d841db",
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-05-27",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-05-27",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "69c3e2a3922622f618d841d9",
+          "number": "260520WA_013",
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-05-27",
+          "date_to": "2026-05-27",
+          "locations": [
+            "Heidelberg Hauptbahnhof"
+          ],
+          "description": "Dobel, Wildsee, Grünhütte (Einkehr), Bad Wildbad\n20 Km, 600 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg  Hauptbahnhof 07:22 Uhr RE 73 Richtung Karlsruhe\n-Keine Anmeldung-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69c3e2a3922622f618d841d9",
+          "number": "260520WA_013",
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-05-27",
+          "date_to": "2026-05-27",
+          "locations": [
+            "Heidelberg Hauptbahnhof"
+          ],
+          "description": "Dobel, Wildsee, Grünhütte (Einkehr), Bad Wildbad\n20 Km, 600 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg  Hauptbahnhof 07:22 Uhr RE 73 Richtung Karlsruhe\n-Keine Anmeldung-",
+          "bookable_id": "69c3e2a3922622f618d841db",
+          "bookable_start": "2026-05-27",
+          "bookable_end": "2026-05-27",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
