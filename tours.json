@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-29T09:31:13.321474+00:00",
+  "timestamp": "2026-05-30T08:13:41.300922+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 68,
+  "tour_count": 71,
   "tours": [
     {
       "id": "69b345e4a4648fdbe626a659",
@@ -1270,13 +1270,13 @@
         "Heidelberg Bismarckplatz"
       ],
       "description": "Heiligkreuzsteinach Marktplatz, Eichköpfel, Adlerstein, Schönbrunn (Mittagseinkehr), Unterschönmattenwag (Korsika).\n12 Km; 250 Hm; Gehzeit ca. 3,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:54 Uhr Bus Linie 34 nach Heiligkreuzsteinach\n-Keine Anmeldung-",
-      "bookable_id": "69c3e3ca46d4f843f4be1450",
-      "bookable_start": "2026-05-29",
-      "bookable_end": "2026-05-29",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1698,6 +1698,81 @@
       "bookable_id": "6a0d8b647a37db9e80ee499b",
       "bookable_start": "2026-06-07",
       "bookable_end": "2026-06-07",
+      "free_places": 10,
+      "max_places": 10,
+      "bookable_places": 10,
+      "waitlist_active": false,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a1966dd75bc005c63fc546f",
+      "number": "2600705_MTB01",
+      "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Mountainbike"
+      ],
+      "date_from": "2026-07-05",
+      "date_to": "2026-07-05",
+      "locations": [
+        "Heidelberg"
+      ],
+      "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
+      "bookable_id": "6a1966dd75bc005c63fc5473",
+      "bookable_start": "2026-07-05",
+      "bookable_end": "2026-07-05",
+      "free_places": 10,
+      "max_places": 10,
+      "bookable_places": 10,
+      "waitlist_active": false,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a19675231a1e40446bfc77b",
+      "number": "260802_MTB01",
+      "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Mountainbike"
+      ],
+      "date_from": "2026-08-02",
+      "date_to": "2026-08-02",
+      "locations": [
+        "Heidelberg"
+      ],
+      "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
+      "bookable_id": "6a19675231a1e40446bfc77d",
+      "bookable_start": "2026-08-02",
+      "bookable_end": "2026-08-02",
+      "free_places": 10,
+      "max_places": 10,
+      "bookable_places": 10,
+      "waitlist_active": false,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a1967a031a1e40446bfcfc9",
+      "number": "260906_MTB01",
+      "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Mountainbike"
+      ],
+      "date_from": "2026-09-06",
+      "date_to": "2026-09-06",
+      "locations": [
+        "Heidelberg"
+      ],
+      "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
+      "bookable_id": "6a1967a031a1e40446bfcfcb",
+      "bookable_start": "2026-09-06",
+      "bookable_end": "2026-09-06",
       "free_places": 10,
       "max_places": 10,
       "bookable_places": 10,
