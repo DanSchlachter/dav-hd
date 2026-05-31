@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-30T08:13:41.300922+00:00",
+  "timestamp": "2026-05-31T08:32:26.501544+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 71,
   "tours": [
@@ -1295,13 +1295,13 @@
         "Heidelberg Hauptbahnhof"
       ],
       "description": "Lambrecht, Hellerplatz, Neustadt (Schlusseinkehr)\n20 Km; 670 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Keine Anmeldung-",
-      "bookable_id": "69c3e453922622f618d84cb8",
-      "bookable_start": "2026-05-30",
-      "bookable_end": "2026-05-30",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {

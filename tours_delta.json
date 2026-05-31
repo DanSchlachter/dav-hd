@@ -1,133 +1,57 @@
 {
-  "timestamp": "2026-05-30T08:13:41.306701+00:00",
-  "previous_timestamp": "2026-05-29T09:31:13.321474+00:00",
+  "timestamp": "2026-05-31T08:32:26.507623+00:00",
+  "previous_timestamp": "2026-05-30T08:13:41.300922+00:00",
   "summary": {
-    "added": 3,
+    "added": 0,
     "removed": 0,
     "modified": 1
   },
   "changes": {
-    "added": [
-      {
-        "id": "6a1966dd75bc005c63fc546f",
-        "number": "2600705_MTB01",
-        "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Mountainbike"
-        ],
-        "date_from": "2026-07-05",
-        "date_to": "2026-07-05",
-        "locations": [
-          "Heidelberg"
-        ],
-        "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
-        "bookable_id": "6a1966dd75bc005c63fc5473",
-        "bookable_start": "2026-07-05",
-        "bookable_end": "2026-07-05",
-        "free_places": 10,
-        "max_places": 10,
-        "bookable_places": 10,
-        "waitlist_active": false,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a19675231a1e40446bfc77b",
-        "number": "260802_MTB01",
-        "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Mountainbike"
-        ],
-        "date_from": "2026-08-02",
-        "date_to": "2026-08-02",
-        "locations": [
-          "Heidelberg"
-        ],
-        "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
-        "bookable_id": "6a19675231a1e40446bfc77d",
-        "bookable_start": "2026-08-02",
-        "bookable_end": "2026-08-02",
-        "free_places": 10,
-        "max_places": 10,
-        "bookable_places": 10,
-        "waitlist_active": false,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a1967a031a1e40446bfcfc9",
-        "number": "260906_MTB01",
-        "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Mountainbike"
-        ],
-        "date_from": "2026-09-06",
-        "date_to": "2026-09-06",
-        "locations": [
-          "Heidelberg"
-        ],
-        "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
-        "bookable_id": "6a1967a031a1e40446bfcfcb",
-        "bookable_start": "2026-09-06",
-        "bookable_end": "2026-09-06",
-        "free_places": 10,
-        "max_places": 10,
-        "bookable_places": 10,
-        "waitlist_active": false,
-        "bookable_canceled": false
-      }
-    ],
+    "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "69c3e3ca46d4f843f4be144e",
+        "id": "69c3e453922622f618d84cb6",
         "changed_fields": [
+          "waitlist_active",
           "bookable_id",
           "bookable_end",
-          "waitlist_active",
           "bookable_start"
         ],
         "changes": {
-          "bookable_id": {
-            "from": "69c3e3ca46d4f843f4be1450",
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-05-29",
-            "to": ""
-          },
           "waitlist_active": {
             "from": true,
             "to": null
           },
+          "bookable_id": {
+            "from": "69c3e453922622f618d84cb8",
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-05-30",
+            "to": ""
+          },
           "bookable_start": {
-            "from": "2026-05-29",
+            "from": "2026-05-30",
             "to": ""
           }
         },
         "current": {
-          "id": "69c3e3ca46d4f843f4be144e",
-          "number": "260529WA_015",
-          "title": "Freitagswanderung",
+          "id": "69c3e453922622f618d84cb6",
+          "number": "260530WA_016",
+          "title": "Samstagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-05-29",
-          "date_to": "2026-05-29",
+          "date_from": "2026-05-30",
+          "date_to": "2026-05-30",
           "locations": [
-            "Heidelberg Bismarckplatz"
+            "Heidelberg Hauptbahnhof"
           ],
-          "description": "Heiligkreuzsteinach Marktplatz, Eichköpfel, Adlerstein, Schönbrunn (Mittagseinkehr), Unterschönmattenwag (Korsika).\n12 Km; 250 Hm; Gehzeit ca. 3,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:54 Uhr Bus Linie 34 nach Heiligkreuzsteinach\n-Keine Anmeldung-",
+          "description": "Lambrecht, Hellerplatz, Neustadt (Schlusseinkehr)\n20 Km; 670 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Keine Anmeldung-",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -138,24 +62,24 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69c3e3ca46d4f843f4be144e",
-          "number": "260529WA_015",
-          "title": "Freitagswanderung",
+          "id": "69c3e453922622f618d84cb6",
+          "number": "260530WA_016",
+          "title": "Samstagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-05-29",
-          "date_to": "2026-05-29",
+          "date_from": "2026-05-30",
+          "date_to": "2026-05-30",
           "locations": [
-            "Heidelberg Bismarckplatz"
+            "Heidelberg Hauptbahnhof"
           ],
-          "description": "Heiligkreuzsteinach Marktplatz, Eichköpfel, Adlerstein, Schönbrunn (Mittagseinkehr), Unterschönmattenwag (Korsika).\n12 Km; 250 Hm; Gehzeit ca. 3,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:54 Uhr Bus Linie 34 nach Heiligkreuzsteinach\n-Keine Anmeldung-",
-          "bookable_id": "69c3e3ca46d4f843f4be1450",
-          "bookable_start": "2026-05-29",
-          "bookable_end": "2026-05-29",
+          "description": "Lambrecht, Hellerplatz, Neustadt (Schlusseinkehr)\n20 Km; 670 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Keine Anmeldung-",
+          "bookable_id": "69c3e453922622f618d84cb8",
+          "bookable_start": "2026-05-30",
+          "bookable_end": "2026-05-30",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
