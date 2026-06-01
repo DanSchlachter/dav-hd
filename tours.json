@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-31T08:32:26.501544+00:00",
+  "timestamp": "2026-06-01T11:05:21.240374+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 71,
+  "tour_count": 72,
   "tours": [
     {
       "id": "69b345e4a4648fdbe626a659",
@@ -523,9 +523,9 @@
       "bookable_id": "69bd5412bd72746a96774687",
       "bookable_start": "2026-07-17",
       "bookable_end": "2026-07-19",
-      "free_places": 3,
+      "free_places": 2,
       "max_places": 12,
-      "bookable_places": 3,
+      "bookable_places": 2,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1367,9 +1367,9 @@
       "date_from": "2026-06-12",
       "date_to": "2026-06-12",
       "locations": [
-        "ND"
+        "Heidelberg Hauptbahnhof"
       ],
-      "description": "",
+      "description": "Neckargerach, Minneburg, Stolzeneck, Eberbach (Shlusseinkehr)\n17 Km; 770 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Keine Anmeldung-",
       "bookable_id": "69c3e6186764ed781731374d",
       "bookable_start": "2026-06-12",
       "bookable_end": "2026-06-12",
@@ -1702,6 +1702,31 @@
       "max_places": 10,
       "bookable_places": 10,
       "waitlist_active": false,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a1964e25fb8f73f00c41f94",
+      "number": "20260606MTB",
+      "title": "Mit dem Mountainbike  in den Pfälzerwald",
+      "type": "CUSTOM",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Mountainbike"
+      ],
+      "date_from": "2026-06-06",
+      "date_to": "2026-06-06",
+      "locations": [
+        "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+      ],
+      "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
+      "bookable_id": "6a1964e25fb8f73f00c41f96",
+      "bookable_start": "2026-06-06",
+      "bookable_end": "2026-06-06",
+      "free_places": 12,
+      "max_places": 12,
+      "bookable_places": 12,
+      "waitlist_active": true,
       "bookable_canceled": false
     },
     {

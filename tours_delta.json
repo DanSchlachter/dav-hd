@@ -1,85 +1,172 @@
 {
-  "timestamp": "2026-05-31T08:32:26.507623+00:00",
-  "previous_timestamp": "2026-05-30T08:13:41.300922+00:00",
+  "timestamp": "2026-06-01T11:05:21.246551+00:00",
+  "previous_timestamp": "2026-05-31T08:32:26.501544+00:00",
   "summary": {
-    "added": 0,
+    "added": 1,
     "removed": 0,
-    "modified": 1
+    "modified": 2
   },
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "id": "6a1964e25fb8f73f00c41f94",
+        "number": "20260606MTB",
+        "title": "Mit dem Mountainbike  in den Pfälzerwald",
+        "type": "CUSTOM",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Mountainbike"
+        ],
+        "date_from": "2026-06-06",
+        "date_to": "2026-06-06",
+        "locations": [
+          "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+        ],
+        "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
+        "bookable_id": "6a1964e25fb8f73f00c41f96",
+        "bookable_start": "2026-06-06",
+        "bookable_end": "2026-06-06",
+        "free_places": 12,
+        "max_places": 12,
+        "bookable_places": 12,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      }
+    ],
     "removed": [],
     "modified": [
       {
-        "id": "69c3e453922622f618d84cb6",
+        "id": "69bd5412bd72746a96774685",
         "changed_fields": [
-          "waitlist_active",
-          "bookable_id",
-          "bookable_end",
-          "bookable_start"
+          "free_places",
+          "bookable_places"
         ],
         "changes": {
-          "waitlist_active": {
-            "from": true,
-            "to": null
+          "free_places": {
+            "from": 3,
+            "to": 2
           },
-          "bookable_id": {
-            "from": "69c3e453922622f618d84cb8",
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-05-30",
-            "to": ""
-          },
-          "bookable_start": {
-            "from": "2026-05-30",
-            "to": ""
+          "bookable_places": {
+            "from": 3,
+            "to": 2
           }
         },
         "current": {
-          "id": "69c3e453922622f618d84cb6",
-          "number": "260530WA_016",
-          "title": "Samstagswanderung",
+          "id": "69bd5412bd72746a96774685",
+          "number": "260726Kl_G006",
+          "title": "Klettern im Donautal",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Klettern"
           ],
-          "date_from": "2026-05-30",
-          "date_to": "2026-05-30",
+          "date_from": "2026-07-17",
+          "date_to": "2026-07-19",
           "locations": [
-            "Heidelberg Hauptbahnhof"
+            "Donautal"
           ],
-          "description": "Lambrecht, Hellerplatz, Neustadt (Schlusseinkehr)\n20 Km; 670 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Keine Anmeldung-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
+          "description": "Ein- und Mehrseillängenklettern\nÜbernachtung nach Verfügbarkeit: CP Sigmaringen, CP Beuron Hausen im Tal / Camping Buck Beuron / Campinggarten Leibertingen\nAnforderungen: Vorstieg V, Eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
+          "bookable_id": "69bd5412bd72746a96774687",
+          "bookable_start": "2026-07-17",
+          "bookable_end": "2026-07-19",
+          "free_places": 2,
+          "max_places": 12,
+          "bookable_places": 2,
+          "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69c3e453922622f618d84cb6",
-          "number": "260530WA_016",
-          "title": "Samstagswanderung",
+          "id": "69bd5412bd72746a96774685",
+          "number": "260726Kl_G006",
+          "title": "Klettern im Donautal",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Klettern"
+          ],
+          "date_from": "2026-07-17",
+          "date_to": "2026-07-19",
+          "locations": [
+            "Donautal"
+          ],
+          "description": "Ein- und Mehrseillängenklettern\nÜbernachtung nach Verfügbarkeit: CP Sigmaringen, CP Beuron Hausen im Tal / Camping Buck Beuron / Campinggarten Leibertingen\nAnforderungen: Vorstieg V, Eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
+          "bookable_id": "69bd5412bd72746a96774687",
+          "bookable_start": "2026-07-17",
+          "bookable_end": "2026-07-19",
+          "free_places": 3,
+          "max_places": 12,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69c3e6186764ed781731374b",
+        "changed_fields": [
+          "locations",
+          "description"
+        ],
+        "changes": {
+          "locations": {
+            "from": [
+              "ND"
+            ],
+            "to": [
+              "Heidelberg Hauptbahnhof"
+            ]
+          },
+          "description": {
+            "from": "",
+            "to": "Neckargerach, Minneburg, Stolzeneck, Eberbach (Shlusseinkehr)\n17 Km; 770 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Keine Anmeldung-"
+          }
+        },
+        "current": {
+          "id": "69c3e6186764ed781731374b",
+          "number": "290612WA_019",
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-05-30",
-          "date_to": "2026-05-30",
+          "date_from": "2026-06-12",
+          "date_to": "2026-06-12",
           "locations": [
             "Heidelberg Hauptbahnhof"
           ],
-          "description": "Lambrecht, Hellerplatz, Neustadt (Schlusseinkehr)\n20 Km; 670 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Keine Anmeldung-",
-          "bookable_id": "69c3e453922622f618d84cb8",
-          "bookable_start": "2026-05-30",
-          "bookable_end": "2026-05-30",
+          "description": "Neckargerach, Minneburg, Stolzeneck, Eberbach (Shlusseinkehr)\n17 Km; 770 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Keine Anmeldung-",
+          "bookable_id": "69c3e6186764ed781731374d",
+          "bookable_start": "2026-06-12",
+          "bookable_end": "2026-06-12",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69c3e6186764ed781731374b",
+          "number": "290612WA_019",
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-06-12",
+          "date_to": "2026-06-12",
+          "locations": [
+            "ND"
+          ],
+          "description": "",
+          "bookable_id": "69c3e6186764ed781731374d",
+          "bookable_start": "2026-06-12",
+          "bookable_end": "2026-06-12",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
