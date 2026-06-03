@@ -1,14 +1,82 @@
 {
-  "timestamp": "2026-06-02T09:59:14.996979+00:00",
-  "previous_timestamp": "2026-06-01T11:05:21.240374+00:00",
+  "timestamp": "2026-06-03T10:30:13.348781+00:00",
+  "previous_timestamp": "2026-06-02T09:59:14.990688+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "6a1964e25fb8f73f00c41f94",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 12,
+            "to": 11
+          },
+          "bookable_places": {
+            "from": 12,
+            "to": 11
+          }
+        },
+        "current": {
+          "id": "6a1964e25fb8f73f00c41f94",
+          "number": "20260606MTB",
+          "title": "Mit dem Mountainbike  in den Pfälzerwald",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-06-06",
+          "date_to": "2026-06-06",
+          "locations": [
+            "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+          ],
+          "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
+          "bookable_id": "6a1964e25fb8f73f00c41f96",
+          "bookable_start": "2026-06-06",
+          "bookable_end": "2026-06-06",
+          "free_places": 11,
+          "max_places": 12,
+          "bookable_places": 11,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a1964e25fb8f73f00c41f94",
+          "number": "20260606MTB",
+          "title": "Mit dem Mountainbike  in den Pfälzerwald",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-06-06",
+          "date_to": "2026-06-06",
+          "locations": [
+            "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+          ],
+          "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
+          "bookable_id": "6a1964e25fb8f73f00c41f96",
+          "bookable_start": "2026-06-06",
+          "bookable_end": "2026-06-06",
+          "free_places": 12,
+          "max_places": 12,
+          "bookable_places": 12,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
