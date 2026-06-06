@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05T09:25:48.174384+00:00",
+  "timestamp": "2026-06-06T08:21:35.410628+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 73,
   "tours": [
@@ -1370,13 +1370,13 @@
         "Heidelberg Hauptbahnhof"
       ],
       "description": "Bahnhof Neckargemünd Altstadt, Burg Reichenstein, Neckarriedkopfhütte, Linsenteicheck, Felsenmeer, Russenstein, Gaiberg (Schlusseinkehr)\n15,5 m, 550 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 10:25 Uhr S 1 Richtung Osterburken\nWanderführerin mit Hund Arya empfängt die Gruppe am Bahnhof Neckargemünd Altstadt\n-Keine Anmeldung-",
-      "bookable_id": "69c3e585922622f618d85286",
-      "bookable_start": "2026-06-05",
-      "bookable_end": "2026-06-05",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1748,9 +1748,9 @@
       "bookable_id": "6a1964e25fb8f73f00c41f96",
       "bookable_start": "2026-06-06",
       "bookable_end": "2026-06-06",
-      "free_places": 10,
+      "free_places": 11,
       "max_places": 12,
-      "bookable_places": 10,
+      "bookable_places": 11,
       "waitlist_active": true,
       "bookable_canceled": false
     },
