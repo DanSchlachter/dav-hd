@@ -1,196 +1,79 @@
 {
-  "timestamp": "2026-06-08T10:13:22.721840+00:00",
-  "previous_timestamp": "2026-06-06T08:21:35.410628+00:00",
+  "timestamp": "2026-06-09T08:56:27.321047+00:00",
+  "previous_timestamp": "2026-06-08T10:13:22.715378+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 2
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a0d8b647a37db9e80ee4999",
+        "id": "69bd69e3bd72746a967829c1",
         "changed_fields": [
-          "bookable_start",
-          "bookable_id",
           "bookable_places",
-          "waitlist_active",
-          "max_places",
-          "free_places",
-          "bookable_end"
+          "free_places"
         ],
         "changes": {
-          "bookable_start": {
-            "from": "2026-06-07",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "6a0d8b647a37db9e80ee499b",
-            "to": null
-          },
           "bookable_places": {
-            "from": 10,
-            "to": null
-          },
-          "waitlist_active": {
-            "from": false,
-            "to": null
-          },
-          "max_places": {
-            "from": 10,
-            "to": null
+            "from": 6,
+            "to": 5
           },
           "free_places": {
-            "from": 10,
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-06-07",
-            "to": ""
+            "from": 6,
+            "to": 5
           }
         },
         "current": {
-          "id": "6a0d8b647a37db9e80ee4999",
-          "number": "260520_MTB01",
-          "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
+          "id": "69bd69e3bd72746a967829c1",
+          "number": "260619MTB_F007",
+          "title": "Mountainbike Pfalzcross Juni 2026",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Mountainbike"
           ],
-          "date_from": "2026-06-07",
-          "date_to": "2026-06-07",
+          "date_from": "2026-06-19",
+          "date_to": "2026-06-21",
           "locations": [
-            "Heidelberg"
+            "nn"
           ],
-          "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a0d8b647a37db9e80ee4999",
-          "number": "260520_MTB01",
-          "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-06-07",
-          "date_to": "2026-06-07",
-          "locations": [
-            "Heidelberg"
-          ],
-          "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
-          "bookable_id": "6a0d8b647a37db9e80ee499b",
-          "bookable_start": "2026-06-07",
-          "bookable_end": "2026-06-07",
-          "free_places": 10,
+          "description": "Von Wissembourg über Hauenstein nach Pirmasens. An zwei Tagen im Pfälzer erkunden wir verschlungene Pfade, eine Burgruine und ein Stück des Rodalbener Felsenwegs. Bei schönem Wetter lächelt ein See und lockt zum Bade. Pro Tag sind rund 40 Kilometer und etwa 1200 Höhenmeter zu fahren. Anreise am Freitagabend mit der Bahn, Sonntagabend zurück.\nAnforderungen: S2-3 und K2-K3",
+          "bookable_id": "69bd69e3bd72746a967829c3",
+          "bookable_start": "2026-06-19",
+          "bookable_end": "2026-06-21",
+          "free_places": 5,
           "max_places": 10,
-          "bookable_places": 10,
+          "bookable_places": 5,
           "waitlist_active": false,
           "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a1964e25fb8f73f00c41f94",
-        "changed_fields": [
-          "bookable_start",
-          "bookable_id",
-          "bookable_places",
-          "waitlist_active",
-          "max_places",
-          "free_places",
-          "bookable_end"
-        ],
-        "changes": {
-          "bookable_start": {
-            "from": "2026-06-06",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "6a1964e25fb8f73f00c41f96",
-            "to": null
-          },
-          "bookable_places": {
-            "from": 11,
-            "to": null
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          },
-          "max_places": {
-            "from": 12,
-            "to": null
-          },
-          "free_places": {
-            "from": 11,
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-06-06",
-            "to": ""
-          }
-        },
-        "current": {
-          "id": "6a1964e25fb8f73f00c41f94",
-          "number": "20260606MTB",
-          "title": "Mit dem Mountainbike  in den Pfälzerwald",
-          "type": "CUSTOM",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-06-06",
-          "date_to": "2026-06-06",
-          "locations": [
-            "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
-          ],
-          "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
         },
         "previous": {
-          "id": "6a1964e25fb8f73f00c41f94",
-          "number": "20260606MTB",
-          "title": "Mit dem Mountainbike  in den Pfälzerwald",
-          "type": "CUSTOM",
+          "id": "69bd69e3bd72746a967829c1",
+          "number": "260619MTB_F007",
+          "title": "Mountainbike Pfalzcross Juni 2026",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Mountainbike"
           ],
-          "date_from": "2026-06-06",
-          "date_to": "2026-06-06",
+          "date_from": "2026-06-19",
+          "date_to": "2026-06-21",
           "locations": [
-            "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+            "nn"
           ],
-          "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
-          "bookable_id": "6a1964e25fb8f73f00c41f96",
-          "bookable_start": "2026-06-06",
-          "bookable_end": "2026-06-06",
-          "free_places": 11,
-          "max_places": 12,
-          "bookable_places": 11,
-          "waitlist_active": true,
+          "description": "Von Wissembourg über Hauenstein nach Pirmasens. An zwei Tagen im Pfälzer erkunden wir verschlungene Pfade, eine Burgruine und ein Stück des Rodalbener Felsenwegs. Bei schönem Wetter lächelt ein See und lockt zum Bade. Pro Tag sind rund 40 Kilometer und etwa 1200 Höhenmeter zu fahren. Anreise am Freitagabend mit der Bahn, Sonntagabend zurück.\nAnforderungen: S2-3 und K2-K3",
+          "bookable_id": "69bd69e3bd72746a967829c3",
+          "bookable_start": "2026-06-19",
+          "bookable_end": "2026-06-21",
+          "free_places": 6,
+          "max_places": 10,
+          "bookable_places": 6,
+          "waitlist_active": false,
           "bookable_canceled": false
         }
       }
