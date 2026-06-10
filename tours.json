@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-09T08:56:27.314987+00:00",
+  "timestamp": "2026-06-10T09:37:28.643428+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 73,
+  "tour_count": 79,
   "tours": [
     {
       "id": "69b345e4a4648fdbe626a659",
@@ -1073,9 +1073,9 @@
       "bookable_id": "69bd67004e9957bf1e33aa8f",
       "bookable_start": "2026-07-26",
       "bookable_end": "2026-07-26",
-      "free_places": 8,
+      "free_places": 7,
       "max_places": 10,
-      "bookable_places": 8,
+      "bookable_places": 7,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -1173,9 +1173,9 @@
       "bookable_id": "69bd732a4e9957bf1e3485d5",
       "bookable_start": "2026-08-29",
       "bookable_end": "2026-09-05",
-      "free_places": 2,
-      "max_places": 4,
-      "bookable_places": 2,
+      "free_places": 0,
+      "max_places": 3,
+      "bookable_places": 0,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -1442,9 +1442,9 @@
       "date_from": "2026-06-19",
       "date_to": "2026-06-19",
       "locations": [
-        "ND"
+        "HD HBF"
       ],
-      "description": "",
+      "description": "Schriesheim, Strahlenburg, Schauenburg, Alter Segelflugplatz, Schriesheim (Schlusseinkehr)\nAbfahrt Heidelberg HBF 8:31 Uhr, STR 21 Richtung Schriesheim,.\n12 km, 370 hm, Gehzeit ca. 4h",
       "bookable_id": "69c3e737922622f618d85eac",
       "bookable_start": "2026-06-19",
       "bookable_end": "2026-06-19",
@@ -1827,6 +1827,156 @@
       "max_places": 10,
       "bookable_places": 10,
       "waitlist_active": false,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a292771fe265180d5049cdc",
+      "number": null,
+      "title": "In-Between-Gruppe Sonntagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-07-05",
+      "date_to": "2026-07-05",
+      "locations": [
+        "Heidelberg HBF"
+      ],
+      "description": "Pfalzwanderung, Treffpunkt Neustadt/Weinstraße 9:35 Uhr, Abfahrt Heidelberg HBF8:34 Uhr, S2 nach Neustadt.",
+      "bookable_id": "6a292771fe265180d5049cde",
+      "bookable_start": "2026-07-05",
+      "bookable_end": "2026-07-05",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a292951fe265180d504c339",
+      "number": null,
+      "title": "In-Between-Gruppe Sonntagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-08-02",
+      "date_to": "2026-08-02",
+      "locations": [
+        "N.N."
+      ],
+      "description": "",
+      "bookable_id": "6a292951fe265180d504c33b",
+      "bookable_start": "2026-08-02",
+      "bookable_end": "2026-08-02",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a292a1d51b966ad6f143130",
+      "number": null,
+      "title": "In-Between-Gruppe Sonntagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-09-20",
+      "date_to": "2026-09-20",
+      "locations": [
+        "N.D."
+      ],
+      "description": "",
+      "bookable_id": "6a292a1d51b966ad6f143133",
+      "bookable_start": "2026-09-20",
+      "bookable_end": "2026-09-20",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a292ba9fe265180d504e722",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-07-10",
+      "date_to": "2026-07-10",
+      "locations": [
+        "N.D."
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a292ba9fe265180d504e725",
+      "bookable_start": "2026-07-10",
+      "bookable_end": "2026-07-10",
+      "free_places": 6,
+      "max_places": 6,
+      "bookable_places": 6,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a292dfffe265180d5051071",
+      "number": null,
+      "title": "Mittwochswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-07-15",
+      "date_to": "2026-07-15",
+      "locations": [
+        "N.D."
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a292dfffe265180d5051073",
+      "bookable_start": "2026-07-15",
+      "bookable_end": "2026-07-15",
+      "free_places": 6,
+      "max_places": 6,
+      "bookable_places": 6,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a292f1851b966ad6f14d775",
+      "number": null,
+      "title": "Samstagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-07-25",
+      "date_to": "2026-07-25",
+      "locations": [
+        "N:D."
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a292f1851b966ad6f14d777",
+      "bookable_start": "2026-07-25",
+      "bookable_end": "2026-07-25",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
       "bookable_canceled": false
     }
   ]
