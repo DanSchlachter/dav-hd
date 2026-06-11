@@ -1,115 +1,40 @@
 {
-  "timestamp": "2026-06-10T09:37:28.649768+00:00",
-  "previous_timestamp": "2026-06-09T08:56:27.314987+00:00",
+  "timestamp": "2026-06-11T10:01:33.091755+00:00",
+  "previous_timestamp": "2026-06-10T09:37:28.643428+00:00",
   "summary": {
-    "added": 6,
+    "added": 19,
     "removed": 0,
     "modified": 3
   },
   "changes": {
     "added": [
       {
-        "id": "6a292771fe265180d5049cdc",
-        "number": null,
-        "title": "In-Between-Gruppe Sonntagswanderung",
+        "id": "69ba99aa7942a88da9fdfdf3",
+        "number": "2610_WAN_F_001",
+        "title": "Mehrtagestour in den Thüringer Wald",
         "type": "TOUR",
         "canceled": false,
         "cancel_reason": null,
         "categories": [
           "Wandern"
         ],
-        "date_from": "2026-07-05",
-        "date_to": "2026-07-05",
+        "date_from": "2026-10-11",
+        "date_to": "2026-10-17",
         "locations": [
-          "Heidelberg HBF"
+          "Thüringer Wald"
         ],
-        "description": "Pfalzwanderung, Treffpunkt Neustadt/Weinstraße 9:35 Uhr, Abfahrt Heidelberg HBF8:34 Uhr, S2 nach Neustadt.",
-        "bookable_id": "6a292771fe265180d5049cde",
-        "bookable_start": "2026-07-05",
-        "bookable_end": "2026-07-05",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
+        "description": "Tageswanderungen im Thüringer Wald. Hin- und Rückfahrt mit der Bahn. Mit der DB von Heidelberg über Frankfurt nach Gotha, weiter mit der Thüringer Wald-Bahn von Gotha nach Bad Tabarz. Unterbringung in einem Hotel in Bad Tabarz. Von dort starten wir unsere Tagestouren. Die umliegenden Berge, wie den Großen Inselsberg erwandern wir teilweise über den Rennsteig, den Tabarzer Vulkansteig oder den Lutherweg. Eine Wanderung führt uns zur Wartburg und nach Eisenach mit Gelegenheit zur Besichtigung von Burg und Stadt.\nUm an verschiedene Ausgangs- und Endpunkte unserer Wanderungen zu gelangen, werden wir den dortigen ÖPNV mit dem Deutschlandticket und der Gästekarte nutzen.\n\nAnforderungen: 700 – 900 Hm, Gehzeiten ca. 6 – 7 Stunden.\nAusrüstung: Wanderkleidung (für jedes Wetter), festes Schuhwerk, Wanderstöcke, Rucksack.\nVorkenntnisse: keine\nAn- und Abreise: Deutsche Bahn (Gruppenfahrkarte), sowie ÖPNV\nUnterbringung: Hotel in Bad Tabarz.\nKosten: ÜN/F im DZ ca. 75 € pro Nacht und Person,\nUnterbringung in DZ / EZ\nTeilnehmerzahl: 8\nAnmeldung: ab sofort\nAnmeldeschluss: 20.06.2026\nVorbesprechung: Termin nach Absprache",
+        "bookable_id": "69ba99aa7942a88da9fdfdf5",
+        "bookable_start": "2026-10-11",
+        "bookable_end": "2026-10-17",
+        "free_places": 0,
+        "max_places": 12,
+        "bookable_places": 0,
         "waitlist_active": true,
         "bookable_canceled": false
       },
       {
-        "id": "6a292951fe265180d504c339",
-        "number": null,
-        "title": "In-Between-Gruppe Sonntagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-08-02",
-        "date_to": "2026-08-02",
-        "locations": [
-          "N.N."
-        ],
-        "description": "",
-        "bookable_id": "6a292951fe265180d504c33b",
-        "bookable_start": "2026-08-02",
-        "bookable_end": "2026-08-02",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": true,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a292a1d51b966ad6f143130",
-        "number": null,
-        "title": "In-Between-Gruppe Sonntagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-09-20",
-        "date_to": "2026-09-20",
-        "locations": [
-          "N.D."
-        ],
-        "description": "",
-        "bookable_id": "6a292a1d51b966ad6f143133",
-        "bookable_start": "2026-09-20",
-        "bookable_end": "2026-09-20",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": true,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a292ba9fe265180d504e722",
-        "number": null,
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-07-10",
-        "date_to": "2026-07-10",
-        "locations": [
-          "N.D."
-        ],
-        "description": "N.D.",
-        "bookable_id": "6a292ba9fe265180d504e725",
-        "bookable_start": "2026-07-10",
-        "bookable_end": "2026-07-10",
-        "free_places": 6,
-        "max_places": 6,
-        "bookable_places": 6,
-        "waitlist_active": true,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a292dfffe265180d5051071",
+        "id": "6a2958b4baf2d3e4597bd705",
         "number": null,
         "title": "Mittwochswanderung",
         "type": "TOUR",
@@ -118,23 +43,223 @@
         "categories": [
           "Wandern"
         ],
-        "date_from": "2026-07-15",
-        "date_to": "2026-07-15",
+        "date_from": "2026-07-01",
+        "date_to": "2026-07-01",
         "locations": [
-          "N.D."
+          "Heidelberg Hauptbahnhof"
         ],
-        "description": "N.D.",
-        "bookable_id": "6a292dfffe265180d5051073",
-        "bookable_start": "2026-07-15",
-        "bookable_end": "2026-07-15",
-        "free_places": 6,
-        "max_places": 6,
-        "bookable_places": 6,
+        "description": "Zwingenberg, Ruine Stolzeneck, Eberbach (Einkehr)\n11 Km; 190 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Eberbach\n-Keine Anmeldung-",
+        "bookable_id": "6a2958b4baf2d3e4597bd708",
+        "bookable_start": "2026-07-01",
+        "bookable_end": "2026-07-01",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
         "waitlist_active": true,
         "bookable_canceled": false
       },
       {
-        "id": "6a292f1851b966ad6f14d775",
+        "id": "6a295ceb1644e0483a115844",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-07-17",
+        "date_to": "2026-07-17",
+        "locations": [
+          "N.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a295ceb1644e0483a11584b",
+        "bookable_start": "2026-07-17",
+        "bookable_end": "2026-07-17",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2961862bf69ed3b7182025",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-07-24",
+        "date_to": "2026-07-24",
+        "locations": [
+          "N.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2961862bf69ed3b7182028",
+        "bookable_start": "2026-07-24",
+        "bookable_end": "2026-07-24",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a29623d1644e0483a119633",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-07-31",
+        "date_to": "2026-07-31",
+        "locations": [
+          "n.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a29623d1644e0483a119635",
+        "bookable_start": "2026-07-31",
+        "bookable_end": "2026-07-31",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2968922bf69ed3b718a9bf",
+        "number": null,
+        "title": "Mittwochswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-08-05",
+        "date_to": "2026-08-05",
+        "locations": [
+          "N.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2968922bf69ed3b718a9c3",
+        "bookable_start": "2026-08-05",
+        "bookable_end": "2026-08-05",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a296942d044b6737a0ec750",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-08-07",
+        "date_to": "2026-08-07",
+        "locations": [
+          "N.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a296942d044b6737a0ec752",
+        "bookable_start": "2026-08-07",
+        "bookable_end": "2026-08-07",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7835d044b6737a145e85",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-08-14",
+        "date_to": "2026-08-14",
+        "locations": [
+          "n.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2a7835d044b6737a145e87",
+        "bookable_start": "2026-08-14",
+        "bookable_end": "2026-08-14",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a78fb1644e0483a17f0a7",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-08-21",
+        "date_to": "2026-08-21",
+        "locations": [
+          "N.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2a78fb1644e0483a17f0a9",
+        "bookable_start": "2026-08-21",
+        "bookable_end": "2026-08-21",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7989d044b6737a1479f7",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-08-28",
+        "date_to": "2026-08-28",
+        "locations": [
+          "N.D"
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2a7989d044b6737a1479f9",
+        "bookable_start": "2026-08-28",
+        "bookable_end": "2026-08-28",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7a1b1644e0483a1806b9",
         "number": null,
         "title": "Samstagswanderung",
         "type": "TOUR",
@@ -143,15 +268,215 @@
         "categories": [
           "Wandern"
         ],
-        "date_from": "2026-07-25",
-        "date_to": "2026-07-25",
+        "date_from": "2026-08-29",
+        "date_to": "2026-08-29",
         "locations": [
-          "N:D."
+          "N.D"
         ],
         "description": "N.D.",
-        "bookable_id": "6a292f1851b966ad6f14d777",
-        "bookable_start": "2026-07-25",
-        "bookable_end": "2026-07-25",
+        "bookable_id": "6a2a7a1b1644e0483a1806bb",
+        "bookable_start": "2026-08-29",
+        "bookable_end": "2026-08-29",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7a7a1644e0483a180877",
+        "number": null,
+        "title": "Samstagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-26",
+        "date_to": "2026-09-26",
+        "locations": [
+          "N.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2a7a7a1644e0483a18087a",
+        "bookable_start": "2026-09-26",
+        "bookable_end": "2026-09-26",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7b18d044b6737a14830d",
+        "number": null,
+        "title": "Mittwochswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-08-19",
+        "date_to": "2026-08-19",
+        "locations": [
+          "N.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2a7b18d044b6737a148311",
+        "bookable_start": "2026-08-19",
+        "bookable_end": "2026-08-19",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7bcad044b6737a148c12",
+        "number": null,
+        "title": "Mittwochswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-16",
+        "date_to": "2026-09-16",
+        "locations": [
+          "N.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2a7bcad044b6737a148c14",
+        "bookable_start": "2026-09-16",
+        "bookable_end": "2026-09-16",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7c392bf69ed3b7261223",
+        "number": null,
+        "title": "Mittwochswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-02",
+        "date_to": "2026-09-02",
+        "locations": [
+          "N.D"
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2a7c392bf69ed3b7261225",
+        "bookable_start": "2026-09-02",
+        "bookable_end": "2026-09-02",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7cc2d044b6737a149557",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-04",
+        "date_to": "2026-09-04",
+        "locations": [
+          "N.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2a7cc2d044b6737a14955a",
+        "bookable_start": "2026-09-04",
+        "bookable_end": "2026-09-04",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7d231644e0483a181fdb",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-11",
+        "date_to": "2026-09-11",
+        "locations": [
+          "N.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2a7d231644e0483a181fdd",
+        "bookable_start": "2026-09-11",
+        "bookable_end": "2026-09-11",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7d78d044b6737a149b70",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-18",
+        "date_to": "2026-09-18",
+        "locations": [
+          "N.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2a7d78d044b6737a149b72",
+        "bookable_start": "2026-09-18",
+        "bookable_end": "2026-09-18",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7dd7d044b6737a149fb7",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-25",
+        "date_to": "2026-09-25",
+        "locations": [
+          "N.D."
+        ],
+        "description": "N.D.",
+        "bookable_id": "6a2a7dd7d044b6737a149fb9",
+        "bookable_start": "2026-09-25",
+        "bookable_end": "2026-09-25",
         "free_places": null,
         "max_places": null,
         "bookable_places": null,
@@ -162,146 +487,7 @@
     "removed": [],
     "modified": [
       {
-        "id": "69bd67004e9957bf1e33aa8b",
-        "changed_fields": [
-          "bookable_places",
-          "free_places"
-        ],
-        "changes": {
-          "bookable_places": {
-            "from": 8,
-            "to": 7
-          },
-          "free_places": {
-            "from": 8,
-            "to": 7
-          }
-        },
-        "current": {
-          "id": "69bd67004e9957bf1e33aa8b",
-          "number": "260509MTB_F005",
-          "title": "Trail-Taste für Frauen - Erste MTB-Trails zum Reinschnuppern",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-07-26",
-          "date_to": "2026-07-26",
-          "locations": [
-            "Heidelberg, Karlsruher Straße 105, Shell  Tankstelle"
-          ],
-          "description": "Du wolltest schon immer mal Mountainbike ausprobieren, weißt aber nicht so recht, wo du anfangen sollst? Bei unserer Trail-Taste-Tour für Frauen kannst du ganz entspannt mit viel Spaß in den Sport reinschnuppern. Was dich erwartet: •\tEine lockere Einsteigertour auf leichten Trails •\tTechnik-Tipps in verständlicher Sprache: Grundposition, Bremsen, Kurven •\tZeit zum Ausprobieren, Fragen stellen und Pause machen •\tEine wertschätzende, motivierende Atmosphäre nur unter Frauen Die Tour richtet sich an alle, die neugierig sind und Freude an Bewegung draußen haben – Vorerfahrung mit dem Mountainbike ist nicht nötig, du solltest dich nur sicher auf einem Fahrrad fühlen. Folgende Ausrüstung ist nötig: ein gefedertes Mountainbike, Helm, Brille, Handschuhe. Knie-& Ellenbogenprotektoren, falls vorhanden. Ziel der Tour ist, dass du ein gutes Gefühl für das Bike bekommst, erste kleine Erfolgserlebnisse auf dem Trail sammelst und herausfindest, ob Mountainbiken dein neuer Lieblingssport werden könnte.\nOrt: Heidelberg, Karlsruher Str. 105, Shell Tankstelle",
-          "bookable_id": "69bd67004e9957bf1e33aa8f",
-          "bookable_start": "2026-07-26",
-          "bookable_end": "2026-07-26",
-          "free_places": 7,
-          "max_places": 10,
-          "bookable_places": 7,
-          "waitlist_active": false,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69bd67004e9957bf1e33aa8b",
-          "number": "260509MTB_F005",
-          "title": "Trail-Taste für Frauen - Erste MTB-Trails zum Reinschnuppern",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-07-26",
-          "date_to": "2026-07-26",
-          "locations": [
-            "Heidelberg, Karlsruher Straße 105, Shell  Tankstelle"
-          ],
-          "description": "Du wolltest schon immer mal Mountainbike ausprobieren, weißt aber nicht so recht, wo du anfangen sollst? Bei unserer Trail-Taste-Tour für Frauen kannst du ganz entspannt mit viel Spaß in den Sport reinschnuppern. Was dich erwartet: •\tEine lockere Einsteigertour auf leichten Trails •\tTechnik-Tipps in verständlicher Sprache: Grundposition, Bremsen, Kurven •\tZeit zum Ausprobieren, Fragen stellen und Pause machen •\tEine wertschätzende, motivierende Atmosphäre nur unter Frauen Die Tour richtet sich an alle, die neugierig sind und Freude an Bewegung draußen haben – Vorerfahrung mit dem Mountainbike ist nicht nötig, du solltest dich nur sicher auf einem Fahrrad fühlen. Folgende Ausrüstung ist nötig: ein gefedertes Mountainbike, Helm, Brille, Handschuhe. Knie-& Ellenbogenprotektoren, falls vorhanden. Ziel der Tour ist, dass du ein gutes Gefühl für das Bike bekommst, erste kleine Erfolgserlebnisse auf dem Trail sammelst und herausfindest, ob Mountainbiken dein neuer Lieblingssport werden könnte.\nOrt: Heidelberg, Karlsruher Str. 105, Shell Tankstelle",
-          "bookable_id": "69bd67004e9957bf1e33aa8f",
-          "bookable_start": "2026-07-26",
-          "bookable_end": "2026-07-26",
-          "free_places": 8,
-          "max_places": 10,
-          "bookable_places": 8,
-          "waitlist_active": false,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "69bd732a4e9957bf1e3485d2",
-        "changed_fields": [
-          "max_places",
-          "bookable_places",
-          "free_places"
-        ],
-        "changes": {
-          "max_places": {
-            "from": 4,
-            "to": 3
-          },
-          "bookable_places": {
-            "from": 2,
-            "to": 0
-          },
-          "free_places": {
-            "from": 2,
-            "to": 0
-          }
-        },
-        "current": {
-          "id": "69bd732a4e9957bf1e3485d2",
-          "number": "260829MTB_009",
-          "title": "Mountainbike-Rundfahrt Enduro Tirol",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-08-29",
-          "date_to": "2026-09-05",
-          "locations": [
-            "nn"
-          ],
-          "description": "Eine Enduro-Runde durch Tirol - das sind Uphills mit Gletschern und Panorama sowie Flow-Trails und anspruchsvolle Downhills, aber auch Bikepark-Tage auf naturbelassenen oder geshapten Trails. In äußerst unterschiedlichen Etappen nehmen wir viele Trail- und Panorama-Highlights der Region mit (z. B. Bikeparks Fiss und Nauders, Stilfser Joch, Goldseetrail, Fernar-Trail, Holy Hansen Trail, Timmelsjoch). Für einige Abschnitte nutzen wir Shuttle oder Bus, kurbeln aber auch mal Straßen-Transfers. Eine genaue Touren-Beschreibung könnt ihr gerne bei mir anfragen.\nAnforderungen: S3, K3",
-          "bookable_id": "69bd732a4e9957bf1e3485d5",
-          "bookable_start": "2026-08-29",
-          "bookable_end": "2026-09-05",
-          "free_places": 0,
-          "max_places": 3,
-          "bookable_places": 0,
-          "waitlist_active": false,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69bd732a4e9957bf1e3485d2",
-          "number": "260829MTB_009",
-          "title": "Mountainbike-Rundfahrt Enduro Tirol",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-08-29",
-          "date_to": "2026-09-05",
-          "locations": [
-            "nn"
-          ],
-          "description": "Eine Enduro-Runde durch Tirol - das sind Uphills mit Gletschern und Panorama sowie Flow-Trails und anspruchsvolle Downhills, aber auch Bikepark-Tage auf naturbelassenen oder geshapten Trails. In äußerst unterschiedlichen Etappen nehmen wir viele Trail- und Panorama-Highlights der Region mit (z. B. Bikeparks Fiss und Nauders, Stilfser Joch, Goldseetrail, Fernar-Trail, Holy Hansen Trail, Timmelsjoch). Für einige Abschnitte nutzen wir Shuttle oder Bus, kurbeln aber auch mal Straßen-Transfers. Eine genaue Touren-Beschreibung könnt ihr gerne bei mir anfragen.\nAnforderungen: S3, K3",
-          "bookable_id": "69bd732a4e9957bf1e3485d5",
-          "bookable_start": "2026-08-29",
-          "bookable_end": "2026-09-05",
-          "free_places": 2,
-          "max_places": 4,
-          "bookable_places": 2,
-          "waitlist_active": false,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "69c3e737922622f618d85eaa",
+        "id": "69c2a65bbffdb98a612b1181",
         "changed_fields": [
           "locations",
           "description"
@@ -309,20 +495,20 @@
         "changes": {
           "locations": {
             "from": [
-              "ND"
+              "NN"
             ],
             "to": [
-              "HD HBF"
+              "Heidelberg Hauptbahnhof"
             ]
           },
           "description": {
             "from": "",
-            "to": "Schriesheim, Strahlenburg, Schauenburg, Alter Segelflugplatz, Schriesheim (Schlusseinkehr)\nAbfahrt Heidelberg HBF 8:31 Uhr, STR 21 Richtung Schriesheim,.\n12 km, 370 hm, Gehzeit ca. 4h"
+            "to": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-"
           }
         },
         "current": {
-          "id": "69c3e737922622f618d85eaa",
-          "number": "260619WA_021",
+          "id": "69c2a65bbffdb98a612b1181",
+          "number": null,
           "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
@@ -330,15 +516,15 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-06-19",
-          "date_to": "2026-06-19",
+          "date_from": "2026-07-03",
+          "date_to": "2026-07-03",
           "locations": [
-            "HD HBF"
+            "Heidelberg Hauptbahnhof"
           ],
-          "description": "Schriesheim, Strahlenburg, Schauenburg, Alter Segelflugplatz, Schriesheim (Schlusseinkehr)\nAbfahrt Heidelberg HBF 8:31 Uhr, STR 21 Richtung Schriesheim,.\n12 km, 370 hm, Gehzeit ca. 4h",
-          "bookable_id": "69c3e737922622f618d85eac",
-          "bookable_start": "2026-06-19",
-          "bookable_end": "2026-06-19",
+          "description": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-",
+          "bookable_id": "69c2a65bbffdb98a612b1184",
+          "bookable_start": "2026-07-03",
+          "bookable_end": "2026-07-03",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
@@ -346,8 +532,8 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69c3e737922622f618d85eaa",
-          "number": "260619WA_021",
+          "id": "69c2a65bbffdb98a612b1181",
+          "number": null,
           "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
@@ -355,18 +541,162 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-06-19",
-          "date_to": "2026-06-19",
+          "date_from": "2026-07-03",
+          "date_to": "2026-07-03",
           "locations": [
-            "ND"
+            "NN"
           ],
           "description": "",
-          "bookable_id": "69c3e737922622f618d85eac",
-          "bookable_start": "2026-06-19",
-          "bookable_end": "2026-06-19",
+          "bookable_id": "69c2a65bbffdb98a612b1184",
+          "bookable_start": "2026-07-03",
+          "bookable_end": "2026-07-03",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a292ba9fe265180d504e722",
+        "changed_fields": [
+          "max_places",
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "max_places": {
+            "from": 6,
+            "to": null
+          },
+          "bookable_places": {
+            "from": 6,
+            "to": null
+          },
+          "free_places": {
+            "from": 6,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "6a292ba9fe265180d504e722",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-10",
+          "date_to": "2026-07-10",
+          "locations": [
+            "N.D."
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a292ba9fe265180d504e725",
+          "bookable_start": "2026-07-10",
+          "bookable_end": "2026-07-10",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a292ba9fe265180d504e722",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-10",
+          "date_to": "2026-07-10",
+          "locations": [
+            "N.D."
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a292ba9fe265180d504e725",
+          "bookable_start": "2026-07-10",
+          "bookable_end": "2026-07-10",
+          "free_places": 6,
+          "max_places": 6,
+          "bookable_places": 6,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a292dfffe265180d5051071",
+        "changed_fields": [
+          "max_places",
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "max_places": {
+            "from": 6,
+            "to": null
+          },
+          "bookable_places": {
+            "from": 6,
+            "to": null
+          },
+          "free_places": {
+            "from": 6,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "6a292dfffe265180d5051071",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-15",
+          "date_to": "2026-07-15",
+          "locations": [
+            "N.D."
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a292dfffe265180d5051073",
+          "bookable_start": "2026-07-15",
+          "bookable_end": "2026-07-15",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a292dfffe265180d5051071",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-15",
+          "date_to": "2026-07-15",
+          "locations": [
+            "N.D."
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a292dfffe265180d5051073",
+          "bookable_start": "2026-07-15",
+          "bookable_end": "2026-07-15",
+          "free_places": 6,
+          "max_places": 6,
+          "bookable_places": 6,
           "waitlist_active": true,
           "bookable_canceled": false
         }
