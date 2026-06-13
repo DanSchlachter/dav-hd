@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-06-12T09:54:10.885139+00:00",
-  "previous_timestamp": "2026-06-11T10:01:33.084820+00:00",
+  "timestamp": "2026-06-13T08:44:31.849669+00:00",
+  "previous_timestamp": "2026-06-12T09:54:10.877694+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
@@ -11,69 +11,75 @@
     "removed": [],
     "modified": [
       {
-        "id": "69c3e7e5922622f618d861db",
+        "id": "69c3e6186764ed781731374b",
         "changed_fields": [
-          "description",
-          "locations"
+          "bookable_start",
+          "bookable_end",
+          "bookable_id",
+          "waitlist_active"
         ],
         "changes": {
-          "description": {
-            "from": "",
-            "to": "Eiterbach Ortsende, Lichtenklingerhof,  Siedelsbrunn, Eiterbachtal, Eiterbach (Mittagseinkehr), Heiligkreuzsteinach\n16 Km; 300 Hm, Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz  08:27 Uhr Bus Linie 35 Richtung Neckargemünd\n-Anmeldung  nicht erforderlich-"
+          "bookable_start": {
+            "from": "2026-06-12",
+            "to": ""
           },
-          "locations": {
-            "from": [
-              "ND"
-            ],
-            "to": [
-              "Heidelberg Bismarckplatz"
-            ]
+          "bookable_end": {
+            "from": "2026-06-12",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "69c3e6186764ed781731374d",
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
           }
         },
         "current": {
-          "id": "69c3e7e5922622f618d861db",
-          "number": "260620WA_022",
-          "title": "Samstagswanderung",
+          "id": "69c3e6186764ed781731374b",
+          "number": "290612WA_019",
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-06-20",
-          "date_to": "2026-06-20",
+          "date_from": "2026-06-12",
+          "date_to": "2026-06-12",
           "locations": [
-            "Heidelberg Bismarckplatz"
+            "Heidelberg Hauptbahnhof"
           ],
-          "description": "Eiterbach Ortsende, Lichtenklingerhof,  Siedelsbrunn, Eiterbachtal, Eiterbach (Mittagseinkehr), Heiligkreuzsteinach\n16 Km; 300 Hm, Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz  08:27 Uhr Bus Linie 35 Richtung Neckargemünd\n-Anmeldung  nicht erforderlich-",
-          "bookable_id": "69c3e7e5922622f618d861dd",
-          "bookable_start": "2026-06-20",
-          "bookable_end": "2026-06-20",
+          "description": "Neckargerach, Minneburg, Stolzeneck, Eberbach (Shlusseinkehr)\n17 Km; 770 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Keine Anmeldung-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
-          "waitlist_active": true,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69c3e7e5922622f618d861db",
-          "number": "260620WA_022",
-          "title": "Samstagswanderung",
+          "id": "69c3e6186764ed781731374b",
+          "number": "290612WA_019",
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-06-20",
-          "date_to": "2026-06-20",
+          "date_from": "2026-06-12",
+          "date_to": "2026-06-12",
           "locations": [
-            "ND"
+            "Heidelberg Hauptbahnhof"
           ],
-          "description": "",
-          "bookable_id": "69c3e7e5922622f618d861dd",
-          "bookable_start": "2026-06-20",
-          "bookable_end": "2026-06-20",
+          "description": "Neckargerach, Minneburg, Stolzeneck, Eberbach (Shlusseinkehr)\n17 Km; 770 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Keine Anmeldung-",
+          "bookable_id": "69c3e6186764ed781731374d",
+          "bookable_start": "2026-06-12",
+          "bookable_end": "2026-06-12",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
