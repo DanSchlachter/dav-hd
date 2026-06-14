@@ -1,92 +1,14 @@
 {
-  "timestamp": "2026-06-13T08:44:31.849669+00:00",
-  "previous_timestamp": "2026-06-12T09:54:10.877694+00:00",
+  "timestamp": "2026-06-14T08:59:21.358272+00:00",
+  "previous_timestamp": "2026-06-13T08:44:31.842313+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 0
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": [
-      {
-        "id": "69c3e6186764ed781731374b",
-        "changed_fields": [
-          "bookable_start",
-          "bookable_end",
-          "bookable_id",
-          "waitlist_active"
-        ],
-        "changes": {
-          "bookable_start": {
-            "from": "2026-06-12",
-            "to": ""
-          },
-          "bookable_end": {
-            "from": "2026-06-12",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "69c3e6186764ed781731374d",
-            "to": null
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          }
-        },
-        "current": {
-          "id": "69c3e6186764ed781731374b",
-          "number": "290612WA_019",
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-06-12",
-          "date_to": "2026-06-12",
-          "locations": [
-            "Heidelberg Hauptbahnhof"
-          ],
-          "description": "Neckargerach, Minneburg, Stolzeneck, Eberbach (Shlusseinkehr)\n17 Km; 770 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Keine Anmeldung-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69c3e6186764ed781731374b",
-          "number": "290612WA_019",
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-06-12",
-          "date_to": "2026-06-12",
-          "locations": [
-            "Heidelberg Hauptbahnhof"
-          ],
-          "description": "Neckargerach, Minneburg, Stolzeneck, Eberbach (Shlusseinkehr)\n17 Km; 770 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Keine Anmeldung-",
-          "bookable_id": "69c3e6186764ed781731374d",
-          "bookable_start": "2026-06-12",
-          "bookable_end": "2026-06-12",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      }
-    ]
+    "modified": []
   }
 }
