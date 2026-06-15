@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-14T08:59:21.350747+00:00",
+  "timestamp": "2026-06-15T11:41:19.079220+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 98,
   "tours": [
@@ -420,13 +420,13 @@
         "Schwarzwald"
       ],
       "description": "Ein- und Mehrseillängenklettern Übernachten auf dem Campingplatz bei Waldkirch\nAnforderungen: Vorstieg V+, Umgang mit Keilen & Friends",
-      "bookable_id": "69bd48194f486926b512993a",
-      "bookable_start": "2026-06-12",
-      "bookable_end": "2026-06-14",
-      "free_places": 0,
-      "max_places": 6,
-      "bookable_places": 0,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1148,9 +1148,9 @@
       "bookable_id": "69bd69e3bd72746a967829c3",
       "bookable_start": "2026-06-19",
       "bookable_end": "2026-06-21",
-      "free_places": 5,
-      "max_places": 10,
-      "bookable_places": 5,
+      "free_places": 2,
+      "max_places": 8,
+      "bookable_places": 2,
       "waitlist_active": false,
       "bookable_canceled": false
     },
