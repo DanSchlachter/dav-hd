@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-17T10:22:27.986602+00:00",
+  "timestamp": "2026-06-18T10:02:18.283015+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 98,
   "tours": [
@@ -523,9 +523,9 @@
       "bookable_id": "69bd5412bd72746a96774687",
       "bookable_start": "2026-07-17",
       "bookable_end": "2026-07-19",
-      "free_places": 0,
+      "free_places": 1,
       "max_places": 12,
-      "bookable_places": 0,
+      "bookable_places": 1,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -648,9 +648,9 @@
       "bookable_id": "69bd6bea4e9957bf1e340113",
       "bookable_start": "2026-09-06",
       "bookable_end": "2026-09-12",
-      "free_places": 0,
+      "free_places": 1,
       "max_places": 8,
-      "bookable_places": 0,
+      "bookable_places": 1,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -723,9 +723,9 @@
       "bookable_id": "69bd7b0ebd72746a9678f450",
       "bookable_start": "2026-09-25",
       "bookable_end": "2026-09-27",
-      "free_places": 30,
+      "free_places": 29,
       "max_places": 30,
-      "bookable_places": 30,
+      "bookable_places": 29,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -1445,13 +1445,13 @@
         "Heidelberg Hauptbahnhof"
       ],
       "description": "Gimmeldingen, Silbertal (Einkehr), Lambrecht\n11,5 Km; 240 Hm, Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 S 1 Richtung Kaiserslautern\n-Keine Anmeldung-",
-      "bookable_id": "69c3e6bd6764ed7817313bb2",
-      "bookable_start": "2026-06-17",
-      "bookable_end": "2026-06-17",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
