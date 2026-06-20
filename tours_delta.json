@@ -1,176 +1,70 @@
 {
-  "timestamp": "2026-06-19T10:09:07.872052+00:00",
-  "previous_timestamp": "2026-06-18T10:02:18.283015+00:00",
+  "timestamp": "2026-06-20T08:38:05.012892+00:00",
+  "previous_timestamp": "2026-06-19T10:09:07.865031+00:00",
   "summary": {
-    "added": 0,
+    "added": 1,
     "removed": 0,
-    "modified": 3
+    "modified": 1
   },
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "id": "6a2961f21644e0483a1193f3",
+        "number": null,
+        "title": "Yoga, Wandern und Naturerleben in Trentino",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Natur- und Umweltschutz"
+        ],
+        "date_from": "2026-10-22",
+        "date_to": "2026-10-26",
+        "locations": [
+          "Tenno, Trentino"
+        ],
+        "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennelernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
+        "bookable_id": "6a2961f21644e0483a1193f5",
+        "bookable_start": "2026-10-22",
+        "bookable_end": "2026-10-26",
+        "free_places": 8,
+        "max_places": 8,
+        "bookable_places": 8,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      }
+    ],
     "removed": [],
     "modified": [
       {
-        "id": "69bd5412bd72746a96774685",
+        "id": "69c3e737922622f618d85eaa",
         "changed_fields": [
-          "bookable_places",
-          "free_places"
+          "bookable_id",
+          "bookable_end",
+          "bookable_start",
+          "waitlist_active"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 1,
-            "to": 0
+          "bookable_id": {
+            "from": "69c3e737922622f618d85eac",
+            "to": null
           },
-          "free_places": {
-            "from": 1,
-            "to": 0
+          "bookable_end": {
+            "from": "2026-06-19",
+            "to": ""
+          },
+          "bookable_start": {
+            "from": "2026-06-19",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
           }
         },
         "current": {
-          "id": "69bd5412bd72746a96774685",
-          "number": "260726Kl_G006",
-          "title": "Klettern im Donautal",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Klettern"
-          ],
-          "date_from": "2026-07-17",
-          "date_to": "2026-07-19",
-          "locations": [
-            "Donautal"
-          ],
-          "description": "Ein- und Mehrseillängenklettern\nÜbernachtung nach Verfügbarkeit: CP Sigmaringen, CP Beuron Hausen im Tal / Camping Buck Beuron / Campinggarten Leibertingen\nAnforderungen: Vorstieg V, Eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
-          "bookable_id": "69bd5412bd72746a96774687",
-          "bookable_start": "2026-07-17",
-          "bookable_end": "2026-07-19",
-          "free_places": 0,
-          "max_places": 12,
-          "bookable_places": 0,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69bd5412bd72746a96774685",
-          "number": "260726Kl_G006",
-          "title": "Klettern im Donautal",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Klettern"
-          ],
-          "date_from": "2026-07-17",
-          "date_to": "2026-07-19",
-          "locations": [
-            "Donautal"
-          ],
-          "description": "Ein- und Mehrseillängenklettern\nÜbernachtung nach Verfügbarkeit: CP Sigmaringen, CP Beuron Hausen im Tal / Camping Buck Beuron / Campinggarten Leibertingen\nAnforderungen: Vorstieg V, Eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
-          "bookable_id": "69bd5412bd72746a96774687",
-          "bookable_start": "2026-07-17",
-          "bookable_end": "2026-07-19",
-          "free_places": 1,
-          "max_places": 12,
-          "bookable_places": 1,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "69c3e7e5922622f618d861db",
-        "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "Eiterbach Ortsende, Lichtenklingerhof,  Siedelsbrunn, Eiterbachtal, Eiterbach (Mittagseinkehr), Heiligkreuzsteinach\n16 Km; 300 Hm, Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz  08:27 Uhr Bus Linie 35 Richtung Neckargemünd\n-Anmeldung  nicht erforderlich-",
-            "to": "Diese Wanderung ist infolge der zu erwartenden hohen Temperaturen abgesagt!"
-          },
-          "locations": {
-            "from": [
-              "Heidelberg Bismarckplatz"
-            ],
-            "to": [
-              "Wanderung entfällt!"
-            ]
-          }
-        },
-        "current": {
-          "id": "69c3e7e5922622f618d861db",
-          "number": "260620WA_022",
-          "title": "Samstagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-06-20",
-          "date_to": "2026-06-20",
-          "locations": [
-            "Wanderung entfällt!"
-          ],
-          "description": "Diese Wanderung ist infolge der zu erwartenden hohen Temperaturen abgesagt!",
-          "bookable_id": "69c3e7e5922622f618d861dd",
-          "bookable_start": "2026-06-20",
-          "bookable_end": "2026-06-20",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69c3e7e5922622f618d861db",
-          "number": "260620WA_022",
-          "title": "Samstagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-06-20",
-          "date_to": "2026-06-20",
-          "locations": [
-            "Heidelberg Bismarckplatz"
-          ],
-          "description": "Eiterbach Ortsende, Lichtenklingerhof,  Siedelsbrunn, Eiterbachtal, Eiterbach (Mittagseinkehr), Heiligkreuzsteinach\n16 Km; 300 Hm, Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz  08:27 Uhr Bus Linie 35 Richtung Neckargemünd\n-Anmeldung  nicht erforderlich-",
-          "bookable_id": "69c3e7e5922622f618d861dd",
-          "bookable_start": "2026-06-20",
-          "bookable_end": "2026-06-20",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "69c3e89d922622f618d865e3",
-        "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "",
-            "to": "Neckarhausen bei Neckarsteinach, Braunsruhe, Neckarsteinach, Mannheimerhütte (Einkehr), Neckarsteinach\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-"
-          },
-          "locations": {
-            "from": [
-              "ND"
-            ],
-            "to": [
-              "Heidelberg Hauptbahnhof"
-            ]
-          }
-        },
-        "current": {
-          "id": "69c3e89d922622f618d865e3",
-          "number": "260626WA_023",
+          "id": "69c3e737922622f618d85eaa",
+          "number": "260619WA_021",
           "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
@@ -178,24 +72,24 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-06-26",
-          "date_to": "2026-06-26",
+          "date_from": "2026-06-19",
+          "date_to": "2026-06-19",
           "locations": [
-            "Heidelberg Hauptbahnhof"
+            "HD HBF"
           ],
-          "description": "Neckarhausen bei Neckarsteinach, Braunsruhe, Neckarsteinach, Mannheimerhütte (Einkehr), Neckarsteinach\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "69c3e89e922622f618d865e5",
-          "bookable_start": "2026-06-26",
-          "bookable_end": "2026-06-26",
+          "description": "Schriesheim, Strahlenburg, Schauenburg, Alter Segelflugplatz, Schriesheim (Schlusseinkehr)\nAbfahrt Heidelberg HBF 8:31 Uhr, STR 21 Richtung Schriesheim,.\n12 km, 370 hm, Gehzeit ca. 4h",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
-          "waitlist_active": true,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69c3e89d922622f618d865e3",
-          "number": "260626WA_023",
+          "id": "69c3e737922622f618d85eaa",
+          "number": "260619WA_021",
           "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
@@ -203,15 +97,15 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-06-26",
-          "date_to": "2026-06-26",
+          "date_from": "2026-06-19",
+          "date_to": "2026-06-19",
           "locations": [
-            "ND"
+            "HD HBF"
           ],
-          "description": "",
-          "bookable_id": "69c3e89e922622f618d865e5",
-          "bookable_start": "2026-06-26",
-          "bookable_end": "2026-06-26",
+          "description": "Schriesheim, Strahlenburg, Schauenburg, Alter Segelflugplatz, Schriesheim (Schlusseinkehr)\nAbfahrt Heidelberg HBF 8:31 Uhr, STR 21 Richtung Schriesheim,.\n12 km, 370 hm, Gehzeit ca. 4h",
+          "bookable_id": "69c3e737922622f618d85eac",
+          "bookable_start": "2026-06-19",
+          "bookable_end": "2026-06-19",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
