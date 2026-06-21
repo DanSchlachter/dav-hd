@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-20T08:38:05.005873+00:00",
+  "timestamp": "2026-06-21T09:32:46.971477+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 99,
   "tours": [
@@ -1495,13 +1495,13 @@
         "Wanderung entfällt!"
       ],
       "description": "Diese Wanderung ist infolge der zu erwartenden hohen Temperaturen abgesagt!",
-      "bookable_id": "69c3e7e5922622f618d861dd",
-      "bookable_start": "2026-06-20",
-      "bookable_end": "2026-06-20",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
