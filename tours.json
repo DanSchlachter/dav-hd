@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-21T09:32:46.971477+00:00",
+  "timestamp": "2026-06-22T11:30:13.893485+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 99,
   "tours": [
@@ -95,13 +95,13 @@
         "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
       ],
       "description": "DAV Familienwandergruppe Heidelberg; Eltern mit Kinder ab ca. 8J.\n\nVoraussetzung: Übungskurs Grundlagen Klettersteig. Für Eltern mit Kindern ab 8 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 Std. Verantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.",
-      "bookable_id": "69bc359a9daefa4fefc1598f",
-      "bookable_start": "2026-06-19",
-      "bookable_end": "2026-06-21",
-      "free_places": 10,
-      "max_places": 22,
-      "bookable_places": 10,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1145,13 +1145,13 @@
         "nn"
       ],
       "description": "Von Wissembourg über Hauenstein nach Pirmasens. An zwei Tagen im Pfälzer erkunden wir verschlungene Pfade, eine Burgruine und ein Stück des Rodalbener Felsenwegs. Bei schönem Wetter lächelt ein See und lockt zum Bade. Pro Tag sind rund 40 Kilometer und etwa 1200 Höhenmeter zu fahren. Anreise am Freitagabend mit der Bahn, Sonntagabend zurück.\nAnforderungen: S2-3 und K2-K3",
-      "bookable_id": "69bd69e3bd72746a967829c3",
-      "bookable_start": "2026-06-19",
-      "bookable_end": "2026-06-21",
-      "free_places": 2,
-      "max_places": 8,
-      "bookable_places": 2,
-      "waitlist_active": false,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -2098,9 +2098,9 @@
       "bookable_id": "6a2961f21644e0483a1193f5",
       "bookable_start": "2026-10-22",
       "bookable_end": "2026-10-26",
-      "free_places": 8,
+      "free_places": 7,
       "max_places": 8,
-      "bookable_places": 8,
+      "bookable_places": 7,
       "waitlist_active": true,
       "bookable_canceled": false
     },

@@ -1,57 +1,72 @@
 {
-  "timestamp": "2026-06-21T09:32:46.978917+00:00",
-  "previous_timestamp": "2026-06-20T08:38:05.005873+00:00",
+  "timestamp": "2026-06-22T11:30:13.901418+00:00",
+  "previous_timestamp": "2026-06-21T09:32:46.971477+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 3
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "69c3e7e5922622f618d861db",
+        "id": "69bc359a9daefa4fefc1598d",
         "changed_fields": [
+          "free_places",
           "waitlist_active",
           "bookable_id",
+          "max_places",
+          "bookable_places",
           "bookable_start",
           "bookable_end"
         ],
         "changes": {
+          "free_places": {
+            "from": 10,
+            "to": null
+          },
           "waitlist_active": {
             "from": true,
             "to": null
           },
           "bookable_id": {
-            "from": "69c3e7e5922622f618d861dd",
+            "from": "69bc359a9daefa4fefc1598f",
+            "to": null
+          },
+          "max_places": {
+            "from": 22,
+            "to": null
+          },
+          "bookable_places": {
+            "from": 10,
             "to": null
           },
           "bookable_start": {
-            "from": "2026-06-20",
+            "from": "2026-06-19",
             "to": ""
           },
           "bookable_end": {
-            "from": "2026-06-20",
+            "from": "2026-06-21",
             "to": ""
           }
         },
         "current": {
-          "id": "69c3e7e5922622f618d861db",
-          "number": "260620WA_022",
-          "title": "Samstagswanderung",
+          "id": "69bc359a9daefa4fefc1598d",
+          "number": "260619FAM_F001",
+          "title": "Klettersteigwochenende Allgäu",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-06-20",
-          "date_to": "2026-06-20",
+          "date_from": "2026-06-19",
+          "date_to": "2026-06-21",
           "locations": [
-            "Wanderung entfällt!"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Diese Wanderung ist infolge der zu erwartenden hohen Temperaturen abgesagt!",
+          "description": "DAV Familienwandergruppe Heidelberg; Eltern mit Kinder ab ca. 8J.\n\nVoraussetzung: Übungskurs Grundlagen Klettersteig. Für Eltern mit Kindern ab 8 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 Std. Verantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -62,27 +77,186 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69c3e7e5922622f618d861db",
-          "number": "260620WA_022",
-          "title": "Samstagswanderung",
+          "id": "69bc359a9daefa4fefc1598d",
+          "number": "260619FAM_F001",
+          "title": "Klettersteigwochenende Allgäu",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-06-20",
-          "date_to": "2026-06-20",
+          "date_from": "2026-06-19",
+          "date_to": "2026-06-21",
           "locations": [
-            "Wanderung entfällt!"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Diese Wanderung ist infolge der zu erwartenden hohen Temperaturen abgesagt!",
-          "bookable_id": "69c3e7e5922622f618d861dd",
-          "bookable_start": "2026-06-20",
-          "bookable_end": "2026-06-20",
+          "description": "DAV Familienwandergruppe Heidelberg; Eltern mit Kinder ab ca. 8J.\n\nVoraussetzung: Übungskurs Grundlagen Klettersteig. Für Eltern mit Kindern ab 8 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 Std. Verantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.",
+          "bookable_id": "69bc359a9daefa4fefc1598f",
+          "bookable_start": "2026-06-19",
+          "bookable_end": "2026-06-21",
+          "free_places": 10,
+          "max_places": 22,
+          "bookable_places": 10,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69bd69e3bd72746a967829c1",
+        "changed_fields": [
+          "free_places",
+          "waitlist_active",
+          "bookable_id",
+          "max_places",
+          "bookable_places",
+          "bookable_start",
+          "bookable_end"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 2,
+            "to": null
+          },
+          "waitlist_active": {
+            "from": false,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "69bd69e3bd72746a967829c3",
+            "to": null
+          },
+          "max_places": {
+            "from": 8,
+            "to": null
+          },
+          "bookable_places": {
+            "from": 2,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-06-19",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-06-21",
+            "to": ""
+          }
+        },
+        "current": {
+          "id": "69bd69e3bd72746a967829c1",
+          "number": "260619MTB_F007",
+          "title": "Mountainbike Pfalzcross Juni 2026",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-06-19",
+          "date_to": "2026-06-21",
+          "locations": [
+            "nn"
+          ],
+          "description": "Von Wissembourg über Hauenstein nach Pirmasens. An zwei Tagen im Pfälzer erkunden wir verschlungene Pfade, eine Burgruine und ein Stück des Rodalbener Felsenwegs. Bei schönem Wetter lächelt ein See und lockt zum Bade. Pro Tag sind rund 40 Kilometer und etwa 1200 Höhenmeter zu fahren. Anreise am Freitagabend mit der Bahn, Sonntagabend zurück.\nAnforderungen: S2-3 und K2-K3",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd69e3bd72746a967829c1",
+          "number": "260619MTB_F007",
+          "title": "Mountainbike Pfalzcross Juni 2026",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-06-19",
+          "date_to": "2026-06-21",
+          "locations": [
+            "nn"
+          ],
+          "description": "Von Wissembourg über Hauenstein nach Pirmasens. An zwei Tagen im Pfälzer erkunden wir verschlungene Pfade, eine Burgruine und ein Stück des Rodalbener Felsenwegs. Bei schönem Wetter lächelt ein See und lockt zum Bade. Pro Tag sind rund 40 Kilometer und etwa 1200 Höhenmeter zu fahren. Anreise am Freitagabend mit der Bahn, Sonntagabend zurück.\nAnforderungen: S2-3 und K2-K3",
+          "bookable_id": "69bd69e3bd72746a967829c3",
+          "bookable_start": "2026-06-19",
+          "bookable_end": "2026-06-21",
+          "free_places": 2,
+          "max_places": 8,
+          "bookable_places": 2,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a2961f21644e0483a1193f3",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 8,
+            "to": 7
+          },
+          "bookable_places": {
+            "from": 8,
+            "to": 7
+          }
+        },
+        "current": {
+          "id": "6a2961f21644e0483a1193f3",
+          "number": null,
+          "title": "Yoga, Wandern und Naturerleben in Trentino",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Natur- und Umweltschutz"
+          ],
+          "date_from": "2026-10-22",
+          "date_to": "2026-10-26",
+          "locations": [
+            "Tenno, Trentino"
+          ],
+          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennelernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
+          "bookable_id": "6a2961f21644e0483a1193f5",
+          "bookable_start": "2026-10-22",
+          "bookable_end": "2026-10-26",
+          "free_places": 7,
+          "max_places": 8,
+          "bookable_places": 7,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2961f21644e0483a1193f3",
+          "number": null,
+          "title": "Yoga, Wandern und Naturerleben in Trentino",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Natur- und Umweltschutz"
+          ],
+          "date_from": "2026-10-22",
+          "date_to": "2026-10-26",
+          "locations": [
+            "Tenno, Trentino"
+          ],
+          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennelernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
+          "bookable_id": "6a2961f21644e0483a1193f5",
+          "bookable_start": "2026-10-22",
+          "bookable_end": "2026-10-26",
+          "free_places": 8,
+          "max_places": 8,
+          "bookable_places": 8,
           "waitlist_active": true,
           "bookable_canceled": false
         }
