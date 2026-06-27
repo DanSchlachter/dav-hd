@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-26T08:47:12.532294+00:00",
+  "timestamp": "2026-06-27T08:23:55.097942+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 99,
   "tours": [
@@ -1520,13 +1520,13 @@
         "Heidelberg Hauptbahnhof"
       ],
       "description": "Neckarhausen bei Neckarsteinach, Braunsruhe, Neckarsteinach, Mannheimerhütte (Einkehr), Neckarsteinach\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "69c3e89e922622f618d865e5",
-      "bookable_start": "2026-06-26",
-      "bookable_end": "2026-06-26",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
