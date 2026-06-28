@@ -1,92 +1,14 @@
 {
-  "timestamp": "2026-06-27T08:23:55.105933+00:00",
-  "previous_timestamp": "2026-06-26T08:47:12.532294+00:00",
+  "timestamp": "2026-06-28T08:38:04.817418+00:00",
+  "previous_timestamp": "2026-06-27T08:23:55.097942+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 0
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": [
-      {
-        "id": "69c3e89d922622f618d865e3",
-        "changed_fields": [
-          "bookable_id",
-          "bookable_end",
-          "waitlist_active",
-          "bookable_start"
-        ],
-        "changes": {
-          "bookable_id": {
-            "from": "69c3e89e922622f618d865e5",
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-06-26",
-            "to": ""
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-06-26",
-            "to": ""
-          }
-        },
-        "current": {
-          "id": "69c3e89d922622f618d865e3",
-          "number": "260626WA_023",
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-06-26",
-          "date_to": "2026-06-26",
-          "locations": [
-            "Heidelberg Hauptbahnhof"
-          ],
-          "description": "Neckarhausen bei Neckarsteinach, Braunsruhe, Neckarsteinach, Mannheimerhütte (Einkehr), Neckarsteinach\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69c3e89d922622f618d865e3",
-          "number": "260626WA_023",
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-06-26",
-          "date_to": "2026-06-26",
-          "locations": [
-            "Heidelberg Hauptbahnhof"
-          ],
-          "description": "Neckarhausen bei Neckarsteinach, Braunsruhe, Neckarsteinach, Mannheimerhütte (Einkehr), Neckarsteinach\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "69c3e89e922622f618d865e5",
-          "bookable_start": "2026-06-26",
-          "bookable_end": "2026-06-26",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      }
-    ]
+    "modified": []
   }
 }
