@@ -1,14 +1,508 @@
 {
-  "timestamp": "2026-06-28T08:38:04.817418+00:00",
-  "previous_timestamp": "2026-06-27T08:23:55.097942+00:00",
+  "timestamp": "2026-06-29T10:17:52.238269+00:00",
+  "previous_timestamp": "2026-06-28T08:38:04.809771+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 7
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "69bd51be4e9957bf1e3235d7",
+        "changed_fields": [
+          "bookable_id",
+          "bookable_end",
+          "max_places",
+          "bookable_start",
+          "waitlist_active",
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_id": {
+            "from": "69bd51be4e9957bf1e3235d9",
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-06-28",
+            "to": ""
+          },
+          "max_places": {
+            "from": 0,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-06-25",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_places": {
+            "from": 0,
+            "to": null
+          },
+          "free_places": {
+            "from": 0,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "69bd51be4e9957bf1e3235d7",
+          "number": "260625Kl_G005",
+          "title": "Klettern in Baume-les-Dames",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Klettern"
+          ],
+          "date_from": "2026-06-25",
+          "date_to": "2026-06-28",
+          "locations": [
+            "Baume-les-Dames"
+          ],
+          "description": "Übernachtung auf dem Campingplatz in Beaumes-Les-Dames\nAnforderungen: Vorstieg V+, selbständiges Standplatzmanagement",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd51be4e9957bf1e3235d7",
+          "number": "260625Kl_G005",
+          "title": "Klettern in Baume-les-Dames",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Klettern"
+          ],
+          "date_from": "2026-06-25",
+          "date_to": "2026-06-28",
+          "locations": [
+            "Baume-les-Dames"
+          ],
+          "description": "Übernachtung auf dem Campingplatz in Beaumes-Les-Dames\nAnforderungen: Vorstieg V+, selbständiges Standplatzmanagement",
+          "bookable_id": "69bd51be4e9957bf1e3235d9",
+          "bookable_start": "2026-06-25",
+          "bookable_end": "2026-06-28",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69bd5ccfbd72746a96778a45",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 3,
+            "to": 4
+          },
+          "free_places": {
+            "from": 3,
+            "to": 4
+          }
+        },
+        "current": {
+          "id": "69bd5ccfbd72746a96778a45",
+          "number": "260724Kl_G007",
+          "title": "Klettern in Albbruck im Südschwarzwald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Klettern"
+          ],
+          "date_from": "2026-07-24",
+          "date_to": "2026-07-26",
+          "locations": [
+            "Südschwarzwald"
+          ],
+          "description": "Anforderungen: Vorstieg V+",
+          "bookable_id": "69bd5ccfbd72746a96778a47",
+          "bookable_start": "2026-07-24",
+          "bookable_end": "2026-07-26",
+          "free_places": 4,
+          "max_places": 8,
+          "bookable_places": 4,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd5ccfbd72746a96778a45",
+          "number": "260724Kl_G007",
+          "title": "Klettern in Albbruck im Südschwarzwald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Klettern"
+          ],
+          "date_from": "2026-07-24",
+          "date_to": "2026-07-26",
+          "locations": [
+            "Südschwarzwald"
+          ],
+          "description": "Anforderungen: Vorstieg V+",
+          "bookable_id": "69bd5ccfbd72746a96778a47",
+          "bookable_start": "2026-07-24",
+          "bookable_end": "2026-07-26",
+          "free_places": 3,
+          "max_places": 8,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69bd6be94e9957bf1e340111",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 1,
+            "to": 0
+          },
+          "free_places": {
+            "from": 1,
+            "to": 0
+          }
+        },
+        "current": {
+          "id": "69bd6be94e9957bf1e340111",
+          "number": "260906B_F008",
+          "title": "Hüttentour in den Pyrenäen",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Bergsteigen"
+          ],
+          "date_from": "2026-09-06",
+          "date_to": "2026-09-12",
+          "locations": [
+            "Pyrenäen"
+          ],
+          "description": "Mit dem Taxi fahren wir von Bagneres de Luchon nach Luchon Superbagneres. Von dort geht es über französche und spanische Hütten bis Gavarnie, das wir am Samstagvormittag (spät. 11 Uhr) erreichen. Diese Woche kann auch als Fortsetzung der Tour von Port de la Bonaigua bis Bagneres de Luchon (31. August – 4. September) gewandert werden. In diesem Fall machen wir in Bagneres einen Pausentag. Die Pyrenäen sind weniger überlaufen, als die Alpen. Die Hütten sind kleiner. Die Vegetation unterscheidet sich vor allem auf der spanischen Seite. Rechnet mit teilweise weglosem Gelände durch Geröll und Felsbrocken. Die Anreise gestalten wir individuell, da es sich bei dieser Entfernung anbietet, die Tour mit zusätzlichen Urlaubstagen z.B. am Meer zu verbinden. Anforderungen: Kondition für 21 km und bis zu 1500 HM Aufstieg oder auch mal 1300 Hm\nUnterkünfte: Bewirtete Berghütten in den französischen und spanischen Pyrenäen Verpflegung: Halbpension in den Hütten; Marschverpflegung kann meist in den Hütten erworben werden.\nVortreffen: Termin muss noch ausge",
+          "bookable_id": "69bd6bea4e9957bf1e340113",
+          "bookable_start": "2026-09-06",
+          "bookable_end": "2026-09-12",
+          "free_places": 0,
+          "max_places": 8,
+          "bookable_places": 0,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd6be94e9957bf1e340111",
+          "number": "260906B_F008",
+          "title": "Hüttentour in den Pyrenäen",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Bergsteigen"
+          ],
+          "date_from": "2026-09-06",
+          "date_to": "2026-09-12",
+          "locations": [
+            "Pyrenäen"
+          ],
+          "description": "Mit dem Taxi fahren wir von Bagneres de Luchon nach Luchon Superbagneres. Von dort geht es über französche und spanische Hütten bis Gavarnie, das wir am Samstagvormittag (spät. 11 Uhr) erreichen. Diese Woche kann auch als Fortsetzung der Tour von Port de la Bonaigua bis Bagneres de Luchon (31. August – 4. September) gewandert werden. In diesem Fall machen wir in Bagneres einen Pausentag. Die Pyrenäen sind weniger überlaufen, als die Alpen. Die Hütten sind kleiner. Die Vegetation unterscheidet sich vor allem auf der spanischen Seite. Rechnet mit teilweise weglosem Gelände durch Geröll und Felsbrocken. Die Anreise gestalten wir individuell, da es sich bei dieser Entfernung anbietet, die Tour mit zusätzlichen Urlaubstagen z.B. am Meer zu verbinden. Anforderungen: Kondition für 21 km und bis zu 1500 HM Aufstieg oder auch mal 1300 Hm\nUnterkünfte: Bewirtete Berghütten in den französischen und spanischen Pyrenäen Verpflegung: Halbpension in den Hütten; Marschverpflegung kann meist in den Hütten erworben werden.\nVortreffen: Termin muss noch ausge",
+          "bookable_id": "69bd6bea4e9957bf1e340113",
+          "bookable_start": "2026-09-06",
+          "bookable_end": "2026-09-12",
+          "free_places": 1,
+          "max_places": 8,
+          "bookable_places": 1,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69bd761f4e9957bf1e34b337",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 0,
+            "to": 2
+          },
+          "free_places": {
+            "from": 0,
+            "to": 2
+          }
+        },
+        "current": {
+          "id": "69bd761f4e9957bf1e34b337",
+          "number": "260905MTB_F010",
+          "title": "Mountainbike La Grande Travesée des Hautes Alpe",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-09-05",
+          "date_to": "2026-09-13",
+          "locations": [
+            "nn"
+          ],
+          "description": "Traumhafte Berge, herrliche Trails, leckeres Essen – die Grande Traversée des Hautes Alpes (GTHA) ist eine anspruchsvolle alpine Tour in den französischen Alpen, die viel Fahrspaß und Genuss verspricht. Insgesamt warten auf uns rund 200 Kilometer, etwa 8.500 Höhenmeter Anstieg und 9.600 Höhenmeter Abfahrt, das alles vorwiegend auf Singletrails in alpiner Landschaft. Pro Tag sind es etwa 30 bis 40 Kilometer und 1200 bis 1600 Höhenmeter. Neben dem Fahrspaß wollen wir auch die Landschaft genießen und uns Zeit für Fotos Badepausen gönnen. Am letzten Tag fahren wir ein Stück auf der GTHA bis Chorges und von dort mit der Bahn nach Briançon. Von Briançon radeln wir gemächlich das letzte Stück zurück zum Startpunkt.Ihr solltet gute Fitness und solide Fahrtechnik mitbringen.\nAnforderungen: S3 und K3",
+          "bookable_id": "69bd761f4e9957bf1e34b3f8",
+          "bookable_start": "2026-09-05",
+          "bookable_end": "2026-09-13",
+          "free_places": 2,
+          "max_places": 10,
+          "bookable_places": 2,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd761f4e9957bf1e34b337",
+          "number": "260905MTB_F010",
+          "title": "Mountainbike La Grande Travesée des Hautes Alpe",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-09-05",
+          "date_to": "2026-09-13",
+          "locations": [
+            "nn"
+          ],
+          "description": "Traumhafte Berge, herrliche Trails, leckeres Essen – die Grande Traversée des Hautes Alpes (GTHA) ist eine anspruchsvolle alpine Tour in den französischen Alpen, die viel Fahrspaß und Genuss verspricht. Insgesamt warten auf uns rund 200 Kilometer, etwa 8.500 Höhenmeter Anstieg und 9.600 Höhenmeter Abfahrt, das alles vorwiegend auf Singletrails in alpiner Landschaft. Pro Tag sind es etwa 30 bis 40 Kilometer und 1200 bis 1600 Höhenmeter. Neben dem Fahrspaß wollen wir auch die Landschaft genießen und uns Zeit für Fotos Badepausen gönnen. Am letzten Tag fahren wir ein Stück auf der GTHA bis Chorges und von dort mit der Bahn nach Briançon. Von Briançon radeln wir gemächlich das letzte Stück zurück zum Startpunkt.Ihr solltet gute Fitness und solide Fahrtechnik mitbringen.\nAnforderungen: S3 und K3",
+          "bookable_id": "69bd761f4e9957bf1e34b3f8",
+          "bookable_start": "2026-09-05",
+          "bookable_end": "2026-09-13",
+          "free_places": 0,
+          "max_places": 10,
+          "bookable_places": 0,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69c2a65bbffdb98a612b1181",
+        "changed_fields": [
+          "description"
+        ],
+        "changes": {
+          "description": {
+            "from": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-",
+            "to": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-"
+          }
+        },
+        "current": {
+          "id": "69c2a65bbffdb98a612b1181",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-03",
+          "date_to": "2026-07-03",
+          "locations": [
+            "Heidelberg Hauptbahnhof"
+          ],
+          "description": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-",
+          "bookable_id": "69c2a65bbffdb98a612b1184",
+          "bookable_start": "2026-07-03",
+          "bookable_end": "2026-07-03",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69c2a65bbffdb98a612b1181",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-03",
+          "date_to": "2026-07-03",
+          "locations": [
+            "Heidelberg Hauptbahnhof"
+          ],
+          "description": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-",
+          "bookable_id": "69c2a65bbffdb98a612b1184",
+          "bookable_start": "2026-07-03",
+          "bookable_end": "2026-07-03",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69d4c2371cfb5441b7830bb4",
+        "changed_fields": [
+          "max_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "max_places": {
+            "from": 10,
+            "to": 12
+          },
+          "bookable_places": {
+            "from": 0,
+            "to": 2
+          }
+        },
+        "current": {
+          "id": "69d4c2371cfb5441b7830bb4",
+          "number": "20260717MTB_F01",
+          "title": "Alptrauf-Biken bei Bad Urach 2026",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-17",
+          "date_to": "2026-07-19",
+          "locations": [
+            "Seltbachstraße 9, Bad Urach, Deutschland"
+          ],
+          "description": "Auf geht’s in die Schwäbische Alp\nDie Region rund um Bad Urach bietet mit dem Albtrauf, Schluchten, Wäldern und hügeligem Gelände einiges an abwechslungsreichen Landschaften, die wir mit dem Mountainbikes erkunden wollen.\nAls Übernachtungsdomizil ist in der Jugendherberge Bad Urach eingeplant, von wo wir die Touren starten werden.\nJe nach Teilnehmeranzahl und Kräfte fahren wir in zwei Gruppen am Samstag und Sonntag mit Tourenlängen von ca. 35-45 km mit 1000-1500 Hm und nutzen tagsüber die Einkehrmöglichkeiten.\nUnterbringung: Für die Übernachtungen sind 3 Doppelzimmer und 1 Vierbettzimmer in der Jugendherberge Bad Urach reserviert (Seltbachstr. 9, 72574 Bad Urach, www.jugendherberge-bad-urach.de)\nKosten: Übernachtung mit Frühstück 46,40 €/Pers/Nacht inkl. Bettwäsche (Eine Anzahlung wird nach der Anmeldung erforderlich.)\nAbends können wir gemeinsam in Bad Urach essen gehen.\nDie Anreise erfolgt am Freitag möglichst mit dem Zug oder Fahrgemeinschaften, Treffpunkt nach Vereinbarung.\nAnforderungen: S2, K2\nKontakt: eva.pritzel@alpenverein-heidelberg.de",
+          "bookable_id": "69d4c2371cfb5441b7830bb6",
+          "bookable_start": "2026-07-17",
+          "bookable_end": "2026-07-19",
+          "free_places": 0,
+          "max_places": 12,
+          "bookable_places": 2,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69d4c2371cfb5441b7830bb4",
+          "number": "20260717MTB_F01",
+          "title": "Alptrauf-Biken bei Bad Urach 2026",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-17",
+          "date_to": "2026-07-19",
+          "locations": [
+            "Seltbachstraße 9, Bad Urach, Deutschland"
+          ],
+          "description": "Auf geht’s in die Schwäbische Alp\nDie Region rund um Bad Urach bietet mit dem Albtrauf, Schluchten, Wäldern und hügeligem Gelände einiges an abwechslungsreichen Landschaften, die wir mit dem Mountainbikes erkunden wollen.\nAls Übernachtungsdomizil ist in der Jugendherberge Bad Urach eingeplant, von wo wir die Touren starten werden.\nJe nach Teilnehmeranzahl und Kräfte fahren wir in zwei Gruppen am Samstag und Sonntag mit Tourenlängen von ca. 35-45 km mit 1000-1500 Hm und nutzen tagsüber die Einkehrmöglichkeiten.\nUnterbringung: Für die Übernachtungen sind 3 Doppelzimmer und 1 Vierbettzimmer in der Jugendherberge Bad Urach reserviert (Seltbachstr. 9, 72574 Bad Urach, www.jugendherberge-bad-urach.de)\nKosten: Übernachtung mit Frühstück 46,40 €/Pers/Nacht inkl. Bettwäsche (Eine Anzahlung wird nach der Anmeldung erforderlich.)\nAbends können wir gemeinsam in Bad Urach essen gehen.\nDie Anreise erfolgt am Freitag möglichst mit dem Zug oder Fahrgemeinschaften, Treffpunkt nach Vereinbarung.\nAnforderungen: S2, K2\nKontakt: eva.pritzel@alpenverein-heidelberg.de",
+          "bookable_id": "69d4c2371cfb5441b7830bb6",
+          "bookable_start": "2026-07-17",
+          "bookable_end": "2026-07-19",
+          "free_places": 0,
+          "max_places": 10,
+          "bookable_places": 0,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a292dfffe265180d5051071",
+        "changed_fields": [
+          "description",
+          "locations"
+        ],
+        "changes": {
+          "description": {
+            "from": "N.D.",
+            "to": "Neustadt, Hellerhütte, Burg Spangenberg, Forsthaus Breitenstein (Schlusseinkehr)\n13 m; 360 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 Uhr S 1 nach Neustadt\n-Anmeldung nicht erforderlich-"
+          },
+          "locations": {
+            "from": [
+              "N.D."
+            ],
+            "to": [
+              "Heidelberg Hauptbahnhof"
+            ]
+          }
+        },
+        "current": {
+          "id": "6a292dfffe265180d5051071",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-15",
+          "date_to": "2026-07-15",
+          "locations": [
+            "Heidelberg Hauptbahnhof"
+          ],
+          "description": "Neustadt, Hellerhütte, Burg Spangenberg, Forsthaus Breitenstein (Schlusseinkehr)\n13 m; 360 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 Uhr S 1 nach Neustadt\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a292dfffe265180d5051073",
+          "bookable_start": "2026-07-15",
+          "bookable_end": "2026-07-15",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a292dfffe265180d5051071",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-15",
+          "date_to": "2026-07-15",
+          "locations": [
+            "N.D."
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a292dfffe265180d5051073",
+          "bookable_start": "2026-07-15",
+          "bookable_end": "2026-07-15",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T08:38:04.809771+00:00",
+  "timestamp": "2026-06-29T10:17:52.230573+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 99,
   "tours": [
@@ -470,13 +470,13 @@
         "Baume-les-Dames"
       ],
       "description": "Übernachtung auf dem Campingplatz in Beaumes-Les-Dames\nAnforderungen: Vorstieg V+, selbständiges Standplatzmanagement",
-      "bookable_id": "69bd51be4e9957bf1e3235d9",
-      "bookable_start": "2026-06-25",
-      "bookable_end": "2026-06-28",
-      "free_places": 0,
-      "max_places": 0,
-      "bookable_places": 0,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -573,9 +573,9 @@
       "bookable_id": "69bd5ccfbd72746a96778a47",
       "bookable_start": "2026-07-24",
       "bookable_end": "2026-07-26",
-      "free_places": 3,
+      "free_places": 4,
       "max_places": 8,
-      "bookable_places": 3,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -648,9 +648,9 @@
       "bookable_id": "69bd6bea4e9957bf1e340113",
       "bookable_start": "2026-09-06",
       "bookable_end": "2026-09-12",
-      "free_places": 1,
+      "free_places": 0,
       "max_places": 8,
-      "bookable_places": 1,
+      "bookable_places": 0,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -698,9 +698,9 @@
       "bookable_id": "69bd761f4e9957bf1e34b3f8",
       "bookable_start": "2026-09-05",
       "bookable_end": "2026-09-13",
-      "free_places": 0,
+      "free_places": 2,
       "max_places": 10,
-      "bookable_places": 0,
+      "bookable_places": 2,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -1219,7 +1219,7 @@
       "locations": [
         "Heidelberg Hauptbahnhof"
       ],
-      "description": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-",
+      "description": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-",
       "bookable_id": "69c2a65bbffdb98a612b1184",
       "bookable_start": "2026-07-03",
       "bookable_end": "2026-07-03",
@@ -1624,8 +1624,8 @@
       "bookable_start": "2026-07-17",
       "bookable_end": "2026-07-19",
       "free_places": 0,
-      "max_places": 10,
-      "bookable_places": 0,
+      "max_places": 12,
+      "bookable_places": 2,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1967,9 +1967,9 @@
       "date_from": "2026-07-15",
       "date_to": "2026-07-15",
       "locations": [
-        "N.D."
+        "Heidelberg Hauptbahnhof"
       ],
-      "description": "N.D.",
+      "description": "Neustadt, Hellerhütte, Burg Spangenberg, Forsthaus Breitenstein (Schlusseinkehr)\n13 m; 360 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 Uhr S 1 nach Neustadt\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a292dfffe265180d5051073",
       "bookable_start": "2026-07-15",
       "bookable_end": "2026-07-15",
