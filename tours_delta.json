@@ -1,35 +1,61 @@
 {
-  "timestamp": "2026-06-30T08:53:03.760164+00:00",
-  "previous_timestamp": "2026-06-29T10:17:52.230573+00:00",
+  "timestamp": "2026-07-02T08:38:50.072777+00:00",
+  "previous_timestamp": "2026-06-30T08:53:03.752402+00:00",
   "summary": {
-    "added": 1,
+    "added": 2,
     "removed": 0,
-    "modified": 1
+    "modified": 3
   },
   "changes": {
     "added": [
       {
-        "id": "6a42c9bfe38beedc074988af",
-        "number": "20260704MTB",
-        "title": "Mit dem Mountainbike  in den Pfälzerwald",
-        "type": "CUSTOM",
+        "id": "6a4381884db965507b03823b",
+        "number": "260726MTB",
+        "title": "BIKELÄND Eberbach",
+        "type": "TOUR",
         "canceled": false,
         "cancel_reason": null,
         "categories": [
           "Mountainbike"
         ],
-        "date_from": "2026-07-04",
-        "date_to": "2026-07-04",
+        "date_from": "2026-07-26",
+        "date_to": "2026-07-26",
         "locations": [
-          "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+          "Eberbach"
         ],
-        "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
-        "bookable_id": "6a42c9bfe38beedc074988b1",
-        "bookable_start": "2026-07-04",
-        "bookable_end": "2026-07-04",
-        "free_places": 11,
-        "max_places": 12,
-        "bookable_places": 11,
+        "description": "Ein Tag auf den gebauten Trails rund um Eberbach, von flowig bis knackig ist alles geboten. Anreise 8:54 ab Heidelberg Hbf. mit der S-Bahn, abends zurück. Fahrstrecke 30 bis 40 km, ca. 1200 hm. Zurück zwischen 16 und 17 Uhr an Eberbach. Die Tour findet nur bei trockenen Verhältnissen statt.\nAnforderungen: S2-S3, K2\nMax. Teilnehmerzahl: 5",
+        "bookable_id": "6a4381884db965507b03823d",
+        "bookable_start": "2026-07-26",
+        "bookable_end": "2026-07-26",
+        "free_places": 5,
+        "max_places": 5,
+        "bookable_places": 5,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a45033924e01b90224a2b11",
+        "number": "2608_WAN_G_001",
+        "title": "Westweg – Von Frauen für Frauen",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Familienbergsteigen",
+          "Wandern"
+        ],
+        "date_from": "2026-08-08",
+        "date_to": "2026-08-11",
+        "locations": [
+          "Heidelberg bzw. Freiburg"
+        ],
+        "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
+        "bookable_id": "6a45033924e01b90224a2b13",
+        "bookable_start": "2026-08-08",
+        "bookable_end": "2026-08-11",
+        "free_places": 9,
+        "max_places": 10,
+        "bookable_places": 9,
         "waitlist_active": true,
         "bookable_canceled": false
       }
@@ -37,72 +63,212 @@
     "removed": [],
     "modified": [
       {
-        "id": "6a295ceb1644e0483a115844",
+        "id": "69bd67004e9957bf1e33aa8b",
         "changed_fields": [
-          "locations",
-          "description"
+          "free_places",
+          "bookable_places"
         ],
         "changes": {
-          "locations": {
-            "from": [
-              "N.D."
-            ],
-            "to": [
-              "Heidelberg Hauptbahnhof"
-            ]
+          "free_places": {
+            "from": 7,
+            "to": 6
           },
-          "description": {
-            "from": "N.D.",
-            "to": "Lambrecht,  Eckkopf, Wachenheim (Schlusseinkehr)\n17 m; 600 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hbf. 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-"
+          "bookable_places": {
+            "from": 7,
+            "to": 6
           }
         },
         "current": {
-          "id": "6a295ceb1644e0483a115844",
+          "id": "69bd67004e9957bf1e33aa8b",
+          "number": "260509MTB_F005",
+          "title": "Trail-Taste für Frauen - Erste MTB-Trails zum Reinschnuppern",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-26",
+          "date_to": "2026-07-26",
+          "locations": [
+            "Heidelberg, Karlsruher Straße 105, Shell  Tankstelle"
+          ],
+          "description": "Du wolltest schon immer mal Mountainbike ausprobieren, weißt aber nicht so recht, wo du anfangen sollst? Bei unserer Trail-Taste-Tour für Frauen kannst du ganz entspannt mit viel Spaß in den Sport reinschnuppern. Was dich erwartet: •\tEine lockere Einsteigertour auf leichten Trails •\tTechnik-Tipps in verständlicher Sprache: Grundposition, Bremsen, Kurven •\tZeit zum Ausprobieren, Fragen stellen und Pause machen •\tEine wertschätzende, motivierende Atmosphäre nur unter Frauen Die Tour richtet sich an alle, die neugierig sind und Freude an Bewegung draußen haben – Vorerfahrung mit dem Mountainbike ist nicht nötig, du solltest dich nur sicher auf einem Fahrrad fühlen. Folgende Ausrüstung ist nötig: ein gefedertes Mountainbike, Helm, Brille, Handschuhe. Knie-& Ellenbogenprotektoren, falls vorhanden. Ziel der Tour ist, dass du ein gutes Gefühl für das Bike bekommst, erste kleine Erfolgserlebnisse auf dem Trail sammelst und herausfindest, ob Mountainbiken dein neuer Lieblingssport werden könnte.\nOrt: Heidelberg, Karlsruher Str. 105, Shell Tankstelle",
+          "bookable_id": "69bd67004e9957bf1e33aa8f",
+          "bookable_start": "2026-07-26",
+          "bookable_end": "2026-07-26",
+          "free_places": 6,
+          "max_places": 10,
+          "bookable_places": 6,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd67004e9957bf1e33aa8b",
+          "number": "260509MTB_F005",
+          "title": "Trail-Taste für Frauen - Erste MTB-Trails zum Reinschnuppern",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-26",
+          "date_to": "2026-07-26",
+          "locations": [
+            "Heidelberg, Karlsruher Straße 105, Shell  Tankstelle"
+          ],
+          "description": "Du wolltest schon immer mal Mountainbike ausprobieren, weißt aber nicht so recht, wo du anfangen sollst? Bei unserer Trail-Taste-Tour für Frauen kannst du ganz entspannt mit viel Spaß in den Sport reinschnuppern. Was dich erwartet: •\tEine lockere Einsteigertour auf leichten Trails •\tTechnik-Tipps in verständlicher Sprache: Grundposition, Bremsen, Kurven •\tZeit zum Ausprobieren, Fragen stellen und Pause machen •\tEine wertschätzende, motivierende Atmosphäre nur unter Frauen Die Tour richtet sich an alle, die neugierig sind und Freude an Bewegung draußen haben – Vorerfahrung mit dem Mountainbike ist nicht nötig, du solltest dich nur sicher auf einem Fahrrad fühlen. Folgende Ausrüstung ist nötig: ein gefedertes Mountainbike, Helm, Brille, Handschuhe. Knie-& Ellenbogenprotektoren, falls vorhanden. Ziel der Tour ist, dass du ein gutes Gefühl für das Bike bekommst, erste kleine Erfolgserlebnisse auf dem Trail sammelst und herausfindest, ob Mountainbiken dein neuer Lieblingssport werden könnte.\nOrt: Heidelberg, Karlsruher Str. 105, Shell Tankstelle",
+          "bookable_id": "69bd67004e9957bf1e33aa8f",
+          "bookable_start": "2026-07-26",
+          "bookable_end": "2026-07-26",
+          "free_places": 7,
+          "max_places": 10,
+          "bookable_places": 7,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a2958b4baf2d3e4597bd705",
+        "changed_fields": [
+          "waitlist_active",
+          "bookable_id",
+          "bookable_end",
+          "bookable_start"
+        ],
+        "changes": {
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "6a2958b4baf2d3e4597bd708",
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-07-01",
+            "to": ""
+          },
+          "bookable_start": {
+            "from": "2026-07-01",
+            "to": ""
+          }
+        },
+        "current": {
+          "id": "6a2958b4baf2d3e4597bd705",
           "number": null,
-          "title": "Freitagswanderung",
+          "title": "Mittwochswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-07-17",
-          "date_to": "2026-07-17",
+          "date_from": "2026-07-01",
+          "date_to": "2026-07-01",
           "locations": [
             "Heidelberg Hauptbahnhof"
           ],
-          "description": "Lambrecht,  Eckkopf, Wachenheim (Schlusseinkehr)\n17 m; 600 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hbf. 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a295ceb1644e0483a11584b",
-          "bookable_start": "2026-07-17",
-          "bookable_end": "2026-07-17",
+          "description": "Zwingenberg, Ruine Stolzeneck, Eberbach (Einkehr)\n11 Km; 190 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Eberbach\n-Keine Anmeldung-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2958b4baf2d3e4597bd705",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-01",
+          "date_to": "2026-07-01",
+          "locations": [
+            "Heidelberg Hauptbahnhof"
+          ],
+          "description": "Zwingenberg, Ruine Stolzeneck, Eberbach (Einkehr)\n11 Km; 190 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Eberbach\n-Keine Anmeldung-",
+          "bookable_id": "6a2958b4baf2d3e4597bd708",
+          "bookable_start": "2026-07-01",
+          "bookable_end": "2026-07-01",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a42c9bfe38beedc074988af",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 11,
+            "to": 10
+          },
+          "bookable_places": {
+            "from": 11,
+            "to": 10
+          }
         },
-        "previous": {
-          "id": "6a295ceb1644e0483a115844",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
+        "current": {
+          "id": "6a42c9bfe38beedc074988af",
+          "number": "20260704MTB",
+          "title": "Mit dem Mountainbike  in den Pfälzerwald",
+          "type": "CUSTOM",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Mountainbike"
           ],
-          "date_from": "2026-07-17",
-          "date_to": "2026-07-17",
+          "date_from": "2026-07-04",
+          "date_to": "2026-07-04",
           "locations": [
-            "N.D."
+            "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
           ],
-          "description": "N.D.",
-          "bookable_id": "6a295ceb1644e0483a11584b",
-          "bookable_start": "2026-07-17",
-          "bookable_end": "2026-07-17",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
+          "bookable_id": "6a42c9bfe38beedc074988b1",
+          "bookable_start": "2026-07-04",
+          "bookable_end": "2026-07-04",
+          "free_places": 10,
+          "max_places": 12,
+          "bookable_places": 10,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a42c9bfe38beedc074988af",
+          "number": "20260704MTB",
+          "title": "Mit dem Mountainbike  in den Pfälzerwald",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-04",
+          "date_to": "2026-07-04",
+          "locations": [
+            "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+          ],
+          "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
+          "bookable_id": "6a42c9bfe38beedc074988b1",
+          "bookable_start": "2026-07-04",
+          "bookable_end": "2026-07-04",
+          "free_places": 11,
+          "max_places": 12,
+          "bookable_places": 11,
           "waitlist_active": true,
           "bookable_canceled": false
         }

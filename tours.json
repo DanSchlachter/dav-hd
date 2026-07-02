@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-06-30T08:53:03.752402+00:00",
+  "timestamp": "2026-07-02T08:38:50.064879+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 100,
+  "tour_count": 102,
   "tours": [
     {
       "id": "69b345e4a4648fdbe626a659",
@@ -1098,9 +1098,9 @@
       "bookable_id": "69bd67004e9957bf1e33aa8f",
       "bookable_start": "2026-07-26",
       "bookable_end": "2026-07-26",
-      "free_places": 7,
+      "free_places": 6,
       "max_places": 10,
-      "bookable_places": 7,
+      "bookable_places": 6,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -2020,13 +2020,13 @@
         "Heidelberg Hauptbahnhof"
       ],
       "description": "Zwingenberg, Ruine Stolzeneck, Eberbach (Einkehr)\n11 Km; 190 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Eberbach\n-Keine Anmeldung-",
-      "bookable_id": "6a2958b4baf2d3e4597bd708",
-      "bookable_start": "2026-07-01",
-      "bookable_end": "2026-07-01",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -2498,9 +2498,60 @@
       "bookable_id": "6a42c9bfe38beedc074988b1",
       "bookable_start": "2026-07-04",
       "bookable_end": "2026-07-04",
-      "free_places": 11,
+      "free_places": 10,
       "max_places": 12,
-      "bookable_places": 11,
+      "bookable_places": 10,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a4381884db965507b03823b",
+      "number": "260726MTB",
+      "title": "BIKELÄND Eberbach",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Mountainbike"
+      ],
+      "date_from": "2026-07-26",
+      "date_to": "2026-07-26",
+      "locations": [
+        "Eberbach"
+      ],
+      "description": "Ein Tag auf den gebauten Trails rund um Eberbach, von flowig bis knackig ist alles geboten. Anreise 8:54 ab Heidelberg Hbf. mit der S-Bahn, abends zurück. Fahrstrecke 30 bis 40 km, ca. 1200 hm. Zurück zwischen 16 und 17 Uhr an Eberbach. Die Tour findet nur bei trockenen Verhältnissen statt.\nAnforderungen: S2-S3, K2\nMax. Teilnehmerzahl: 5",
+      "bookable_id": "6a4381884db965507b03823d",
+      "bookable_start": "2026-07-26",
+      "bookable_end": "2026-07-26",
+      "free_places": 5,
+      "max_places": 5,
+      "bookable_places": 5,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a45033924e01b90224a2b11",
+      "number": "2608_WAN_G_001",
+      "title": "Westweg – Von Frauen für Frauen",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Familienbergsteigen",
+        "Wandern"
+      ],
+      "date_from": "2026-08-08",
+      "date_to": "2026-08-11",
+      "locations": [
+        "Heidelberg bzw. Freiburg"
+      ],
+      "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
+      "bookable_id": "6a45033924e01b90224a2b13",
+      "bookable_start": "2026-08-08",
+      "bookable_end": "2026-08-11",
+      "free_places": 9,
+      "max_places": 10,
+      "bookable_places": 9,
       "waitlist_active": true,
       "bookable_canceled": false
     }
