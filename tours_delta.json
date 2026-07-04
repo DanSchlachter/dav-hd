@@ -1,145 +1,176 @@
 {
-  "timestamp": "2026-07-03T08:45:12.218579+00:00",
-  "previous_timestamp": "2026-07-02T08:38:50.064879+00:00",
+  "timestamp": "2026-07-04T08:19:53.437470+00:00",
+  "previous_timestamp": "2026-07-03T08:45:12.210647+00:00",
   "summary": {
-    "added": 0,
+    "added": 1,
     "removed": 0,
     "modified": 2
   },
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "id": "6a456330727b878c04611239",
+        "number": "260829FAM_G001",
+        "title": "Camping und Bouldern in Fontainebleau",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Familienbergsteigen"
+        ],
+        "date_from": "2026-08-29",
+        "date_to": "2026-09-05",
+        "locations": [
+          "Frankreich, Fontainebleau"
+        ],
+        "description": "Grundlegende Sicherheitskenntnisse für eigenverantwortliches Bouldern werden vorausgesetzt. Eine eigene Bouldermatte ist mitzubringen.\n\nDie Tour richtet sich an Familien und legt den Schwerpunkt auf das gemeinsame Bouldern sowie auf Bewegung und gemeinschaftliches Erleben.\n\nEltern bzw. Erziehungsberechtigte tragen während der gesamten Tour die Verantwortung für ihre Kinder.",
+        "bookable_id": "6a456330727b878c0461123c",
+        "bookable_start": "2026-08-29",
+        "bookable_end": "2026-09-05",
+        "free_places": 25,
+        "max_places": 25,
+        "bookable_places": 25,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      }
+    ],
     "removed": [],
     "modified": [
       {
-        "id": "69bd5ccfbd72746a96778a45",
+        "id": "69c2a65bbffdb98a612b1181",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "bookable_start",
+          "bookable_end",
+          "waitlist_active",
+          "bookable_id"
         ],
         "changes": {
-          "free_places": {
-            "from": 4,
-            "to": 3
+          "bookable_start": {
+            "from": "2026-07-03",
+            "to": ""
           },
-          "bookable_places": {
-            "from": 4,
-            "to": 3
+          "bookable_end": {
+            "from": "2026-07-03",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "69c2a65bbffdb98a612b1184",
+            "to": null
           }
         },
         "current": {
-          "id": "69bd5ccfbd72746a96778a45",
-          "number": "260724Kl_G007",
-          "title": "Klettern in Albbruck im Südschwarzwald",
+          "id": "69c2a65bbffdb98a612b1181",
+          "number": null,
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Klettern"
+            "Wandern"
           ],
-          "date_from": "2026-07-24",
-          "date_to": "2026-07-26",
+          "date_from": "2026-07-03",
+          "date_to": "2026-07-03",
           "locations": [
-            "Südschwarzwald"
+            "Heidelberg Hauptbahnhof"
           ],
-          "description": "Anforderungen: Vorstieg V+",
-          "bookable_id": "69bd5ccfbd72746a96778a47",
-          "bookable_start": "2026-07-24",
-          "bookable_end": "2026-07-26",
-          "free_places": 3,
-          "max_places": 8,
-          "bookable_places": 3,
-          "waitlist_active": true,
+          "description": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69bd5ccfbd72746a96778a45",
-          "number": "260724Kl_G007",
-          "title": "Klettern in Albbruck im Südschwarzwald",
+          "id": "69c2a65bbffdb98a612b1181",
+          "number": null,
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Klettern"
+            "Wandern"
           ],
-          "date_from": "2026-07-24",
-          "date_to": "2026-07-26",
+          "date_from": "2026-07-03",
+          "date_to": "2026-07-03",
           "locations": [
-            "Südschwarzwald"
+            "Heidelberg Hauptbahnhof"
           ],
-          "description": "Anforderungen: Vorstieg V+",
-          "bookable_id": "69bd5ccfbd72746a96778a47",
-          "bookable_start": "2026-07-24",
-          "bookable_end": "2026-07-26",
-          "free_places": 4,
-          "max_places": 8,
-          "bookable_places": 4,
+          "description": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-",
+          "bookable_id": "69c2a65bbffdb98a612b1184",
+          "bookable_start": "2026-07-03",
+          "bookable_end": "2026-07-03",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6a42c9bfe38beedc074988af",
+        "id": "6a292ba9fe265180d504e722",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "description"
         ],
         "changes": {
-          "free_places": {
-            "from": 10,
-            "to": 9
-          },
-          "bookable_places": {
-            "from": 10,
-            "to": 9
+          "description": {
+            "from": "N.D.",
+            "to": "Fahrenbach, Tromm, Siedelsbrunn, Weinheim (Schlusseinkehr)\n17 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 0821 Uhr RB 68"
           }
         },
         "current": {
-          "id": "6a42c9bfe38beedc074988af",
-          "number": "20260704MTB",
-          "title": "Mit dem Mountainbike  in den Pfälzerwald",
-          "type": "CUSTOM",
+          "id": "6a292ba9fe265180d504e722",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Mountainbike"
+            "Wandern"
           ],
-          "date_from": "2026-07-04",
-          "date_to": "2026-07-04",
+          "date_from": "2026-07-10",
+          "date_to": "2026-07-10",
           "locations": [
-            "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+            "N.D."
           ],
-          "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
-          "bookable_id": "6a42c9bfe38beedc074988b1",
-          "bookable_start": "2026-07-04",
-          "bookable_end": "2026-07-04",
-          "free_places": 9,
-          "max_places": 12,
-          "bookable_places": 9,
+          "description": "Fahrenbach, Tromm, Siedelsbrunn, Weinheim (Schlusseinkehr)\n17 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 0821 Uhr RB 68",
+          "bookable_id": "6a292ba9fe265180d504e725",
+          "bookable_start": "2026-07-10",
+          "bookable_end": "2026-07-10",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a42c9bfe38beedc074988af",
-          "number": "20260704MTB",
-          "title": "Mit dem Mountainbike  in den Pfälzerwald",
-          "type": "CUSTOM",
+          "id": "6a292ba9fe265180d504e722",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Mountainbike"
+            "Wandern"
           ],
-          "date_from": "2026-07-04",
-          "date_to": "2026-07-04",
+          "date_from": "2026-07-10",
+          "date_to": "2026-07-10",
           "locations": [
-            "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+            "N.D."
           ],
-          "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
-          "bookable_id": "6a42c9bfe38beedc074988b1",
-          "bookable_start": "2026-07-04",
-          "bookable_end": "2026-07-04",
-          "free_places": 10,
-          "max_places": 12,
-          "bookable_places": 10,
+          "description": "N.D.",
+          "bookable_id": "6a292ba9fe265180d504e725",
+          "bookable_start": "2026-07-10",
+          "bookable_end": "2026-07-10",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         }

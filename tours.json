@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-07-03T08:45:12.210647+00:00",
+  "timestamp": "2026-07-04T08:19:53.429609+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 102,
+  "tour_count": 103,
   "tours": [
     {
       "id": "69b345e4a4648fdbe626a659",
@@ -1220,13 +1220,13 @@
         "Heidelberg Hauptbahnhof"
       ],
       "description": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-",
-      "bookable_id": "69c2a65bbffdb98a612b1184",
-      "bookable_start": "2026-07-03",
-      "bookable_end": "2026-07-03",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1944,7 +1944,7 @@
       "locations": [
         "N.D."
       ],
-      "description": "N.D.",
+      "description": "Fahrenbach, Tromm, Siedelsbrunn, Weinheim (Schlusseinkehr)\n17 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 0821 Uhr RB 68",
       "bookable_id": "6a292ba9fe265180d504e725",
       "bookable_start": "2026-07-10",
       "bookable_end": "2026-07-10",
@@ -2552,6 +2552,31 @@
       "free_places": 9,
       "max_places": 10,
       "bookable_places": 9,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a456330727b878c04611239",
+      "number": "260829FAM_G001",
+      "title": "Camping und Bouldern in Fontainebleau",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Familienbergsteigen"
+      ],
+      "date_from": "2026-08-29",
+      "date_to": "2026-09-05",
+      "locations": [
+        "Frankreich, Fontainebleau"
+      ],
+      "description": "Grundlegende Sicherheitskenntnisse für eigenverantwortliches Bouldern werden vorausgesetzt. Eine eigene Bouldermatte ist mitzubringen.\n\nDie Tour richtet sich an Familien und legt den Schwerpunkt auf das gemeinsame Bouldern sowie auf Bewegung und gemeinschaftliches Erleben.\n\nEltern bzw. Erziehungsberechtigte tragen während der gesamten Tour die Verantwortung für ihre Kinder.",
+      "bookable_id": "6a456330727b878c0461123c",
+      "bookable_start": "2026-08-29",
+      "bookable_end": "2026-09-05",
+      "free_places": 25,
+      "max_places": 25,
+      "bookable_places": 25,
       "waitlist_active": true,
       "bookable_canceled": false
     }
