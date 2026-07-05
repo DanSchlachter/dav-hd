@@ -1,69 +1,37 @@
 {
-  "timestamp": "2026-07-04T08:19:53.437470+00:00",
-  "previous_timestamp": "2026-07-03T08:45:12.210647+00:00",
+  "timestamp": "2026-07-05T08:37:47.433384+00:00",
+  "previous_timestamp": "2026-07-04T08:19:53.429609+00:00",
   "summary": {
-    "added": 1,
+    "added": 0,
     "removed": 0,
-    "modified": 2
+    "modified": 3
   },
   "changes": {
-    "added": [
-      {
-        "id": "6a456330727b878c04611239",
-        "number": "260829FAM_G001",
-        "title": "Camping und Bouldern in Fontainebleau",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Familienbergsteigen"
-        ],
-        "date_from": "2026-08-29",
-        "date_to": "2026-09-05",
-        "locations": [
-          "Frankreich, Fontainebleau"
-        ],
-        "description": "Grundlegende Sicherheitskenntnisse für eigenverantwortliches Bouldern werden vorausgesetzt. Eine eigene Bouldermatte ist mitzubringen.\n\nDie Tour richtet sich an Familien und legt den Schwerpunkt auf das gemeinsame Bouldern sowie auf Bewegung und gemeinschaftliches Erleben.\n\nEltern bzw. Erziehungsberechtigte tragen während der gesamten Tour die Verantwortung für ihre Kinder.",
-        "bookable_id": "6a456330727b878c0461123c",
-        "bookable_start": "2026-08-29",
-        "bookable_end": "2026-09-05",
-        "free_places": 25,
-        "max_places": 25,
-        "bookable_places": 25,
-        "waitlist_active": true,
-        "bookable_canceled": false
-      }
-    ],
+    "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "69c2a65bbffdb98a612b1181",
+        "id": "6a292ba9fe265180d504e722",
         "changed_fields": [
-          "bookable_start",
-          "bookable_end",
-          "waitlist_active",
-          "bookable_id"
+          "description",
+          "locations"
         ],
         "changes": {
-          "bookable_start": {
-            "from": "2026-07-03",
-            "to": ""
+          "description": {
+            "from": "Fahrenbach, Tromm, Siedelsbrunn, Weinheim (Schlusseinkehr)\n17 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 0821 Uhr RB 68",
+            "to": "Fahrenbach, Tromm, Siedelsbrunn, Weinheim (Schlusseinkehr)\n17 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer empfängt die Gruppe am Bahnhof Weinheim\n-Anmeldung nicht erforderlich-"
           },
-          "bookable_end": {
-            "from": "2026-07-03",
-            "to": ""
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          },
-          "bookable_id": {
-            "from": "69c2a65bbffdb98a612b1184",
-            "to": null
+          "locations": {
+            "from": [
+              "N.D."
+            ],
+            "to": [
+              "Heidelberg Hauptbahnhof"
+            ]
           }
         },
         "current": {
-          "id": "69c2a65bbffdb98a612b1181",
+          "id": "6a292ba9fe265180d504e722",
           "number": null,
           "title": "Freitagswanderung",
           "type": "TOUR",
@@ -72,59 +40,22 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-07-03",
-          "date_to": "2026-07-03",
+          "date_from": "2026-07-10",
+          "date_to": "2026-07-10",
           "locations": [
             "Heidelberg Hauptbahnhof"
           ],
-          "description": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69c2a65bbffdb98a612b1181",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-07-03",
-          "date_to": "2026-07-03",
-          "locations": [
-            "Heidelberg Hauptbahnhof"
-          ],
-          "description": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-",
-          "bookable_id": "69c2a65bbffdb98a612b1184",
-          "bookable_start": "2026-07-03",
-          "bookable_end": "2026-07-03",
+          "description": "Fahrenbach, Tromm, Siedelsbrunn, Weinheim (Schlusseinkehr)\n17 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer empfängt die Gruppe am Bahnhof Weinheim\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a292ba9fe265180d504e725",
+          "bookable_start": "2026-07-10",
+          "bookable_end": "2026-07-10",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a292ba9fe265180d504e722",
-        "changed_fields": [
-          "description"
-        ],
-        "changes": {
-          "description": {
-            "from": "N.D.",
-            "to": "Fahrenbach, Tromm, Siedelsbrunn, Weinheim (Schlusseinkehr)\n17 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 0821 Uhr RB 68"
-          }
         },
-        "current": {
+        "previous": {
           "id": "6a292ba9fe265180d504e722",
           "number": null,
           "title": "Freitagswanderung",
@@ -148,29 +79,165 @@
           "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a42c9bfe38beedc074988af",
+        "changed_fields": [
+          "max_places",
+          "waitlist_active",
+          "free_places",
+          "bookable_id",
+          "bookable_end",
+          "bookable_places",
+          "bookable_start"
+        ],
+        "changes": {
+          "max_places": {
+            "from": 12,
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "free_places": {
+            "from": 9,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "6a42c9bfe38beedc074988b1",
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-07-04",
+            "to": ""
+          },
+          "bookable_places": {
+            "from": 9,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-07-04",
+            "to": ""
+          }
+        },
+        "current": {
+          "id": "6a42c9bfe38beedc074988af",
+          "number": "20260704MTB",
+          "title": "Mit dem Mountainbike  in den Pfälzerwald",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-04",
+          "date_to": "2026-07-04",
+          "locations": [
+            "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+          ],
+          "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
         },
         "previous": {
-          "id": "6a292ba9fe265180d504e722",
-          "number": null,
-          "title": "Freitagswanderung",
+          "id": "6a42c9bfe38beedc074988af",
+          "number": "20260704MTB",
+          "title": "Mit dem Mountainbike  in den Pfälzerwald",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-04",
+          "date_to": "2026-07-04",
+          "locations": [
+            "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+          ],
+          "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
+          "bookable_id": "6a42c9bfe38beedc074988b1",
+          "bookable_start": "2026-07-04",
+          "bookable_end": "2026-07-04",
+          "free_places": 9,
+          "max_places": 12,
+          "bookable_places": 9,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a45033924e01b90224a2b11",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 9,
+            "to": 8
+          },
+          "bookable_places": {
+            "from": 9,
+            "to": 8
+          }
+        },
+        "current": {
+          "id": "6a45033924e01b90224a2b11",
+          "number": "2608_WAN_G_001",
+          "title": "Westweg – Von Frauen für Frauen",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
+            "Familienbergsteigen",
             "Wandern"
           ],
-          "date_from": "2026-07-10",
-          "date_to": "2026-07-10",
+          "date_from": "2026-08-08",
+          "date_to": "2026-08-11",
           "locations": [
-            "N.D."
+            "Heidelberg bzw. Freiburg"
           ],
-          "description": "N.D.",
-          "bookable_id": "6a292ba9fe265180d504e725",
-          "bookable_start": "2026-07-10",
-          "bookable_end": "2026-07-10",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
+          "bookable_id": "6a45033924e01b90224a2b13",
+          "bookable_start": "2026-08-08",
+          "bookable_end": "2026-08-11",
+          "free_places": 8,
+          "max_places": 10,
+          "bookable_places": 8,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a45033924e01b90224a2b11",
+          "number": "2608_WAN_G_001",
+          "title": "Westweg – Von Frauen für Frauen",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen",
+            "Wandern"
+          ],
+          "date_from": "2026-08-08",
+          "date_to": "2026-08-11",
+          "locations": [
+            "Heidelberg bzw. Freiburg"
+          ],
+          "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
+          "bookable_id": "6a45033924e01b90224a2b13",
+          "bookable_start": "2026-08-08",
+          "bookable_end": "2026-08-11",
+          "free_places": 9,
+          "max_places": 10,
+          "bookable_places": 9,
           "waitlist_active": true,
           "bookable_canceled": false
         }
