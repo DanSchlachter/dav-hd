@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T08:37:47.425424+00:00",
+  "timestamp": "2026-07-06T09:51:51.323845+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 103,
   "tours": [
@@ -132,7 +132,7 @@
     {
       "id": "69bc38319daefa4fefc181b0",
       "number": "260909FAM_F001",
-      "title": "5 Tage Klettersteige Alpen",
+      "title": "5 Tage in den Alpen – Klettersteige und Wanderungen rund um Adelboden",
       "type": "TOUR",
       "canceled": false,
       "cancel_reason": null,
@@ -144,7 +144,7 @@
       "locations": [
         "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
       ],
-      "description": "Fünf Tage Klettersteig-Abenteuer im Berner Oberland – gemeinsam unterwegs auf abwechslungsreichen Routen rund um Adelboden. Anspruchsvollere Passagen, luftige Querungen und echte alpine Bergerlebnisse warten auf uns als DAV Familiengruppe. Wir bauen auf eure Erfahrung auf und erweitern Technik, Ausdauer und Sicherheit im alpinen Gelände. Freut euch auf intensive Tage am Fels und in den Bergen, starke Gemeinschaft und unvergessliche Tourenmomente.\n\nOrt: Adelboden, Berner Oberland Schweiz\n\nAnforderungen: Grundlgen Klettersteig, gute Kondition. Teilnahme für Kinder ab 8 Jahren.\n\nAnreise: im eigenen PKW (Fahrgemeinschaften)\nTourenlänge: ca. bis zu 8 Std. / 15km\nVerantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nUnterkunft: Selbstversorgerhaus. Gemeinsame Verpflegung.\n\nKosten ca.: 195,00 € für Erwachsene / 130,00 € für Kinder bis 15 Jahren\n\nDetailplanung und Info: per e-mail",
+      "description": "Fünf abwechslungsreiche Tage im Berner Oberland erwarten uns rund um Adelboden. Je nach Lust, Erfahrung und Können ist die Teilnahme sowohl für Familien mit Klettersteig-Erfahrung als auch für Familien möglich, die lieber auf Wanderwegen in den Bergen unterwegs sind. So verbinden wir gemeinsame alpine Erlebnisse mit der Möglichkeit, die Umgebung mit oder ohne Klettersteig zu genießen.\n\nUns erwarten eindrucksvolle Berglandschaften, abwechslungsreiche Touren und schöne gemeinsame Tage in der DAV-Familiengruppe. Für geübte Teilnehmende bieten sich Klettersteige mit luftigen Passagen und alpinem Charakter an, während alle anderen die Region auf Wanderungen und leichteren Bergtouren erleben können.\n\nOrt: Adelboden, Berner Oberland, Schweiz\n\nAnforderungen: Für Klettersteige: Grundkenntnisse im Klettersteiggehen und gute Kondition.  Für Wanderungen: Trittsicherheit und normale Bergwandererfahrung. Teilnahme für Kinder ab 8 Jahren\n\nAnreise: im eigenen Pkw, gern in Fahrgemeinschaften\n\nTourenlänge: je nach Tour bis zu ca. 8 Std. / typischerweise bis zu 10 km\n\nUnterkunft: Selbstversorgerhaus, gemeinsame Verpflegung\n\nKosten (ca.): 200,00 € für Erwachsene / 150,00 € für Kinder bis 15 Jahren\n\nDie Verantwortung liegt bei den teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nDetailplanung und Info: per e-mail",
       "bookable_id": "69bc38319daefa4fefc181b2",
       "bookable_start": "2026-09-09",
       "bookable_end": "2026-09-13",
@@ -1795,13 +1795,13 @@
         "Heidelberg"
       ],
       "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
-      "bookable_id": "6a1966dd75bc005c63fc5473",
-      "bookable_start": "2026-07-05",
-      "bookable_end": "2026-07-05",
-      "free_places": 10,
-      "max_places": 10,
-      "bookable_places": 10,
-      "waitlist_active": false,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1870,13 +1870,13 @@
         "Heidelberg HBF"
       ],
       "description": "Pfalzwanderung, Treffpunkt Neustadt/Weinstraße 9:35 Uhr, Abfahrt Heidelberg HBF8:34 Uhr, S2 nach Neustadt.",
-      "bookable_id": "6a292771fe265180d5049cde",
-      "bookable_start": "2026-07-05",
-      "bookable_end": "2026-07-05",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {

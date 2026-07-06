@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-05T08:37:47.433384+00:00",
-  "previous_timestamp": "2026-07-04T08:19:53.429609+00:00",
+  "timestamp": "2026-07-06T09:51:51.332068+00:00",
+  "previous_timestamp": "2026-07-05T08:37:47.425424+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
@@ -11,133 +11,129 @@
     "removed": [],
     "modified": [
       {
-        "id": "6a292ba9fe265180d504e722",
+        "id": "69bc38319daefa4fefc181b0",
         "changed_fields": [
-          "description",
-          "locations"
+          "title",
+          "description"
         ],
         "changes": {
-          "description": {
-            "from": "Fahrenbach, Tromm, Siedelsbrunn, Weinheim (Schlusseinkehr)\n17 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 0821 Uhr RB 68",
-            "to": "Fahrenbach, Tromm, Siedelsbrunn, Weinheim (Schlusseinkehr)\n17 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer empfängt die Gruppe am Bahnhof Weinheim\n-Anmeldung nicht erforderlich-"
+          "title": {
+            "from": "5 Tage Klettersteige Alpen",
+            "to": "5 Tage in den Alpen – Klettersteige und Wanderungen rund um Adelboden"
           },
-          "locations": {
-            "from": [
-              "N.D."
-            ],
-            "to": [
-              "Heidelberg Hauptbahnhof"
-            ]
+          "description": {
+            "from": "Fünf Tage Klettersteig-Abenteuer im Berner Oberland – gemeinsam unterwegs auf abwechslungsreichen Routen rund um Adelboden. Anspruchsvollere Passagen, luftige Querungen und echte alpine Bergerlebnisse warten auf uns als DAV Familiengruppe. Wir bauen auf eure Erfahrung auf und erweitern Technik, Ausdauer und Sicherheit im alpinen Gelände. Freut euch auf intensive Tage am Fels und in den Bergen, starke Gemeinschaft und unvergessliche Tourenmomente.\n\nOrt: Adelboden, Berner Oberland Schweiz\n\nAnforderungen: Grundlgen Klettersteig, gute Kondition. Teilnahme für Kinder ab 8 Jahren.\n\nAnreise: im eigenen PKW (Fahrgemeinschaften)\nTourenlänge: ca. bis zu 8 Std. / 15km\nVerantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nUnterkunft: Selbstversorgerhaus. Gemeinsame Verpflegung.\n\nKosten ca.: 195,00 € für Erwachsene / 130,00 € für Kinder bis 15 Jahren\n\nDetailplanung und Info: per e-mail",
+            "to": "Fünf abwechslungsreiche Tage im Berner Oberland erwarten uns rund um Adelboden. Je nach Lust, Erfahrung und Können ist die Teilnahme sowohl für Familien mit Klettersteig-Erfahrung als auch für Familien möglich, die lieber auf Wanderwegen in den Bergen unterwegs sind. So verbinden wir gemeinsame alpine Erlebnisse mit der Möglichkeit, die Umgebung mit oder ohne Klettersteig zu genießen.\n\nUns erwarten eindrucksvolle Berglandschaften, abwechslungsreiche Touren und schöne gemeinsame Tage in der DAV-Familiengruppe. Für geübte Teilnehmende bieten sich Klettersteige mit luftigen Passagen und alpinem Charakter an, während alle anderen die Region auf Wanderungen und leichteren Bergtouren erleben können.\n\nOrt: Adelboden, Berner Oberland, Schweiz\n\nAnforderungen: Für Klettersteige: Grundkenntnisse im Klettersteiggehen und gute Kondition.  Für Wanderungen: Trittsicherheit und normale Bergwandererfahrung. Teilnahme für Kinder ab 8 Jahren\n\nAnreise: im eigenen Pkw, gern in Fahrgemeinschaften\n\nTourenlänge: je nach Tour bis zu ca. 8 Std. / typischerweise bis zu 10 km\n\nUnterkunft: Selbstversorgerhaus, gemeinsame Verpflegung\n\nKosten (ca.): 200,00 € für Erwachsene / 150,00 € für Kinder bis 15 Jahren\n\nDie Verantwortung liegt bei den teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nDetailplanung und Info: per e-mail"
           }
         },
         "current": {
-          "id": "6a292ba9fe265180d504e722",
-          "number": null,
-          "title": "Freitagswanderung",
+          "id": "69bc38319daefa4fefc181b0",
+          "number": "260909FAM_F001",
+          "title": "5 Tage in den Alpen – Klettersteige und Wanderungen rund um Adelboden",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-07-10",
-          "date_to": "2026-07-10",
+          "date_from": "2026-09-09",
+          "date_to": "2026-09-13",
           "locations": [
-            "Heidelberg Hauptbahnhof"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Fahrenbach, Tromm, Siedelsbrunn, Weinheim (Schlusseinkehr)\n17 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer empfängt die Gruppe am Bahnhof Weinheim\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a292ba9fe265180d504e725",
-          "bookable_start": "2026-07-10",
-          "bookable_end": "2026-07-10",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Fünf abwechslungsreiche Tage im Berner Oberland erwarten uns rund um Adelboden. Je nach Lust, Erfahrung und Können ist die Teilnahme sowohl für Familien mit Klettersteig-Erfahrung als auch für Familien möglich, die lieber auf Wanderwegen in den Bergen unterwegs sind. So verbinden wir gemeinsame alpine Erlebnisse mit der Möglichkeit, die Umgebung mit oder ohne Klettersteig zu genießen.\n\nUns erwarten eindrucksvolle Berglandschaften, abwechslungsreiche Touren und schöne gemeinsame Tage in der DAV-Familiengruppe. Für geübte Teilnehmende bieten sich Klettersteige mit luftigen Passagen und alpinem Charakter an, während alle anderen die Region auf Wanderungen und leichteren Bergtouren erleben können.\n\nOrt: Adelboden, Berner Oberland, Schweiz\n\nAnforderungen: Für Klettersteige: Grundkenntnisse im Klettersteiggehen und gute Kondition.  Für Wanderungen: Trittsicherheit und normale Bergwandererfahrung. Teilnahme für Kinder ab 8 Jahren\n\nAnreise: im eigenen Pkw, gern in Fahrgemeinschaften\n\nTourenlänge: je nach Tour bis zu ca. 8 Std. / typischerweise bis zu 10 km\n\nUnterkunft: Selbstversorgerhaus, gemeinsame Verpflegung\n\nKosten (ca.): 200,00 € für Erwachsene / 150,00 € für Kinder bis 15 Jahren\n\nDie Verantwortung liegt bei den teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nDetailplanung und Info: per e-mail",
+          "bookable_id": "69bc38319daefa4fefc181b2",
+          "bookable_start": "2026-09-09",
+          "bookable_end": "2026-09-13",
+          "free_places": 19,
+          "max_places": 25,
+          "bookable_places": 19,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a292ba9fe265180d504e722",
-          "number": null,
-          "title": "Freitagswanderung",
+          "id": "69bc38319daefa4fefc181b0",
+          "number": "260909FAM_F001",
+          "title": "5 Tage Klettersteige Alpen",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-07-10",
-          "date_to": "2026-07-10",
+          "date_from": "2026-09-09",
+          "date_to": "2026-09-13",
           "locations": [
-            "N.D."
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Fahrenbach, Tromm, Siedelsbrunn, Weinheim (Schlusseinkehr)\n17 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 0821 Uhr RB 68",
-          "bookable_id": "6a292ba9fe265180d504e725",
-          "bookable_start": "2026-07-10",
-          "bookable_end": "2026-07-10",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Fünf Tage Klettersteig-Abenteuer im Berner Oberland – gemeinsam unterwegs auf abwechslungsreichen Routen rund um Adelboden. Anspruchsvollere Passagen, luftige Querungen und echte alpine Bergerlebnisse warten auf uns als DAV Familiengruppe. Wir bauen auf eure Erfahrung auf und erweitern Technik, Ausdauer und Sicherheit im alpinen Gelände. Freut euch auf intensive Tage am Fels und in den Bergen, starke Gemeinschaft und unvergessliche Tourenmomente.\n\nOrt: Adelboden, Berner Oberland Schweiz\n\nAnforderungen: Grundlgen Klettersteig, gute Kondition. Teilnahme für Kinder ab 8 Jahren.\n\nAnreise: im eigenen PKW (Fahrgemeinschaften)\nTourenlänge: ca. bis zu 8 Std. / 15km\nVerantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nUnterkunft: Selbstversorgerhaus. Gemeinsame Verpflegung.\n\nKosten ca.: 195,00 € für Erwachsene / 130,00 € für Kinder bis 15 Jahren\n\nDetailplanung und Info: per e-mail",
+          "bookable_id": "69bc38319daefa4fefc181b2",
+          "bookable_start": "2026-09-09",
+          "bookable_end": "2026-09-13",
+          "free_places": 19,
+          "max_places": 25,
+          "bookable_places": 19,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6a42c9bfe38beedc074988af",
+        "id": "6a1966dd75bc005c63fc546f",
         "changed_fields": [
           "max_places",
-          "waitlist_active",
-          "free_places",
-          "bookable_id",
-          "bookable_end",
+          "bookable_start",
           "bookable_places",
-          "bookable_start"
+          "bookable_end",
+          "free_places",
+          "waitlist_active",
+          "bookable_id"
         ],
         "changes": {
           "max_places": {
-            "from": 12,
-            "to": null
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          },
-          "free_places": {
-            "from": 9,
-            "to": null
-          },
-          "bookable_id": {
-            "from": "6a42c9bfe38beedc074988b1",
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-07-04",
-            "to": ""
-          },
-          "bookable_places": {
-            "from": 9,
+            "from": 10,
             "to": null
           },
           "bookable_start": {
-            "from": "2026-07-04",
+            "from": "2026-07-05",
             "to": ""
+          },
+          "bookable_places": {
+            "from": 10,
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-07-05",
+            "to": ""
+          },
+          "free_places": {
+            "from": 10,
+            "to": null
+          },
+          "waitlist_active": {
+            "from": false,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "6a1966dd75bc005c63fc5473",
+            "to": null
           }
         },
         "current": {
-          "id": "6a42c9bfe38beedc074988af",
-          "number": "20260704MTB",
-          "title": "Mit dem Mountainbike  in den Pfälzerwald",
-          "type": "CUSTOM",
+          "id": "6a1966dd75bc005c63fc546f",
+          "number": "2600705_MTB01",
+          "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Mountainbike"
           ],
-          "date_from": "2026-07-04",
-          "date_to": "2026-07-04",
+          "date_from": "2026-07-05",
+          "date_to": "2026-07-05",
           "locations": [
-            "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+            "Heidelberg"
           ],
-          "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
+          "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -148,96 +144,104 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a42c9bfe38beedc074988af",
-          "number": "20260704MTB",
-          "title": "Mit dem Mountainbike  in den Pfälzerwald",
-          "type": "CUSTOM",
+          "id": "6a1966dd75bc005c63fc546f",
+          "number": "2600705_MTB01",
+          "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Mountainbike"
           ],
-          "date_from": "2026-07-04",
-          "date_to": "2026-07-04",
+          "date_from": "2026-07-05",
+          "date_to": "2026-07-05",
           "locations": [
-            "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+            "Heidelberg"
           ],
-          "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
-          "bookable_id": "6a42c9bfe38beedc074988b1",
-          "bookable_start": "2026-07-04",
-          "bookable_end": "2026-07-04",
-          "free_places": 9,
-          "max_places": 12,
-          "bookable_places": 9,
-          "waitlist_active": true,
+          "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
+          "bookable_id": "6a1966dd75bc005c63fc5473",
+          "bookable_start": "2026-07-05",
+          "bookable_end": "2026-07-05",
+          "free_places": 10,
+          "max_places": 10,
+          "bookable_places": 10,
+          "waitlist_active": false,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6a45033924e01b90224a2b11",
+        "id": "6a292771fe265180d5049cdc",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "bookable_start",
+          "bookable_end",
+          "waitlist_active",
+          "bookable_id"
         ],
         "changes": {
-          "free_places": {
-            "from": 9,
-            "to": 8
+          "bookable_start": {
+            "from": "2026-07-05",
+            "to": ""
           },
-          "bookable_places": {
-            "from": 9,
-            "to": 8
+          "bookable_end": {
+            "from": "2026-07-05",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "6a292771fe265180d5049cde",
+            "to": null
           }
         },
         "current": {
-          "id": "6a45033924e01b90224a2b11",
-          "number": "2608_WAN_G_001",
-          "title": "Westweg – Von Frauen für Frauen",
+          "id": "6a292771fe265180d5049cdc",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Familienbergsteigen",
             "Wandern"
           ],
-          "date_from": "2026-08-08",
-          "date_to": "2026-08-11",
+          "date_from": "2026-07-05",
+          "date_to": "2026-07-05",
           "locations": [
-            "Heidelberg bzw. Freiburg"
+            "Heidelberg HBF"
           ],
-          "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
-          "bookable_id": "6a45033924e01b90224a2b13",
-          "bookable_start": "2026-08-08",
-          "bookable_end": "2026-08-11",
-          "free_places": 8,
-          "max_places": 10,
-          "bookable_places": 8,
-          "waitlist_active": true,
+          "description": "Pfalzwanderung, Treffpunkt Neustadt/Weinstraße 9:35 Uhr, Abfahrt Heidelberg HBF8:34 Uhr, S2 nach Neustadt.",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a45033924e01b90224a2b11",
-          "number": "2608_WAN_G_001",
-          "title": "Westweg – Von Frauen für Frauen",
+          "id": "6a292771fe265180d5049cdc",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Familienbergsteigen",
             "Wandern"
           ],
-          "date_from": "2026-08-08",
-          "date_to": "2026-08-11",
+          "date_from": "2026-07-05",
+          "date_to": "2026-07-05",
           "locations": [
-            "Heidelberg bzw. Freiburg"
+            "Heidelberg HBF"
           ],
-          "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
-          "bookable_id": "6a45033924e01b90224a2b13",
-          "bookable_start": "2026-08-08",
-          "bookable_end": "2026-08-11",
-          "free_places": 9,
-          "max_places": 10,
-          "bookable_places": 9,
+          "description": "Pfalzwanderung, Treffpunkt Neustadt/Weinstraße 9:35 Uhr, Abfahrt Heidelberg HBF8:34 Uhr, S2 nach Neustadt.",
+          "bookable_id": "6a292771fe265180d5049cde",
+          "bookable_start": "2026-07-05",
+          "bookable_end": "2026-07-05",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         }
