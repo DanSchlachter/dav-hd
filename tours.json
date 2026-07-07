@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T09:51:51.323845+00:00",
+  "timestamp": "2026-07-07T09:20:09.447842+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 103,
   "tours": [
@@ -723,9 +723,9 @@
       "bookable_id": "69bd7b0ebd72746a9678f450",
       "bookable_start": "2026-09-25",
       "bookable_end": "2026-09-27",
-      "free_places": 29,
+      "free_places": 28,
       "max_places": 30,
-      "bookable_places": 29,
+      "bookable_places": 28,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -1898,9 +1898,9 @@
       "bookable_id": "6a292951fe265180d504c33b",
       "bookable_start": "2026-08-02",
       "bookable_end": "2026-08-02",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
+      "free_places": 9,
+      "max_places": 10,
+      "bookable_places": 9,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1923,9 +1923,9 @@
       "bookable_id": "6a292a1d51b966ad6f143133",
       "bookable_start": "2026-09-20",
       "bookable_end": "2026-09-20",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
+      "free_places": 9,
+      "max_places": 10,
+      "bookable_places": 9,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1969,7 +1969,7 @@
       "locations": [
         "Heidelberg Hauptbahnhof"
       ],
-      "description": "Neustadt, Hellerhütte, Burg Spangenberg, Forsthaus Breitenstein (Schlusseinkehr)\n13 m; 360 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 Uhr S 1 nach Neustadt\n-Anmeldung nicht erforderlich-",
+      "description": "Neustadt, Hellerhütte, Burg Spangenberg, Forsthaus Breitenstein (Schlusseinkehr)\n13 Km; 360 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 Uhr S 1 nach Neustadt\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a292dfffe265180d5051073",
       "bookable_start": "2026-07-15",
       "bookable_end": "2026-07-15",
@@ -2044,7 +2044,7 @@
       "locations": [
         "Heidelberg Hauptbahnhof"
       ],
-      "description": "Lambrecht,  Eckkopf, Wachenheim (Schlusseinkehr)\n17 m; 600 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hbf. 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
+      "description": "Lambrecht,  Eckkopf, Wachenheim (Schlusseinkehr)\n17 Km; 600 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hbf. 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a295ceb1644e0483a11584b",
       "bookable_start": "2026-07-17",
       "bookable_end": "2026-07-17",
@@ -2574,9 +2574,9 @@
       "bookable_id": "6a456330727b878c0461123c",
       "bookable_start": "2026-08-29",
       "bookable_end": "2026-09-05",
-      "free_places": 25,
+      "free_places": 22,
       "max_places": 25,
-      "bookable_places": 25,
+      "bookable_places": 22,
       "waitlist_active": true,
       "bookable_canceled": false
     }
