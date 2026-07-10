@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T08:04:51.097787+00:00",
+  "timestamp": "2026-07-10T08:57:12.492421+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 103,
   "tours": [
@@ -723,9 +723,9 @@
       "bookable_id": "69bd7b0ebd72746a9678f450",
       "bookable_start": "2026-09-25",
       "bookable_end": "2026-09-27",
-      "free_places": 28,
+      "free_places": 24,
       "max_places": 30,
-      "bookable_places": 28,
+      "bookable_places": 24,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -1625,7 +1625,7 @@
       "bookable_end": "2026-07-19",
       "free_places": 0,
       "max_places": 12,
-      "bookable_places": 2,
+      "bookable_places": 0,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2142,9 +2142,9 @@
       "date_from": "2026-08-05",
       "date_to": "2026-08-05",
       "locations": [
-        "N.D."
+        "Heidelberg Hauptbahnhof Schalterhalle"
       ],
-      "description": "N.D.",
+      "description": "Gaiberg, Bärenbrunnen, Stefans-Hütte, Posseltslust, Königstuhl, Bergheim (Schlusseinkehr)\n7 Km; 250 Hm; Gehzeit ca. 3 Std.\nHeidelberg Hauptbahnhof 08:45 Uhr Schalterhalle\n-Keine Anmeldung erforderlich-",
       "bookable_id": "6a2968922bf69ed3b718a9c3",
       "bookable_start": "2026-08-05",
       "bookable_end": "2026-08-05",

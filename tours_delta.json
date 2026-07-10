@@ -1,14 +1,215 @@
 {
-  "timestamp": "2026-07-08T08:04:51.105666+00:00",
-  "previous_timestamp": "2026-07-07T09:20:09.447842+00:00",
+  "timestamp": "2026-07-10T08:57:12.500589+00:00",
+  "previous_timestamp": "2026-07-08T08:04:51.097787+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 3
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "69bd7b0ebd72746a9678f44e",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 28,
+            "to": 24
+          },
+          "bookable_places": {
+            "from": 28,
+            "to": 24
+          }
+        },
+        "current": {
+          "id": "69bd7b0ebd72746a9678f44e",
+          "number": "260925MTB_F011",
+          "title": "Mountainbike Herbstbiken 2026",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-27",
+          "locations": [
+            "nn"
+          ],
+          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
+          "bookable_id": "69bd7b0ebd72746a9678f450",
+          "bookable_start": "2026-09-25",
+          "bookable_end": "2026-09-27",
+          "free_places": 24,
+          "max_places": 30,
+          "bookable_places": 24,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd7b0ebd72746a9678f44e",
+          "number": "260925MTB_F011",
+          "title": "Mountainbike Herbstbiken 2026",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-27",
+          "locations": [
+            "nn"
+          ],
+          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
+          "bookable_id": "69bd7b0ebd72746a9678f450",
+          "bookable_start": "2026-09-25",
+          "bookable_end": "2026-09-27",
+          "free_places": 28,
+          "max_places": 30,
+          "bookable_places": 28,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69d4c2371cfb5441b7830bb4",
+        "changed_fields": [
+          "bookable_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 2,
+            "to": 0
+          }
+        },
+        "current": {
+          "id": "69d4c2371cfb5441b7830bb4",
+          "number": "20260717MTB_F01",
+          "title": "Alptrauf-Biken bei Bad Urach 2026",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-17",
+          "date_to": "2026-07-19",
+          "locations": [
+            "Seltbachstraße 9, Bad Urach, Deutschland"
+          ],
+          "description": "Auf geht’s in die Schwäbische Alp\nDie Region rund um Bad Urach bietet mit dem Albtrauf, Schluchten, Wäldern und hügeligem Gelände einiges an abwechslungsreichen Landschaften, die wir mit dem Mountainbikes erkunden wollen.\nAls Übernachtungsdomizil ist in der Jugendherberge Bad Urach eingeplant, von wo wir die Touren starten werden.\nJe nach Teilnehmeranzahl und Kräfte fahren wir in zwei Gruppen am Samstag und Sonntag mit Tourenlängen von ca. 35-45 km mit 1000-1500 Hm und nutzen tagsüber die Einkehrmöglichkeiten.\nUnterbringung: Für die Übernachtungen sind 3 Doppelzimmer und 1 Vierbettzimmer in der Jugendherberge Bad Urach reserviert (Seltbachstr. 9, 72574 Bad Urach, www.jugendherberge-bad-urach.de)\nKosten: Übernachtung mit Frühstück 46,40 €/Pers/Nacht inkl. Bettwäsche (Eine Anzahlung wird nach der Anmeldung erforderlich.)\nAbends können wir gemeinsam in Bad Urach essen gehen.\nDie Anreise erfolgt am Freitag möglichst mit dem Zug oder Fahrgemeinschaften, Treffpunkt nach Vereinbarung.\nAnforderungen: S2, K2\nKontakt: eva.pritzel@alpenverein-heidelberg.de",
+          "bookable_id": "69d4c2371cfb5441b7830bb6",
+          "bookable_start": "2026-07-17",
+          "bookable_end": "2026-07-19",
+          "free_places": 0,
+          "max_places": 12,
+          "bookable_places": 0,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69d4c2371cfb5441b7830bb4",
+          "number": "20260717MTB_F01",
+          "title": "Alptrauf-Biken bei Bad Urach 2026",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-17",
+          "date_to": "2026-07-19",
+          "locations": [
+            "Seltbachstraße 9, Bad Urach, Deutschland"
+          ],
+          "description": "Auf geht’s in die Schwäbische Alp\nDie Region rund um Bad Urach bietet mit dem Albtrauf, Schluchten, Wäldern und hügeligem Gelände einiges an abwechslungsreichen Landschaften, die wir mit dem Mountainbikes erkunden wollen.\nAls Übernachtungsdomizil ist in der Jugendherberge Bad Urach eingeplant, von wo wir die Touren starten werden.\nJe nach Teilnehmeranzahl und Kräfte fahren wir in zwei Gruppen am Samstag und Sonntag mit Tourenlängen von ca. 35-45 km mit 1000-1500 Hm und nutzen tagsüber die Einkehrmöglichkeiten.\nUnterbringung: Für die Übernachtungen sind 3 Doppelzimmer und 1 Vierbettzimmer in der Jugendherberge Bad Urach reserviert (Seltbachstr. 9, 72574 Bad Urach, www.jugendherberge-bad-urach.de)\nKosten: Übernachtung mit Frühstück 46,40 €/Pers/Nacht inkl. Bettwäsche (Eine Anzahlung wird nach der Anmeldung erforderlich.)\nAbends können wir gemeinsam in Bad Urach essen gehen.\nDie Anreise erfolgt am Freitag möglichst mit dem Zug oder Fahrgemeinschaften, Treffpunkt nach Vereinbarung.\nAnforderungen: S2, K2\nKontakt: eva.pritzel@alpenverein-heidelberg.de",
+          "bookable_id": "69d4c2371cfb5441b7830bb6",
+          "bookable_start": "2026-07-17",
+          "bookable_end": "2026-07-19",
+          "free_places": 0,
+          "max_places": 12,
+          "bookable_places": 2,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a2968922bf69ed3b718a9bf",
+        "changed_fields": [
+          "locations",
+          "description"
+        ],
+        "changes": {
+          "locations": {
+            "from": [
+              "N.D."
+            ],
+            "to": [
+              "Heidelberg Hauptbahnhof Schalterhalle"
+            ]
+          },
+          "description": {
+            "from": "N.D.",
+            "to": "Gaiberg, Bärenbrunnen, Stefans-Hütte, Posseltslust, Königstuhl, Bergheim (Schlusseinkehr)\n7 Km; 250 Hm; Gehzeit ca. 3 Std.\nHeidelberg Hauptbahnhof 08:45 Uhr Schalterhalle\n-Keine Anmeldung erforderlich-"
+          }
+        },
+        "current": {
+          "id": "6a2968922bf69ed3b718a9bf",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-08-05",
+          "date_to": "2026-08-05",
+          "locations": [
+            "Heidelberg Hauptbahnhof Schalterhalle"
+          ],
+          "description": "Gaiberg, Bärenbrunnen, Stefans-Hütte, Posseltslust, Königstuhl, Bergheim (Schlusseinkehr)\n7 Km; 250 Hm; Gehzeit ca. 3 Std.\nHeidelberg Hauptbahnhof 08:45 Uhr Schalterhalle\n-Keine Anmeldung erforderlich-",
+          "bookable_id": "6a2968922bf69ed3b718a9c3",
+          "bookable_start": "2026-08-05",
+          "bookable_end": "2026-08-05",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2968922bf69ed3b718a9bf",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-08-05",
+          "date_to": "2026-08-05",
+          "locations": [
+            "N.D."
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a2968922bf69ed3b718a9c3",
+          "bookable_start": "2026-08-05",
+          "bookable_end": "2026-08-05",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
