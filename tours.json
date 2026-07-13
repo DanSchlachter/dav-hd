@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T07:55:31.869684+00:00",
+  "timestamp": "2026-07-13T08:43:17.076654+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 103,
   "tours": [
@@ -120,13 +120,13 @@
         "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
       ],
       "description": "Der genaue Veranstaltungsort wird noch bekannt gegeben.\n\nVoraussetzung: Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.",
-      "bookable_id": "69bc3724ab300e5f40471fee",
-      "bookable_start": "2026-07-12",
-      "bookable_end": "2026-07-12",
-      "free_places": 25,
-      "max_places": 25,
-      "bookable_places": 25,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -573,9 +573,9 @@
       "bookable_id": "69bd5ccfbd72746a96778a47",
       "bookable_start": "2026-07-24",
       "bookable_end": "2026-07-26",
-      "free_places": 3,
+      "free_places": 1,
       "max_places": 8,
-      "bookable_places": 3,
+      "bookable_places": 1,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1898,9 +1898,9 @@
       "bookable_id": "6a292951fe265180d504c33b",
       "bookable_start": "2026-08-02",
       "bookable_end": "2026-08-02",
-      "free_places": 8,
+      "free_places": 7,
       "max_places": 10,
-      "bookable_places": 8,
+      "bookable_places": 7,
       "waitlist_active": true,
       "bookable_canceled": false
     },

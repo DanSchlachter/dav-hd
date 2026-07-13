@@ -1,14 +1,241 @@
 {
-  "timestamp": "2026-07-12T07:55:31.877864+00:00",
-  "previous_timestamp": "2026-07-11T07:29:29.213472+00:00",
+  "timestamp": "2026-07-13T08:43:17.084483+00:00",
+  "previous_timestamp": "2026-07-12T07:55:31.869684+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 3
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "69bc3724ab300e5f40471fec",
+        "changed_fields": [
+          "max_places",
+          "waitlist_active",
+          "bookable_end",
+          "bookable_start",
+          "free_places",
+          "bookable_id",
+          "bookable_places"
+        ],
+        "changes": {
+          "max_places": {
+            "from": 25,
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-07-12",
+            "to": ""
+          },
+          "bookable_start": {
+            "from": "2026-07-12",
+            "to": ""
+          },
+          "free_places": {
+            "from": 25,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "69bc3724ab300e5f40471fee",
+            "to": null
+          },
+          "bookable_places": {
+            "from": 25,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "69bc3724ab300e5f40471fec",
+          "number": "260712FAM_F001",
+          "title": "Tagestour",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen"
+          ],
+          "date_from": "2026-07-12",
+          "date_to": "2026-07-12",
+          "locations": [
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
+          ],
+          "description": "Der genaue Veranstaltungsort wird noch bekannt gegeben.\n\nVoraussetzung: Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bc3724ab300e5f40471fec",
+          "number": "260712FAM_F001",
+          "title": "Tagestour",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen"
+          ],
+          "date_from": "2026-07-12",
+          "date_to": "2026-07-12",
+          "locations": [
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
+          ],
+          "description": "Der genaue Veranstaltungsort wird noch bekannt gegeben.\n\nVoraussetzung: Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.",
+          "bookable_id": "69bc3724ab300e5f40471fee",
+          "bookable_start": "2026-07-12",
+          "bookable_end": "2026-07-12",
+          "free_places": 25,
+          "max_places": 25,
+          "bookable_places": 25,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69bd5ccfbd72746a96778a45",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 3,
+            "to": 1
+          },
+          "bookable_places": {
+            "from": 3,
+            "to": 1
+          }
+        },
+        "current": {
+          "id": "69bd5ccfbd72746a96778a45",
+          "number": "260724Kl_G007",
+          "title": "Klettern in Albbruck im Südschwarzwald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Klettern"
+          ],
+          "date_from": "2026-07-24",
+          "date_to": "2026-07-26",
+          "locations": [
+            "Südschwarzwald"
+          ],
+          "description": "Anforderungen: Vorstieg V+",
+          "bookable_id": "69bd5ccfbd72746a96778a47",
+          "bookable_start": "2026-07-24",
+          "bookable_end": "2026-07-26",
+          "free_places": 1,
+          "max_places": 8,
+          "bookable_places": 1,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd5ccfbd72746a96778a45",
+          "number": "260724Kl_G007",
+          "title": "Klettern in Albbruck im Südschwarzwald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Klettern"
+          ],
+          "date_from": "2026-07-24",
+          "date_to": "2026-07-26",
+          "locations": [
+            "Südschwarzwald"
+          ],
+          "description": "Anforderungen: Vorstieg V+",
+          "bookable_id": "69bd5ccfbd72746a96778a47",
+          "bookable_start": "2026-07-24",
+          "bookable_end": "2026-07-26",
+          "free_places": 3,
+          "max_places": 8,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a292951fe265180d504c339",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 8,
+            "to": 7
+          },
+          "bookable_places": {
+            "from": 8,
+            "to": 7
+          }
+        },
+        "current": {
+          "id": "6a292951fe265180d504c339",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-08-02",
+          "date_to": "2026-08-02",
+          "locations": [
+            "N.N."
+          ],
+          "description": "",
+          "bookable_id": "6a292951fe265180d504c33b",
+          "bookable_start": "2026-08-02",
+          "bookable_end": "2026-08-02",
+          "free_places": 7,
+          "max_places": 10,
+          "bookable_places": 7,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a292951fe265180d504c339",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-08-02",
+          "date_to": "2026-08-02",
+          "locations": [
+            "N.N."
+          ],
+          "description": "",
+          "bookable_id": "6a292951fe265180d504c33b",
+          "bookable_start": "2026-08-02",
+          "bookable_end": "2026-08-02",
+          "free_places": 8,
+          "max_places": 10,
+          "bookable_places": 8,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
