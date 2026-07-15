@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-07-14T07:44:04.135351+00:00",
+  "timestamp": "2026-07-15T07:47:13.635726+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 103,
+  "tour_count": 104,
   "tours": [
     {
       "id": "69b345e4a4648fdbe626a659",
@@ -723,9 +723,9 @@
       "bookable_id": "69bd7b0ebd72746a9678f450",
       "bookable_start": "2026-09-25",
       "bookable_end": "2026-09-27",
-      "free_places": 23,
+      "free_places": 22,
       "max_places": 30,
-      "bookable_places": 23,
+      "bookable_places": 22,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -1898,9 +1898,9 @@
       "bookable_id": "6a292951fe265180d504c33b",
       "bookable_start": "2026-08-02",
       "bookable_end": "2026-08-02",
-      "free_places": 7,
+      "free_places": 6,
       "max_places": 10,
-      "bookable_places": 7,
+      "bookable_places": 6,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2549,9 +2549,9 @@
       "bookable_id": "6a45033924e01b90224a2b13",
       "bookable_start": "2026-08-08",
       "bookable_end": "2026-08-11",
-      "free_places": 8,
+      "free_places": 7,
       "max_places": 10,
-      "bookable_places": 8,
+      "bookable_places": 7,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2577,6 +2577,31 @@
       "free_places": 22,
       "max_places": 25,
       "bookable_places": 22,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a5723b4bc18e5881033bf43",
+      "number": null,
+      "title": "Mountainbiketour \"Die Tromm ruft\"",
+      "type": "CUSTOM",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Mountainbike"
+      ],
+      "date_from": "2026-07-22",
+      "date_to": "2026-07-22",
+      "locations": [
+        "Heidelberg"
+      ],
+      "description": "Wir machen eine große Runde (ca 70km, 1300-1800hm) durch den Odenwald mit dem Ziel Ireneturm auf der Tromm.\nNatürlich besuchen wir auch die schönesten Trails dort. Der Rückweg kann je nach Wunsch der Teilnehmer flacher oder hügeliger ausfallen.\n\nAnforderungen: S2, K2",
+      "bookable_id": "6a5723b4bc18e5881033bf45",
+      "bookable_start": "2026-07-22",
+      "bookable_end": "2026-07-22",
+      "free_places": 5,
+      "max_places": 6,
+      "bookable_places": 5,
       "waitlist_active": true,
       "bookable_canceled": false
     }
