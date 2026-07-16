@@ -1,171 +1,88 @@
 {
-  "timestamp": "2026-07-15T07:47:13.643584+00:00",
-  "previous_timestamp": "2026-07-14T07:44:04.135351+00:00",
+  "timestamp": "2026-07-16T07:52:06.139348+00:00",
+  "previous_timestamp": "2026-07-15T07:47:13.635726+00:00",
   "summary": {
-    "added": 1,
+    "added": 0,
     "removed": 0,
     "modified": 3
   },
   "changes": {
-    "added": [
-      {
-        "id": "6a5723b4bc18e5881033bf43",
-        "number": null,
-        "title": "Mountainbiketour \"Die Tromm ruft\"",
-        "type": "CUSTOM",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Mountainbike"
-        ],
-        "date_from": "2026-07-22",
-        "date_to": "2026-07-22",
-        "locations": [
-          "Heidelberg"
-        ],
-        "description": "Wir machen eine große Runde (ca 70km, 1300-1800hm) durch den Odenwald mit dem Ziel Ireneturm auf der Tromm.\nNatürlich besuchen wir auch die schönesten Trails dort. Der Rückweg kann je nach Wunsch der Teilnehmer flacher oder hügeliger ausfallen.\n\nAnforderungen: S2, K2",
-        "bookable_id": "6a5723b4bc18e5881033bf45",
-        "bookable_start": "2026-07-22",
-        "bookable_end": "2026-07-22",
-        "free_places": 5,
-        "max_places": 6,
-        "bookable_places": 5,
-        "waitlist_active": true,
-        "bookable_canceled": false
-      }
-    ],
+    "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "69bd7b0ebd72746a9678f44e",
+        "id": "6a292dfffe265180d5051071",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "waitlist_active",
+          "bookable_start",
+          "bookable_end",
+          "bookable_id"
         ],
         "changes": {
-          "free_places": {
-            "from": 23,
-            "to": 22
+          "waitlist_active": {
+            "from": true,
+            "to": null
           },
-          "bookable_places": {
-            "from": 23,
-            "to": 22
+          "bookable_start": {
+            "from": "2026-07-15",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-07-15",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a292dfffe265180d5051073",
+            "to": null
           }
         },
         "current": {
-          "id": "69bd7b0ebd72746a9678f44e",
-          "number": "260925MTB_F011",
-          "title": "Mountainbike Herbstbiken 2026",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-09-25",
-          "date_to": "2026-09-27",
-          "locations": [
-            "nn"
-          ],
-          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
-          "bookable_id": "69bd7b0ebd72746a9678f450",
-          "bookable_start": "2026-09-25",
-          "bookable_end": "2026-09-27",
-          "free_places": 22,
-          "max_places": 30,
-          "bookable_places": 22,
-          "waitlist_active": false,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69bd7b0ebd72746a9678f44e",
-          "number": "260925MTB_F011",
-          "title": "Mountainbike Herbstbiken 2026",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-09-25",
-          "date_to": "2026-09-27",
-          "locations": [
-            "nn"
-          ],
-          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
-          "bookable_id": "69bd7b0ebd72746a9678f450",
-          "bookable_start": "2026-09-25",
-          "bookable_end": "2026-09-27",
-          "free_places": 23,
-          "max_places": 30,
-          "bookable_places": 23,
-          "waitlist_active": false,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a292951fe265180d504c339",
-        "changed_fields": [
-          "free_places",
-          "bookable_places"
-        ],
-        "changes": {
-          "free_places": {
-            "from": 7,
-            "to": 6
-          },
-          "bookable_places": {
-            "from": 7,
-            "to": 6
-          }
-        },
-        "current": {
-          "id": "6a292951fe265180d504c339",
+          "id": "6a292dfffe265180d5051071",
           "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
+          "title": "Mittwochswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-08-02",
-          "date_to": "2026-08-02",
+          "date_from": "2026-07-15",
+          "date_to": "2026-07-15",
           "locations": [
-            "N.N."
+            "Heidelberg Hauptbahnhof"
           ],
-          "description": "",
-          "bookable_id": "6a292951fe265180d504c33b",
-          "bookable_start": "2026-08-02",
-          "bookable_end": "2026-08-02",
-          "free_places": 6,
-          "max_places": 10,
-          "bookable_places": 6,
-          "waitlist_active": true,
+          "description": "Neustadt, Hellerhütte, Burg Spangenberg, Forsthaus Breitenstein (Schlusseinkehr)\n13 Km; 360 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 Uhr S 1 nach Neustadt\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a292951fe265180d504c339",
+          "id": "6a292dfffe265180d5051071",
           "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
+          "title": "Mittwochswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-08-02",
-          "date_to": "2026-08-02",
+          "date_from": "2026-07-15",
+          "date_to": "2026-07-15",
           "locations": [
-            "N.N."
+            "Heidelberg Hauptbahnhof"
           ],
-          "description": "",
-          "bookable_id": "6a292951fe265180d504c33b",
-          "bookable_start": "2026-08-02",
-          "bookable_end": "2026-08-02",
-          "free_places": 7,
-          "max_places": 10,
-          "bookable_places": 7,
+          "description": "Neustadt, Hellerhütte, Burg Spangenberg, Forsthaus Breitenstein (Schlusseinkehr)\n13 Km; 360 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 Uhr S 1 nach Neustadt\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a292dfffe265180d5051073",
+          "bookable_start": "2026-07-15",
+          "bookable_end": "2026-07-15",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         }
@@ -173,46 +90,20 @@
       {
         "id": "6a45033924e01b90224a2b11",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "bookable_places",
+          "free_places"
         ],
         "changes": {
-          "free_places": {
-            "from": 8,
-            "to": 7
-          },
           "bookable_places": {
-            "from": 8,
-            "to": 7
+            "from": 7,
+            "to": 8
+          },
+          "free_places": {
+            "from": 7,
+            "to": 8
           }
         },
         "current": {
-          "id": "6a45033924e01b90224a2b11",
-          "number": "2608_WAN_G_001",
-          "title": "Westweg – Von Frauen für Frauen",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Familienbergsteigen",
-            "Wandern"
-          ],
-          "date_from": "2026-08-08",
-          "date_to": "2026-08-11",
-          "locations": [
-            "Heidelberg bzw. Freiburg"
-          ],
-          "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
-          "bookable_id": "6a45033924e01b90224a2b13",
-          "bookable_start": "2026-08-08",
-          "bookable_end": "2026-08-11",
-          "free_places": 7,
-          "max_places": 10,
-          "bookable_places": 7,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
           "id": "6a45033924e01b90224a2b11",
           "number": "2608_WAN_G_001",
           "title": "Westweg – Von Frauen für Frauen",
@@ -235,6 +126,99 @@
           "free_places": 8,
           "max_places": 10,
           "bookable_places": 8,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a45033924e01b90224a2b11",
+          "number": "2608_WAN_G_001",
+          "title": "Westweg – Von Frauen für Frauen",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen",
+            "Wandern"
+          ],
+          "date_from": "2026-08-08",
+          "date_to": "2026-08-11",
+          "locations": [
+            "Heidelberg bzw. Freiburg"
+          ],
+          "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
+          "bookable_id": "6a45033924e01b90224a2b13",
+          "bookable_start": "2026-08-08",
+          "bookable_end": "2026-08-11",
+          "free_places": 7,
+          "max_places": 10,
+          "bookable_places": 7,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a5723b4bc18e5881033bf43",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 5,
+            "to": 3
+          },
+          "free_places": {
+            "from": 5,
+            "to": 3
+          }
+        },
+        "current": {
+          "id": "6a5723b4bc18e5881033bf43",
+          "number": null,
+          "title": "Mountainbiketour \"Die Tromm ruft\"",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-22",
+          "date_to": "2026-07-22",
+          "locations": [
+            "Heidelberg"
+          ],
+          "description": "Wir machen eine große Runde (ca 70km, 1300-1800hm) durch den Odenwald mit dem Ziel Ireneturm auf der Tromm.\nNatürlich besuchen wir auch die schönesten Trails dort. Der Rückweg kann je nach Wunsch der Teilnehmer flacher oder hügeliger ausfallen.\n\nAnforderungen: S2, K2",
+          "bookable_id": "6a5723b4bc18e5881033bf45",
+          "bookable_start": "2026-07-22",
+          "bookable_end": "2026-07-22",
+          "free_places": 3,
+          "max_places": 6,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a5723b4bc18e5881033bf43",
+          "number": null,
+          "title": "Mountainbiketour \"Die Tromm ruft\"",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-22",
+          "date_to": "2026-07-22",
+          "locations": [
+            "Heidelberg"
+          ],
+          "description": "Wir machen eine große Runde (ca 70km, 1300-1800hm) durch den Odenwald mit dem Ziel Ireneturm auf der Tromm.\nNatürlich besuchen wir auch die schönesten Trails dort. Der Rückweg kann je nach Wunsch der Teilnehmer flacher oder hügeliger ausfallen.\n\nAnforderungen: S2, K2",
+          "bookable_id": "6a5723b4bc18e5881033bf45",
+          "bookable_start": "2026-07-22",
+          "bookable_end": "2026-07-22",
+          "free_places": 5,
+          "max_places": 6,
+          "bookable_places": 5,
           "waitlist_active": true,
           "bookable_canceled": false
         }

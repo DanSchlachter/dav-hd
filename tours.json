@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T07:47:13.635726+00:00",
+  "timestamp": "2026-07-16T07:52:06.131208+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 104,
   "tours": [
@@ -1970,13 +1970,13 @@
         "Heidelberg Hauptbahnhof"
       ],
       "description": "Neustadt, Hellerhütte, Burg Spangenberg, Forsthaus Breitenstein (Schlusseinkehr)\n13 Km; 360 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 Uhr S 1 nach Neustadt\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a292dfffe265180d5051073",
-      "bookable_start": "2026-07-15",
-      "bookable_end": "2026-07-15",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -2549,9 +2549,9 @@
       "bookable_id": "6a45033924e01b90224a2b13",
       "bookable_start": "2026-08-08",
       "bookable_end": "2026-08-11",
-      "free_places": 7,
+      "free_places": 8,
       "max_places": 10,
-      "bookable_places": 7,
+      "bookable_places": 8,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2599,9 +2599,9 @@
       "bookable_id": "6a5723b4bc18e5881033bf45",
       "bookable_start": "2026-07-22",
       "bookable_end": "2026-07-22",
-      "free_places": 5,
+      "free_places": 3,
       "max_places": 6,
-      "bookable_places": 5,
+      "bookable_places": 3,
       "waitlist_active": true,
       "bookable_canceled": false
     }
