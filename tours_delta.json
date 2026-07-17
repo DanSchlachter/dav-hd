@@ -1,85 +1,478 @@
 {
-  "timestamp": "2026-07-16T07:52:06.139348+00:00",
-  "previous_timestamp": "2026-07-15T07:47:13.635726+00:00",
+  "timestamp": "2026-07-17T07:49:18.838641+00:00",
+  "previous_timestamp": "2026-07-16T07:52:06.131208+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 3
+    "modified": 9
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a292dfffe265180d5051071",
+        "id": "69bd2333ab300e5f4051b910",
         "changed_fields": [
-          "waitlist_active",
-          "bookable_start",
-          "bookable_end",
-          "bookable_id"
+          "max_places"
         ],
         "changes": {
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-07-15",
-            "to": ""
-          },
-          "bookable_end": {
-            "from": "2026-07-15",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "6a292dfffe265180d5051073",
-            "to": null
+          "max_places": {
+            "from": 6,
+            "to": 8
           }
         },
         "current": {
-          "id": "6a292dfffe265180d5051071",
-          "number": null,
-          "title": "Mittwochswanderung",
+          "id": "69bd2333ab300e5f4051b910",
+          "number": "260719B_F001",
+          "title": "ECO // Führungstour Bergsteigen: Klettersteige und Bergwanderungen im Gebiet Seiser Alm, Rosengarten, Schlern",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Bergsteigen"
           ],
-          "date_from": "2026-07-15",
-          "date_to": "2026-07-15",
+          "date_from": "2026-07-19",
+          "date_to": "2026-07-26",
           "locations": [
-            "Heidelberg Hauptbahnhof"
+            "Südtirol"
           ],
-          "description": "Neustadt, Hellerhütte, Burg Spangenberg, Forsthaus Breitenstein (Schlusseinkehr)\n13 Km; 360 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 Uhr S 1 nach Neustadt\n-Anmeldung nicht erforderlich-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
+          "description": "Ziele: Kesselkogel (3002m) - Überschreitung (Klettersteig B, I, T5), Roßzahnkamm (2653m) - Maximilian Klettersteig (B,I), Molignon (2852m) Laurenzi Klettersteig ( C/D I-II) Tourenstandorte: Mahlknechthütte /Rifugio Molignon, Tierser Alpl Hütte /Rifugio Alpe di Tires, Gratleitenpasshütte /Rifugio Passo Principe, Rifugio Antermoia, Schlernhaus / Rifugio Bolzano\nAnforderungen: Erfahrung in alpinem Felsgelände, Kletterfertigkeit I(-II) UIAA, Absolute Trittsicherheit und Schwindelfreiheit. Klettersteigerfahrung K 2-3 (B-C), Kondition für 5-(6) Std. Gehzeiten und ca.800Hm Ausrüstung: Bergwanderausrüstung, komplette Klettersteigausrüstung\nTourleitung: Edwin Armbrust",
+          "bookable_id": "69bd2333ab300e5f4051b912",
+          "bookable_start": "2026-07-19",
+          "bookable_end": "2026-07-26",
+          "free_places": 0,
+          "max_places": 8,
+          "bookable_places": 0,
+          "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a292dfffe265180d5051071",
+          "id": "69bd2333ab300e5f4051b910",
+          "number": "260719B_F001",
+          "title": "ECO // Führungstour Bergsteigen: Klettersteige und Bergwanderungen im Gebiet Seiser Alm, Rosengarten, Schlern",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Bergsteigen"
+          ],
+          "date_from": "2026-07-19",
+          "date_to": "2026-07-26",
+          "locations": [
+            "Südtirol"
+          ],
+          "description": "Ziele: Kesselkogel (3002m) - Überschreitung (Klettersteig B, I, T5), Roßzahnkamm (2653m) - Maximilian Klettersteig (B,I), Molignon (2852m) Laurenzi Klettersteig ( C/D I-II) Tourenstandorte: Mahlknechthütte /Rifugio Molignon, Tierser Alpl Hütte /Rifugio Alpe di Tires, Gratleitenpasshütte /Rifugio Passo Principe, Rifugio Antermoia, Schlernhaus / Rifugio Bolzano\nAnforderungen: Erfahrung in alpinem Felsgelände, Kletterfertigkeit I(-II) UIAA, Absolute Trittsicherheit und Schwindelfreiheit. Klettersteigerfahrung K 2-3 (B-C), Kondition für 5-(6) Std. Gehzeiten und ca.800Hm Ausrüstung: Bergwanderausrüstung, komplette Klettersteigausrüstung\nTourleitung: Edwin Armbrust",
+          "bookable_id": "69bd2333ab300e5f4051b912",
+          "bookable_start": "2026-07-19",
+          "bookable_end": "2026-07-26",
+          "free_places": 0,
+          "max_places": 6,
+          "bookable_places": 0,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69bd7b0ebd72746a9678f44e",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 22,
+            "to": 21
+          },
+          "free_places": {
+            "from": 22,
+            "to": 21
+          }
+        },
+        "current": {
+          "id": "69bd7b0ebd72746a9678f44e",
+          "number": "260925MTB_F011",
+          "title": "Mountainbike Herbstbiken 2026",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-27",
+          "locations": [
+            "nn"
+          ],
+          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
+          "bookable_id": "69bd7b0ebd72746a9678f450",
+          "bookable_start": "2026-09-25",
+          "bookable_end": "2026-09-27",
+          "free_places": 21,
+          "max_places": 30,
+          "bookable_places": 21,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd7b0ebd72746a9678f44e",
+          "number": "260925MTB_F011",
+          "title": "Mountainbike Herbstbiken 2026",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-27",
+          "locations": [
+            "nn"
+          ],
+          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
+          "bookable_id": "69bd7b0ebd72746a9678f450",
+          "bookable_start": "2026-09-25",
+          "bookable_end": "2026-09-27",
+          "free_places": 22,
+          "max_places": 30,
+          "bookable_places": 22,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69e1ebfa6fdf546c6f73874f",
+        "changed_fields": [
+          "description"
+        ],
+        "changes": {
+          "description": {
+            "from": "Vom 6.-13. September geht es für uns hoch hinaus aufs Stilfserjoch, wir befahren den legendären Holy Hansen Trail, erfreuen uns an den Strecken im Vinschgau rund um Prad. Als goldener Abschluss geht es an den Reschensee um dort die 3-Länder-Endurostrecken zu erkunden. \nAnforderung: bis zu 1500 hm pedalieren, auch mit Schiebe- und \nTragepassagen. Schwindelfreiheit ist erforderlich und fortgeschrittene Fahrtechnik. \nKontakt judith.englert@alpenverein-heidelberg.de",
+            "to": "Vom 6.-13. September geht es für uns hoch hinaus aufs Stilfserjoch, wir befahren den legendären Holy Hansen Trail, erfreuen uns an den Strecken im Vinschgau rund um Prad. Als goldener Abschluss geht es an den Reschensee um dort die 3-Länder-Endurostrecken zu erkunden. \nAnforderung: bis zu 1500 hm pedalieren, auch mit Schiebe- und \nTragepassagen. Schwindelfreiheit ist erforderlich und fortgeschrittene Fahrtechnik."
+          }
+        },
+        "current": {
+          "id": "69e1ebfa6fdf546c6f73874f",
+          "number": "20260906MTB01",
+          "title": "Stilfserjoch und 3-Länder-Enduro",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-09-06",
+          "date_to": "2026-09-13",
+          "locations": [
+            "Stilfser Joch, Stilfs, Autonome Provinz Bozen - Südtirol, Italien"
+          ],
+          "description": "Vom 6.-13. September geht es für uns hoch hinaus aufs Stilfserjoch, wir befahren den legendären Holy Hansen Trail, erfreuen uns an den Strecken im Vinschgau rund um Prad. Als goldener Abschluss geht es an den Reschensee um dort die 3-Länder-Endurostrecken zu erkunden. \nAnforderung: bis zu 1500 hm pedalieren, auch mit Schiebe- und \nTragepassagen. Schwindelfreiheit ist erforderlich und fortgeschrittene Fahrtechnik.",
+          "bookable_id": "69e1ebfa6fdf546c6f738751",
+          "bookable_start": "2026-09-06",
+          "bookable_end": "2026-09-13",
+          "free_places": 3,
+          "max_places": 6,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69e1ebfa6fdf546c6f73874f",
+          "number": "20260906MTB01",
+          "title": "Stilfserjoch und 3-Länder-Enduro",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-09-06",
+          "date_to": "2026-09-13",
+          "locations": [
+            "Stilfser Joch, Stilfs, Autonome Provinz Bozen - Südtirol, Italien"
+          ],
+          "description": "Vom 6.-13. September geht es für uns hoch hinaus aufs Stilfserjoch, wir befahren den legendären Holy Hansen Trail, erfreuen uns an den Strecken im Vinschgau rund um Prad. Als goldener Abschluss geht es an den Reschensee um dort die 3-Länder-Endurostrecken zu erkunden. \nAnforderung: bis zu 1500 hm pedalieren, auch mit Schiebe- und \nTragepassagen. Schwindelfreiheit ist erforderlich und fortgeschrittene Fahrtechnik. \nKontakt judith.englert@alpenverein-heidelberg.de",
+          "bookable_id": "69e1ebfa6fdf546c6f738751",
+          "bookable_start": "2026-09-06",
+          "bookable_end": "2026-09-13",
+          "free_places": 3,
+          "max_places": 6,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a292f1851b966ad6f14d775",
+        "changed_fields": [
+          "locations",
+          "description"
+        ],
+        "changes": {
+          "locations": {
+            "from": [
+              "N:D."
+            ],
+            "to": [
+              "Heidelberg Hauptbahnhof S 1"
+            ]
+          },
+          "description": {
+            "from": "N.D.",
+            "to": "Hirschhorn, Neckargemünd (Schlusseinkehr)\n21 Km; 550 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-"
+          }
+        },
+        "current": {
+          "id": "6a292f1851b966ad6f14d775",
           "number": null,
-          "title": "Mittwochswanderung",
+          "title": "Samstagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-07-15",
-          "date_to": "2026-07-15",
+          "date_from": "2026-07-25",
+          "date_to": "2026-07-25",
+          "locations": [
+            "Heidelberg Hauptbahnhof S 1"
+          ],
+          "description": "Hirschhorn, Neckargemünd (Schlusseinkehr)\n21 Km; 550 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a292f1851b966ad6f14d777",
+          "bookable_start": "2026-07-25",
+          "bookable_end": "2026-07-25",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a292f1851b966ad6f14d775",
+          "number": null,
+          "title": "Samstagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-25",
+          "date_to": "2026-07-25",
+          "locations": [
+            "N:D."
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a292f1851b966ad6f14d777",
+          "bookable_start": "2026-07-25",
+          "bookable_end": "2026-07-25",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a295ceb1644e0483a115844",
+        "changed_fields": [
+          "locations"
+        ],
+        "changes": {
+          "locations": {
+            "from": [
+              "Heidelberg Hauptbahnhof"
+            ],
+            "to": [
+              "Heidelberg Hauptbahnhof S 1"
+            ]
+          }
+        },
+        "current": {
+          "id": "6a295ceb1644e0483a115844",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-17",
+          "date_to": "2026-07-17",
+          "locations": [
+            "Heidelberg Hauptbahnhof S 1"
+          ],
+          "description": "Lambrecht,  Eckkopf, Wachenheim (Schlusseinkehr)\n17 Km; 600 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hbf. 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a295ceb1644e0483a11584b",
+          "bookable_start": "2026-07-17",
+          "bookable_end": "2026-07-17",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a295ceb1644e0483a115844",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-17",
+          "date_to": "2026-07-17",
           "locations": [
             "Heidelberg Hauptbahnhof"
           ],
-          "description": "Neustadt, Hellerhütte, Burg Spangenberg, Forsthaus Breitenstein (Schlusseinkehr)\n13 Km; 360 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 Uhr S 1 nach Neustadt\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a292dfffe265180d5051073",
-          "bookable_start": "2026-07-15",
-          "bookable_end": "2026-07-15",
+          "description": "Lambrecht,  Eckkopf, Wachenheim (Schlusseinkehr)\n17 Km; 600 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hbf. 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a295ceb1644e0483a11584b",
+          "bookable_start": "2026-07-17",
+          "bookable_end": "2026-07-17",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a2961862bf69ed3b7182025",
+        "changed_fields": [
+          "locations",
+          "description"
+        ],
+        "changes": {
+          "locations": {
+            "from": [
+              "N.D."
+            ],
+            "to": [
+              "Heidelberg Hauptbahnhof RE 73"
+            ]
+          },
+          "description": {
+            "from": "N.D.",
+            "to": "Bad Wildbad, Wildbader Kopf, Eyachmühle, Talwiese (Schlusseinkehr)\n17 Km; 700 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:22 Uhr RE 73 nach Karlsruhe\n-Anmeldung nicht erforderlich-"
+          }
+        },
+        "current": {
+          "id": "6a2961862bf69ed3b7182025",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-24",
+          "date_to": "2026-07-24",
+          "locations": [
+            "Heidelberg Hauptbahnhof RE 73"
+          ],
+          "description": "Bad Wildbad, Wildbader Kopf, Eyachmühle, Talwiese (Schlusseinkehr)\n17 Km; 700 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:22 Uhr RE 73 nach Karlsruhe\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a2961862bf69ed3b7182028",
+          "bookable_start": "2026-07-24",
+          "bookable_end": "2026-07-24",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2961862bf69ed3b7182025",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-24",
+          "date_to": "2026-07-24",
+          "locations": [
+            "N.D."
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a2961862bf69ed3b7182028",
+          "bookable_start": "2026-07-24",
+          "bookable_end": "2026-07-24",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a29623d1644e0483a119633",
+        "changed_fields": [
+          "locations",
+          "description"
+        ],
+        "changes": {
+          "locations": {
+            "from": [
+              "n.D."
+            ],
+            "to": [
+              "Heidelberg Hauptbahnhof S 1"
+            ]
+          },
+          "description": {
+            "from": "N.D.",
+            "to": "Eberbach, Gretengrund, Steinerner Tisch, Hoppehütte, Hirschhorn (Schlusseinkehr)\n12 Km; 400 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:55 Uhr S 1 Richtung Osterburken\nWanderführer steigt in Neckarsteinach zu\n-Anmeldung nicht erforderlich-"
+          }
+        },
+        "current": {
+          "id": "6a29623d1644e0483a119633",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-31",
+          "date_to": "2026-07-31",
+          "locations": [
+            "Heidelberg Hauptbahnhof S 1"
+          ],
+          "description": "Eberbach, Gretengrund, Steinerner Tisch, Hoppehütte, Hirschhorn (Schlusseinkehr)\n12 Km; 400 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:55 Uhr S 1 Richtung Osterburken\nWanderführer steigt in Neckarsteinach zu\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a29623d1644e0483a119635",
+          "bookable_start": "2026-07-31",
+          "bookable_end": "2026-07-31",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a29623d1644e0483a119633",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-31",
+          "date_to": "2026-07-31",
+          "locations": [
+            "n.D."
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a29623d1644e0483a119635",
+          "bookable_start": "2026-07-31",
+          "bookable_end": "2026-07-31",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
@@ -95,41 +488,15 @@
         ],
         "changes": {
           "bookable_places": {
-            "from": 7,
-            "to": 8
+            "from": 8,
+            "to": 7
           },
           "free_places": {
-            "from": 7,
-            "to": 8
+            "from": 8,
+            "to": 7
           }
         },
         "current": {
-          "id": "6a45033924e01b90224a2b11",
-          "number": "2608_WAN_G_001",
-          "title": "Westweg – Von Frauen für Frauen",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Familienbergsteigen",
-            "Wandern"
-          ],
-          "date_from": "2026-08-08",
-          "date_to": "2026-08-11",
-          "locations": [
-            "Heidelberg bzw. Freiburg"
-          ],
-          "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
-          "bookable_id": "6a45033924e01b90224a2b13",
-          "bookable_start": "2026-08-08",
-          "bookable_end": "2026-08-11",
-          "free_places": 8,
-          "max_places": 10,
-          "bookable_places": 8,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
           "id": "6a45033924e01b90224a2b11",
           "number": "2608_WAN_G_001",
           "title": "Westweg – Von Frauen für Frauen",
@@ -154,22 +521,53 @@
           "bookable_places": 7,
           "waitlist_active": true,
           "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a45033924e01b90224a2b11",
+          "number": "2608_WAN_G_001",
+          "title": "Westweg – Von Frauen für Frauen",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen",
+            "Wandern"
+          ],
+          "date_from": "2026-08-08",
+          "date_to": "2026-08-11",
+          "locations": [
+            "Heidelberg bzw. Freiburg"
+          ],
+          "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
+          "bookable_id": "6a45033924e01b90224a2b13",
+          "bookable_start": "2026-08-08",
+          "bookable_end": "2026-08-11",
+          "free_places": 8,
+          "max_places": 10,
+          "bookable_places": 8,
+          "waitlist_active": true,
+          "bookable_canceled": false
         }
       },
       {
         "id": "6a5723b4bc18e5881033bf43",
         "changed_fields": [
           "bookable_places",
-          "free_places"
+          "free_places",
+          "max_places"
         ],
         "changes": {
           "bookable_places": {
-            "from": 5,
-            "to": 3
+            "from": 3,
+            "to": 7
           },
           "free_places": {
-            "from": 5,
-            "to": 3
+            "from": 3,
+            "to": 7
+          },
+          "max_places": {
+            "from": 6,
+            "to": 10
           }
         },
         "current": {
@@ -191,9 +589,9 @@
           "bookable_id": "6a5723b4bc18e5881033bf45",
           "bookable_start": "2026-07-22",
           "bookable_end": "2026-07-22",
-          "free_places": 3,
-          "max_places": 6,
-          "bookable_places": 3,
+          "free_places": 7,
+          "max_places": 10,
+          "bookable_places": 7,
           "waitlist_active": true,
           "bookable_canceled": false
         },
@@ -216,9 +614,9 @@
           "bookable_id": "6a5723b4bc18e5881033bf45",
           "bookable_start": "2026-07-22",
           "bookable_end": "2026-07-22",
-          "free_places": 5,
+          "free_places": 3,
           "max_places": 6,
-          "bookable_places": 5,
+          "bookable_places": 3,
           "waitlist_active": true,
           "bookable_canceled": false
         }

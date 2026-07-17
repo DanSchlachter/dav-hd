@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T07:52:06.131208+00:00",
+  "timestamp": "2026-07-17T07:49:18.830166+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 104,
   "tours": [
@@ -249,7 +249,7 @@
       "bookable_start": "2026-07-19",
       "bookable_end": "2026-07-26",
       "free_places": 0,
-      "max_places": 6,
+      "max_places": 8,
       "bookable_places": 0,
       "waitlist_active": true,
       "bookable_canceled": false
@@ -723,9 +723,9 @@
       "bookable_id": "69bd7b0ebd72746a9678f450",
       "bookable_start": "2026-09-25",
       "bookable_end": "2026-09-27",
-      "free_places": 22,
+      "free_places": 21,
       "max_places": 30,
-      "bookable_places": 22,
+      "bookable_places": 21,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -1669,7 +1669,7 @@
       "locations": [
         "Stilfser Joch, Stilfs, Autonome Provinz Bozen - Südtirol, Italien"
       ],
-      "description": "Vom 6.-13. September geht es für uns hoch hinaus aufs Stilfserjoch, wir befahren den legendären Holy Hansen Trail, erfreuen uns an den Strecken im Vinschgau rund um Prad. Als goldener Abschluss geht es an den Reschensee um dort die 3-Länder-Endurostrecken zu erkunden. \nAnforderung: bis zu 1500 hm pedalieren, auch mit Schiebe- und \nTragepassagen. Schwindelfreiheit ist erforderlich und fortgeschrittene Fahrtechnik. \nKontakt judith.englert@alpenverein-heidelberg.de",
+      "description": "Vom 6.-13. September geht es für uns hoch hinaus aufs Stilfserjoch, wir befahren den legendären Holy Hansen Trail, erfreuen uns an den Strecken im Vinschgau rund um Prad. Als goldener Abschluss geht es an den Reschensee um dort die 3-Länder-Endurostrecken zu erkunden. \nAnforderung: bis zu 1500 hm pedalieren, auch mit Schiebe- und \nTragepassagen. Schwindelfreiheit ist erforderlich und fortgeschrittene Fahrtechnik.",
       "bookable_id": "69e1ebfa6fdf546c6f738751",
       "bookable_start": "2026-09-06",
       "bookable_end": "2026-09-13",
@@ -1992,9 +1992,9 @@
       "date_from": "2026-07-25",
       "date_to": "2026-07-25",
       "locations": [
-        "N:D."
+        "Heidelberg Hauptbahnhof S 1"
       ],
-      "description": "N.D.",
+      "description": "Hirschhorn, Neckargemünd (Schlusseinkehr)\n21 Km; 550 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a292f1851b966ad6f14d777",
       "bookable_start": "2026-07-25",
       "bookable_end": "2026-07-25",
@@ -2042,7 +2042,7 @@
       "date_from": "2026-07-17",
       "date_to": "2026-07-17",
       "locations": [
-        "Heidelberg Hauptbahnhof"
+        "Heidelberg Hauptbahnhof S 1"
       ],
       "description": "Lambrecht,  Eckkopf, Wachenheim (Schlusseinkehr)\n17 Km; 600 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hbf. 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a295ceb1644e0483a11584b",
@@ -2067,9 +2067,9 @@
       "date_from": "2026-07-24",
       "date_to": "2026-07-24",
       "locations": [
-        "N.D."
+        "Heidelberg Hauptbahnhof RE 73"
       ],
-      "description": "N.D.",
+      "description": "Bad Wildbad, Wildbader Kopf, Eyachmühle, Talwiese (Schlusseinkehr)\n17 Km; 700 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:22 Uhr RE 73 nach Karlsruhe\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a2961862bf69ed3b7182028",
       "bookable_start": "2026-07-24",
       "bookable_end": "2026-07-24",
@@ -2117,9 +2117,9 @@
       "date_from": "2026-07-31",
       "date_to": "2026-07-31",
       "locations": [
-        "n.D."
+        "Heidelberg Hauptbahnhof S 1"
       ],
-      "description": "N.D.",
+      "description": "Eberbach, Gretengrund, Steinerner Tisch, Hoppehütte, Hirschhorn (Schlusseinkehr)\n12 Km; 400 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:55 Uhr S 1 Richtung Osterburken\nWanderführer steigt in Neckarsteinach zu\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a29623d1644e0483a119635",
       "bookable_start": "2026-07-31",
       "bookable_end": "2026-07-31",
@@ -2549,9 +2549,9 @@
       "bookable_id": "6a45033924e01b90224a2b13",
       "bookable_start": "2026-08-08",
       "bookable_end": "2026-08-11",
-      "free_places": 8,
+      "free_places": 7,
       "max_places": 10,
-      "bookable_places": 8,
+      "bookable_places": 7,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2599,9 +2599,9 @@
       "bookable_id": "6a5723b4bc18e5881033bf45",
       "bookable_start": "2026-07-22",
       "bookable_end": "2026-07-22",
-      "free_places": 3,
-      "max_places": 6,
-      "bookable_places": 3,
+      "free_places": 7,
+      "max_places": 10,
+      "bookable_places": 7,
       "waitlist_active": true,
       "bookable_canceled": false
     }
