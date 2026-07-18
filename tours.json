@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T07:49:18.830166+00:00",
+  "timestamp": "2026-07-18T07:24:14.161193+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 104,
   "tours": [
@@ -1098,9 +1098,9 @@
       "bookable_id": "69bd67004e9957bf1e33aa8f",
       "bookable_start": "2026-07-26",
       "bookable_end": "2026-07-26",
-      "free_places": 6,
+      "free_places": 5,
       "max_places": 10,
-      "bookable_places": 6,
+      "bookable_places": 5,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -2045,13 +2045,13 @@
         "Heidelberg Hauptbahnhof S 1"
       ],
       "description": "Lambrecht,  Eckkopf, Wachenheim (Schlusseinkehr)\n17 Km; 600 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hbf. 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a295ceb1644e0483a11584b",
-      "bookable_start": "2026-07-17",
-      "bookable_end": "2026-07-17",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -2574,9 +2574,9 @@
       "bookable_id": "6a456330727b878c0461123c",
       "bookable_start": "2026-08-29",
       "bookable_end": "2026-09-05",
-      "free_places": 22,
-      "max_places": 25,
-      "bookable_places": 22,
+      "free_places": 0,
+      "max_places": 0,
+      "bookable_places": 0,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2599,9 +2599,9 @@
       "bookable_id": "6a5723b4bc18e5881033bf45",
       "bookable_start": "2026-07-22",
       "bookable_end": "2026-07-22",
-      "free_places": 7,
+      "free_places": 6,
       "max_places": 10,
-      "bookable_places": 7,
+      "bookable_places": 6,
       "waitlist_active": true,
       "bookable_canceled": false
     }
