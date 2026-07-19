@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-18T07:24:14.161193+00:00",
+  "timestamp": "2026-07-19T07:55:27.641571+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 104,
   "tours": [
@@ -1098,9 +1098,9 @@
       "bookable_id": "69bd67004e9957bf1e33aa8f",
       "bookable_start": "2026-07-26",
       "bookable_end": "2026-07-26",
-      "free_places": 5,
+      "free_places": 6,
       "max_places": 10,
-      "bookable_places": 5,
+      "bookable_places": 6,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -1892,15 +1892,15 @@
       "date_from": "2026-08-02",
       "date_to": "2026-08-02",
       "locations": [
-        "N.N."
+        "Parkplatz an der K 54 (32U 418446 5447347)"
       ],
-      "description": "",
+      "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
       "bookable_id": "6a292951fe265180d504c33b",
       "bookable_start": "2026-08-02",
       "bookable_end": "2026-08-02",
-      "free_places": 6,
+      "free_places": 5,
       "max_places": 10,
-      "bookable_places": 6,
+      "bookable_places": 5,
       "waitlist_active": true,
       "bookable_canceled": false
     },
