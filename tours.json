@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T07:55:27.641571+00:00",
+  "timestamp": "2026-07-20T08:34:59.553433+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 104,
   "tours": [
@@ -520,13 +520,13 @@
         "Donautal"
       ],
       "description": "Ein- und Mehrseillängenklettern\nÜbernachtung nach Verfügbarkeit: CP Sigmaringen, CP Beuron Hausen im Tal / Camping Buck Beuron / Campinggarten Leibertingen\nAnforderungen: Vorstieg V, Eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
-      "bookable_id": "69bd5412bd72746a96774687",
-      "bookable_start": "2026-07-17",
-      "bookable_end": "2026-07-19",
-      "free_places": 0,
-      "max_places": 12,
-      "bookable_places": 0,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1620,13 +1620,13 @@
         "Seltbachstraße 9, Bad Urach, Deutschland"
       ],
       "description": "Auf geht’s in die Schwäbische Alp\nDie Region rund um Bad Urach bietet mit dem Albtrauf, Schluchten, Wäldern und hügeligem Gelände einiges an abwechslungsreichen Landschaften, die wir mit dem Mountainbikes erkunden wollen.\nAls Übernachtungsdomizil ist in der Jugendherberge Bad Urach eingeplant, von wo wir die Touren starten werden.\nJe nach Teilnehmeranzahl und Kräfte fahren wir in zwei Gruppen am Samstag und Sonntag mit Tourenlängen von ca. 35-45 km mit 1000-1500 Hm und nutzen tagsüber die Einkehrmöglichkeiten.\nUnterbringung: Für die Übernachtungen sind 3 Doppelzimmer und 1 Vierbettzimmer in der Jugendherberge Bad Urach reserviert (Seltbachstr. 9, 72574 Bad Urach, www.jugendherberge-bad-urach.de)\nKosten: Übernachtung mit Frühstück 46,40 €/Pers/Nacht inkl. Bettwäsche (Eine Anzahlung wird nach der Anmeldung erforderlich.)\nAbends können wir gemeinsam in Bad Urach essen gehen.\nDie Anreise erfolgt am Freitag möglichst mit dem Zug oder Fahrgemeinschaften, Treffpunkt nach Vereinbarung.\nAnforderungen: S2, K2\nKontakt: eva.pritzel@alpenverein-heidelberg.de",
-      "bookable_id": "69d4c2371cfb5441b7830bb6",
-      "bookable_start": "2026-07-17",
-      "bookable_end": "2026-07-19",
-      "free_places": 0,
-      "max_places": 12,
-      "bookable_places": 0,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1898,9 +1898,9 @@
       "bookable_id": "6a292951fe265180d504c33b",
       "bookable_start": "2026-08-02",
       "bookable_end": "2026-08-02",
-      "free_places": 5,
+      "free_places": 6,
       "max_places": 10,
-      "bookable_places": 5,
+      "bookable_places": 6,
       "waitlist_active": true,
       "bookable_canceled": false
     },
