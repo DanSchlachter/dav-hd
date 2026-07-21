@@ -1,262 +1,145 @@
 {
-  "timestamp": "2026-07-20T08:34:59.559546+00:00",
-  "previous_timestamp": "2026-07-19T07:55:27.641571+00:00",
+  "timestamp": "2026-07-21T08:04:19.864269+00:00",
+  "previous_timestamp": "2026-07-20T08:34:59.553433+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 3
+    "modified": 2
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "69bd5412bd72746a96774685",
+        "id": "69bd5ccfbd72746a96778a45",
         "changed_fields": [
-          "bookable_places",
-          "waitlist_active",
-          "max_places",
-          "bookable_start",
           "free_places",
-          "bookable_id",
-          "bookable_end"
+          "bookable_places"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 0,
-            "to": null
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          },
-          "max_places": {
-            "from": 12,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-07-17",
-            "to": ""
-          },
           "free_places": {
-            "from": 0,
-            "to": null
+            "from": 1,
+            "to": 0
           },
-          "bookable_id": {
-            "from": "69bd5412bd72746a96774687",
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-07-19",
-            "to": ""
+          "bookable_places": {
+            "from": 1,
+            "to": 0
           }
         },
         "current": {
-          "id": "69bd5412bd72746a96774685",
-          "number": "260726Kl_G006",
-          "title": "Klettern im Donautal",
+          "id": "69bd5ccfbd72746a96778a45",
+          "number": "260724Kl_G007",
+          "title": "Klettern in Albbruck im Südschwarzwald",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Klettern"
           ],
-          "date_from": "2026-07-17",
-          "date_to": "2026-07-19",
+          "date_from": "2026-07-24",
+          "date_to": "2026-07-26",
           "locations": [
-            "Donautal"
+            "Südschwarzwald"
           ],
-          "description": "Ein- und Mehrseillängenklettern\nÜbernachtung nach Verfügbarkeit: CP Sigmaringen, CP Beuron Hausen im Tal / Camping Buck Beuron / Campinggarten Leibertingen\nAnforderungen: Vorstieg V, Eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
+          "description": "Anforderungen: Vorstieg V+",
+          "bookable_id": "69bd5ccfbd72746a96778a47",
+          "bookable_start": "2026-07-24",
+          "bookable_end": "2026-07-26",
+          "free_places": 0,
+          "max_places": 8,
+          "bookable_places": 0,
+          "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69bd5412bd72746a96774685",
-          "number": "260726Kl_G006",
-          "title": "Klettern im Donautal",
+          "id": "69bd5ccfbd72746a96778a45",
+          "number": "260724Kl_G007",
+          "title": "Klettern in Albbruck im Südschwarzwald",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Klettern"
           ],
-          "date_from": "2026-07-17",
-          "date_to": "2026-07-19",
+          "date_from": "2026-07-24",
+          "date_to": "2026-07-26",
           "locations": [
-            "Donautal"
+            "Südschwarzwald"
           ],
-          "description": "Ein- und Mehrseillängenklettern\nÜbernachtung nach Verfügbarkeit: CP Sigmaringen, CP Beuron Hausen im Tal / Camping Buck Beuron / Campinggarten Leibertingen\nAnforderungen: Vorstieg V, Eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
-          "bookable_id": "69bd5412bd72746a96774687",
-          "bookable_start": "2026-07-17",
-          "bookable_end": "2026-07-19",
-          "free_places": 0,
-          "max_places": 12,
-          "bookable_places": 0,
+          "description": "Anforderungen: Vorstieg V+",
+          "bookable_id": "69bd5ccfbd72746a96778a47",
+          "bookable_start": "2026-07-24",
+          "bookable_end": "2026-07-26",
+          "free_places": 1,
+          "max_places": 8,
+          "bookable_places": 1,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "69d4c2371cfb5441b7830bb4",
+        "id": "6a5723b4bc18e5881033bf43",
         "changed_fields": [
-          "bookable_places",
-          "waitlist_active",
-          "max_places",
-          "bookable_start",
           "free_places",
-          "bookable_id",
-          "bookable_end"
+          "bookable_places"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 0,
-            "to": null
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          },
-          "max_places": {
-            "from": 12,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-07-17",
-            "to": ""
-          },
           "free_places": {
-            "from": 0,
-            "to": null
+            "from": 6,
+            "to": 5
           },
-          "bookable_id": {
-            "from": "69d4c2371cfb5441b7830bb6",
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-07-19",
-            "to": ""
+          "bookable_places": {
+            "from": 6,
+            "to": 5
           }
         },
         "current": {
-          "id": "69d4c2371cfb5441b7830bb4",
-          "number": "20260717MTB_F01",
-          "title": "Alptrauf-Biken bei Bad Urach 2026",
+          "id": "6a5723b4bc18e5881033bf43",
+          "number": null,
+          "title": "Mountainbiketour \"Die Tromm ruft\"",
           "type": "CUSTOM",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Mountainbike"
           ],
-          "date_from": "2026-07-17",
-          "date_to": "2026-07-19",
+          "date_from": "2026-07-22",
+          "date_to": "2026-07-22",
           "locations": [
-            "Seltbachstraße 9, Bad Urach, Deutschland"
+            "Heidelberg"
           ],
-          "description": "Auf geht’s in die Schwäbische Alp\nDie Region rund um Bad Urach bietet mit dem Albtrauf, Schluchten, Wäldern und hügeligem Gelände einiges an abwechslungsreichen Landschaften, die wir mit dem Mountainbikes erkunden wollen.\nAls Übernachtungsdomizil ist in der Jugendherberge Bad Urach eingeplant, von wo wir die Touren starten werden.\nJe nach Teilnehmeranzahl und Kräfte fahren wir in zwei Gruppen am Samstag und Sonntag mit Tourenlängen von ca. 35-45 km mit 1000-1500 Hm und nutzen tagsüber die Einkehrmöglichkeiten.\nUnterbringung: Für die Übernachtungen sind 3 Doppelzimmer und 1 Vierbettzimmer in der Jugendherberge Bad Urach reserviert (Seltbachstr. 9, 72574 Bad Urach, www.jugendherberge-bad-urach.de)\nKosten: Übernachtung mit Frühstück 46,40 €/Pers/Nacht inkl. Bettwäsche (Eine Anzahlung wird nach der Anmeldung erforderlich.)\nAbends können wir gemeinsam in Bad Urach essen gehen.\nDie Anreise erfolgt am Freitag möglichst mit dem Zug oder Fahrgemeinschaften, Treffpunkt nach Vereinbarung.\nAnforderungen: S2, K2\nKontakt: eva.pritzel@alpenverein-heidelberg.de",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69d4c2371cfb5441b7830bb4",
-          "number": "20260717MTB_F01",
-          "title": "Alptrauf-Biken bei Bad Urach 2026",
-          "type": "CUSTOM",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-07-17",
-          "date_to": "2026-07-19",
-          "locations": [
-            "Seltbachstraße 9, Bad Urach, Deutschland"
-          ],
-          "description": "Auf geht’s in die Schwäbische Alp\nDie Region rund um Bad Urach bietet mit dem Albtrauf, Schluchten, Wäldern und hügeligem Gelände einiges an abwechslungsreichen Landschaften, die wir mit dem Mountainbikes erkunden wollen.\nAls Übernachtungsdomizil ist in der Jugendherberge Bad Urach eingeplant, von wo wir die Touren starten werden.\nJe nach Teilnehmeranzahl und Kräfte fahren wir in zwei Gruppen am Samstag und Sonntag mit Tourenlängen von ca. 35-45 km mit 1000-1500 Hm und nutzen tagsüber die Einkehrmöglichkeiten.\nUnterbringung: Für die Übernachtungen sind 3 Doppelzimmer und 1 Vierbettzimmer in der Jugendherberge Bad Urach reserviert (Seltbachstr. 9, 72574 Bad Urach, www.jugendherberge-bad-urach.de)\nKosten: Übernachtung mit Frühstück 46,40 €/Pers/Nacht inkl. Bettwäsche (Eine Anzahlung wird nach der Anmeldung erforderlich.)\nAbends können wir gemeinsam in Bad Urach essen gehen.\nDie Anreise erfolgt am Freitag möglichst mit dem Zug oder Fahrgemeinschaften, Treffpunkt nach Vereinbarung.\nAnforderungen: S2, K2\nKontakt: eva.pritzel@alpenverein-heidelberg.de",
-          "bookable_id": "69d4c2371cfb5441b7830bb6",
-          "bookable_start": "2026-07-17",
-          "bookable_end": "2026-07-19",
-          "free_places": 0,
-          "max_places": 12,
-          "bookable_places": 0,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a292951fe265180d504c339",
-        "changed_fields": [
-          "bookable_places",
-          "free_places"
-        ],
-        "changes": {
-          "bookable_places": {
-            "from": 5,
-            "to": 6
-          },
-          "free_places": {
-            "from": 5,
-            "to": 6
-          }
-        },
-        "current": {
-          "id": "6a292951fe265180d504c339",
-          "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-08-02",
-          "date_to": "2026-08-02",
-          "locations": [
-            "Parkplatz an der K 54 (32U 418446 5447347)"
-          ],
-          "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
-          "bookable_id": "6a292951fe265180d504c33b",
-          "bookable_start": "2026-08-02",
-          "bookable_end": "2026-08-02",
-          "free_places": 6,
-          "max_places": 10,
-          "bookable_places": 6,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a292951fe265180d504c339",
-          "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-08-02",
-          "date_to": "2026-08-02",
-          "locations": [
-            "Parkplatz an der K 54 (32U 418446 5447347)"
-          ],
-          "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
-          "bookable_id": "6a292951fe265180d504c33b",
-          "bookable_start": "2026-08-02",
-          "bookable_end": "2026-08-02",
+          "description": "Wir machen eine große Runde (ca 70km, 1300-1800hm) durch den Odenwald mit dem Ziel Ireneturm auf der Tromm.\nNatürlich besuchen wir auch die schönesten Trails dort. Der Rückweg kann je nach Wunsch der Teilnehmer flacher oder hügeliger ausfallen.\n\nAnforderungen: S2, K2",
+          "bookable_id": "6a5723b4bc18e5881033bf45",
+          "bookable_start": "2026-07-22",
+          "bookable_end": "2026-07-22",
           "free_places": 5,
           "max_places": 10,
           "bookable_places": 5,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a5723b4bc18e5881033bf43",
+          "number": null,
+          "title": "Mountainbiketour \"Die Tromm ruft\"",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-22",
+          "date_to": "2026-07-22",
+          "locations": [
+            "Heidelberg"
+          ],
+          "description": "Wir machen eine große Runde (ca 70km, 1300-1800hm) durch den Odenwald mit dem Ziel Ireneturm auf der Tromm.\nNatürlich besuchen wir auch die schönesten Trails dort. Der Rückweg kann je nach Wunsch der Teilnehmer flacher oder hügeliger ausfallen.\n\nAnforderungen: S2, K2",
+          "bookable_id": "6a5723b4bc18e5881033bf45",
+          "bookable_start": "2026-07-22",
+          "bookable_end": "2026-07-22",
+          "free_places": 6,
+          "max_places": 10,
+          "bookable_places": 6,
           "waitlist_active": true,
           "bookable_canceled": false
         }
