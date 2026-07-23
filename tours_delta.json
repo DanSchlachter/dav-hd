@@ -1,120 +1,61 @@
 {
-  "timestamp": "2026-07-22T08:05:00.719338+00:00",
-  "previous_timestamp": "2026-07-21T08:04:19.856988+00:00",
+  "timestamp": "2026-07-23T08:07:39.709664+00:00",
+  "previous_timestamp": "2026-07-22T08:05:00.711026+00:00",
   "summary": {
-    "added": 1,
+    "added": 0,
     "removed": 0,
-    "modified": 3
+    "modified": 5
   },
   "changes": {
-    "added": [
-      {
-        "id": "6a606ff1ef30f971bbde3a26",
-        "number": null,
-        "title": "\"Sonne aus, Funkeln an\"",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-08-12",
-        "date_to": "2026-08-12",
-        "locations": [
-          "Bergbahn Talstation"
-        ],
-        "description": "Ein besonderer Sommerabend wartet auf uns in Heidelberg auf dem Königstuhl - mit Bewegung, Natur und einem Himmel, der gleich zweimal zur Bühne wird.\nMittwoch, 12. August 2026\nTreffpunkt 17:45 Uhr an der Bergbahn Talstation (Zwingerstraße)\nUnser Ziel ist, rechtzeitig zu  partiellen Sonnenfinsternis oben anzukommen. Die Verfinsterung beginnt um 19:21 Uhr, ihr Maximum erreicht sie um 20:14 Uhr - rund eine Stunde vor Sonnenuntergang. \nFür die Beobachtung ist eine geeignete Sonnenfinsternis-Schutzbrille oder ein Schweißglas unbedingt erforderlich.\nWenn die Abenddämmerung einsetzt, lohnt sich das Warten: In dieser Nacht erreicht der Perseiden-Meteorstrom seinen Höhepunkt. Mit etwas Glück ziehen Zahlreiche Sternschnuppen über den Himmel und setzen dem Abend ein funkelndes Finale auf.\nDer Fokus der Tour liegt auf der gemeinsamen sportlichen Aktivität. Ein wolkenfreier  Himmel ist das iTüpfelchen. Aber auch ohne Garantie verspricht die Wanderung einen besonderen Sommerabend.\nDer Abstieg findet wahlweise direkt nach dem Sonnenuntergang über Forstwege in die Altstadt oder nach Vereinbarung aber spätestens nach Mitternacht.\nAlternativ kann selbst ein Busshuttle über rnv fips gebucht werden (https://www.rnv-online.de/fahrtinfo/fips/)\nBitte mitbringen:\nSonnenfinsternis-Schutzbrille oder Schweißerglas\nStirnlampe mit Rotlicht für den Rückweg\nGetränke und Verpflegung\nder Witterung angepasste Kleidung\nSitzkissen oder Decke\n-Keine Anmeldung erforderlich-",
-        "bookable_id": "6a606ff1ef30f971bbde3a28",
-        "bookable_start": "2026-08-12",
-        "bookable_end": "2026-08-12",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": true,
-        "bookable_canceled": false
-      }
-    ],
+    "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "69bd7b0ebd72746a9678f44e",
+        "id": "69bd67004e9957bf1e33aa8b",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "locations",
+          "description"
         ],
         "changes": {
-          "free_places": {
-            "from": 21,
-            "to": 20
+          "locations": {
+            "from": [
+              "Heidelberg, Karlsruher Straße 105, Shell  Tankstelle"
+            ],
+            "to": [
+              "Wilhelmsfeld"
+            ]
           },
-          "bookable_places": {
-            "from": 21,
-            "to": 20
+          "description": {
+            "from": "Du wolltest schon immer mal Mountainbike ausprobieren, weißt aber nicht so recht, wo du anfangen sollst? Bei unserer Trail-Taste-Tour für Frauen kannst du ganz entspannt mit viel Spaß in den Sport reinschnuppern. Was dich erwartet: •\tEine lockere Einsteigertour auf leichten Trails •\tTechnik-Tipps in verständlicher Sprache: Grundposition, Bremsen, Kurven •\tZeit zum Ausprobieren, Fragen stellen und Pause machen •\tEine wertschätzende, motivierende Atmosphäre nur unter Frauen Die Tour richtet sich an alle, die neugierig sind und Freude an Bewegung draußen haben – Vorerfahrung mit dem Mountainbike ist nicht nötig, du solltest dich nur sicher auf einem Fahrrad fühlen. Folgende Ausrüstung ist nötig: ein gefedertes Mountainbike, Helm, Brille, Handschuhe. Knie-& Ellenbogenprotektoren, falls vorhanden. Ziel der Tour ist, dass du ein gutes Gefühl für das Bike bekommst, erste kleine Erfolgserlebnisse auf dem Trail sammelst und herausfindest, ob Mountainbiken dein neuer Lieblingssport werden könnte.\nOrt: Heidelberg, Rohrbacher Str. 105, Shell Tankstelle\nKontakt: sina.seidel@alpenverein-heidelberg.de",
+            "to": "Du wolltest schon immer mal Mountainbike ausprobieren, weißt aber nicht so recht, wo du anfangen sollst? Bei unserer Trail-Taste-Tour für Frauen kannst du ganz entspannt mit viel Spaß in den Sport reinschnuppern. Was dich erwartet: •\tEine lockere Einsteigertour auf leichten Trails •\tTechnik-Tipps in verständlicher Sprache: Grundposition, Bremsen, Kurven •\tZeit zum Ausprobieren, Fragen stellen und Pause machen •\tEine wertschätzende, motivierende Atmosphäre nur unter Frauen Die Tour richtet sich an alle, die neugierig sind und Freude an Bewegung draußen haben – Vorerfahrung mit dem Mountainbike ist nicht nötig, du solltest dich nur sicher auf einem Fahrrad fühlen. Folgende Ausrüstung ist nötig: ein gefedertes Mountainbike, Helm, Brille, Handschuhe. Knie-& Ellenbogenprotektoren, falls vorhanden. Ziel der Tour ist, dass du ein gutes Gefühl für das Bike bekommst, erste kleine Erfolgserlebnisse auf dem Trail sammelst und herausfindest, ob Mountainbiken dein neuer Lieblingssport werden könnte.\nOrt: Wilhelmsfeld\nKontakt: sina.seidel@alpenverein-heidelberg.de"
           }
         },
         "current": {
-          "id": "69bd7b0ebd72746a9678f44e",
-          "number": "260925MTB_F011",
-          "title": "Mountainbike Herbstbiken 2026",
+          "id": "69bd67004e9957bf1e33aa8b",
+          "number": "260509MTB_F005",
+          "title": "Trail-Taste für Frauen - Erste MTB-Trails zum Reinschnuppern",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Mountainbike"
           ],
-          "date_from": "2026-09-25",
-          "date_to": "2026-09-27",
+          "date_from": "2026-07-26",
+          "date_to": "2026-07-26",
           "locations": [
-            "nn"
+            "Wilhelmsfeld"
           ],
-          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
-          "bookable_id": "69bd7b0ebd72746a9678f450",
-          "bookable_start": "2026-09-25",
-          "bookable_end": "2026-09-27",
-          "free_places": 20,
-          "max_places": 30,
-          "bookable_places": 20,
+          "description": "Du wolltest schon immer mal Mountainbike ausprobieren, weißt aber nicht so recht, wo du anfangen sollst? Bei unserer Trail-Taste-Tour für Frauen kannst du ganz entspannt mit viel Spaß in den Sport reinschnuppern. Was dich erwartet: •\tEine lockere Einsteigertour auf leichten Trails •\tTechnik-Tipps in verständlicher Sprache: Grundposition, Bremsen, Kurven •\tZeit zum Ausprobieren, Fragen stellen und Pause machen •\tEine wertschätzende, motivierende Atmosphäre nur unter Frauen Die Tour richtet sich an alle, die neugierig sind und Freude an Bewegung draußen haben – Vorerfahrung mit dem Mountainbike ist nicht nötig, du solltest dich nur sicher auf einem Fahrrad fühlen. Folgende Ausrüstung ist nötig: ein gefedertes Mountainbike, Helm, Brille, Handschuhe. Knie-& Ellenbogenprotektoren, falls vorhanden. Ziel der Tour ist, dass du ein gutes Gefühl für das Bike bekommst, erste kleine Erfolgserlebnisse auf dem Trail sammelst und herausfindest, ob Mountainbiken dein neuer Lieblingssport werden könnte.\nOrt: Wilhelmsfeld\nKontakt: sina.seidel@alpenverein-heidelberg.de",
+          "bookable_id": "69bd67004e9957bf1e33aa8f",
+          "bookable_start": "2026-07-26",
+          "bookable_end": "2026-07-26",
+          "free_places": 6,
+          "max_places": 10,
+          "bookable_places": 6,
           "waitlist_active": false,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69bd7b0ebd72746a9678f44e",
-          "number": "260925MTB_F011",
-          "title": "Mountainbike Herbstbiken 2026",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-09-25",
-          "date_to": "2026-09-27",
-          "locations": [
-            "nn"
-          ],
-          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
-          "bookable_id": "69bd7b0ebd72746a9678f450",
-          "bookable_start": "2026-09-25",
-          "bookable_end": "2026-09-27",
-          "free_places": 21,
-          "max_places": 30,
-          "bookable_places": 21,
-          "waitlist_active": false,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "69bd67004e9957bf1e33aa8b",
-        "changed_fields": [
-          "description"
-        ],
-        "changes": {
-          "description": {
-            "from": "Du wolltest schon immer mal Mountainbike ausprobieren, weißt aber nicht so recht, wo du anfangen sollst? Bei unserer Trail-Taste-Tour für Frauen kannst du ganz entspannt mit viel Spaß in den Sport reinschnuppern. Was dich erwartet: •\tEine lockere Einsteigertour auf leichten Trails •\tTechnik-Tipps in verständlicher Sprache: Grundposition, Bremsen, Kurven •\tZeit zum Ausprobieren, Fragen stellen und Pause machen •\tEine wertschätzende, motivierende Atmosphäre nur unter Frauen Die Tour richtet sich an alle, die neugierig sind und Freude an Bewegung draußen haben – Vorerfahrung mit dem Mountainbike ist nicht nötig, du solltest dich nur sicher auf einem Fahrrad fühlen. Folgende Ausrüstung ist nötig: ein gefedertes Mountainbike, Helm, Brille, Handschuhe. Knie-& Ellenbogenprotektoren, falls vorhanden. Ziel der Tour ist, dass du ein gutes Gefühl für das Bike bekommst, erste kleine Erfolgserlebnisse auf dem Trail sammelst und herausfindest, ob Mountainbiken dein neuer Lieblingssport werden könnte.\nOrt: Heidelberg, Karlsruher Str. 105, Shell Tankstelle",
-            "to": "Du wolltest schon immer mal Mountainbike ausprobieren, weißt aber nicht so recht, wo du anfangen sollst? Bei unserer Trail-Taste-Tour für Frauen kannst du ganz entspannt mit viel Spaß in den Sport reinschnuppern. Was dich erwartet: •\tEine lockere Einsteigertour auf leichten Trails •\tTechnik-Tipps in verständlicher Sprache: Grundposition, Bremsen, Kurven •\tZeit zum Ausprobieren, Fragen stellen und Pause machen •\tEine wertschätzende, motivierende Atmosphäre nur unter Frauen Die Tour richtet sich an alle, die neugierig sind und Freude an Bewegung draußen haben – Vorerfahrung mit dem Mountainbike ist nicht nötig, du solltest dich nur sicher auf einem Fahrrad fühlen. Folgende Ausrüstung ist nötig: ein gefedertes Mountainbike, Helm, Brille, Handschuhe. Knie-& Ellenbogenprotektoren, falls vorhanden. Ziel der Tour ist, dass du ein gutes Gefühl für das Bike bekommst, erste kleine Erfolgserlebnisse auf dem Trail sammelst und herausfindest, ob Mountainbiken dein neuer Lieblingssport werden könnte.\nOrt: Heidelberg, Rohrbacher Str. 105, Shell Tankstelle\nKontakt: sina.seidel@alpenverein-heidelberg.de"
-          }
-        },
-        "current": {
           "id": "69bd67004e9957bf1e33aa8b",
           "number": "260509MTB_F005",
           "title": "Trail-Taste für Frauen - Erste MTB-Trails zum Reinschnuppern",
@@ -138,31 +79,6 @@
           "bookable_places": 6,
           "waitlist_active": false,
           "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69bd67004e9957bf1e33aa8b",
-          "number": "260509MTB_F005",
-          "title": "Trail-Taste für Frauen - Erste MTB-Trails zum Reinschnuppern",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-07-26",
-          "date_to": "2026-07-26",
-          "locations": [
-            "Heidelberg, Karlsruher Straße 105, Shell  Tankstelle"
-          ],
-          "description": "Du wolltest schon immer mal Mountainbike ausprobieren, weißt aber nicht so recht, wo du anfangen sollst? Bei unserer Trail-Taste-Tour für Frauen kannst du ganz entspannt mit viel Spaß in den Sport reinschnuppern. Was dich erwartet: •\tEine lockere Einsteigertour auf leichten Trails •\tTechnik-Tipps in verständlicher Sprache: Grundposition, Bremsen, Kurven •\tZeit zum Ausprobieren, Fragen stellen und Pause machen •\tEine wertschätzende, motivierende Atmosphäre nur unter Frauen Die Tour richtet sich an alle, die neugierig sind und Freude an Bewegung draußen haben – Vorerfahrung mit dem Mountainbike ist nicht nötig, du solltest dich nur sicher auf einem Fahrrad fühlen. Folgende Ausrüstung ist nötig: ein gefedertes Mountainbike, Helm, Brille, Handschuhe. Knie-& Ellenbogenprotektoren, falls vorhanden. Ziel der Tour ist, dass du ein gutes Gefühl für das Bike bekommst, erste kleine Erfolgserlebnisse auf dem Trail sammelst und herausfindest, ob Mountainbiken dein neuer Lieblingssport werden könnte.\nOrt: Heidelberg, Karlsruher Str. 105, Shell Tankstelle",
-          "bookable_id": "69bd67004e9957bf1e33aa8f",
-          "bookable_start": "2026-07-26",
-          "bookable_end": "2026-07-26",
-          "free_places": 6,
-          "max_places": 10,
-          "bookable_places": 6,
-          "waitlist_active": false,
-          "bookable_canceled": false
         }
       },
       {
@@ -172,14 +88,14 @@
         ],
         "changes": {
           "title": {
-            "from": "Mittwochswanderung",
-            "to": "an\""
+            "from": "an\"",
+            "to": "Mittwochswanderung"
           }
         },
         "current": {
           "id": "6a2a7c392bf69ed3b7261223",
           "number": null,
-          "title": "an\"",
+          "title": "Mittwochswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
@@ -204,7 +120,7 @@
         "previous": {
           "id": "6a2a7c392bf69ed3b7261223",
           "number": null,
-          "title": "Mittwochswanderung",
+          "title": "an\"",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
@@ -220,6 +136,229 @@
           "bookable_id": "6a2a7c392bf69ed3b7261225",
           "bookable_start": "2026-09-02",
           "bookable_end": "2026-09-02",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a45033924e01b90224a2b11",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 7,
+            "to": 8
+          },
+          "free_places": {
+            "from": 7,
+            "to": 8
+          }
+        },
+        "current": {
+          "id": "6a45033924e01b90224a2b11",
+          "number": "2608_WAN_G_001",
+          "title": "Westweg – Von Frauen für Frauen",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen",
+            "Wandern"
+          ],
+          "date_from": "2026-08-08",
+          "date_to": "2026-08-11",
+          "locations": [
+            "Heidelberg bzw. Freiburg"
+          ],
+          "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
+          "bookable_id": "6a45033924e01b90224a2b13",
+          "bookable_start": "2026-08-08",
+          "bookable_end": "2026-08-11",
+          "free_places": 8,
+          "max_places": 10,
+          "bookable_places": 8,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a45033924e01b90224a2b11",
+          "number": "2608_WAN_G_001",
+          "title": "Westweg – Von Frauen für Frauen",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen",
+            "Wandern"
+          ],
+          "date_from": "2026-08-08",
+          "date_to": "2026-08-11",
+          "locations": [
+            "Heidelberg bzw. Freiburg"
+          ],
+          "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
+          "bookable_id": "6a45033924e01b90224a2b13",
+          "bookable_start": "2026-08-08",
+          "bookable_end": "2026-08-11",
+          "free_places": 7,
+          "max_places": 10,
+          "bookable_places": 7,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a5723b4bc18e5881033bf43",
+        "changed_fields": [
+          "bookable_places",
+          "bookable_start",
+          "bookable_id",
+          "max_places",
+          "bookable_end",
+          "free_places",
+          "waitlist_active"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 5,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-07-22",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a5723b4bc18e5881033bf45",
+            "to": null
+          },
+          "max_places": {
+            "from": 10,
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-07-22",
+            "to": ""
+          },
+          "free_places": {
+            "from": 5,
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "6a5723b4bc18e5881033bf43",
+          "number": null,
+          "title": "Mountainbiketour \"Die Tromm ruft\"",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-22",
+          "date_to": "2026-07-22",
+          "locations": [
+            "Heidelberg"
+          ],
+          "description": "Wir machen eine große Runde (ca 70km, 1300-1800hm) durch den Odenwald mit dem Ziel Ireneturm auf der Tromm.\nNatürlich besuchen wir auch die schönesten Trails dort. Der Rückweg kann je nach Wunsch der Teilnehmer flacher oder hügeliger ausfallen.\n\nAnforderungen: S2, K2",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a5723b4bc18e5881033bf43",
+          "number": null,
+          "title": "Mountainbiketour \"Die Tromm ruft\"",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-07-22",
+          "date_to": "2026-07-22",
+          "locations": [
+            "Heidelberg"
+          ],
+          "description": "Wir machen eine große Runde (ca 70km, 1300-1800hm) durch den Odenwald mit dem Ziel Ireneturm auf der Tromm.\nNatürlich besuchen wir auch die schönesten Trails dort. Der Rückweg kann je nach Wunsch der Teilnehmer flacher oder hügeliger ausfallen.\n\nAnforderungen: S2, K2",
+          "bookable_id": "6a5723b4bc18e5881033bf45",
+          "bookable_start": "2026-07-22",
+          "bookable_end": "2026-07-22",
+          "free_places": 5,
+          "max_places": 10,
+          "bookable_places": 5,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a606ff1ef30f971bbde3a26",
+        "changed_fields": [
+          "description"
+        ],
+        "changes": {
+          "description": {
+            "from": "Ein besonderer Sommerabend wartet auf uns in Heidelberg auf dem Königstuhl - mit Bewegung, Natur und einem Himmel, der gleich zweimal zur Bühne wird.\nMittwoch, 12. August 2026\nTreffpunkt 17:45 Uhr an der Bergbahn Talstation (Zwingerstraße)\nUnser Ziel ist, rechtzeitig zu  partiellen Sonnenfinsternis oben anzukommen. Die Verfinsterung beginnt um 19:21 Uhr, ihr Maximum erreicht sie um 20:14 Uhr - rund eine Stunde vor Sonnenuntergang. \nFür die Beobachtung ist eine geeignete Sonnenfinsternis-Schutzbrille oder ein Schweißglas unbedingt erforderlich.\nWenn die Abenddämmerung einsetzt, lohnt sich das Warten: In dieser Nacht erreicht der Perseiden-Meteorstrom seinen Höhepunkt. Mit etwas Glück ziehen Zahlreiche Sternschnuppen über den Himmel und setzen dem Abend ein funkelndes Finale auf.\nDer Fokus der Tour liegt auf der gemeinsamen sportlichen Aktivität. Ein wolkenfreier  Himmel ist das iTüpfelchen. Aber auch ohne Garantie verspricht die Wanderung einen besonderen Sommerabend.\nDer Abstieg findet wahlweise direkt nach dem Sonnenuntergang über Forstwege in die Altstadt oder nach Vereinbarung aber spätestens nach Mitternacht.\nAlternativ kann selbst ein Busshuttle über rnv fips gebucht werden (https://www.rnv-online.de/fahrtinfo/fips/)\nBitte mitbringen:\nSonnenfinsternis-Schutzbrille oder Schweißerglas\nStirnlampe mit Rotlicht für den Rückweg\nGetränke und Verpflegung\nder Witterung angepasste Kleidung\nSitzkissen oder Decke\n-Keine Anmeldung erforderlich-",
+            "to": "Ein besonderer Sommerabend wartet auf uns in Heidelberg auf dem Königstuhl - mit Bewegung, Natur und einem Himmel, der gleich zweimal zur Bühne wird.\nMittwoch, 12. August 2026\nTreffpunkt 17:45 Uhr an der Bergbahn Talstation (Zwingerstraße)\nVon dort  starten wir gemeinsam unseren Aufstieg über Schloss, über Sissi-Haus und Himmelsleiter hinauf zum Königstuhl. Unser Ziel ist, rechtzeitig zu  partiellen Sonnenfinsternis oben anzukommen. Die Verfinsterung beginnt um 19:21 Uhr, ihr Maximum erreicht sie um 20:14 Uhr - rund eine Stunde vor Sonnenuntergang. \nFür die Beobachtung ist eine geeignete Sonnenfinsternis-Schutzbrille oder ein Schweißglas unbedingt erforderlich.\nWenn die Abenddämmerung einsetzt, lohnt sich das Warten: In dieser Nacht erreicht der Perseiden-Meteorstrom seinen Höhepunkt. Mit etwas Glück ziehen Zahlreiche Sternschnuppen über den Himmel und setzen dem Abend ein funkelndes Finale auf.\nDer Fokus der Tour liegt auf der gemeinsamen sportlichen Aktivität. Ein wolkenfreier  Himmel ist das iTüpfelchen. Aber auch ohne Garantie verspricht die Wanderung einen besonderen Sommerabend.\nDer Abstieg findet wahlweise direkt nach dem Sonnenuntergang über Forstwege in die Altstadt oder nach Vereinbarung aber spätestens nach Mitternacht.\nAlternativ kann selbst ein Busshuttle über rnv fips gebucht werden (https://www.rnv-online.de/fahrtinfo/fips/)\nBitte mitbringen:\nSonnenfinsternis-Schutzbrille oder Schweißerglas\nStirnlampe mit Rotlicht für den Rückweg\nGetränke und Verpflegung\nder Witterung angepasste Kleidung\nSitzkissen oder Decke\n-Keine Anmeldung erforderlich-"
+          }
+        },
+        "current": {
+          "id": "6a606ff1ef30f971bbde3a26",
+          "number": null,
+          "title": "\"Sonne aus, Funkeln an\"",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-08-12",
+          "date_to": "2026-08-12",
+          "locations": [
+            "Bergbahn Talstation"
+          ],
+          "description": "Ein besonderer Sommerabend wartet auf uns in Heidelberg auf dem Königstuhl - mit Bewegung, Natur und einem Himmel, der gleich zweimal zur Bühne wird.\nMittwoch, 12. August 2026\nTreffpunkt 17:45 Uhr an der Bergbahn Talstation (Zwingerstraße)\nVon dort  starten wir gemeinsam unseren Aufstieg über Schloss, über Sissi-Haus und Himmelsleiter hinauf zum Königstuhl. Unser Ziel ist, rechtzeitig zu  partiellen Sonnenfinsternis oben anzukommen. Die Verfinsterung beginnt um 19:21 Uhr, ihr Maximum erreicht sie um 20:14 Uhr - rund eine Stunde vor Sonnenuntergang. \nFür die Beobachtung ist eine geeignete Sonnenfinsternis-Schutzbrille oder ein Schweißglas unbedingt erforderlich.\nWenn die Abenddämmerung einsetzt, lohnt sich das Warten: In dieser Nacht erreicht der Perseiden-Meteorstrom seinen Höhepunkt. Mit etwas Glück ziehen Zahlreiche Sternschnuppen über den Himmel und setzen dem Abend ein funkelndes Finale auf.\nDer Fokus der Tour liegt auf der gemeinsamen sportlichen Aktivität. Ein wolkenfreier  Himmel ist das iTüpfelchen. Aber auch ohne Garantie verspricht die Wanderung einen besonderen Sommerabend.\nDer Abstieg findet wahlweise direkt nach dem Sonnenuntergang über Forstwege in die Altstadt oder nach Vereinbarung aber spätestens nach Mitternacht.\nAlternativ kann selbst ein Busshuttle über rnv fips gebucht werden (https://www.rnv-online.de/fahrtinfo/fips/)\nBitte mitbringen:\nSonnenfinsternis-Schutzbrille oder Schweißerglas\nStirnlampe mit Rotlicht für den Rückweg\nGetränke und Verpflegung\nder Witterung angepasste Kleidung\nSitzkissen oder Decke\n-Keine Anmeldung erforderlich-",
+          "bookable_id": "6a606ff1ef30f971bbde3a28",
+          "bookable_start": "2026-08-12",
+          "bookable_end": "2026-08-12",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a606ff1ef30f971bbde3a26",
+          "number": null,
+          "title": "\"Sonne aus, Funkeln an\"",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-08-12",
+          "date_to": "2026-08-12",
+          "locations": [
+            "Bergbahn Talstation"
+          ],
+          "description": "Ein besonderer Sommerabend wartet auf uns in Heidelberg auf dem Königstuhl - mit Bewegung, Natur und einem Himmel, der gleich zweimal zur Bühne wird.\nMittwoch, 12. August 2026\nTreffpunkt 17:45 Uhr an der Bergbahn Talstation (Zwingerstraße)\nUnser Ziel ist, rechtzeitig zu  partiellen Sonnenfinsternis oben anzukommen. Die Verfinsterung beginnt um 19:21 Uhr, ihr Maximum erreicht sie um 20:14 Uhr - rund eine Stunde vor Sonnenuntergang. \nFür die Beobachtung ist eine geeignete Sonnenfinsternis-Schutzbrille oder ein Schweißglas unbedingt erforderlich.\nWenn die Abenddämmerung einsetzt, lohnt sich das Warten: In dieser Nacht erreicht der Perseiden-Meteorstrom seinen Höhepunkt. Mit etwas Glück ziehen Zahlreiche Sternschnuppen über den Himmel und setzen dem Abend ein funkelndes Finale auf.\nDer Fokus der Tour liegt auf der gemeinsamen sportlichen Aktivität. Ein wolkenfreier  Himmel ist das iTüpfelchen. Aber auch ohne Garantie verspricht die Wanderung einen besonderen Sommerabend.\nDer Abstieg findet wahlweise direkt nach dem Sonnenuntergang über Forstwege in die Altstadt oder nach Vereinbarung aber spätestens nach Mitternacht.\nAlternativ kann selbst ein Busshuttle über rnv fips gebucht werden (https://www.rnv-online.de/fahrtinfo/fips/)\nBitte mitbringen:\nSonnenfinsternis-Schutzbrille oder Schweißerglas\nStirnlampe mit Rotlicht für den Rückweg\nGetränke und Verpflegung\nder Witterung angepasste Kleidung\nSitzkissen oder Decke\n-Keine Anmeldung erforderlich-",
+          "bookable_id": "6a606ff1ef30f971bbde3a28",
+          "bookable_start": "2026-08-12",
+          "bookable_end": "2026-08-12",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
