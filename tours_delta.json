@@ -1,140 +1,227 @@
 {
-  "timestamp": "2026-07-24T08:04:00.984480+00:00",
-  "previous_timestamp": "2026-07-23T08:07:39.701980+00:00",
+  "timestamp": "2026-07-25T07:47:46.598208+00:00",
+  "previous_timestamp": "2026-07-24T08:04:00.975969+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 2
+    "modified": 3
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a2961f21644e0483a1193f3",
+        "id": "69bd7b0ebd72746a9678f44e",
         "changed_fields": [
           "free_places",
           "bookable_places"
         ],
         "changes": {
           "free_places": {
-            "from": 7,
-            "to": 8
+            "from": 20,
+            "to": 19
           },
           "bookable_places": {
-            "from": 7,
-            "to": 8
+            "from": 20,
+            "to": 19
           }
         },
         "current": {
-          "id": "6a2961f21644e0483a1193f3",
-          "number": null,
-          "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+          "id": "69bd7b0ebd72746a9678f44e",
+          "number": "260925MTB_F011",
+          "title": "Mountainbike Herbstbiken 2026",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Natur- und Umweltschutz"
+            "Mountainbike"
           ],
-          "date_from": "2026-10-22",
-          "date_to": "2026-10-26",
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-27",
           "locations": [
-            "Tenno, Trentino"
+            "nn"
           ],
-          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
-          "bookable_id": "6a2961f21644e0483a1193f5",
-          "bookable_start": "2026-10-22",
-          "bookable_end": "2026-10-26",
-          "free_places": 8,
-          "max_places": 8,
-          "bookable_places": 8,
-          "waitlist_active": true,
+          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
+          "bookable_id": "69bd7b0ebd72746a9678f450",
+          "bookable_start": "2026-09-25",
+          "bookable_end": "2026-09-27",
+          "free_places": 19,
+          "max_places": 30,
+          "bookable_places": 19,
+          "waitlist_active": false,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a2961f21644e0483a1193f3",
-          "number": null,
-          "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+          "id": "69bd7b0ebd72746a9678f44e",
+          "number": "260925MTB_F011",
+          "title": "Mountainbike Herbstbiken 2026",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Natur- und Umweltschutz"
+            "Mountainbike"
           ],
-          "date_from": "2026-10-22",
-          "date_to": "2026-10-26",
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-27",
           "locations": [
-            "Tenno, Trentino"
+            "nn"
           ],
-          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
-          "bookable_id": "6a2961f21644e0483a1193f5",
-          "bookable_start": "2026-10-22",
-          "bookable_end": "2026-10-26",
-          "free_places": 7,
-          "max_places": 8,
-          "bookable_places": 7,
+          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
+          "bookable_id": "69bd7b0ebd72746a9678f450",
+          "bookable_start": "2026-09-25",
+          "bookable_end": "2026-09-27",
+          "free_places": 20,
+          "max_places": 30,
+          "bookable_places": 20,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a2961862bf69ed3b7182025",
+        "changed_fields": [
+          "bookable_end",
+          "waitlist_active",
+          "bookable_start",
+          "bookable_id"
+        ],
+        "changes": {
+          "bookable_end": {
+            "from": "2026-07-24",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-07-24",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a2961862bf69ed3b7182028",
+            "to": null
+          }
+        },
+        "current": {
+          "id": "6a2961862bf69ed3b7182025",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-24",
+          "date_to": "2026-07-24",
+          "locations": [
+            "Heidelberg Hauptbahnhof RE 73"
+          ],
+          "description": "Bad Wildbad, Wildbader Kopf, Eyachmühle, Talwiese (Schlusseinkehr)\n17 Km; 700 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:22 Uhr RE 73 nach Karlsruhe\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2961862bf69ed3b7182025",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-07-24",
+          "date_to": "2026-07-24",
+          "locations": [
+            "Heidelberg Hauptbahnhof RE 73"
+          ],
+          "description": "Bad Wildbad, Wildbader Kopf, Eyachmühle, Talwiese (Schlusseinkehr)\n17 Km; 700 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:22 Uhr RE 73 nach Karlsruhe\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a2961862bf69ed3b7182028",
+          "bookable_start": "2026-07-24",
+          "bookable_end": "2026-07-24",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6a606ff1ef30f971bbde3a26",
+        "id": "6a4381884db965507b03823b",
         "changed_fields": [
-          "description"
+          "free_places",
+          "max_places",
+          "bookable_places"
         ],
         "changes": {
-          "description": {
-            "from": "Ein besonderer Sommerabend wartet auf uns in Heidelberg auf dem Königstuhl - mit Bewegung, Natur und einem Himmel, der gleich zweimal zur Bühne wird.\nMittwoch, 12. August 2026\nTreffpunkt 17:45 Uhr an der Bergbahn Talstation (Zwingerstraße)\nVon dort  starten wir gemeinsam unseren Aufstieg über Schloss, über Sissi-Haus und Himmelsleiter hinauf zum Königstuhl. Unser Ziel ist, rechtzeitig zu  partiellen Sonnenfinsternis oben anzukommen. Die Verfinsterung beginnt um 19:21 Uhr, ihr Maximum erreicht sie um 20:14 Uhr - rund eine Stunde vor Sonnenuntergang. \nFür die Beobachtung ist eine geeignete Sonnenfinsternis-Schutzbrille oder ein Schweißglas unbedingt erforderlich.\nWenn die Abenddämmerung einsetzt, lohnt sich das Warten: In dieser Nacht erreicht der Perseiden-Meteorstrom seinen Höhepunkt. Mit etwas Glück ziehen Zahlreiche Sternschnuppen über den Himmel und setzen dem Abend ein funkelndes Finale auf.\nDer Fokus der Tour liegt auf der gemeinsamen sportlichen Aktivität. Ein wolkenfreier  Himmel ist das iTüpfelchen. Aber auch ohne Garantie verspricht die Wanderung einen besonderen Sommerabend.\nDer Abstieg findet wahlweise direkt nach dem Sonnenuntergang über Forstwege in die Altstadt oder nach Vereinbarung aber spätestens nach Mitternacht.\nAlternativ kann selbst ein Busshuttle über rnv fips gebucht werden (https://www.rnv-online.de/fahrtinfo/fips/)\nBitte mitbringen:\nSonnenfinsternis-Schutzbrille oder Schweißerglas\nStirnlampe mit Rotlicht für den Rückweg\nGetränke und Verpflegung\nder Witterung angepasste Kleidung\nSitzkissen oder Decke\n-Keine Anmeldung erforderlich-",
-            "to": "Ein besonderer Sommerabend wartet auf uns in Heidelberg auf dem Königstuhl - mit Bewegung, Natur und einem Himmel, der gleich zweimal zur Bühne wird.\nMittwoch, 12. August 2026\nTreffpunkt 17:45 Uhr an der Bergbahn Talstation (Zwingerstraße)\nVon dort  starten wir gemeinsam unseren Aufstieg über Schloss, über Sissi-Haus und Himmelsleiter hinauf zum Königstuhl. Unser Ziel ist, rechtzeitig zur partiellen Sonnenfinsternis oben anzukommen. Die Verfinsterung beginnt um 19:21 Uhr, ihr Maximum erreicht sie um 20:14 Uhr - rund eine Stunde vor Sonnenuntergang. \nFür die Beobachtung ist eine geeignete Sonnenfinsternis-Schutzbrille oder ein Schweißglas unbedingt erforderlich.\nWenn die Abenddämmerung einsetzt, lohnt sich das Warten: In dieser Nacht erreicht der Perseiden-Meteorstrom seinen Höhepunkt. Mit etwas Glück ziehen Zahlreiche Sternschnuppen über den Himmel und setzen dem Abend ein funkelndes Finale auf.\nDer Fokus der Tour liegt auf der gemeinsamen sportlichen Aktivität. Ein wolkenfreier  Himmel ist das iTüpfelchen. Aber auch ohne Garantie verspricht die Wanderung einen besonderen Sommerabend.\nDer Abstieg findet wahlweise direkt nach dem Sonnenuntergang über Forstwege in die Altstadt oder nach Vereinbarung aber spätestens nach Mitternacht statt.\nAlternativ kann selbst ein Busshuttle über rnv fips gebucht werden (https://www.rnv-online.de/fahrtinfo/fips/)\nBitte mitbringen:\nSonnenfinsternis-Schutzbrille oder Schweißerglas\nStirnlampe mit Rotlicht für den Rückweg\nGetränke und Verpflegung\nder Witterung angepasste Kleidung\nSitzkissen oder Decke\n-Keine Anmeldung erforderlich-"
+          "free_places": {
+            "from": 5,
+            "to": 0
+          },
+          "max_places": {
+            "from": 5,
+            "to": 0
+          },
+          "bookable_places": {
+            "from": 5,
+            "to": 0
           }
         },
         "current": {
-          "id": "6a606ff1ef30f971bbde3a26",
-          "number": null,
-          "title": "\"Sonne aus, Funkeln an\"",
+          "id": "6a4381884db965507b03823b",
+          "number": "260726MTB",
+          "title": "BIKELÄND Eberbach",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Mountainbike"
           ],
-          "date_from": "2026-08-12",
-          "date_to": "2026-08-12",
+          "date_from": "2026-07-26",
+          "date_to": "2026-07-26",
           "locations": [
-            "Bergbahn Talstation"
+            "Eberbach"
           ],
-          "description": "Ein besonderer Sommerabend wartet auf uns in Heidelberg auf dem Königstuhl - mit Bewegung, Natur und einem Himmel, der gleich zweimal zur Bühne wird.\nMittwoch, 12. August 2026\nTreffpunkt 17:45 Uhr an der Bergbahn Talstation (Zwingerstraße)\nVon dort  starten wir gemeinsam unseren Aufstieg über Schloss, über Sissi-Haus und Himmelsleiter hinauf zum Königstuhl. Unser Ziel ist, rechtzeitig zur partiellen Sonnenfinsternis oben anzukommen. Die Verfinsterung beginnt um 19:21 Uhr, ihr Maximum erreicht sie um 20:14 Uhr - rund eine Stunde vor Sonnenuntergang. \nFür die Beobachtung ist eine geeignete Sonnenfinsternis-Schutzbrille oder ein Schweißglas unbedingt erforderlich.\nWenn die Abenddämmerung einsetzt, lohnt sich das Warten: In dieser Nacht erreicht der Perseiden-Meteorstrom seinen Höhepunkt. Mit etwas Glück ziehen Zahlreiche Sternschnuppen über den Himmel und setzen dem Abend ein funkelndes Finale auf.\nDer Fokus der Tour liegt auf der gemeinsamen sportlichen Aktivität. Ein wolkenfreier  Himmel ist das iTüpfelchen. Aber auch ohne Garantie verspricht die Wanderung einen besonderen Sommerabend.\nDer Abstieg findet wahlweise direkt nach dem Sonnenuntergang über Forstwege in die Altstadt oder nach Vereinbarung aber spätestens nach Mitternacht statt.\nAlternativ kann selbst ein Busshuttle über rnv fips gebucht werden (https://www.rnv-online.de/fahrtinfo/fips/)\nBitte mitbringen:\nSonnenfinsternis-Schutzbrille oder Schweißerglas\nStirnlampe mit Rotlicht für den Rückweg\nGetränke und Verpflegung\nder Witterung angepasste Kleidung\nSitzkissen oder Decke\n-Keine Anmeldung erforderlich-",
-          "bookable_id": "6a606ff1ef30f971bbde3a28",
-          "bookable_start": "2026-08-12",
-          "bookable_end": "2026-08-12",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Ein Tag auf den gebauten Trails rund um Eberbach, von flowig bis knackig ist alles geboten. Anreise 8:54 ab Heidelberg Hbf. mit der S-Bahn, abends zurück. Fahrstrecke 30 bis 40 km, ca. 1200 hm. Zurück zwischen 16 und 17 Uhr an Eberbach. Die Tour findet nur bei trockenen Verhältnissen statt.\nAnforderungen: S2-S3, K2\nMax. Teilnehmerzahl: 5",
+          "bookable_id": "6a4381884db965507b03823d",
+          "bookable_start": "2026-07-26",
+          "bookable_end": "2026-07-26",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a606ff1ef30f971bbde3a26",
-          "number": null,
-          "title": "\"Sonne aus, Funkeln an\"",
+          "id": "6a4381884db965507b03823b",
+          "number": "260726MTB",
+          "title": "BIKELÄND Eberbach",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Mountainbike"
           ],
-          "date_from": "2026-08-12",
-          "date_to": "2026-08-12",
+          "date_from": "2026-07-26",
+          "date_to": "2026-07-26",
           "locations": [
-            "Bergbahn Talstation"
+            "Eberbach"
           ],
-          "description": "Ein besonderer Sommerabend wartet auf uns in Heidelberg auf dem Königstuhl - mit Bewegung, Natur und einem Himmel, der gleich zweimal zur Bühne wird.\nMittwoch, 12. August 2026\nTreffpunkt 17:45 Uhr an der Bergbahn Talstation (Zwingerstraße)\nVon dort  starten wir gemeinsam unseren Aufstieg über Schloss, über Sissi-Haus und Himmelsleiter hinauf zum Königstuhl. Unser Ziel ist, rechtzeitig zu  partiellen Sonnenfinsternis oben anzukommen. Die Verfinsterung beginnt um 19:21 Uhr, ihr Maximum erreicht sie um 20:14 Uhr - rund eine Stunde vor Sonnenuntergang. \nFür die Beobachtung ist eine geeignete Sonnenfinsternis-Schutzbrille oder ein Schweißglas unbedingt erforderlich.\nWenn die Abenddämmerung einsetzt, lohnt sich das Warten: In dieser Nacht erreicht der Perseiden-Meteorstrom seinen Höhepunkt. Mit etwas Glück ziehen Zahlreiche Sternschnuppen über den Himmel und setzen dem Abend ein funkelndes Finale auf.\nDer Fokus der Tour liegt auf der gemeinsamen sportlichen Aktivität. Ein wolkenfreier  Himmel ist das iTüpfelchen. Aber auch ohne Garantie verspricht die Wanderung einen besonderen Sommerabend.\nDer Abstieg findet wahlweise direkt nach dem Sonnenuntergang über Forstwege in die Altstadt oder nach Vereinbarung aber spätestens nach Mitternacht.\nAlternativ kann selbst ein Busshuttle über rnv fips gebucht werden (https://www.rnv-online.de/fahrtinfo/fips/)\nBitte mitbringen:\nSonnenfinsternis-Schutzbrille oder Schweißerglas\nStirnlampe mit Rotlicht für den Rückweg\nGetränke und Verpflegung\nder Witterung angepasste Kleidung\nSitzkissen oder Decke\n-Keine Anmeldung erforderlich-",
-          "bookable_id": "6a606ff1ef30f971bbde3a28",
-          "bookable_start": "2026-08-12",
-          "bookable_end": "2026-08-12",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Ein Tag auf den gebauten Trails rund um Eberbach, von flowig bis knackig ist alles geboten. Anreise 8:54 ab Heidelberg Hbf. mit der S-Bahn, abends zurück. Fahrstrecke 30 bis 40 km, ca. 1200 hm. Zurück zwischen 16 und 17 Uhr an Eberbach. Die Tour findet nur bei trockenen Verhältnissen statt.\nAnforderungen: S2-S3, K2\nMax. Teilnehmerzahl: 5",
+          "bookable_id": "6a4381884db965507b03823d",
+          "bookable_start": "2026-07-26",
+          "bookable_end": "2026-07-26",
+          "free_places": 5,
+          "max_places": 5,
+          "bookable_places": 5,
           "waitlist_active": true,
           "bookable_canceled": false
         }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T08:04:00.975969+00:00",
+  "timestamp": "2026-07-25T07:47:46.591410+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 105,
   "tours": [
@@ -723,9 +723,9 @@
       "bookable_id": "69bd7b0ebd72746a9678f450",
       "bookable_start": "2026-09-25",
       "bookable_end": "2026-09-27",
-      "free_places": 20,
+      "free_places": 19,
       "max_places": 30,
-      "bookable_places": 20,
+      "bookable_places": 19,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -2070,13 +2070,13 @@
         "Heidelberg Hauptbahnhof RE 73"
       ],
       "description": "Bad Wildbad, Wildbader Kopf, Eyachmühle, Talwiese (Schlusseinkehr)\n17 Km; 700 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:22 Uhr RE 73 nach Karlsruhe\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a2961862bf69ed3b7182028",
-      "bookable_start": "2026-07-24",
-      "bookable_end": "2026-07-24",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -2523,9 +2523,9 @@
       "bookable_id": "6a4381884db965507b03823d",
       "bookable_start": "2026-07-26",
       "bookable_end": "2026-07-26",
-      "free_places": 5,
-      "max_places": 5,
-      "bookable_places": 5,
+      "free_places": 0,
+      "max_places": 0,
+      "bookable_places": 0,
       "waitlist_active": true,
       "bookable_canceled": false
     },
