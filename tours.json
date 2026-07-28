@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T09:24:13.119588+00:00",
+  "timestamp": "2026-07-28T08:10:52.755900+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 105,
   "tours": [
@@ -148,9 +148,9 @@
       "bookable_id": "69bc38319daefa4fefc181b2",
       "bookable_start": "2026-09-09",
       "bookable_end": "2026-09-13",
-      "free_places": 19,
+      "free_places": 21,
       "max_places": 25,
-      "bookable_places": 19,
+      "bookable_places": 21,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2167,9 +2167,9 @@
       "date_from": "2026-08-07",
       "date_to": "2026-08-07",
       "locations": [
-        "N.D."
+        "Heidelberg Bismarckplatz Bus Linie 34"
       ],
-      "description": "N.D.",
+      "description": "Ziegelhausen, Wilhelmsfeld, Weißer Stein (Schlusseinkehr)\n15 Km; 550 Hm, Gehzeit a. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:34 Uhr Bus Linie 34 Richtung Heidebuckel.\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a296942d044b6737a0ec752",
       "bookable_start": "2026-08-07",
       "bookable_end": "2026-08-07",
