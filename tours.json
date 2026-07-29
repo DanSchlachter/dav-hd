@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T08:10:52.755900+00:00",
+  "timestamp": "2026-07-29T08:15:25.501025+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 105,
   "tours": [
@@ -1898,9 +1898,9 @@
       "bookable_id": "6a292951fe265180d504c33b",
       "bookable_start": "2026-08-02",
       "bookable_end": "2026-08-02",
-      "free_places": 6,
+      "free_places": 5,
       "max_places": 10,
-      "bookable_places": 6,
+      "bookable_places": 5,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2192,9 +2192,9 @@
       "date_from": "2026-08-14",
       "date_to": "2026-08-14",
       "locations": [
-        "n.D."
+        "Heidelberg Hauptbahnhof S 1"
       ],
-      "description": "N.D.",
+      "description": "Neidenfels, Ruine Neidenfels, Lambertskreuz (Pause), Drachenfels Westfels, Lambertskreuz (Schlusseinkehr), Lambrecht\n17 Km; 564 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a2a7835d044b6737a145e87",
       "bookable_start": "2026-08-14",
       "bookable_end": "2026-08-14",

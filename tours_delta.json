@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-28T08:10:52.764447+00:00",
-  "previous_timestamp": "2026-07-27T09:24:13.119588+00:00",
+  "timestamp": "2026-07-29T08:15:25.509185+00:00",
+  "previous_timestamp": "2026-07-28T08:10:52.755900+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
@@ -11,74 +11,74 @@
     "removed": [],
     "modified": [
       {
-        "id": "69bc38319daefa4fefc181b0",
+        "id": "6a292951fe265180d504c339",
         "changed_fields": [
           "bookable_places",
           "free_places"
         ],
         "changes": {
           "bookable_places": {
-            "from": 19,
-            "to": 21
+            "from": 6,
+            "to": 5
           },
           "free_places": {
-            "from": 19,
-            "to": 21
+            "from": 6,
+            "to": 5
           }
         },
         "current": {
-          "id": "69bc38319daefa4fefc181b0",
-          "number": "260909FAM_F001",
-          "title": "5 Tage in den Alpen – Klettersteige und Wanderungen rund um Adelboden",
+          "id": "6a292951fe265180d504c339",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Familienbergsteigen"
+            "Wandern"
           ],
-          "date_from": "2026-09-09",
-          "date_to": "2026-09-13",
+          "date_from": "2026-08-02",
+          "date_to": "2026-08-02",
           "locations": [
-            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
+            "Parkplatz an der K 54 (32U 418446 5447347)"
           ],
-          "description": "Fünf abwechslungsreiche Tage im Berner Oberland erwarten uns rund um Adelboden. Je nach Lust, Erfahrung und Können ist die Teilnahme sowohl für Familien mit Klettersteig-Erfahrung als auch für Familien möglich, die lieber auf Wanderwegen in den Bergen unterwegs sind. So verbinden wir gemeinsame alpine Erlebnisse mit der Möglichkeit, die Umgebung mit oder ohne Klettersteig zu genießen.\n\nUns erwarten eindrucksvolle Berglandschaften, abwechslungsreiche Touren und schöne gemeinsame Tage in der DAV-Familiengruppe. Für geübte Teilnehmende bieten sich Klettersteige mit luftigen Passagen und alpinem Charakter an, während alle anderen die Region auf Wanderungen und leichteren Bergtouren erleben können.\n\nOrt: Adelboden, Berner Oberland, Schweiz\n\nAnforderungen: Für Klettersteige: Grundkenntnisse im Klettersteiggehen und gute Kondition.  Für Wanderungen: Trittsicherheit und normale Bergwandererfahrung. Teilnahme für Kinder ab 8 Jahren\n\nAnreise: im eigenen Pkw, gern in Fahrgemeinschaften\n\nTourenlänge: je nach Tour bis zu ca. 8 Std. / typischerweise bis zu 10 km\n\nUnterkunft: Selbstversorgerhaus, gemeinsame Verpflegung\n\nKosten (ca.): 200,00 € für Erwachsene / 150,00 € für Kinder bis 15 Jahren\n\nDie Verantwortung liegt bei den teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nDetailplanung und Info: per e-mail",
-          "bookable_id": "69bc38319daefa4fefc181b2",
-          "bookable_start": "2026-09-09",
-          "bookable_end": "2026-09-13",
-          "free_places": 21,
-          "max_places": 25,
-          "bookable_places": 21,
+          "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
+          "bookable_id": "6a292951fe265180d504c33b",
+          "bookable_start": "2026-08-02",
+          "bookable_end": "2026-08-02",
+          "free_places": 5,
+          "max_places": 10,
+          "bookable_places": 5,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69bc38319daefa4fefc181b0",
-          "number": "260909FAM_F001",
-          "title": "5 Tage in den Alpen – Klettersteige und Wanderungen rund um Adelboden",
+          "id": "6a292951fe265180d504c339",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Familienbergsteigen"
+            "Wandern"
           ],
-          "date_from": "2026-09-09",
-          "date_to": "2026-09-13",
+          "date_from": "2026-08-02",
+          "date_to": "2026-08-02",
           "locations": [
-            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
+            "Parkplatz an der K 54 (32U 418446 5447347)"
           ],
-          "description": "Fünf abwechslungsreiche Tage im Berner Oberland erwarten uns rund um Adelboden. Je nach Lust, Erfahrung und Können ist die Teilnahme sowohl für Familien mit Klettersteig-Erfahrung als auch für Familien möglich, die lieber auf Wanderwegen in den Bergen unterwegs sind. So verbinden wir gemeinsame alpine Erlebnisse mit der Möglichkeit, die Umgebung mit oder ohne Klettersteig zu genießen.\n\nUns erwarten eindrucksvolle Berglandschaften, abwechslungsreiche Touren und schöne gemeinsame Tage in der DAV-Familiengruppe. Für geübte Teilnehmende bieten sich Klettersteige mit luftigen Passagen und alpinem Charakter an, während alle anderen die Region auf Wanderungen und leichteren Bergtouren erleben können.\n\nOrt: Adelboden, Berner Oberland, Schweiz\n\nAnforderungen: Für Klettersteige: Grundkenntnisse im Klettersteiggehen und gute Kondition.  Für Wanderungen: Trittsicherheit und normale Bergwandererfahrung. Teilnahme für Kinder ab 8 Jahren\n\nAnreise: im eigenen Pkw, gern in Fahrgemeinschaften\n\nTourenlänge: je nach Tour bis zu ca. 8 Std. / typischerweise bis zu 10 km\n\nUnterkunft: Selbstversorgerhaus, gemeinsame Verpflegung\n\nKosten (ca.): 200,00 € für Erwachsene / 150,00 € für Kinder bis 15 Jahren\n\nDie Verantwortung liegt bei den teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nDetailplanung und Info: per e-mail",
-          "bookable_id": "69bc38319daefa4fefc181b2",
-          "bookable_start": "2026-09-09",
-          "bookable_end": "2026-09-13",
-          "free_places": 19,
-          "max_places": 25,
-          "bookable_places": 19,
+          "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
+          "bookable_id": "6a292951fe265180d504c33b",
+          "bookable_start": "2026-08-02",
+          "bookable_end": "2026-08-02",
+          "free_places": 6,
+          "max_places": 10,
+          "bookable_places": 6,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6a296942d044b6737a0ec750",
+        "id": "6a2a7835d044b6737a145e85",
         "changed_fields": [
           "description",
           "locations"
@@ -86,19 +86,19 @@
         "changes": {
           "description": {
             "from": "N.D.",
-            "to": "Ziegelhausen, Wilhelmsfeld, Weißer Stein (Schlusseinkehr)\n15 Km; 550 Hm, Gehzeit a. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:34 Uhr Bus Linie 34 Richtung Heidebuckel.\n-Anmeldung nicht erforderlich-"
+            "to": "Neidenfels, Ruine Neidenfels, Lambertskreuz (Pause), Drachenfels Westfels, Lambertskreuz (Schlusseinkehr), Lambrecht\n17 Km; 564 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-"
           },
           "locations": {
             "from": [
-              "N.D."
+              "n.D."
             ],
             "to": [
-              "Heidelberg Bismarckplatz Bus Linie 34"
+              "Heidelberg Hauptbahnhof S 1"
             ]
           }
         },
         "current": {
-          "id": "6a296942d044b6737a0ec750",
+          "id": "6a2a7835d044b6737a145e85",
           "number": null,
           "title": "Freitagswanderung",
           "type": "TOUR",
@@ -107,15 +107,15 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-08-07",
-          "date_to": "2026-08-07",
+          "date_from": "2026-08-14",
+          "date_to": "2026-08-14",
           "locations": [
-            "Heidelberg Bismarckplatz Bus Linie 34"
+            "Heidelberg Hauptbahnhof S 1"
           ],
-          "description": "Ziegelhausen, Wilhelmsfeld, Weißer Stein (Schlusseinkehr)\n15 Km; 550 Hm, Gehzeit a. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:34 Uhr Bus Linie 34 Richtung Heidebuckel.\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a296942d044b6737a0ec752",
-          "bookable_start": "2026-08-07",
-          "bookable_end": "2026-08-07",
+          "description": "Neidenfels, Ruine Neidenfels, Lambertskreuz (Pause), Drachenfels Westfels, Lambertskreuz (Schlusseinkehr), Lambrecht\n17 Km; 564 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a2a7835d044b6737a145e87",
+          "bookable_start": "2026-08-14",
+          "bookable_end": "2026-08-14",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
@@ -123,7 +123,7 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a296942d044b6737a0ec750",
+          "id": "6a2a7835d044b6737a145e85",
           "number": null,
           "title": "Freitagswanderung",
           "type": "TOUR",
@@ -132,15 +132,15 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-08-07",
-          "date_to": "2026-08-07",
+          "date_from": "2026-08-14",
+          "date_to": "2026-08-14",
           "locations": [
-            "N.D."
+            "n.D."
           ],
           "description": "N.D.",
-          "bookable_id": "6a296942d044b6737a0ec752",
-          "bookable_start": "2026-08-07",
-          "bookable_end": "2026-08-07",
+          "bookable_id": "6a2a7835d044b6737a145e87",
+          "bookable_start": "2026-08-14",
+          "bookable_end": "2026-08-14",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
