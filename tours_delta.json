@@ -1,150 +1,79 @@
 {
-  "timestamp": "2026-07-29T08:15:25.509185+00:00",
-  "previous_timestamp": "2026-07-28T08:10:52.755900+00:00",
+  "timestamp": "2026-07-30T08:03:49.295923+00:00",
+  "previous_timestamp": "2026-07-29T08:15:25.501025+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 2
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a292951fe265180d504c339",
+        "id": "69bd7b0ebd72746a9678f44e",
         "changed_fields": [
           "bookable_places",
           "free_places"
         ],
         "changes": {
           "bookable_places": {
-            "from": 6,
-            "to": 5
+            "from": 16,
+            "to": 15
           },
           "free_places": {
-            "from": 6,
-            "to": 5
+            "from": 16,
+            "to": 15
           }
         },
         "current": {
-          "id": "6a292951fe265180d504c339",
-          "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
+          "id": "69bd7b0ebd72746a9678f44e",
+          "number": "260925MTB_F011",
+          "title": "Mountainbike Herbstbiken 2026",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Mountainbike"
           ],
-          "date_from": "2026-08-02",
-          "date_to": "2026-08-02",
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-27",
           "locations": [
-            "Parkplatz an der K 54 (32U 418446 5447347)"
+            "nn"
           ],
-          "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
-          "bookable_id": "6a292951fe265180d504c33b",
-          "bookable_start": "2026-08-02",
-          "bookable_end": "2026-08-02",
-          "free_places": 5,
-          "max_places": 10,
-          "bookable_places": 5,
-          "waitlist_active": true,
+          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
+          "bookable_id": "69bd7b0ebd72746a9678f450",
+          "bookable_start": "2026-09-25",
+          "bookable_end": "2026-09-27",
+          "free_places": 15,
+          "max_places": 30,
+          "bookable_places": 15,
+          "waitlist_active": false,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a292951fe265180d504c339",
-          "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
+          "id": "69bd7b0ebd72746a9678f44e",
+          "number": "260925MTB_F011",
+          "title": "Mountainbike Herbstbiken 2026",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Mountainbike"
           ],
-          "date_from": "2026-08-02",
-          "date_to": "2026-08-02",
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-27",
           "locations": [
-            "Parkplatz an der K 54 (32U 418446 5447347)"
+            "nn"
           ],
-          "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
-          "bookable_id": "6a292951fe265180d504c33b",
-          "bookable_start": "2026-08-02",
-          "bookable_end": "2026-08-02",
-          "free_places": 6,
-          "max_places": 10,
-          "bookable_places": 6,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a2a7835d044b6737a145e85",
-        "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "N.D.",
-            "to": "Neidenfels, Ruine Neidenfels, Lambertskreuz (Pause), Drachenfels Westfels, Lambertskreuz (Schlusseinkehr), Lambrecht\n17 Km; 564 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-"
-          },
-          "locations": {
-            "from": [
-              "n.D."
-            ],
-            "to": [
-              "Heidelberg Hauptbahnhof S 1"
-            ]
-          }
-        },
-        "current": {
-          "id": "6a2a7835d044b6737a145e85",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-08-14",
-          "date_to": "2026-08-14",
-          "locations": [
-            "Heidelberg Hauptbahnhof S 1"
-          ],
-          "description": "Neidenfels, Ruine Neidenfels, Lambertskreuz (Pause), Drachenfels Westfels, Lambertskreuz (Schlusseinkehr), Lambrecht\n17 Km; 564 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a2a7835d044b6737a145e87",
-          "bookable_start": "2026-08-14",
-          "bookable_end": "2026-08-14",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a2a7835d044b6737a145e85",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-08-14",
-          "date_to": "2026-08-14",
-          "locations": [
-            "n.D."
-          ],
-          "description": "N.D.",
-          "bookable_id": "6a2a7835d044b6737a145e87",
-          "bookable_start": "2026-08-14",
-          "bookable_end": "2026-08-14",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
+          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
+          "bookable_id": "69bd7b0ebd72746a9678f450",
+          "bookable_start": "2026-09-25",
+          "bookable_end": "2026-09-27",
+          "free_places": 16,
+          "max_places": 30,
+          "bookable_places": 16,
+          "waitlist_active": false,
           "bookable_canceled": false
         }
       }
