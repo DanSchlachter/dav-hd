@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-07-30T08:03:49.295923+00:00",
-  "previous_timestamp": "2026-07-29T08:15:25.501025+00:00",
+  "timestamp": "2026-07-31T08:29:55.044391+00:00",
+  "previous_timestamp": "2026-07-30T08:03:49.287460+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
@@ -13,17 +13,17 @@
       {
         "id": "69bd7b0ebd72746a9678f44e",
         "changed_fields": [
-          "bookable_places",
-          "free_places"
+          "free_places",
+          "bookable_places"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 16,
-            "to": 15
-          },
           "free_places": {
-            "from": 16,
-            "to": 15
+            "from": 15,
+            "to": 12
+          },
+          "bookable_places": {
+            "from": 15,
+            "to": 12
           }
         },
         "current": {
@@ -45,9 +45,9 @@
           "bookable_id": "69bd7b0ebd72746a9678f450",
           "bookable_start": "2026-09-25",
           "bookable_end": "2026-09-27",
-          "free_places": 15,
+          "free_places": 12,
           "max_places": 30,
-          "bookable_places": 15,
+          "bookable_places": 12,
           "waitlist_active": false,
           "bookable_canceled": false
         },
@@ -70,9 +70,9 @@
           "bookable_id": "69bd7b0ebd72746a9678f450",
           "bookable_start": "2026-09-25",
           "bookable_end": "2026-09-27",
-          "free_places": 16,
+          "free_places": 15,
           "max_places": 30,
-          "bookable_places": 16,
+          "bookable_places": 15,
           "waitlist_active": false,
           "bookable_canceled": false
         }
