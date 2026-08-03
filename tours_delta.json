@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-02T08:01:21.254472+00:00",
-  "previous_timestamp": "2026-08-01T07:59:32.743640+00:00",
+  "timestamp": "2026-08-03T08:58:10.597876+00:00",
+  "previous_timestamp": "2026-08-02T08:01:21.246010+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
@@ -11,135 +11,185 @@
     "removed": [],
     "modified": [
       {
-        "id": "69bd7b0ebd72746a9678f44e",
+        "id": "6a19675231a1e40446bfc77b",
         "changed_fields": [
+          "free_places",
+          "max_places",
+          "bookable_end",
+          "bookable_id",
           "bookable_places",
-          "free_places"
+          "bookable_start",
+          "waitlist_active"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 11,
-            "to": 10
-          },
           "free_places": {
-            "from": 11,
-            "to": 10
+            "from": 10,
+            "to": null
+          },
+          "max_places": {
+            "from": 10,
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-08-02",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a19675231a1e40446bfc77d",
+            "to": null
+          },
+          "bookable_places": {
+            "from": 10,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-08-02",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": false,
+            "to": null
           }
         },
         "current": {
-          "id": "69bd7b0ebd72746a9678f44e",
-          "number": "260925MTB_F011",
-          "title": "Mountainbike Herbstbiken 2026",
+          "id": "6a19675231a1e40446bfc77b",
+          "number": "260802_MTB01",
+          "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Mountainbike"
           ],
-          "date_from": "2026-09-25",
-          "date_to": "2026-09-27",
+          "date_from": "2026-08-02",
+          "date_to": "2026-08-02",
           "locations": [
-            "nn"
+            "Heidelberg"
           ],
-          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
-          "bookable_id": "69bd7b0ebd72746a9678f450",
-          "bookable_start": "2026-09-25",
-          "bookable_end": "2026-09-27",
-          "free_places": 10,
-          "max_places": 30,
-          "bookable_places": 10,
-          "waitlist_active": false,
+          "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69bd7b0ebd72746a9678f44e",
-          "number": "260925MTB_F011",
-          "title": "Mountainbike Herbstbiken 2026",
+          "id": "6a19675231a1e40446bfc77b",
+          "number": "260802_MTB01",
+          "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Mountainbike"
           ],
-          "date_from": "2026-09-25",
-          "date_to": "2026-09-27",
+          "date_from": "2026-08-02",
+          "date_to": "2026-08-02",
           "locations": [
-            "nn"
+            "Heidelberg"
           ],
-          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
-          "bookable_id": "69bd7b0ebd72746a9678f450",
-          "bookable_start": "2026-09-25",
-          "bookable_end": "2026-09-27",
-          "free_places": 11,
-          "max_places": 30,
-          "bookable_places": 11,
+          "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
+          "bookable_id": "6a19675231a1e40446bfc77d",
+          "bookable_start": "2026-08-02",
+          "bookable_end": "2026-08-02",
+          "free_places": 10,
+          "max_places": 10,
+          "bookable_places": 10,
           "waitlist_active": false,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6a2961f21644e0483a1193f3",
+        "id": "6a292951fe265180d504c339",
         "changed_fields": [
+          "free_places",
+          "max_places",
+          "bookable_end",
+          "bookable_id",
           "bookable_places",
-          "free_places"
+          "bookable_start",
+          "waitlist_active"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 8,
-            "to": 6
-          },
           "free_places": {
-            "from": 8,
-            "to": 6
+            "from": 5,
+            "to": null
+          },
+          "max_places": {
+            "from": 10,
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-08-02",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a292951fe265180d504c33b",
+            "to": null
+          },
+          "bookable_places": {
+            "from": 5,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-08-02",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
           }
         },
         "current": {
-          "id": "6a2961f21644e0483a1193f3",
+          "id": "6a292951fe265180d504c339",
           "number": null,
-          "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+          "title": "In-Between-Gruppe Sonntagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Natur- und Umweltschutz"
+            "Wandern"
           ],
-          "date_from": "2026-10-22",
-          "date_to": "2026-10-26",
+          "date_from": "2026-08-02",
+          "date_to": "2026-08-02",
           "locations": [
-            "Tenno, Trentino"
+            "Parkplatz an der K 54 (32U 418446 5447347)"
           ],
-          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
-          "bookable_id": "6a2961f21644e0483a1193f5",
-          "bookable_start": "2026-10-22",
-          "bookable_end": "2026-10-26",
-          "free_places": 6,
-          "max_places": 8,
-          "bookable_places": 6,
-          "waitlist_active": true,
+          "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a2961f21644e0483a1193f3",
+          "id": "6a292951fe265180d504c339",
           "number": null,
-          "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+          "title": "In-Between-Gruppe Sonntagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Natur- und Umweltschutz"
+            "Wandern"
           ],
-          "date_from": "2026-10-22",
-          "date_to": "2026-10-26",
+          "date_from": "2026-08-02",
+          "date_to": "2026-08-02",
           "locations": [
-            "Tenno, Trentino"
+            "Parkplatz an der K 54 (32U 418446 5447347)"
           ],
-          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
-          "bookable_id": "6a2961f21644e0483a1193f5",
-          "bookable_start": "2026-10-22",
-          "bookable_end": "2026-10-26",
-          "free_places": 8,
-          "max_places": 8,
-          "bookable_places": 8,
+          "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
+          "bookable_id": "6a292951fe265180d504c33b",
+          "bookable_start": "2026-08-02",
+          "bookable_end": "2026-08-02",
+          "free_places": 5,
+          "max_places": 10,
+          "bookable_places": 5,
           "waitlist_active": true,
           "bookable_canceled": false
         }
