@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T06:57:33.534131+00:00",
+  "timestamp": "2026-08-08T06:30:39.270416+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 105,
   "tours": [
@@ -723,9 +723,9 @@
       "bookable_id": "69bd7b0ebd72746a9678f450",
       "bookable_start": "2026-09-25",
       "bookable_end": "2026-09-27",
-      "free_places": 5,
+      "free_places": 4,
       "max_places": 30,
-      "bookable_places": 5,
+      "bookable_places": 4,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -2170,13 +2170,13 @@
         "Heidelberg Bismarckplatz Bus Linie 34"
       ],
       "description": "Ziegelhausen, Wilhelmsfeld, Weißer Stein (Schlusseinkehr)\n15 Km; 550 Hm, Gehzeit a. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:34 Uhr Bus Linie 34 Richtung Heidebuckel.\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a296942d044b6737a0ec752",
-      "bookable_start": "2026-08-07",
-      "bookable_end": "2026-08-07",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -2217,9 +2217,9 @@
       "date_from": "2026-08-21",
       "date_to": "2026-08-21",
       "locations": [
-        "N.D."
+        "Heidelberg Hauptbahnhof S 1"
       ],
-      "description": "N.D.",
+      "description": "Breitenstein, Wolfsschluchthütte, Schwarzsohl, Hochspeyer (Schlusseinkehr)\n18 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Anmeldung  nicht erforderlich-",
       "bookable_id": "6a2a78fb1644e0483a17f0a9",
       "bookable_start": "2026-08-21",
       "bookable_end": "2026-08-21",
@@ -2264,15 +2264,15 @@
       "categories": [
         "Wandern"
       ],
-      "date_from": "2026-08-29",
-      "date_to": "2026-08-29",
+      "date_from": "2026-09-05",
+      "date_to": "2026-09-05",
       "locations": [
         "N.D"
       ],
       "description": "N.D.",
       "bookable_id": "6a2a7a1b1644e0483a1806bb",
-      "bookable_start": "2026-08-29",
-      "bookable_end": "2026-08-29",
+      "bookable_start": "2026-09-05",
+      "bookable_end": "2026-09-05",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
@@ -2367,9 +2367,9 @@
       "date_from": "2026-09-02",
       "date_to": "2026-09-02",
       "locations": [
-        "N.D"
+        "Heidelberg Hauptbahnhof RB 68"
       ],
-      "description": "N.D.",
+      "description": "Hammelbach, Eselstein, Waldgaststätte Alt-Lechtern (Einkehr), Hammelbach\n7,5 Km;  180 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a2a7c392bf69ed3b7261225",
       "bookable_start": "2026-09-02",
       "bookable_end": "2026-09-02",

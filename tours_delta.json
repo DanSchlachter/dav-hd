@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-08-07T06:57:33.542408+00:00",
-  "previous_timestamp": "2026-08-06T08:11:41.581625+00:00",
+  "timestamp": "2026-08-08T06:30:39.278735+00:00",
+  "previous_timestamp": "2026-08-07T06:57:33.534131+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 5
   },
   "changes": {
     "added": [],
@@ -18,15 +18,40 @@
         ],
         "changes": {
           "free_places": {
-            "from": 6,
-            "to": 5
+            "from": 5,
+            "to": 4
           },
           "bookable_places": {
-            "from": 6,
-            "to": 5
+            "from": 5,
+            "to": 4
           }
         },
         "current": {
+          "id": "69bd7b0ebd72746a9678f44e",
+          "number": "260925MTB_F011",
+          "title": "Mountainbike Herbstbiken 2026",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-27",
+          "locations": [
+            "nn"
+          ],
+          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
+          "bookable_id": "69bd7b0ebd72746a9678f450",
+          "bookable_start": "2026-09-25",
+          "bookable_end": "2026-09-27",
+          "free_places": 4,
+          "max_places": 30,
+          "bookable_places": 4,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        },
+        "previous": {
           "id": "69bd7b0ebd72746a9678f44e",
           "number": "260925MTB_F011",
           "title": "Mountainbike Herbstbiken 2026",
@@ -50,30 +75,301 @@
           "bookable_places": 5,
           "waitlist_active": false,
           "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a296942d044b6737a0ec750",
+        "changed_fields": [
+          "bookable_id",
+          "waitlist_active",
+          "bookable_end",
+          "bookable_start"
+        ],
+        "changes": {
+          "bookable_id": {
+            "from": "6a296942d044b6737a0ec752",
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-08-07",
+            "to": ""
+          },
+          "bookable_start": {
+            "from": "2026-08-07",
+            "to": ""
+          }
         },
-        "previous": {
-          "id": "69bd7b0ebd72746a9678f44e",
-          "number": "260925MTB_F011",
-          "title": "Mountainbike Herbstbiken 2026",
+        "current": {
+          "id": "6a296942d044b6737a0ec750",
+          "number": null,
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Mountainbike"
+            "Wandern"
           ],
-          "date_from": "2026-09-25",
-          "date_to": "2026-09-27",
+          "date_from": "2026-08-07",
+          "date_to": "2026-08-07",
           "locations": [
-            "nn"
+            "Heidelberg Bismarckplatz Bus Linie 34"
           ],
-          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
-          "bookable_id": "69bd7b0ebd72746a9678f450",
-          "bookable_start": "2026-09-25",
-          "bookable_end": "2026-09-27",
-          "free_places": 6,
-          "max_places": 30,
-          "bookable_places": 6,
-          "waitlist_active": false,
+          "description": "Ziegelhausen, Wilhelmsfeld, Weißer Stein (Schlusseinkehr)\n15 Km; 550 Hm, Gehzeit a. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:34 Uhr Bus Linie 34 Richtung Heidebuckel.\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a296942d044b6737a0ec750",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-08-07",
+          "date_to": "2026-08-07",
+          "locations": [
+            "Heidelberg Bismarckplatz Bus Linie 34"
+          ],
+          "description": "Ziegelhausen, Wilhelmsfeld, Weißer Stein (Schlusseinkehr)\n15 Km; 550 Hm, Gehzeit a. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:34 Uhr Bus Linie 34 Richtung Heidebuckel.\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a296942d044b6737a0ec752",
+          "bookable_start": "2026-08-07",
+          "bookable_end": "2026-08-07",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a2a78fb1644e0483a17f0a7",
+        "changed_fields": [
+          "description",
+          "locations"
+        ],
+        "changes": {
+          "description": {
+            "from": "N.D.",
+            "to": "Breitenstein, Wolfsschluchthütte, Schwarzsohl, Hochspeyer (Schlusseinkehr)\n18 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Anmeldung  nicht erforderlich-"
+          },
+          "locations": {
+            "from": [
+              "N.D."
+            ],
+            "to": [
+              "Heidelberg Hauptbahnhof S 1"
+            ]
+          }
+        },
+        "current": {
+          "id": "6a2a78fb1644e0483a17f0a7",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-08-21",
+          "date_to": "2026-08-21",
+          "locations": [
+            "Heidelberg Hauptbahnhof S 1"
+          ],
+          "description": "Breitenstein, Wolfsschluchthütte, Schwarzsohl, Hochspeyer (Schlusseinkehr)\n18 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Anmeldung  nicht erforderlich-",
+          "bookable_id": "6a2a78fb1644e0483a17f0a9",
+          "bookable_start": "2026-08-21",
+          "bookable_end": "2026-08-21",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2a78fb1644e0483a17f0a7",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-08-21",
+          "date_to": "2026-08-21",
+          "locations": [
+            "N.D."
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a2a78fb1644e0483a17f0a9",
+          "bookable_start": "2026-08-21",
+          "bookable_end": "2026-08-21",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a2a7a1b1644e0483a1806b9",
+        "changed_fields": [
+          "date_to",
+          "date_from",
+          "bookable_end",
+          "bookable_start"
+        ],
+        "changes": {
+          "date_to": {
+            "from": "2026-08-29",
+            "to": "2026-09-05"
+          },
+          "date_from": {
+            "from": "2026-08-29",
+            "to": "2026-09-05"
+          },
+          "bookable_end": {
+            "from": "2026-08-29",
+            "to": "2026-09-05"
+          },
+          "bookable_start": {
+            "from": "2026-08-29",
+            "to": "2026-09-05"
+          }
+        },
+        "current": {
+          "id": "6a2a7a1b1644e0483a1806b9",
+          "number": null,
+          "title": "Samstagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-05",
+          "date_to": "2026-09-05",
+          "locations": [
+            "N.D"
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a2a7a1b1644e0483a1806bb",
+          "bookable_start": "2026-09-05",
+          "bookable_end": "2026-09-05",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2a7a1b1644e0483a1806b9",
+          "number": null,
+          "title": "Samstagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-08-29",
+          "date_to": "2026-08-29",
+          "locations": [
+            "N.D"
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a2a7a1b1644e0483a1806bb",
+          "bookable_start": "2026-08-29",
+          "bookable_end": "2026-08-29",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a2a7c392bf69ed3b7261223",
+        "changed_fields": [
+          "description",
+          "locations"
+        ],
+        "changes": {
+          "description": {
+            "from": "N.D.",
+            "to": "Hammelbach, Eselstein, Waldgaststätte Alt-Lechtern (Einkehr), Hammelbach\n7,5 Km;  180 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-"
+          },
+          "locations": {
+            "from": [
+              "N.D"
+            ],
+            "to": [
+              "Heidelberg Hauptbahnhof RB 68"
+            ]
+          }
+        },
+        "current": {
+          "id": "6a2a7c392bf69ed3b7261223",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-02",
+          "date_to": "2026-09-02",
+          "locations": [
+            "Heidelberg Hauptbahnhof RB 68"
+          ],
+          "description": "Hammelbach, Eselstein, Waldgaststätte Alt-Lechtern (Einkehr), Hammelbach\n7,5 Km;  180 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a2a7c392bf69ed3b7261225",
+          "bookable_start": "2026-09-02",
+          "bookable_end": "2026-09-02",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2a7c392bf69ed3b7261223",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-02",
+          "date_to": "2026-09-02",
+          "locations": [
+            "N.D"
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a2a7c392bf69ed3b7261225",
+          "bookable_start": "2026-09-02",
+          "bookable_end": "2026-09-02",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
           "bookable_canceled": false
         }
       }
