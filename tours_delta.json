@@ -1,14 +1,241 @@
 {
-  "timestamp": "2026-08-10T07:05:31.655384+00:00",
-  "previous_timestamp": "2026-08-09T06:35:13.441472+00:00",
+  "timestamp": "2026-08-11T06:43:40.880532+00:00",
+  "previous_timestamp": "2026-08-10T07:05:31.646856+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 3
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "69bc38319daefa4fefc181b0",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 21,
+            "to": 17
+          },
+          "bookable_places": {
+            "from": 21,
+            "to": 17
+          }
+        },
+        "current": {
+          "id": "69bc38319daefa4fefc181b0",
+          "number": "260909FAM_F001",
+          "title": "5 Tage in den Alpen – Klettersteige und Wanderungen rund um Adelboden",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen"
+          ],
+          "date_from": "2026-09-09",
+          "date_to": "2026-09-13",
+          "locations": [
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
+          ],
+          "description": "Fünf abwechslungsreiche Tage im Berner Oberland erwarten uns rund um Adelboden. Je nach Lust, Erfahrung und Können ist die Teilnahme sowohl für Familien mit Klettersteig-Erfahrung als auch für Familien möglich, die lieber auf Wanderwegen in den Bergen unterwegs sind. So verbinden wir gemeinsame alpine Erlebnisse mit der Möglichkeit, die Umgebung mit oder ohne Klettersteig zu genießen.\n\nUns erwarten eindrucksvolle Berglandschaften, abwechslungsreiche Touren und schöne gemeinsame Tage in der DAV-Familiengruppe. Für geübte Teilnehmende bieten sich Klettersteige mit luftigen Passagen und alpinem Charakter an, während alle anderen die Region auf Wanderungen und leichteren Bergtouren erleben können.\n\nOrt: Adelboden, Berner Oberland, Schweiz\n\nAnforderungen: Für Klettersteige: Grundkenntnisse im Klettersteiggehen und gute Kondition.  Für Wanderungen: Trittsicherheit und normale Bergwandererfahrung. Teilnahme für Kinder ab 8 Jahren\n\nAnreise: im eigenen Pkw, gern in Fahrgemeinschaften\n\nTourenlänge: je nach Tour bis zu ca. 8 Std. / typischerweise bis zu 10 km\n\nUnterkunft: Selbstversorgerhaus, gemeinsame Verpflegung\n\nKosten (ca.): 200,00 € für Erwachsene / 150,00 € für Kinder bis 15 Jahren\n\nDie Verantwortung liegt bei den teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nDetailplanung und Info: per e-mail",
+          "bookable_id": "69bc38319daefa4fefc181b2",
+          "bookable_start": "2026-09-09",
+          "bookable_end": "2026-09-13",
+          "free_places": 17,
+          "max_places": 25,
+          "bookable_places": 17,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bc38319daefa4fefc181b0",
+          "number": "260909FAM_F001",
+          "title": "5 Tage in den Alpen – Klettersteige und Wanderungen rund um Adelboden",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen"
+          ],
+          "date_from": "2026-09-09",
+          "date_to": "2026-09-13",
+          "locations": [
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
+          ],
+          "description": "Fünf abwechslungsreiche Tage im Berner Oberland erwarten uns rund um Adelboden. Je nach Lust, Erfahrung und Können ist die Teilnahme sowohl für Familien mit Klettersteig-Erfahrung als auch für Familien möglich, die lieber auf Wanderwegen in den Bergen unterwegs sind. So verbinden wir gemeinsame alpine Erlebnisse mit der Möglichkeit, die Umgebung mit oder ohne Klettersteig zu genießen.\n\nUns erwarten eindrucksvolle Berglandschaften, abwechslungsreiche Touren und schöne gemeinsame Tage in der DAV-Familiengruppe. Für geübte Teilnehmende bieten sich Klettersteige mit luftigen Passagen und alpinem Charakter an, während alle anderen die Region auf Wanderungen und leichteren Bergtouren erleben können.\n\nOrt: Adelboden, Berner Oberland, Schweiz\n\nAnforderungen: Für Klettersteige: Grundkenntnisse im Klettersteiggehen und gute Kondition.  Für Wanderungen: Trittsicherheit und normale Bergwandererfahrung. Teilnahme für Kinder ab 8 Jahren\n\nAnreise: im eigenen Pkw, gern in Fahrgemeinschaften\n\nTourenlänge: je nach Tour bis zu ca. 8 Std. / typischerweise bis zu 10 km\n\nUnterkunft: Selbstversorgerhaus, gemeinsame Verpflegung\n\nKosten (ca.): 200,00 € für Erwachsene / 150,00 € für Kinder bis 15 Jahren\n\nDie Verantwortung liegt bei den teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nDetailplanung und Info: per e-mail",
+          "bookable_id": "69bc38319daefa4fefc181b2",
+          "bookable_start": "2026-09-09",
+          "bookable_end": "2026-09-13",
+          "free_places": 21,
+          "max_places": 25,
+          "bookable_places": 21,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69bd6e934e9957bf1e341ab1",
+        "changed_fields": [
+          "max_places",
+          "free_places",
+          "bookable_start",
+          "bookable_places",
+          "waitlist_active",
+          "bookable_id",
+          "bookable_end"
+        ],
+        "changes": {
+          "max_places": {
+            "from": 10,
+            "to": null
+          },
+          "free_places": {
+            "from": 4,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-08-02",
+            "to": ""
+          },
+          "bookable_places": {
+            "from": 4,
+            "to": null
+          },
+          "waitlist_active": {
+            "from": false,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "69bd6e934e9957bf1e341ab3",
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-08-10",
+            "to": ""
+          }
+        },
+        "current": {
+          "id": "69bd6e934e9957bf1e341ab1",
+          "number": "260802MTB_F008",
+          "title": "Mountainbiken und Wandern in den Tälern am Mont Blanc",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-08-02",
+          "date_to": "2026-08-10",
+          "locations": [
+            "nn"
+          ],
+          "description": "Wir werden auf sechs Enduro Biketouren und zwei Hochgebirgswanderungen die Täler und Wasserfälle um den Mont Blanc entdecken, dabei die faszinierende Natur und knifflige Wege mit dem Bike erfahren. Auf dem Programm stehen unter anderem Endurotouren im Val Veny und der Hochebene Balcon du Mont-Blanc.In Chamonix werden wir auch mal einen Shuttle/Lift nutzen Gute Kondition (1200-1800 hm) und sichere Fahrtechnik sind Vorraussetzung. Um uns als Gruppe kennenzulernen, fahren wir im April/Mai ein paar gemeinsame Runden am Königstuhl. Zwei Mittelklassehotels geben unser Basislager, das erste bei Courmayeur auf der italienischen Seite, die andere in Chamonix.\nAnforderungen: S3 und K3",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd6e934e9957bf1e341ab1",
+          "number": "260802MTB_F008",
+          "title": "Mountainbiken und Wandern in den Tälern am Mont Blanc",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-08-02",
+          "date_to": "2026-08-10",
+          "locations": [
+            "nn"
+          ],
+          "description": "Wir werden auf sechs Enduro Biketouren und zwei Hochgebirgswanderungen die Täler und Wasserfälle um den Mont Blanc entdecken, dabei die faszinierende Natur und knifflige Wege mit dem Bike erfahren. Auf dem Programm stehen unter anderem Endurotouren im Val Veny und der Hochebene Balcon du Mont-Blanc.In Chamonix werden wir auch mal einen Shuttle/Lift nutzen Gute Kondition (1200-1800 hm) und sichere Fahrtechnik sind Vorraussetzung. Um uns als Gruppe kennenzulernen, fahren wir im April/Mai ein paar gemeinsame Runden am Königstuhl. Zwei Mittelklassehotels geben unser Basislager, das erste bei Courmayeur auf der italienischen Seite, die andere in Chamonix.\nAnforderungen: S3 und K3",
+          "bookable_id": "69bd6e934e9957bf1e341ab3",
+          "bookable_start": "2026-08-02",
+          "bookable_end": "2026-08-10",
+          "free_places": 4,
+          "max_places": 10,
+          "bookable_places": 4,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a292a1d51b966ad6f143130",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 8,
+            "to": 7
+          },
+          "bookable_places": {
+            "from": 8,
+            "to": 7
+          }
+        },
+        "current": {
+          "id": "6a292a1d51b966ad6f143130",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-20",
+          "date_to": "2026-09-20",
+          "locations": [
+            "N.D."
+          ],
+          "description": "",
+          "bookable_id": "6a292a1d51b966ad6f143133",
+          "bookable_start": "2026-09-20",
+          "bookable_end": "2026-09-20",
+          "free_places": 7,
+          "max_places": 10,
+          "bookable_places": 7,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a292a1d51b966ad6f143130",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-20",
+          "date_to": "2026-09-20",
+          "locations": [
+            "N.D."
+          ],
+          "description": "",
+          "bookable_id": "6a292a1d51b966ad6f143133",
+          "bookable_start": "2026-09-20",
+          "bookable_end": "2026-09-20",
+          "free_places": 8,
+          "max_places": 10,
+          "bookable_places": 8,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
