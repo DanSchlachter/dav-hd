@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T07:04:18.747147+00:00",
+  "timestamp": "2026-08-13T07:08:22.815075+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 105,
   "tours": [
@@ -2621,13 +2621,13 @@
         "Bergbahn Talstation"
       ],
       "description": "Ein besonderer Sommerabend wartet auf uns in Heidelberg auf dem Königstuhl - mit Bewegung, Natur und einem Himmel, der gleich zweimal zur Bühne wird.\nMittwoch, 12. August 2026\nTreffpunkt 17:45 Uhr an der Bergbahn Talstation (Zwingerstraße)\nVon dort  starten wir gemeinsam unseren Aufstieg über Schloss, über Sissi-Haus und Himmelsleiter hinauf zum Königstuhl. Unser Ziel ist, rechtzeitig zur partiellen Sonnenfinsternis oben anzukommen. Die Verfinsterung beginnt um 19:21 Uhr, ihr Maximum erreicht sie um 20:14 Uhr - rund eine Stunde vor Sonnenuntergang. \nFür die Beobachtung ist eine geeignete Sonnenfinsternis-Schutzbrille oder ein Schweißglas unbedingt erforderlich.\nWenn die Abenddämmerung einsetzt, lohnt sich das Warten: In dieser Nacht erreicht der Perseiden-Meteorstrom seinen Höhepunkt. Mit etwas Glück ziehen Zahlreiche Sternschnuppen über den Himmel und setzen dem Abend ein funkelndes Finale auf.\nDer Fokus der Tour liegt auf der gemeinsamen sportlichen Aktivität. Ein wolkenfreier  Himmel ist das iTüpfelchen. Aber auch ohne Garantie verspricht die Wanderung einen besonderen Sommerabend.\nDer Abstieg findet wahlweise direkt nach dem Sonnenuntergang über Forstwege in die Altstadt oder nach Vereinbarung aber spätestens nach Mitternacht statt.\nAlternativ kann selbst ein Busshuttle über rnv fips gebucht werden (https://www.rnv-online.de/fahrtinfo/fips/)\nBitte mitbringen:\nSonnenfinsternis-Schutzbrille oder Schweißerglas\nStirnlampe mit Rotlicht für den Rückweg\nGetränke und Verpflegung\nder Witterung angepasste Kleidung\nSitzkissen oder Decke\n-Keine Anmeldung erforderlich-",
-      "bookable_id": "6a606ff1ef30f971bbde3a28",
-      "bookable_start": "2026-08-12",
-      "bookable_end": "2026-08-12",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     }
   ]
