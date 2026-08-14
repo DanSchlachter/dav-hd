@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T07:08:22.815075+00:00",
+  "timestamp": "2026-08-14T07:04:44.897278+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 105,
   "tours": [
@@ -1923,9 +1923,9 @@
       "bookable_id": "6a292a1d51b966ad6f143133",
       "bookable_start": "2026-09-20",
       "bookable_end": "2026-09-20",
-      "free_places": 7,
+      "free_places": 6,
       "max_places": 10,
-      "bookable_places": 7,
+      "bookable_places": 6,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2317,9 +2317,9 @@
       "date_from": "2026-08-19",
       "date_to": "2026-08-19",
       "locations": [
-        "N.D."
+        "Heidelberg Hauptbahnhof Bus 735"
       ],
-      "description": "N.D.",
+      "description": "Eiterbach, Neckarsteinach (Schlusseinkehr)\n20 Km; 380 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:45 Uhr Bus Linie 735 nach Eiterbach\n-Keine Anmeldung erforderlich-",
       "bookable_id": "6a2a7b18d044b6737a148311",
       "bookable_start": "2026-08-19",
       "bookable_end": "2026-08-19",
