@@ -1,146 +1,85 @@
 {
-  "timestamp": "2026-08-14T07:04:44.905527+00:00",
-  "previous_timestamp": "2026-08-13T07:08:22.815075+00:00",
+  "timestamp": "2026-08-15T06:17:27.915756+00:00",
+  "previous_timestamp": "2026-08-14T07:04:44.897278+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 2
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a292a1d51b966ad6f143130",
+        "id": "6a2a7835d044b6737a145e85",
         "changed_fields": [
-          "bookable_places",
-          "free_places"
+          "waitlist_active",
+          "bookable_end",
+          "bookable_start",
+          "bookable_id"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 7,
-            "to": 6
+          "waitlist_active": {
+            "from": true,
+            "to": null
           },
-          "free_places": {
-            "from": 7,
-            "to": 6
+          "bookable_end": {
+            "from": "2026-08-14",
+            "to": ""
+          },
+          "bookable_start": {
+            "from": "2026-08-14",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a2a7835d044b6737a145e87",
+            "to": null
           }
         },
         "current": {
-          "id": "6a292a1d51b966ad6f143130",
+          "id": "6a2a7835d044b6737a145e85",
           "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-09-20",
-          "date_to": "2026-09-20",
+          "date_from": "2026-08-14",
+          "date_to": "2026-08-14",
           "locations": [
-            "N.D."
+            "Heidelberg Hauptbahnhof S 1"
           ],
-          "description": "",
-          "bookable_id": "6a292a1d51b966ad6f143133",
-          "bookable_start": "2026-09-20",
-          "bookable_end": "2026-09-20",
-          "free_places": 6,
-          "max_places": 10,
-          "bookable_places": 6,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a292a1d51b966ad6f143130",
-          "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-09-20",
-          "date_to": "2026-09-20",
-          "locations": [
-            "N.D."
-          ],
-          "description": "",
-          "bookable_id": "6a292a1d51b966ad6f143133",
-          "bookable_start": "2026-09-20",
-          "bookable_end": "2026-09-20",
-          "free_places": 7,
-          "max_places": 10,
-          "bookable_places": 7,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a2a7b18d044b6737a14830d",
-        "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "N.D.",
-            "to": "Eiterbach, Neckarsteinach (Schlusseinkehr)\n20 Km; 380 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:45 Uhr Bus Linie 735 nach Eiterbach\n-Keine Anmeldung erforderlich-"
-          },
-          "locations": {
-            "from": [
-              "N.D."
-            ],
-            "to": [
-              "Heidelberg Hauptbahnhof Bus 735"
-            ]
-          }
-        },
-        "current": {
-          "id": "6a2a7b18d044b6737a14830d",
-          "number": null,
-          "title": "Mittwochswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-08-19",
-          "date_to": "2026-08-19",
-          "locations": [
-            "Heidelberg Hauptbahnhof Bus 735"
-          ],
-          "description": "Eiterbach, Neckarsteinach (Schlusseinkehr)\n20 Km; 380 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:45 Uhr Bus Linie 735 nach Eiterbach\n-Keine Anmeldung erforderlich-",
-          "bookable_id": "6a2a7b18d044b6737a148311",
-          "bookable_start": "2026-08-19",
-          "bookable_end": "2026-08-19",
+          "description": "Neidenfels, Ruine Neidenfels, Lambertskreuz (Pause), Drachenfels Westfels, Lambertskreuz (Schlusseinkehr), Lambrecht\n17 Km; 564 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
-          "waitlist_active": true,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a2a7b18d044b6737a14830d",
+          "id": "6a2a7835d044b6737a145e85",
           "number": null,
-          "title": "Mittwochswanderung",
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-08-19",
-          "date_to": "2026-08-19",
+          "date_from": "2026-08-14",
+          "date_to": "2026-08-14",
           "locations": [
-            "N.D."
+            "Heidelberg Hauptbahnhof S 1"
           ],
-          "description": "N.D.",
-          "bookable_id": "6a2a7b18d044b6737a148311",
-          "bookable_start": "2026-08-19",
-          "bookable_end": "2026-08-19",
+          "description": "Neidenfels, Ruine Neidenfels, Lambertskreuz (Pause), Drachenfels Westfels, Lambertskreuz (Schlusseinkehr), Lambrecht\n17 Km; 564 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a2a7835d044b6737a145e87",
+          "bookable_start": "2026-08-14",
+          "bookable_end": "2026-08-14",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
