@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T06:23:56.011915+00:00",
+  "timestamp": "2026-08-22T06:18:35.051368+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 105,
   "tours": [
@@ -2220,13 +2220,13 @@
         "Heidelberg Hauptbahnhof S 1"
       ],
       "description": "Breitenstein, Wolfsschluchthütte, Schwarzsohl, Hochspeyer (Schlusseinkehr)\n18 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Anmeldung  nicht erforderlich-",
-      "bookable_id": "6a2a78fb1644e0483a17f0a9",
-      "bookable_start": "2026-08-21",
-      "bookable_end": "2026-08-21",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {

@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-21T06:23:56.020182+00:00",
-  "previous_timestamp": "2026-08-20T06:23:40.054178+00:00",
+  "timestamp": "2026-08-22T06:18:35.060023+00:00",
+  "previous_timestamp": "2026-08-21T06:23:56.011915+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
@@ -11,27 +11,33 @@
     "removed": [],
     "modified": [
       {
-        "id": "6a2a7989d044b6737a1479f7",
+        "id": "6a2a78fb1644e0483a17f0a7",
         "changed_fields": [
-          "description",
-          "locations"
+          "bookable_end",
+          "bookable_start",
+          "bookable_id",
+          "waitlist_active"
         ],
         "changes": {
-          "description": {
-            "from": "N.D.",
-            "to": "Eberbach, Neckarwimmersbach, Hirschrünnle, Schwanheim, Haag (Schlusseinkehr)\n14 Km; 250 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-"
+          "bookable_end": {
+            "from": "2026-08-21",
+            "to": ""
           },
-          "locations": {
-            "from": [
-              "N.D"
-            ],
-            "to": [
-              "Heidelberg Hauptbahnhof S1"
-            ]
+          "bookable_start": {
+            "from": "2026-08-21",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a2a78fb1644e0483a17f0a9",
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
           }
         },
         "current": {
-          "id": "6a2a7989d044b6737a1479f7",
+          "id": "6a2a78fb1644e0483a17f0a7",
           "number": null,
           "title": "Freitagswanderung",
           "type": "TOUR",
@@ -40,23 +46,23 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-08-28",
-          "date_to": "2026-08-28",
+          "date_from": "2026-08-21",
+          "date_to": "2026-08-21",
           "locations": [
-            "Heidelberg Hauptbahnhof S1"
+            "Heidelberg Hauptbahnhof S 1"
           ],
-          "description": "Eberbach, Neckarwimmersbach, Hirschrünnle, Schwanheim, Haag (Schlusseinkehr)\n14 Km; 250 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a2a7989d044b6737a1479f9",
-          "bookable_start": "2026-08-28",
-          "bookable_end": "2026-08-28",
+          "description": "Breitenstein, Wolfsschluchthütte, Schwarzsohl, Hochspeyer (Schlusseinkehr)\n18 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Anmeldung  nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
-          "waitlist_active": true,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a2a7989d044b6737a1479f7",
+          "id": "6a2a78fb1644e0483a17f0a7",
           "number": null,
           "title": "Freitagswanderung",
           "type": "TOUR",
@@ -65,15 +71,15 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-08-28",
-          "date_to": "2026-08-28",
+          "date_from": "2026-08-21",
+          "date_to": "2026-08-21",
           "locations": [
-            "N.D"
+            "Heidelberg Hauptbahnhof S 1"
           ],
-          "description": "N.D.",
-          "bookable_id": "6a2a7989d044b6737a1479f9",
-          "bookable_start": "2026-08-28",
-          "bookable_end": "2026-08-28",
+          "description": "Breitenstein, Wolfsschluchthütte, Schwarzsohl, Hochspeyer (Schlusseinkehr)\n18 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Anmeldung  nicht erforderlich-",
+          "bookable_id": "6a2a78fb1644e0483a17f0a9",
+          "bookable_start": "2026-08-21",
+          "bookable_end": "2026-08-21",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
