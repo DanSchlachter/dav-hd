@@ -1,14 +1,82 @@
 {
-  "timestamp": "2026-08-24T06:32:52.715204+00:00",
-  "previous_timestamp": "2026-08-23T06:20:20.600417+00:00",
+  "timestamp": "2026-08-25T06:24:23.577413+00:00",
+  "previous_timestamp": "2026-08-24T06:32:52.706472+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "6a292a1d51b966ad6f143130",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 5,
+            "to": 4
+          },
+          "bookable_places": {
+            "from": 5,
+            "to": 4
+          }
+        },
+        "current": {
+          "id": "6a292a1d51b966ad6f143130",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-20",
+          "date_to": "2026-09-20",
+          "locations": [
+            "Schwanheim, Pfalz"
+          ],
+          "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
+          "bookable_id": "6a292a1d51b966ad6f143133",
+          "bookable_start": "2026-09-20",
+          "bookable_end": "2026-09-20",
+          "free_places": 4,
+          "max_places": 10,
+          "bookable_places": 4,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a292a1d51b966ad6f143130",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-20",
+          "date_to": "2026-09-20",
+          "locations": [
+            "Schwanheim, Pfalz"
+          ],
+          "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
+          "bookable_id": "6a292a1d51b966ad6f143133",
+          "bookable_start": "2026-09-20",
+          "bookable_end": "2026-09-20",
+          "free_places": 5,
+          "max_places": 10,
+          "bookable_places": 5,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
