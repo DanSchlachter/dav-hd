@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-08-26T06:26:09.827075+00:00",
+  "timestamp": "2026-08-27T16:59:32.760653+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 105,
+  "tour_count": 103,
   "tours": [
     {
       "id": "69b345e4a4648fdbe626a659",
@@ -1205,31 +1205,6 @@
       "bookable_canceled": false
     },
     {
-      "id": "69c2a65bbffdb98a612b1181",
-      "number": null,
-      "title": "Freitagswanderung",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-07-03",
-      "date_to": "2026-07-03",
-      "locations": [
-        "Heidelberg Hauptbahnhof"
-      ],
-      "description": "Frankenstein, Elmstein, Iggelbach (Schlusseinkehr)\n19 Km; 550 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Keine Anmeldung erforderlich-",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
       "id": "69c3e21b09d475785b89d692",
       "number": "260515WA_012",
       "title": "Freitagswanderung",
@@ -1923,9 +1898,9 @@
       "bookable_id": "6a292a1d51b966ad6f143133",
       "bookable_start": "2026-09-20",
       "bookable_end": "2026-09-20",
-      "free_places": 4,
+      "free_places": 3,
       "max_places": 10,
-      "bookable_places": 4,
+      "bookable_places": 3,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2596,31 +2571,6 @@
         "Heidelberg"
       ],
       "description": "Wir machen eine große Runde (ca 70km, 1300-1800hm) durch den Odenwald mit dem Ziel Ireneturm auf der Tromm.\nNatürlich besuchen wir auch die schönesten Trails dort. Der Rückweg kann je nach Wunsch der Teilnehmer flacher oder hügeliger ausfallen.\n\nAnforderungen: S2, K2",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
-      "id": "6a606ff1ef30f971bbde3a26",
-      "number": null,
-      "title": "\"Sonne aus, Funkeln an\"",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-08-12",
-      "date_to": "2026-08-12",
-      "locations": [
-        "Bergbahn Talstation"
-      ],
-      "description": "Ein besonderer Sommerabend wartet auf uns in Heidelberg auf dem Königstuhl - mit Bewegung, Natur und einem Himmel, der gleich zweimal zur Bühne wird.\nMittwoch, 12. August 2026\nTreffpunkt 17:45 Uhr an der Bergbahn Talstation (Zwingerstraße)\nVon dort  starten wir gemeinsam unseren Aufstieg über Schloss, über Sissi-Haus und Himmelsleiter hinauf zum Königstuhl. Unser Ziel ist, rechtzeitig zur partiellen Sonnenfinsternis oben anzukommen. Die Verfinsterung beginnt um 19:21 Uhr, ihr Maximum erreicht sie um 20:14 Uhr - rund eine Stunde vor Sonnenuntergang. \nFür die Beobachtung ist eine geeignete Sonnenfinsternis-Schutzbrille oder ein Schweißglas unbedingt erforderlich.\nWenn die Abenddämmerung einsetzt, lohnt sich das Warten: In dieser Nacht erreicht der Perseiden-Meteorstrom seinen Höhepunkt. Mit etwas Glück ziehen Zahlreiche Sternschnuppen über den Himmel und setzen dem Abend ein funkelndes Finale auf.\nDer Fokus der Tour liegt auf der gemeinsamen sportlichen Aktivität. Ein wolkenfreier  Himmel ist das iTüpfelchen. Aber auch ohne Garantie verspricht die Wanderung einen besonderen Sommerabend.\nDer Abstieg findet wahlweise direkt nach dem Sonnenuntergang über Forstwege in die Altstadt oder nach Vereinbarung aber spätestens nach Mitternacht statt.\nAlternativ kann selbst ein Busshuttle über rnv fips gebucht werden (https://www.rnv-online.de/fahrtinfo/fips/)\nBitte mitbringen:\nSonnenfinsternis-Schutzbrille oder Schweißerglas\nStirnlampe mit Rotlicht für den Rückweg\nGetränke und Verpflegung\nder Witterung angepasste Kleidung\nSitzkissen oder Decke\n-Keine Anmeldung erforderlich-",
       "bookable_id": null,
       "bookable_start": "",
       "bookable_end": "",
