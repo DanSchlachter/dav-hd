@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-08-27T16:59:32.760653+00:00",
+  "timestamp": "2026-08-28T17:48:56.750847+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 103,
+  "tour_count": 120,
   "tours": [
     {
       "id": "69b345e4a4648fdbe626a659",
@@ -698,9 +698,9 @@
       "bookable_id": "69bd761f4e9957bf1e34b3f8",
       "bookable_start": "2026-09-05",
       "bookable_end": "2026-09-13",
-      "free_places": 2,
+      "free_places": 1,
       "max_places": 10,
-      "bookable_places": 2,
+      "bookable_places": 1,
       "waitlist_active": false,
       "bookable_canceled": false
     },
@@ -745,31 +745,6 @@
         "Kraichgau"
       ],
       "description": "Von Hoffenheim, Dietmar-Hopp-Stadion, Deisbach, Sinsheim, Steinsfurt (Mittagseinkehr), Sinsheim Arena.\n14 km, 100hm, Gehzeit ca. 3,5h\nAbfahrt Heidelberg HBF 08:04 Uhr, S7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu.",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
-      "id": "69c2a74a5451c5552c533025",
-      "number": "260419WA_002",
-      "title": "In-Between-Gruppe Sonntagswanderung",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-04-19",
-      "date_to": "2026-04-19",
-      "locations": [
-        "S-Bahnhof HD-Altstadt"
-      ],
-      "description": "Burgensteig Bergstraße HD über Heiligenberg und Ölberg nach Schriesheim\n22 Km; 880 Hm; Gehzeit ca. 7 - 8 Std.\nTreffpunkt: S-Bahnhof HD-Altstadt  09:00 Uhr\nHighlights: Philosophenweg, Thingstätte, Schriesheimer Steinbruch, Ölberg, Strahlenburg.\nKeine Einkehr, Rucksackverpflegung!",
       "bookable_id": null,
       "bookable_start": "",
       "bookable_end": "",
@@ -1005,6 +980,31 @@
       "bookable_canceled": false
     },
     {
+      "id": "69c3e21b09d475785b89d692",
+      "number": "260515WA_012",
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-05-15",
+      "date_to": "2026-05-15",
+      "locations": [
+        "Heidelberg Hauptbahnhof"
+      ],
+      "description": "Bf. Wiesloch/Walldorf, Frauenweiler, Malchenberg, Letzenbergkapelle, Malsch Reblaus (Einkehr) BF Roth/Malsch.\n13 Km; 200 Hm, Gehzeit ca. 3,5 - 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 10:18 Uhr S 3 Richtung Karlsruhe\nWanderführer empfängt die Gruppe am Bahnhof Wiesloch/Walldorf\n-Keine Anmeldung-",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
+      "bookable_canceled": false
+    },
+    {
       "id": "69a854c02d4becde2f9ba537",
       "number": "260411MTB_F001",
       "title": "Season Opening 2026 der Mountainbiker",
@@ -1202,31 +1202,6 @@
       "max_places": 3,
       "bookable_places": 0,
       "waitlist_active": false,
-      "bookable_canceled": false
-    },
-    {
-      "id": "69c3e21b09d475785b89d692",
-      "number": "260515WA_012",
-      "title": "Freitagswanderung",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-05-15",
-      "date_to": "2026-05-15",
-      "locations": [
-        "Heidelberg Hauptbahnhof"
-      ],
-      "description": "Bf. Wiesloch/Walldorf, Frauenweiler, Malchenberg, Letzenbergkapelle, Malsch Reblaus (Einkehr) BF Roth/Malsch.\n13 Km; 200 Hm, Gehzeit ca. 3,5 - 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 10:18 Uhr S 3 Richtung Karlsruhe\nWanderführer empfängt die Gruppe am Bahnhof Wiesloch/Walldorf\n-Keine Anmeldung-",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1680,31 +1655,6 @@
       "bookable_canceled": false
     },
     {
-      "id": "69eb63664b9e3ae7f3dec071",
-      "number": null,
-      "title": "In Between-Gruppe",
-      "type": "COURSE",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-05-24",
-      "date_to": "2026-05-24",
-      "locations": [
-        "Bahnhof Schriesheim"
-      ],
-      "description": "Burgensteig. Schriesheim, Hirschberg-Großsachsen\n21 Km; 700 Hm; Gehzeit ca. 5,5 Std. \nKeine Einkehr, Rucksackverpflegung!\nAnmeldung Online",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
       "id": "6a0d8b647a37db9e80ee4999",
       "number": "260520_MTB01",
       "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
@@ -1827,56 +1777,6 @@
       "max_places": 10,
       "bookable_places": 10,
       "waitlist_active": false,
-      "bookable_canceled": false
-    },
-    {
-      "id": "6a292771fe265180d5049cdc",
-      "number": null,
-      "title": "In-Between-Gruppe Sonntagswanderung",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-07-05",
-      "date_to": "2026-07-05",
-      "locations": [
-        "Heidelberg HBF"
-      ],
-      "description": "Pfalzwanderung, Treffpunkt Neustadt/Weinstraße 9:35 Uhr, Abfahrt Heidelberg HBF8:34 Uhr, S2 nach Neustadt.",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
-      "id": "6a292951fe265180d504c339",
-      "number": null,
-      "title": "In-Between-Gruppe Sonntagswanderung",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-08-02",
-      "date_to": "2026-08-02",
-      "locations": [
-        "Parkplatz an der K 54 (32U 418446 5447347)"
-      ],
-      "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -2055,31 +1955,6 @@
       "bookable_canceled": false
     },
     {
-      "id": "6a2961f21644e0483a1193f3",
-      "number": null,
-      "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Natur- und Umweltschutz"
-      ],
-      "date_from": "2026-10-22",
-      "date_to": "2026-10-26",
-      "locations": [
-        "Tenno, Trentino"
-      ],
-      "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
-      "bookable_id": "6a2961f21644e0483a1193f5",
-      "bookable_start": "2026-10-22",
-      "bookable_end": "2026-10-26",
-      "free_places": 6,
-      "max_places": 8,
-      "bookable_places": 6,
-      "waitlist_active": true,
-      "bookable_canceled": false
-    },
-    {
       "id": "6a29623d1644e0483a119633",
       "number": null,
       "title": "Freitagswanderung",
@@ -2130,6 +2005,31 @@
       "bookable_canceled": false
     },
     {
+      "id": "6a2961f21644e0483a1193f3",
+      "number": null,
+      "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Natur- und Umweltschutz"
+      ],
+      "date_from": "2026-10-22",
+      "date_to": "2026-10-26",
+      "locations": [
+        "Tenno, Trentino"
+      ],
+      "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
+      "bookable_id": "6a2961f21644e0483a1193f5",
+      "bookable_start": "2026-10-22",
+      "bookable_end": "2026-10-26",
+      "free_places": 5,
+      "max_places": 8,
+      "bookable_places": 5,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
       "id": "6a296942d044b6737a0ec750",
       "number": null,
       "title": "Freitagswanderung",
@@ -2170,31 +2070,6 @@
         "Heidelberg Hauptbahnhof S 1"
       ],
       "description": "Neidenfels, Ruine Neidenfels, Lambertskreuz (Pause), Drachenfels Westfels, Lambertskreuz (Schlusseinkehr), Lambrecht\n17 Km; 564 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
-      "id": "6a2a78fb1644e0483a17f0a7",
-      "number": null,
-      "title": "Freitagswanderung",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-08-21",
-      "date_to": "2026-08-21",
-      "locations": [
-        "Heidelberg Hauptbahnhof S 1"
-      ],
-      "description": "Breitenstein, Wolfsschluchthütte, Schwarzsohl, Hochspeyer (Schlusseinkehr)\n18 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserslautern\n-Anmeldung  nicht erforderlich-",
       "bookable_id": null,
       "bookable_start": "",
       "bookable_end": "",
@@ -2505,32 +2380,6 @@
       "bookable_canceled": false
     },
     {
-      "id": "6a45033924e01b90224a2b11",
-      "number": "2608_WAN_G_001",
-      "title": "Westweg – Von Frauen für Frauen",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Familienbergsteigen",
-        "Wandern"
-      ],
-      "date_from": "2026-08-08",
-      "date_to": "2026-08-11",
-      "locations": [
-        "Heidelberg bzw. Freiburg"
-      ],
-      "description": "Komm mit!\nDer Westweg – 285 Kilometer Schwarzwald von Nord nach Süd – zählt zu den schönsten Wanderwegen Deutschlands. Vier Tage lang wandern wir gemeinsam durch duftende Wälder, über weite Hochflächen und an klaren Bachläufen entlang. Wir erleben Sonnenauf- und -untergänge direkt vom Biwakplatz, kochen gemeinsam am Lagerfeuer und tauschen uns aus – als Frauen, die einfach gerne draußen sind.\nDiese Tour richtet sich an alle Frauen, die Lust haben, den Westweg ohne Hüttenstress, aber mit echtem Abenteuergeist zu erleben. Kein Vorwissen nötig – nur Neugier, gute Laune und die Freude am gemeinsamen Gehen.\n\nDie vier Etappen\nEtappe 1 | 8. August | Pforzheim → Dobel\nca. 22 km | ca. 900 Hm aufwärts\nEtappe 2 | 9. August | Dobel → Herrenwies\nca. 24 km | ca. 800 Hm aufwärts\nEtappe 3 | 10. August | Herrenwies → Unterstmatt\nca. 20 km | ca. 700 Hm aufwärts\nEtappe 4 | 11. August | Unterstmatt → Mummelsee / Hornisgrinde\nca. 10–14 km | ca. 400–500 Hm aufwärts | je nach Heimfahrt-Zeitplan",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
       "id": "6a456330727b878c04611239",
       "number": "260829FAM_G001",
       "title": "Camping und Bouldern in Fontainebleau",
@@ -2578,6 +2427,581 @@
       "max_places": null,
       "bookable_places": null,
       "waitlist_active": null,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a9187f73c8ac3a04abf11f2",
+      "number": null,
+      "title": "Mittwochswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-10-07",
+      "date_to": "2026-10-07",
+      "locations": [
+        "NN"
+      ],
+      "description": "-Anmeldung nicht erforderlich-",
+      "bookable_id": "6a9187f73c8ac3a04abf11f4",
+      "bookable_start": "2026-10-07",
+      "bookable_end": "2026-10-07",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918a613c8ac3a04abf3c33",
+      "number": null,
+      "title": "Mittwochswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-11-04",
+      "date_to": "2026-11-04",
+      "locations": [
+        "NN"
+      ],
+      "description": "-Anmeldung nicht erforderlich-",
+      "bookable_id": "6a918a613c8ac3a04abf3c37",
+      "bookable_start": "2026-11-04",
+      "bookable_end": "2026-11-04",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918ace3c8ac3a04abf438a",
+      "number": null,
+      "title": "Mittwochswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-12-02",
+      "date_to": "2026-12-02",
+      "locations": [
+        "NN"
+      ],
+      "description": "-Anmeldung nicht erforderlich-",
+      "bookable_id": "6a918ace3c8ac3a04abf438c",
+      "bookable_start": "2026-12-02",
+      "bookable_end": "2026-12-02",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918b6f3c8ac3a04abf49ad",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-10-02",
+      "date_to": "2026-10-02",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a918b6f3c8ac3a04abf49af",
+      "bookable_start": "2026-10-02",
+      "bookable_end": "2026-10-02",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918bd33c8ac3a04abf4c4b",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-10-09",
+      "date_to": "2026-10-09",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a918bd33c8ac3a04abf4c4d",
+      "bookable_start": "2026-10-09",
+      "bookable_end": "2026-10-09",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918c43c28f2b6de7ded8f6",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-10-16",
+      "date_to": "2026-10-16",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a918c43c28f2b6de7ded8f8",
+      "bookable_start": "2026-10-16",
+      "bookable_end": "2026-10-16",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918c8fc28f2b6de7dedab2",
+      "number": null,
+      "title": "Mittwochswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-10-21",
+      "date_to": "2026-10-21",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a918c90c28f2b6de7dedab4",
+      "bookable_start": "2026-10-21",
+      "bookable_end": "2026-10-21",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918ceb0137487125302f31",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-10-23",
+      "date_to": "2026-10-23",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a918ceb0137487125302f33",
+      "bookable_start": "2026-10-23",
+      "bookable_end": "2026-10-23",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918d42c28f2b6de7dedde5",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-10-30",
+      "date_to": "2026-10-30",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a918d42c28f2b6de7dedde7",
+      "bookable_start": "2026-10-30",
+      "bookable_end": "2026-10-30",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918d963c8ac3a04abf6b8a",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-11-06",
+      "date_to": "2026-11-06",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a918d963c8ac3a04abf6b8f",
+      "bookable_start": "2026-11-06",
+      "bookable_end": "2026-11-06",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918def3c8ac3a04abf6dd1",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-11-13",
+      "date_to": "2026-11-13",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a918def3c8ac3a04abf6dd3",
+      "bookable_start": "2026-11-13",
+      "bookable_end": "2026-11-13",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918e45c28f2b6de7dee96e",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-11-20",
+      "date_to": "2026-11-20",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a918e45c28f2b6de7dee970",
+      "bookable_start": "2026-11-20",
+      "bookable_end": "2026-11-20",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918e9a3c8ac3a04abf7734",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-11-27",
+      "date_to": "2026-11-27",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a918e9a3c8ac3a04abf7736",
+      "bookable_start": "2026-11-27",
+      "bookable_end": "2026-11-27",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918ee7c28f2b6de7deed01",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-12-04",
+      "date_to": "2026-12-04",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a918ee7c28f2b6de7deed03",
+      "bookable_start": "2026-12-04",
+      "bookable_end": "2026-12-04",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918f403c8ac3a04abf8260",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-12-11",
+      "date_to": "2026-12-11",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.\nAbschlusseinkehr im Gasthaus \"Zum Schwanen\" in Neckarsteinach ab 13:00 Uhr\n-Anmeldung unbedingt erforderlich- bis 04.12.2026!",
+      "bookable_id": "6a918f403c8ac3a04abf8262",
+      "bookable_start": "2026-12-11",
+      "bookable_end": "2026-12-11",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a918f913c8ac3a04abf87d8",
+      "number": null,
+      "title": "Freitagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-12-18",
+      "date_to": "2026-12-18",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a918f913c8ac3a04abf87da",
+      "bookable_start": "2026-12-18",
+      "bookable_end": "2026-12-18",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a919143c28f2b6de7defaf2",
+      "number": null,
+      "title": "Mittwochswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-11-18",
+      "date_to": "2026-11-18",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a919143c28f2b6de7defaf5",
+      "bookable_start": "2026-11-18",
+      "bookable_end": "2026-11-18",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a91919b3c8ac3a04abf9ffa",
+      "number": null,
+      "title": "Mittwochswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-12-16",
+      "date_to": "2026-12-16",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a91919b3c8ac3a04abf9ffc",
+      "bookable_start": "2026-12-16",
+      "bookable_end": "2026-12-16",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a91922dc28f2b6de7deff49",
+      "number": null,
+      "title": "Mittwochswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-12-30",
+      "date_to": "2026-12-30",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a91922dc28f2b6de7deff4b",
+      "bookable_start": "2026-12-30",
+      "bookable_end": "2026-12-30",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a9192cfc28f2b6de7df0188",
+      "number": null,
+      "title": "Samstagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-10-31",
+      "date_to": "2026-10-31",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a9192cfc28f2b6de7df018a",
+      "bookable_start": "2026-10-31",
+      "bookable_end": "2026-10-31",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a91931c3c8ac3a04abfb337",
+      "number": null,
+      "title": "Samstagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-11-28",
+      "date_to": "2026-11-28",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a91931c3c8ac3a04abfb339",
+      "bookable_start": "2026-11-28",
+      "bookable_end": "2026-11-28",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a9193623c8ac3a04abfb5f1",
+      "number": null,
+      "title": "Samstagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-12-19",
+      "date_to": "2026-12-19",
+      "locations": [
+        "NN"
+      ],
+      "description": "N.D.",
+      "bookable_id": "6a9193633c8ac3a04abfb5f3",
+      "bookable_start": "2026-12-19",
+      "bookable_end": "2026-12-19",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a9193ffc28f2b6de7df0635",
+      "number": null,
+      "title": "In-Between-Gruppe Sonntagswanderung",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-12-20",
+      "date_to": "2026-12-20",
+      "locations": [
+        "NN"
+      ],
+      "description": "ND",
+      "bookable_id": "6a9193ffc28f2b6de7df0637",
+      "bookable_start": "2026-12-20",
+      "bookable_end": "2026-12-20",
+      "free_places": 10,
+      "max_places": 10,
+      "bookable_places": 10,
+      "waitlist_active": true,
       "bookable_canceled": false
     }
   ]
