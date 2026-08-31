@@ -1,14 +1,65 @@
 {
-  "timestamp": "2026-08-30T10:50:35.927351+00:00",
-  "previous_timestamp": "2026-08-29T11:53:22.772347+00:00",
+  "timestamp": "2026-08-31T12:00:53.229258+00:00",
+  "previous_timestamp": "2026-08-30T10:50:35.918580+00:00",
   "summary": {
     "added": 0,
-    "removed": 0,
+    "removed": 2,
     "modified": 0
   },
   "changes": {
     "added": [],
-    "removed": [],
+    "removed": [
+      {
+        "id": "69ba55a60e088a97f5ffd08f",
+        "number": "260426FAM_F001",
+        "title": "Übungskurs Klettersteig",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Familienbergsteigen"
+        ],
+        "date_from": "2026-04-26",
+        "date_to": "2026-04-26",
+        "locations": [
+          "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
+        ],
+        "description": "Anforderungen: Übungskurs Grundlagen Klettersteig. Für Eltern mit Kindern ab 8 Jahren; Verantwortung liegt bei teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "69bd73094e9957bf1e348488",
+        "number": "260815W_001",
+        "title": "Wegearbeiten im Raum Heidelberger Hütte August 2026",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wege"
+        ],
+        "date_from": "2026-08-15",
+        "date_to": "2026-08-19",
+        "locations": [
+          "Heidelberger Hütte"
+        ],
+        "description": "Auch für diesen Sommer haben wir uns das Ziel gesetzt, Sanierungsarbeiten einiger Wegeabschnitte in unserem Sektionsgebiet anzupacken. Dabei geht es insbesondere um Markierungs- und Ausbesserungsarbeiten, das Anlegen von Bachquerungen und das Setzen von Stufen.\nOrt: Silvretta (Graubünden & Tirol)\nAnforderungen: (a) Lust und Freude an der Arbeit im Freien mit frischer Alpenluft bei Wind und Wetter (b) Trittsicherheit und ausreichend Kondition (vergleichbar mit 6 – 8 h Gehzeiten und 1.000 m Aufstieg) (c) Improvisationstalent und handwerkliches Geschick",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      }
+    ],
     "modified": []
   }
 }
