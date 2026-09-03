@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T10:05:37.021009+00:00",
+  "timestamp": "2026-09-03T10:16:11.259112+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 118,
   "tours": [
@@ -2023,9 +2023,9 @@
       "bookable_id": "6a2961f21644e0483a1193f5",
       "bookable_start": "2026-10-22",
       "bookable_end": "2026-10-26",
-      "free_places": 5,
+      "free_places": 4,
       "max_places": 8,
-      "bookable_places": 5,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2170,13 +2170,13 @@
         "Heidelberg Hauptbahnhof RB 68"
       ],
       "description": "Hammelbach, Eselstein, Waldgaststätte Alt-Lechtern (Einkehr), Hammelbach\n7,5 Km;  180 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a2a7c392bf69ed3b7261225",
-      "bookable_start": "2026-09-02",
-      "bookable_end": "2026-09-02",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {

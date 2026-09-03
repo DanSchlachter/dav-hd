@@ -1,14 +1,159 @@
 {
-  "timestamp": "2026-09-02T10:05:37.029524+00:00",
-  "previous_timestamp": "2026-09-01T10:39:50.745224+00:00",
+  "timestamp": "2026-09-03T10:16:11.265764+00:00",
+  "previous_timestamp": "2026-09-02T10:05:37.021009+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 2
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "6a2961f21644e0483a1193f3",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 5,
+            "to": 4
+          },
+          "bookable_places": {
+            "from": 5,
+            "to": 4
+          }
+        },
+        "current": {
+          "id": "6a2961f21644e0483a1193f3",
+          "number": null,
+          "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Natur- und Umweltschutz"
+          ],
+          "date_from": "2026-10-22",
+          "date_to": "2026-10-26",
+          "locations": [
+            "Tenno, Trentino"
+          ],
+          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
+          "bookable_id": "6a2961f21644e0483a1193f5",
+          "bookable_start": "2026-10-22",
+          "bookable_end": "2026-10-26",
+          "free_places": 4,
+          "max_places": 8,
+          "bookable_places": 4,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2961f21644e0483a1193f3",
+          "number": null,
+          "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Natur- und Umweltschutz"
+          ],
+          "date_from": "2026-10-22",
+          "date_to": "2026-10-26",
+          "locations": [
+            "Tenno, Trentino"
+          ],
+          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
+          "bookable_id": "6a2961f21644e0483a1193f5",
+          "bookable_start": "2026-10-22",
+          "bookable_end": "2026-10-26",
+          "free_places": 5,
+          "max_places": 8,
+          "bookable_places": 5,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a2a7c392bf69ed3b7261223",
+        "changed_fields": [
+          "bookable_end",
+          "bookable_start",
+          "bookable_id",
+          "waitlist_active"
+        ],
+        "changes": {
+          "bookable_end": {
+            "from": "2026-09-02",
+            "to": ""
+          },
+          "bookable_start": {
+            "from": "2026-09-02",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a2a7c392bf69ed3b7261225",
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "6a2a7c392bf69ed3b7261223",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-02",
+          "date_to": "2026-09-02",
+          "locations": [
+            "Heidelberg Hauptbahnhof RB 68"
+          ],
+          "description": "Hammelbach, Eselstein, Waldgaststätte Alt-Lechtern (Einkehr), Hammelbach\n7,5 Km;  180 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2a7c392bf69ed3b7261223",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-02",
+          "date_to": "2026-09-02",
+          "locations": [
+            "Heidelberg Hauptbahnhof RB 68"
+          ],
+          "description": "Hammelbach, Eselstein, Waldgaststätte Alt-Lechtern (Einkehr), Hammelbach\n7,5 Km;  180 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a2a7c392bf69ed3b7261225",
+          "bookable_start": "2026-09-02",
+          "bookable_end": "2026-09-02",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
