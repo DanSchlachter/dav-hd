@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-04T10:05:01.128154+00:00",
+  "timestamp": "2026-09-05T09:34:52.254252+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 79,
   "tours": [
@@ -520,13 +520,13 @@
         "Pyrenäen"
       ],
       "description": "Wir setzen die Steckentour vom Port de la Bonaigua (bei Vielha) fort und folgen in etwa dem HRP bis Bagneres de Luchon. Die ersten 3 Tagesetappen sind noch moderat. Der vierte Tag wird hart mit 1600 m Aufstieg und 1070 m Abstieg in teilweise schwierigem Gelände. Die Pyrenäen sind weniger überlaufen, als die Alpen. Die Hütten sind kleiner. Die Vegetation unterscheidet sich vor allem auf der spanischen Seite. Rechnet mit teilweise weglosem Gelände durch Geröll und Felsbrocken. Die Anreise gestalten wir individuell, da es sich bei dieser Entfernung anbietet, die Tour mit zusätzlichen Urlaubstagen z.B. am Meer zu verbinden.\nUnterkünfte: Bewirtete Berghütten in den spanischen Pyrenäen Verpflegung: Halbpension in den Hütten; Marschverpflegung kann meist in den Hütten erworben werden.",
-      "bookable_id": "69bd6233bd72746a9677dc83",
-      "bookable_start": "2026-08-31",
-      "bookable_end": "2026-09-04",
-      "free_places": 0,
-      "max_places": 8,
-      "bookable_places": 0,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1220,13 +1220,13 @@
         "Heidelberg Hauptbahnhof S 1"
       ],
       "description": "Neckargerach, Mülben, Höllgrund (Einkehr), Waldbrunn\n20 Km; 550 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung  Mosbach\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a2a7cc2d044b6737a14955a",
-      "bookable_start": "2026-09-04",
-      "bookable_end": "2026-09-04",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1242,9 +1242,9 @@
       "date_from": "2026-09-11",
       "date_to": "2026-09-11",
       "locations": [
-        "N.D."
+        "Heidelberg Hbf S 1"
       ],
-      "description": "N.D.",
+      "description": "Neckarsteinach-Neckarhausen, Brauhnsruhe, Neckarsteinach-Mannheimerhütte (Einkehr), Neckarsteinach Bahnhof.\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken.\nWanderführer steigt in Neckarsteinach Bahnhof zu.\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a2a7d231644e0483a181fdd",
       "bookable_start": "2026-09-11",
       "bookable_end": "2026-09-11",

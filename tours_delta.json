@@ -1,993 +1,186 @@
 {
-  "timestamp": "2026-09-04T10:05:01.134589+00:00",
-  "previous_timestamp": "2026-09-03T10:16:11.259112+00:00",
+  "timestamp": "2026-09-05T09:34:52.260759+00:00",
+  "previous_timestamp": "2026-09-04T10:05:01.128154+00:00",
   "summary": {
     "added": 0,
-    "removed": 39,
-    "modified": 2
+    "removed": 0,
+    "modified": 3
   },
   "changes": {
     "added": [],
-    "removed": [
-      {
-        "id": "69bd2333ab300e5f4051b910",
-        "number": "260719B_F001",
-        "title": "ECO // Führungstour Bergsteigen: Klettersteige und Bergwanderungen im Gebiet Seiser Alm, Rosengarten, Schlern",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Bergsteigen"
-        ],
-        "date_from": "2026-07-19",
-        "date_to": "2026-07-26",
-        "locations": [
-          "Südtirol"
-        ],
-        "description": "Ziele: Kesselkogel (3002m) - Überschreitung (Klettersteig B, I, T5), Roßzahnkamm (2653m) - Maximilian Klettersteig (B,I), Molignon (2852m) Laurenzi Klettersteig ( C/D I-II) Tourenstandorte: Mahlknechthütte /Rifugio Molignon, Tierser Alpl Hütte /Rifugio Alpe di Tires, Gratleitenpasshütte /Rifugio Passo Principe, Rifugio Antermoia, Schlernhaus / Rifugio Bolzano\nAnforderungen: Erfahrung in alpinem Felsgelände, Kletterfertigkeit I(-II) UIAA, Absolute Trittsicherheit und Schwindelfreiheit. Klettersteigerfahrung K 2-3 (B-C), Kondition für 5-(6) Std. Gehzeiten und ca.800Hm Ausrüstung: Bergwanderausrüstung, komplette Klettersteigausrüstung\nTourleitung: Edwin Armbrust",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69bd42c9d2ab4b4e947819ab",
-        "number": "260405B_001",
-        "title": "Trekking Nepal - von Jiri zum Kala Pattar und Everest Base Camp 05.04.2026 - 24.04.2026",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Bergsteigen"
-        ],
-        "date_from": "2026-04-05",
-        "date_to": "2026-04-24",
-        "locations": [
-          "Nepal"
-        ],
-        "description": "Wir beginnen in Jiri und nehmen nicht den Flug nach Lukla. D.h. wir wandern den Kala Pattar (5650 m) langsam an mit Zwischenauf- und Abstiegen. Dadurch können sich unsere Organismen besser an die ungewohnten Höhen anpassen. Außerdem wandern wir zuerst einmal auf ruhigen Pfaden. Das Standardtrekking zum Everest Base Camp beginnt immer ab Flughafen Lukla und ab da wird es voraussichtlich recht voll.\nDa wir uns Träger für unser Gepäck nehmen, können wir immer mit Tagesrucksack unterwegs sein. Das werdet ihr in großen Höhen zu schätzen wissen.\nDie Wege sind technisch einfach. Schwierigkeiten bereiten eher die dünne Luft und die Kälte, wenn wir Höhen oberhalb von 3000 m erreichen.\nDie Kosten für diese 20-Tagestour mit Fahrt von Kathmandu nach Jiri, Trägern, Übernachtung, Essen, Tee, Kaffee und Gebühren beträgt 1100,- Euro.\nUm die Flüge nach Kathmandu und zurück muss sich jede/r selbst kümmern.\nUnterkünfte: Lodges auf dem Weg, i.d.R. einfache Zweibettzimmer\nVerpflegung: Vollpension\nTeilnehmerzahl: 4 - 8 Teilnehmer\nAnforderungen: Anforderungen: Kondition für 20 km und bis zu 1200 HM Aufstieg oder 1600 HM Abstieg. Die Wege sind technisch einfach, aber Schwierigkeiten kann die dünne Luft in der Höhe bereiten.",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69bd48194f486926b5129938",
-        "number": "260612Kl_G004",
-        "title": "Klettern im mittleren und südlichen Schwarzwald",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Klettern"
-        ],
-        "date_from": "2026-06-12",
-        "date_to": "2026-06-14",
-        "locations": [
-          "Schwarzwald"
-        ],
-        "description": "Ein- und Mehrseillängenklettern Übernachten auf dem Campingplatz bei Waldkirch\nAnforderungen: Vorstieg V+, Umgang mit Keilen & Friends",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69bd4a6a4f486926b512c672",
-        "number": "260419B_F004",
-        "title": "ECO// Sportwanderung in der Südpfalz (für Frühaussteiger geeignet// Bergwandern// 19.04.2026)",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Sportwandern"
-        ],
-        "date_from": "2026-04-19",
-        "date_to": "2026-04-19",
-        "locations": [
-          "Südpfalz"
-        ],
-        "description": "Diese Tour eignet sich als Einstiegstour. Sie kann nach ca. 20-25 km abgebrochen werden (der Weg zur Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\nAnmeldeschluss: So, 12.04.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist. (ACHTUNG: das Portal erlaubt eine Anmeldung nur bis Samstag, 11.04.26)\nAnforderungen: Anforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km/h",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69bd51be4e9957bf1e3235d7",
-        "number": "260625Kl_G005",
-        "title": "Klettern in Baume-les-Dames",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Klettern"
-        ],
-        "date_from": "2026-06-25",
-        "date_to": "2026-06-28",
-        "locations": [
-          "Baume-les-Dames"
-        ],
-        "description": "Übernachtung auf dem Campingplatz in Beaumes-Les-Dames\nAnforderungen: Vorstieg V+, selbständiges Standplatzmanagement",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c2a52b5451c5552c530a07",
-        "number": "260326WA_001",
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-03-27",
-        "date_to": "2026-03-27",
-        "locations": [
-          "Kraichgau"
-        ],
-        "description": "Von Hoffenheim, Dietmar-Hopp-Stadion, Deisbach, Sinsheim, Steinsfurt (Mittagseinkehr), Sinsheim Arena.\n14 km, 100hm, Gehzeit ca. 3,5h\nAbfahrt Heidelberg HBF 08:04 Uhr, S7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu.",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3db2d09d475785b89a10a",
-        "number": "260328WA_003",
-        "title": "Samstagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-03-28",
-        "date_to": "2026-03-28",
-        "locations": [
-          "ND"
-        ],
-        "description": "",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3dc9046d4f843f4bd9acd",
-        "number": "260401WA_004",
-        "title": "Seniorenwanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-04-01",
-        "date_to": "2026-04-01",
-        "locations": [
-          "ND"
-        ],
-        "description": "",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3dda0922622f618d82646",
-        "number": "260410WA_005",
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-04-10",
-        "date_to": "2026-04-10",
-        "locations": [
-          "Hauptbahnhof Heidelberg"
-        ],
-        "description": "Weidenthal, Saupferch, Lambertskreuz (Einkehr) Lambrecht.\n19 Km;  600 m; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3de5d46d4f843f4bdc70a",
-        "number": "260415WA_006",
-        "title": "Mittwochswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-04-15",
-        "date_to": "2026-04-15",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Bad Herrenalb, Falkenstein, Bernsteinfels, Bad Herrenalb (Schlusseinkehr)\n17,5 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:10 Uhr RE 73 nach Kalsruhe.\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3df0c922622f618d82df4",
-        "number": "260417WA_007",
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-04-17",
-        "date_to": "2026-04-17",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Lambrecht,  Buchentor, Rabenfels, Frankenstein (Schlusseinkehr).\n18,5 Km; 500 Hm; Gehzeit ca. 5 Std\nAbfahrt Heidelberg Hauptbahnhof 09:33 Uhr S 2 Richtung Kaiserslautern\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3df996764ed7817310ff4",
-        "number": "260424WA_008",
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-04-24",
-        "date_to": "2026-04-24",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Bammental, Wiesenbach, Judenwaldkopf, Salzberg, Meckesheim (Mittagseinkehr und Rückfahrmöglichkeit), Mauer.\n14 Km; 150 Hm, Gehzeit ca. 3,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e02209d475785b89cb08",
-        "number": "260425WA_009",
-        "title": "Samstagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-04-25",
-        "date_to": "2026-04-25",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Weinheim, Hirschkopf, Waldnerturm, Steigopf (Schlusseinkehr)\n16 Km, 370 Hm, Gehzeit ca. 4,5 St.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer empfängt die Gruppe am Bahnhof Weinheim\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e0c56764ed7817311740",
-        "number": "260506WA_010",
-        "title": "Seniorenwanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-05-06",
-        "date_to": "2026-05-06",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Deidesheim Bf., Michaelskapelle, Sensental, Muhltal, Waldschenke, Deidesheimerhütte (Einkehr), Deidesheim Bf.\n11 Km; 290 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 Uhr S 1 Richtung Neustadt\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e18a09d475785b89d1ab",
-        "number": "260508WA_011",
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-05-08",
-        "date_to": "2026-05-08",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Iggelbach, Taubensuhl, Annweiler (Schlusseinkehr)\n22 Km, 580 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Kaiserlautern\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e21b09d475785b89d692",
-        "number": "260515WA_012",
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-05-15",
-        "date_to": "2026-05-15",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Bf. Wiesloch/Walldorf, Frauenweiler, Malchenberg, Letzenbergkapelle, Malsch Reblaus (Einkehr) BF Roth/Malsch.\n13 Km; 200 Hm, Gehzeit ca. 3,5 - 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 10:18 Uhr S 3 Richtung Karlsruhe\nWanderführer empfängt die Gruppe am Bahnhof Wiesloch/Walldorf\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e2a3922622f618d841d9",
-        "number": "260520WA_013",
-        "title": "Mittwochswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-05-27",
-        "date_to": "2026-05-27",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Dobel, Wildsee, Grünhütte (Einkehr), Bad Wildbad\n20 Km, 600 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg  Hauptbahnhof 07:22 Uhr RE 73 Richtung Karlsruhe\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e3ca46d4f843f4be144e",
-        "number": "260529WA_015",
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-05-29",
-        "date_to": "2026-05-29",
-        "locations": [
-          "Heidelberg Bismarckplatz"
-        ],
-        "description": "Heiligkreuzsteinach Marktplatz, Eichköpfel, Adlerstein, Schönbrunn (Mittagseinkehr), Unterschönmattenwag (Korsika).\n12 Km; 250 Hm; Gehzeit ca. 3,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:54 Uhr Bus Linie 34 nach Heiligkreuzsteinach\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e34b6764ed781731233b",
-        "number": "260522WA_014",
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-05-22",
-        "date_to": "2026-05-22",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Gundelsheim, Burg Hornberg, Mosbach (Schlusseinkehr)\n18 Km; 400 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e453922622f618d84cb6",
-        "number": "260530WA_016",
-        "title": "Samstagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-05-30",
-        "date_to": "2026-05-30",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Lambrecht, Hellerplatz, Neustadt (Schlusseinkehr)\n20 Km; 670 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e4fc09d475785b89e947",
-        "number": "260603WA_017",
-        "title": "Seniorenwanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-06-03",
-        "date_to": "2026-06-03",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Neckarsteinach, Neckarsteig, Feste Dilsberg, Neckargemünd (Schlusseinkehr)\n5 m; 185 m; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken\n-Keine  Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e585922622f618d85284",
-        "number": "260605WA_018",
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-06-05",
-        "date_to": "2026-06-05",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Bahnhof Neckargemünd Altstadt, Burg Reichenstein, Neckarriedkopfhütte, Linsenteicheck, Felsenmeer, Russenstein, Gaiberg (Schlusseinkehr)\n15,5 m, 550 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 10:25 Uhr S 1 Richtung Osterburken\nWanderführerin mit Hund Arya empfängt die Gruppe am Bahnhof Neckargemünd Altstadt\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e6186764ed781731374b",
-        "number": "290612WA_019",
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-06-12",
-        "date_to": "2026-06-12",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Neckargerach, Minneburg, Stolzeneck, Eberbach (Shlusseinkehr)\n17 Km; 770 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e6bd6764ed7817313bb0",
-        "number": "260617WA_020",
-        "title": "Mittwochswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-06-17",
-        "date_to": "2026-06-17",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Gimmeldingen, Silbertal (Einkehr), Lambrecht\n11,5 Km; 240 Hm, Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 S 1 Richtung Kaiserslautern\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e737922622f618d85eaa",
-        "number": "260619WA_021",
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-06-19",
-        "date_to": "2026-06-19",
-        "locations": [
-          "HD HBF"
-        ],
-        "description": "Schriesheim, Strahlenburg, Schauenburg, Alter Segelflugplatz, Schriesheim (Schlusseinkehr)\nAbfahrt Heidelberg HBF 8:31 Uhr, STR 21 Richtung Schriesheim,.\n12 km, 370 hm, Gehzeit ca. 4h",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e7e5922622f618d861db",
-        "number": "260620WA_022",
-        "title": "Samstagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-06-20",
-        "date_to": "2026-06-20",
-        "locations": [
-          "Wanderung entfällt!"
-        ],
-        "description": "Diese Wanderung ist infolge der zu erwartenden hohen Temperaturen abgesagt!",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69c3e89d922622f618d865e3",
-        "number": "260626WA_023",
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-06-26",
-        "date_to": "2026-06-26",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Neckarhausen bei Neckarsteinach, Braunsruhe, Neckarsteinach, Mannheimerhütte (Einkehr), Neckarsteinach\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a292ba9fe265180d504e722",
-        "number": null,
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-07-10",
-        "date_to": "2026-07-10",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Fahrenbach, Tromm, Siedelsbrunn, Weinheim (Schlusseinkehr)\n17 Km; 530 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer empfängt die Gruppe am Bahnhof Weinheim\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a292dfffe265180d5051071",
-        "number": null,
-        "title": "Mittwochswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-07-15",
-        "date_to": "2026-07-15",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Neustadt, Hellerhütte, Burg Spangenberg, Forsthaus Breitenstein (Schlusseinkehr)\n13 Km; 360 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:03 Uhr S 1 nach Neustadt\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a292f1851b966ad6f14d775",
-        "number": null,
-        "title": "Samstagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-07-25",
-        "date_to": "2026-07-25",
-        "locations": [
-          "Heidelberg Hauptbahnhof S 1"
-        ],
-        "description": "Hirschhorn, Neckargemünd (Schlusseinkehr)\n21 Km; 550 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a2958b4baf2d3e4597bd705",
-        "number": null,
-        "title": "Mittwochswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-07-01",
-        "date_to": "2026-07-01",
-        "locations": [
-          "Heidelberg Hauptbahnhof"
-        ],
-        "description": "Zwingenberg, Ruine Stolzeneck, Eberbach (Einkehr)\n11 Km; 190 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Eberbach\n-Keine Anmeldung-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a295ceb1644e0483a115844",
-        "number": null,
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-07-17",
-        "date_to": "2026-07-17",
-        "locations": [
-          "Heidelberg Hauptbahnhof S 1"
-        ],
-        "description": "Lambrecht,  Eckkopf, Wachenheim (Schlusseinkehr)\n17 Km; 600 Hm; Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hbf. 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a2961862bf69ed3b7182025",
-        "number": null,
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-07-24",
-        "date_to": "2026-07-24",
-        "locations": [
-          "Heidelberg Hauptbahnhof RE 73"
-        ],
-        "description": "Bad Wildbad, Wildbader Kopf, Eyachmühle, Talwiese (Schlusseinkehr)\n17 Km; 700 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:22 Uhr RE 73 nach Karlsruhe\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a29623d1644e0483a119633",
-        "number": null,
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-07-31",
-        "date_to": "2026-07-31",
-        "locations": [
-          "Heidelberg Hauptbahnhof S 1"
-        ],
-        "description": "Eberbach, Gretengrund, Steinerner Tisch, Hoppehütte, Hirschhorn (Schlusseinkehr)\n12 Km; 400 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:55 Uhr S 1 Richtung Osterburken\nWanderführer steigt in Neckarsteinach zu\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a2968922bf69ed3b718a9bf",
-        "number": null,
-        "title": "Mittwochswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-08-05",
-        "date_to": "2026-08-05",
-        "locations": [
-          "Heidelberg Hauptbahnhof Schalterhalle"
-        ],
-        "description": "Gaiberg, Bärenbrunnen, Stefans-Hütte, Posseltslust, Königstuhl, Bergheim (Schlusseinkehr)\n7 Km; 250 Hm; Gehzeit ca. 3 Std.\nHeidelberg Hauptbahnhof 08:45 Uhr Schalterhalle\n-Keine Anmeldung erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a296942d044b6737a0ec750",
-        "number": null,
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-08-07",
-        "date_to": "2026-08-07",
-        "locations": [
-          "Heidelberg Bismarckplatz Bus Linie 34"
-        ],
-        "description": "Ziegelhausen, Wilhelmsfeld, Weißer Stein (Schlusseinkehr)\n15 Km; 550 Hm, Gehzeit a. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:34 Uhr Bus Linie 34 Richtung Heidebuckel.\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a2a7835d044b6737a145e85",
-        "number": null,
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-08-14",
-        "date_to": "2026-08-14",
-        "locations": [
-          "Heidelberg Hauptbahnhof S 1"
-        ],
-        "description": "Neidenfels, Ruine Neidenfels, Lambertskreuz (Pause), Drachenfels Westfels, Lambertskreuz (Schlusseinkehr), Lambrecht\n17 Km; 564 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a2a7989d044b6737a1479f7",
-        "number": null,
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-08-28",
-        "date_to": "2026-08-28",
-        "locations": [
-          "Heidelberg Hauptbahnhof S1"
-        ],
-        "description": "Eberbach, Neckarwimmersbach, Hirschrünnle, Schwanheim, Haag (Schlusseinkehr)\n14 Km; 250 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a2a7b18d044b6737a14830d",
-        "number": null,
-        "title": "Mittwochswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-08-19",
-        "date_to": "2026-08-19",
-        "locations": [
-          "Heidelberg Hauptbahnhof Bus 735"
-        ],
-        "description": "Eiterbach, Neckarsteinach (Schlusseinkehr)\n20 Km; 380 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:45 Uhr Bus Linie 735 nach Eiterbach\n-Keine Anmeldung erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      }
-    ],
+    "removed": [],
     "modified": [
       {
-        "id": "6a2a7a7a1644e0483a180877",
+        "id": "69bd6233bd72746a9677dc80",
+        "changed_fields": [
+          "bookable_id",
+          "waitlist_active",
+          "max_places",
+          "free_places",
+          "bookable_start",
+          "bookable_end",
+          "bookable_places"
+        ],
+        "changes": {
+          "bookable_id": {
+            "from": "69bd6233bd72746a9677dc83",
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "max_places": {
+            "from": 8,
+            "to": null
+          },
+          "free_places": {
+            "from": 0,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-08-31",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-09-04",
+            "to": ""
+          },
+          "bookable_places": {
+            "from": 0,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "69bd6233bd72746a9677dc80",
+          "number": "260831B_F007",
+          "title": "Hüttentour in den Pyrenäen",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Bergsteigen"
+          ],
+          "date_from": "2026-08-31",
+          "date_to": "2026-09-04",
+          "locations": [
+            "Pyrenäen"
+          ],
+          "description": "Wir setzen die Steckentour vom Port de la Bonaigua (bei Vielha) fort und folgen in etwa dem HRP bis Bagneres de Luchon. Die ersten 3 Tagesetappen sind noch moderat. Der vierte Tag wird hart mit 1600 m Aufstieg und 1070 m Abstieg in teilweise schwierigem Gelände. Die Pyrenäen sind weniger überlaufen, als die Alpen. Die Hütten sind kleiner. Die Vegetation unterscheidet sich vor allem auf der spanischen Seite. Rechnet mit teilweise weglosem Gelände durch Geröll und Felsbrocken. Die Anreise gestalten wir individuell, da es sich bei dieser Entfernung anbietet, die Tour mit zusätzlichen Urlaubstagen z.B. am Meer zu verbinden.\nUnterkünfte: Bewirtete Berghütten in den spanischen Pyrenäen Verpflegung: Halbpension in den Hütten; Marschverpflegung kann meist in den Hütten erworben werden.",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd6233bd72746a9677dc80",
+          "number": "260831B_F007",
+          "title": "Hüttentour in den Pyrenäen",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Bergsteigen"
+          ],
+          "date_from": "2026-08-31",
+          "date_to": "2026-09-04",
+          "locations": [
+            "Pyrenäen"
+          ],
+          "description": "Wir setzen die Steckentour vom Port de la Bonaigua (bei Vielha) fort und folgen in etwa dem HRP bis Bagneres de Luchon. Die ersten 3 Tagesetappen sind noch moderat. Der vierte Tag wird hart mit 1600 m Aufstieg und 1070 m Abstieg in teilweise schwierigem Gelände. Die Pyrenäen sind weniger überlaufen, als die Alpen. Die Hütten sind kleiner. Die Vegetation unterscheidet sich vor allem auf der spanischen Seite. Rechnet mit teilweise weglosem Gelände durch Geröll und Felsbrocken. Die Anreise gestalten wir individuell, da es sich bei dieser Entfernung anbietet, die Tour mit zusätzlichen Urlaubstagen z.B. am Meer zu verbinden.\nUnterkünfte: Bewirtete Berghütten in den spanischen Pyrenäen Verpflegung: Halbpension in den Hütten; Marschverpflegung kann meist in den Hütten erworben werden.",
+          "bookable_id": "69bd6233bd72746a9677dc83",
+          "bookable_start": "2026-08-31",
+          "bookable_end": "2026-09-04",
+          "free_places": 0,
+          "max_places": 8,
+          "bookable_places": 0,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a2a7cc2d044b6737a149557",
+        "changed_fields": [
+          "bookable_id",
+          "waitlist_active",
+          "bookable_start",
+          "bookable_end"
+        ],
+        "changes": {
+          "bookable_id": {
+            "from": "6a2a7cc2d044b6737a14955a",
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-09-04",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-09-04",
+            "to": ""
+          }
+        },
+        "current": {
+          "id": "6a2a7cc2d044b6737a149557",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-04",
+          "date_to": "2026-09-04",
+          "locations": [
+            "Heidelberg Hauptbahnhof S 1"
+          ],
+          "description": "Neckargerach, Mülben, Höllgrund (Einkehr), Waldbrunn\n20 Km; 550 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung  Mosbach\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2a7cc2d044b6737a149557",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-04",
+          "date_to": "2026-09-04",
+          "locations": [
+            "Heidelberg Hauptbahnhof S 1"
+          ],
+          "description": "Neckargerach, Mülben, Höllgrund (Einkehr), Waldbrunn\n20 Km; 550 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung  Mosbach\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a2a7cc2d044b6737a14955a",
+          "bookable_start": "2026-09-04",
+          "bookable_end": "2026-09-04",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a2a7d231644e0483a181fdb",
         "changed_fields": [
           "description",
           "locations"
@@ -995,7 +188,7 @@
         "changes": {
           "description": {
             "from": "N.D.",
-            "to": "Kaiserslautern, Weltachs, Kaiserslautern (Schlusseinkehr)\n21 Km; 560 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-"
+            "to": "Neckarsteinach-Neckarhausen, Brauhnsruhe, Neckarsteinach-Mannheimerhütte (Einkehr), Neckarsteinach Bahnhof.\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken.\nWanderführer steigt in Neckarsteinach Bahnhof zu.\n-Anmeldung nicht erforderlich-"
           },
           "locations": {
             "from": [
@@ -1007,24 +200,24 @@
           }
         },
         "current": {
-          "id": "6a2a7a7a1644e0483a180877",
+          "id": "6a2a7d231644e0483a181fdb",
           "number": null,
-          "title": "Samstagswanderung",
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-09-26",
-          "date_to": "2026-09-26",
+          "date_from": "2026-09-11",
+          "date_to": "2026-09-11",
           "locations": [
             "Heidelberg Hbf S 1"
           ],
-          "description": "Kaiserslautern, Weltachs, Kaiserslautern (Schlusseinkehr)\n21 Km; 560 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a2a7a7a1644e0483a18087a",
-          "bookable_start": "2026-09-26",
-          "bookable_end": "2026-09-26",
+          "description": "Neckarsteinach-Neckarhausen, Brauhnsruhe, Neckarsteinach-Mannheimerhütte (Einkehr), Neckarsteinach Bahnhof.\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken.\nWanderführer steigt in Neckarsteinach Bahnhof zu.\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a2a7d231644e0483a181fdd",
+          "bookable_start": "2026-09-11",
+          "bookable_end": "2026-09-11",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
@@ -1032,95 +225,24 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a2a7a7a1644e0483a180877",
+          "id": "6a2a7d231644e0483a181fdb",
           "number": null,
-          "title": "Samstagswanderung",
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-09-26",
-          "date_to": "2026-09-26",
+          "date_from": "2026-09-11",
+          "date_to": "2026-09-11",
           "locations": [
             "N.D."
           ],
           "description": "N.D.",
-          "bookable_id": "6a2a7a7a1644e0483a18087a",
-          "bookable_start": "2026-09-26",
-          "bookable_end": "2026-09-26",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a2a7bcad044b6737a148c12",
-        "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "N.D.",
-            "to": "Fürth, Tromm  (Einkehr zur schönen Aussicht), Trommturm, Rimbach\n14 Km; 400 Hm; Gehzeit ca. 4Std.\nAbfahrt Heidelberg Hauptbahnhof 09:26 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-"
-          },
-          "locations": {
-            "from": [
-              "N.D."
-            ],
-            "to": [
-              "Heidelberg Hbf RB 68"
-            ]
-          }
-        },
-        "current": {
-          "id": "6a2a7bcad044b6737a148c12",
-          "number": null,
-          "title": "Mittwochswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-09-16",
-          "date_to": "2026-09-16",
-          "locations": [
-            "Heidelberg Hbf RB 68"
-          ],
-          "description": "Fürth, Tromm  (Einkehr zur schönen Aussicht), Trommturm, Rimbach\n14 Km; 400 Hm; Gehzeit ca. 4Std.\nAbfahrt Heidelberg Hauptbahnhof 09:26 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a2a7bcad044b6737a148c14",
-          "bookable_start": "2026-09-16",
-          "bookable_end": "2026-09-16",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a2a7bcad044b6737a148c12",
-          "number": null,
-          "title": "Mittwochswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-09-16",
-          "date_to": "2026-09-16",
-          "locations": [
-            "N.D."
-          ],
-          "description": "N.D.",
-          "bookable_id": "6a2a7bcad044b6737a148c14",
-          "bookable_start": "2026-09-16",
-          "bookable_end": "2026-09-16",
+          "bookable_id": "6a2a7d231644e0483a181fdd",
+          "bookable_start": "2026-09-11",
+          "bookable_end": "2026-09-11",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
