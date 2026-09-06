@@ -1,50 +1,50 @@
 {
-  "timestamp": "2026-09-05T09:34:52.260759+00:00",
-  "previous_timestamp": "2026-09-04T10:05:01.128154+00:00",
+  "timestamp": "2026-09-06T09:49:21.880466+00:00",
+  "previous_timestamp": "2026-09-05T09:34:52.254252+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 3
+    "modified": 4
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "69bd6233bd72746a9677dc80",
+        "id": "69bd732a4e9957bf1e3485d2",
         "changed_fields": [
-          "bookable_id",
           "waitlist_active",
           "max_places",
-          "free_places",
           "bookable_start",
           "bookable_end",
+          "bookable_id",
+          "free_places",
           "bookable_places"
         ],
         "changes": {
-          "bookable_id": {
-            "from": "69bd6233bd72746a9677dc83",
-            "to": null
-          },
           "waitlist_active": {
-            "from": true,
+            "from": false,
             "to": null
           },
           "max_places": {
-            "from": 8,
+            "from": 3,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-08-29",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-09-05",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "69bd732a4e9957bf1e3485d5",
             "to": null
           },
           "free_places": {
             "from": 0,
             "to": null
-          },
-          "bookable_start": {
-            "from": "2026-08-31",
-            "to": ""
-          },
-          "bookable_end": {
-            "from": "2026-09-04",
-            "to": ""
           },
           "bookable_places": {
             "from": 0,
@@ -52,21 +52,21 @@
           }
         },
         "current": {
-          "id": "69bd6233bd72746a9677dc80",
-          "number": "260831B_F007",
-          "title": "Hüttentour in den Pyrenäen",
+          "id": "69bd732a4e9957bf1e3485d2",
+          "number": "260829MTB_009",
+          "title": "Mountainbike-Rundfahrt Enduro Tirol",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Bergsteigen"
+            "Mountainbike"
           ],
-          "date_from": "2026-08-31",
-          "date_to": "2026-09-04",
+          "date_from": "2026-08-29",
+          "date_to": "2026-09-05",
           "locations": [
-            "Pyrenäen"
+            "nn"
           ],
-          "description": "Wir setzen die Steckentour vom Port de la Bonaigua (bei Vielha) fort und folgen in etwa dem HRP bis Bagneres de Luchon. Die ersten 3 Tagesetappen sind noch moderat. Der vierte Tag wird hart mit 1600 m Aufstieg und 1070 m Abstieg in teilweise schwierigem Gelände. Die Pyrenäen sind weniger überlaufen, als die Alpen. Die Hütten sind kleiner. Die Vegetation unterscheidet sich vor allem auf der spanischen Seite. Rechnet mit teilweise weglosem Gelände durch Geröll und Felsbrocken. Die Anreise gestalten wir individuell, da es sich bei dieser Entfernung anbietet, die Tour mit zusätzlichen Urlaubstagen z.B. am Meer zu verbinden.\nUnterkünfte: Bewirtete Berghütten in den spanischen Pyrenäen Verpflegung: Halbpension in den Hütten; Marschverpflegung kann meist in den Hütten erworben werden.",
+          "description": "Eine Enduro-Runde durch Tirol - das sind Uphills mit Gletschern und Panorama sowie Flow-Trails und anspruchsvolle Downhills, aber auch Bikepark-Tage auf naturbelassenen oder geshapten Trails. In äußerst unterschiedlichen Etappen nehmen wir viele Trail- und Panorama-Highlights der Region mit (z. B. Bikeparks Fiss und Nauders, Stilfser Joch, Goldseetrail, Fernar-Trail, Holy Hansen Trail, Timmelsjoch). Für einige Abschnitte nutzen wir Shuttle oder Bus, kurbeln aber auch mal Straßen-Transfers. Eine genaue Touren-Beschreibung könnt ihr gerne bei mir anfragen.\nAnforderungen: S3, K3",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -77,147 +77,239 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69bd6233bd72746a9677dc80",
-          "number": "260831B_F007",
-          "title": "Hüttentour in den Pyrenäen",
+          "id": "69bd732a4e9957bf1e3485d2",
+          "number": "260829MTB_009",
+          "title": "Mountainbike-Rundfahrt Enduro Tirol",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Bergsteigen"
+            "Mountainbike"
           ],
-          "date_from": "2026-08-31",
-          "date_to": "2026-09-04",
+          "date_from": "2026-08-29",
+          "date_to": "2026-09-05",
           "locations": [
-            "Pyrenäen"
+            "nn"
           ],
-          "description": "Wir setzen die Steckentour vom Port de la Bonaigua (bei Vielha) fort und folgen in etwa dem HRP bis Bagneres de Luchon. Die ersten 3 Tagesetappen sind noch moderat. Der vierte Tag wird hart mit 1600 m Aufstieg und 1070 m Abstieg in teilweise schwierigem Gelände. Die Pyrenäen sind weniger überlaufen, als die Alpen. Die Hütten sind kleiner. Die Vegetation unterscheidet sich vor allem auf der spanischen Seite. Rechnet mit teilweise weglosem Gelände durch Geröll und Felsbrocken. Die Anreise gestalten wir individuell, da es sich bei dieser Entfernung anbietet, die Tour mit zusätzlichen Urlaubstagen z.B. am Meer zu verbinden.\nUnterkünfte: Bewirtete Berghütten in den spanischen Pyrenäen Verpflegung: Halbpension in den Hütten; Marschverpflegung kann meist in den Hütten erworben werden.",
-          "bookable_id": "69bd6233bd72746a9677dc83",
-          "bookable_start": "2026-08-31",
-          "bookable_end": "2026-09-04",
+          "description": "Eine Enduro-Runde durch Tirol - das sind Uphills mit Gletschern und Panorama sowie Flow-Trails und anspruchsvolle Downhills, aber auch Bikepark-Tage auf naturbelassenen oder geshapten Trails. In äußerst unterschiedlichen Etappen nehmen wir viele Trail- und Panorama-Highlights der Region mit (z. B. Bikeparks Fiss und Nauders, Stilfser Joch, Goldseetrail, Fernar-Trail, Holy Hansen Trail, Timmelsjoch). Für einige Abschnitte nutzen wir Shuttle oder Bus, kurbeln aber auch mal Straßen-Transfers. Eine genaue Touren-Beschreibung könnt ihr gerne bei mir anfragen.\nAnforderungen: S3, K3",
+          "bookable_id": "69bd732a4e9957bf1e3485d5",
+          "bookable_start": "2026-08-29",
+          "bookable_end": "2026-09-05",
           "free_places": 0,
-          "max_places": 8,
+          "max_places": 3,
+          "bookable_places": 0,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a2a7a1b1644e0483a1806b9",
+        "changed_fields": [
+          "waitlist_active",
+          "bookable_start",
+          "bookable_end",
+          "bookable_id"
+        ],
+        "changes": {
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-09-05",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-09-05",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a2a7a1b1644e0483a1806bb",
+            "to": null
+          }
+        },
+        "current": {
+          "id": "6a2a7a1b1644e0483a1806b9",
+          "number": null,
+          "title": "Samstagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-05",
+          "date_to": "2026-09-05",
+          "locations": [
+            "Heidelberg Hauptbahnhof S 2"
+          ],
+          "description": "Gimmeldingen, Weißer Stein, Bad Dürkheim (Schlusseinkehr)\n19,5 Km; 550 Hm: Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 nach Neustadt\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2a7a1b1644e0483a1806b9",
+          "number": null,
+          "title": "Samstagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-05",
+          "date_to": "2026-09-05",
+          "locations": [
+            "Heidelberg Hauptbahnhof S 2"
+          ],
+          "description": "Gimmeldingen, Weißer Stein, Bad Dürkheim (Schlusseinkehr)\n19,5 Km; 550 Hm: Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 nach Neustadt\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a2a7a1b1644e0483a1806bb",
+          "bookable_start": "2026-09-05",
+          "bookable_end": "2026-09-05",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a456330727b878c04611239",
+        "changed_fields": [
+          "waitlist_active",
+          "max_places",
+          "bookable_start",
+          "bookable_end",
+          "bookable_id",
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "max_places": {
+            "from": 0,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-08-29",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-09-05",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a456330727b878c0461123c",
+            "to": null
+          },
+          "free_places": {
+            "from": 0,
+            "to": null
+          },
+          "bookable_places": {
+            "from": 0,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "6a456330727b878c04611239",
+          "number": "260829FAM_G001",
+          "title": "Camping und Bouldern in Fontainebleau",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen"
+          ],
+          "date_from": "2026-08-29",
+          "date_to": "2026-09-05",
+          "locations": [
+            "Frankreich, Fontainebleau"
+          ],
+          "description": "Grundlegende Sicherheitskenntnisse für eigenverantwortliches Bouldern werden vorausgesetzt. Eine eigene Bouldermatte ist mitzubringen.\n\nDie Tour richtet sich an Familien und legt den Schwerpunkt auf das gemeinsame Bouldern sowie auf Bewegung und gemeinschaftliches Erleben.\n\nEltern bzw. Erziehungsberechtigte tragen während der gesamten Tour die Verantwortung für ihre Kinder.",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a456330727b878c04611239",
+          "number": "260829FAM_G001",
+          "title": "Camping und Bouldern in Fontainebleau",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen"
+          ],
+          "date_from": "2026-08-29",
+          "date_to": "2026-09-05",
+          "locations": [
+            "Frankreich, Fontainebleau"
+          ],
+          "description": "Grundlegende Sicherheitskenntnisse für eigenverantwortliches Bouldern werden vorausgesetzt. Eine eigene Bouldermatte ist mitzubringen.\n\nDie Tour richtet sich an Familien und legt den Schwerpunkt auf das gemeinsame Bouldern sowie auf Bewegung und gemeinschaftliches Erleben.\n\nEltern bzw. Erziehungsberechtigte tragen während der gesamten Tour die Verantwortung für ihre Kinder.",
+          "bookable_id": "6a456330727b878c0461123c",
+          "bookable_start": "2026-08-29",
+          "bookable_end": "2026-09-05",
+          "free_places": 0,
+          "max_places": 0,
           "bookable_places": 0,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6a2a7cc2d044b6737a149557",
+        "id": "6a9192cfc28f2b6de7df0188",
         "changed_fields": [
-          "bookable_id",
-          "waitlist_active",
-          "bookable_start",
-          "bookable_end"
+          "locations",
+          "description"
         ],
         "changes": {
-          "bookable_id": {
-            "from": "6a2a7cc2d044b6737a14955a",
-            "to": null
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-09-04",
-            "to": ""
-          },
-          "bookable_end": {
-            "from": "2026-09-04",
-            "to": ""
-          }
-        },
-        "current": {
-          "id": "6a2a7cc2d044b6737a149557",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-09-04",
-          "date_to": "2026-09-04",
-          "locations": [
-            "Heidelberg Hauptbahnhof S 1"
-          ],
-          "description": "Neckargerach, Mülben, Höllgrund (Einkehr), Waldbrunn\n20 Km; 550 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung  Mosbach\n-Anmeldung nicht erforderlich-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a2a7cc2d044b6737a149557",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-09-04",
-          "date_to": "2026-09-04",
-          "locations": [
-            "Heidelberg Hauptbahnhof S 1"
-          ],
-          "description": "Neckargerach, Mülben, Höllgrund (Einkehr), Waldbrunn\n20 Km; 550 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung  Mosbach\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a2a7cc2d044b6737a14955a",
-          "bookable_start": "2026-09-04",
-          "bookable_end": "2026-09-04",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a2a7d231644e0483a181fdb",
-        "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "N.D.",
-            "to": "Neckarsteinach-Neckarhausen, Brauhnsruhe, Neckarsteinach-Mannheimerhütte (Einkehr), Neckarsteinach Bahnhof.\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken.\nWanderführer steigt in Neckarsteinach Bahnhof zu.\n-Anmeldung nicht erforderlich-"
-          },
           "locations": {
             "from": [
-              "N.D."
+              "NN"
             ],
             "to": [
-              "Heidelberg Hbf S 1"
+              "Heidelberg Hbf RB 68"
             ]
+          },
+          "description": {
+            "from": "N.D.",
+            "to": "Bensheim, Friedensdenkmal (\"Jerusalem am Rhein\"), Felsenmeer, Waldgasthaus am Borstein (Einkehr), Reichenbach.\n14 Km; 420 m; Gehzeit ca. 4 Std\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung  nicht erforderlich-"
           }
         },
         "current": {
-          "id": "6a2a7d231644e0483a181fdb",
+          "id": "6a9192cfc28f2b6de7df0188",
           "number": null,
-          "title": "Freitagswanderung",
+          "title": "Samstagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-09-11",
-          "date_to": "2026-09-11",
+          "date_from": "2026-10-31",
+          "date_to": "2026-10-31",
           "locations": [
-            "Heidelberg Hbf S 1"
+            "Heidelberg Hbf RB 68"
           ],
-          "description": "Neckarsteinach-Neckarhausen, Brauhnsruhe, Neckarsteinach-Mannheimerhütte (Einkehr), Neckarsteinach Bahnhof.\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken.\nWanderführer steigt in Neckarsteinach Bahnhof zu.\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a2a7d231644e0483a181fdd",
-          "bookable_start": "2026-09-11",
-          "bookable_end": "2026-09-11",
+          "description": "Bensheim, Friedensdenkmal (\"Jerusalem am Rhein\"), Felsenmeer, Waldgasthaus am Borstein (Einkehr), Reichenbach.\n14 Km; 420 m; Gehzeit ca. 4 Std\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung  nicht erforderlich-",
+          "bookable_id": "6a9192cfc28f2b6de7df018a",
+          "bookable_start": "2026-10-31",
+          "bookable_end": "2026-10-31",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
@@ -225,24 +317,24 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a2a7d231644e0483a181fdb",
+          "id": "6a9192cfc28f2b6de7df0188",
           "number": null,
-          "title": "Freitagswanderung",
+          "title": "Samstagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-09-11",
-          "date_to": "2026-09-11",
+          "date_from": "2026-10-31",
+          "date_to": "2026-10-31",
           "locations": [
-            "N.D."
+            "NN"
           ],
           "description": "N.D.",
-          "bookable_id": "6a2a7d231644e0483a181fdd",
-          "bookable_start": "2026-09-11",
-          "bookable_end": "2026-09-11",
+          "bookable_id": "6a9192cfc28f2b6de7df018a",
+          "bookable_start": "2026-10-31",
+          "bookable_end": "2026-10-31",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-05T09:34:52.254252+00:00",
+  "timestamp": "2026-09-06T09:49:21.876178+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 79,
   "tours": [
@@ -670,13 +670,13 @@
         "nn"
       ],
       "description": "Eine Enduro-Runde durch Tirol - das sind Uphills mit Gletschern und Panorama sowie Flow-Trails und anspruchsvolle Downhills, aber auch Bikepark-Tage auf naturbelassenen oder geshapten Trails. In äußerst unterschiedlichen Etappen nehmen wir viele Trail- und Panorama-Highlights der Region mit (z. B. Bikeparks Fiss und Nauders, Stilfser Joch, Goldseetrail, Fernar-Trail, Holy Hansen Trail, Timmelsjoch). Für einige Abschnitte nutzen wir Shuttle oder Bus, kurbeln aber auch mal Straßen-Transfers. Eine genaue Touren-Beschreibung könnt ihr gerne bei mir anfragen.\nAnforderungen: S3, K3",
-      "bookable_id": "69bd732a4e9957bf1e3485d5",
-      "bookable_start": "2026-08-29",
-      "bookable_end": "2026-09-05",
-      "free_places": 0,
-      "max_places": 3,
-      "bookable_places": 0,
-      "waitlist_active": false,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1120,13 +1120,13 @@
         "Heidelberg Hauptbahnhof S 2"
       ],
       "description": "Gimmeldingen, Weißer Stein, Bad Dürkheim (Schlusseinkehr)\n19,5 Km; 550 Hm: Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 nach Neustadt\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a2a7a1b1644e0483a1806bb",
-      "bookable_start": "2026-09-05",
-      "bookable_end": "2026-09-05",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1370,13 +1370,13 @@
         "Frankreich, Fontainebleau"
       ],
       "description": "Grundlegende Sicherheitskenntnisse für eigenverantwortliches Bouldern werden vorausgesetzt. Eine eigene Bouldermatte ist mitzubringen.\n\nDie Tour richtet sich an Familien und legt den Schwerpunkt auf das gemeinsame Bouldern sowie auf Bewegung und gemeinschaftliches Erleben.\n\nEltern bzw. Erziehungsberechtigte tragen während der gesamten Tour die Verantwortung für ihre Kinder.",
-      "bookable_id": "6a456330727b878c0461123c",
-      "bookable_start": "2026-08-29",
-      "bookable_end": "2026-09-05",
-      "free_places": 0,
-      "max_places": 0,
-      "bookable_places": 0,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1892,9 +1892,9 @@
       "date_from": "2026-10-31",
       "date_to": "2026-10-31",
       "locations": [
-        "NN"
+        "Heidelberg Hbf RB 68"
       ],
-      "description": "N.D.",
+      "description": "Bensheim, Friedensdenkmal (\"Jerusalem am Rhein\"), Felsenmeer, Waldgasthaus am Borstein (Einkehr), Reichenbach.\n14 Km; 420 m; Gehzeit ca. 4 Std\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung  nicht erforderlich-",
       "bookable_id": "6a9192cfc28f2b6de7df018a",
       "bookable_start": "2026-10-31",
       "bookable_end": "2026-10-31",
