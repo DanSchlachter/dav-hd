@@ -1,72 +1,72 @@
 {
-  "timestamp": "2026-09-06T09:49:21.880466+00:00",
-  "previous_timestamp": "2026-09-05T09:34:52.254252+00:00",
+  "timestamp": "2026-09-07T10:55:18.641523+00:00",
+  "previous_timestamp": "2026-09-06T09:49:21.876178+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 4
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "69bd732a4e9957bf1e3485d2",
+        "id": "6a1967a031a1e40446bfcfc9",
         "changed_fields": [
-          "waitlist_active",
           "max_places",
-          "bookable_start",
+          "waitlist_active",
           "bookable_end",
+          "bookable_start",
           "bookable_id",
-          "free_places",
-          "bookable_places"
+          "bookable_places",
+          "free_places"
         ],
         "changes": {
+          "max_places": {
+            "from": 10,
+            "to": null
+          },
           "waitlist_active": {
             "from": false,
             "to": null
           },
-          "max_places": {
-            "from": 3,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-08-29",
+          "bookable_end": {
+            "from": "2026-09-06",
             "to": ""
           },
-          "bookable_end": {
-            "from": "2026-09-05",
+          "bookable_start": {
+            "from": "2026-09-06",
             "to": ""
           },
           "bookable_id": {
-            "from": "69bd732a4e9957bf1e3485d5",
-            "to": null
-          },
-          "free_places": {
-            "from": 0,
+            "from": "6a1967a031a1e40446bfcfcb",
             "to": null
           },
           "bookable_places": {
-            "from": 0,
+            "from": 10,
+            "to": null
+          },
+          "free_places": {
+            "from": 10,
             "to": null
           }
         },
         "current": {
-          "id": "69bd732a4e9957bf1e3485d2",
-          "number": "260829MTB_009",
-          "title": "Mountainbike-Rundfahrt Enduro Tirol",
+          "id": "6a1967a031a1e40446bfcfc9",
+          "number": "260906_MTB01",
+          "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Mountainbike"
           ],
-          "date_from": "2026-08-29",
-          "date_to": "2026-09-05",
+          "date_from": "2026-09-06",
+          "date_to": "2026-09-06",
           "locations": [
-            "nn"
+            "Heidelberg"
           ],
-          "description": "Eine Enduro-Runde durch Tirol - das sind Uphills mit Gletschern und Panorama sowie Flow-Trails und anspruchsvolle Downhills, aber auch Bikepark-Tage auf naturbelassenen oder geshapten Trails. In äußerst unterschiedlichen Etappen nehmen wir viele Trail- und Panorama-Highlights der Region mit (z. B. Bikeparks Fiss und Nauders, Stilfser Joch, Goldseetrail, Fernar-Trail, Holy Hansen Trail, Timmelsjoch). Für einige Abschnitte nutzen wir Shuttle oder Bus, kurbeln aber auch mal Straßen-Transfers. Eine genaue Touren-Beschreibung könnt ihr gerne bei mir anfragen.\nAnforderungen: S3, K3",
+          "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -77,268 +77,28 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69bd732a4e9957bf1e3485d2",
-          "number": "260829MTB_009",
-          "title": "Mountainbike-Rundfahrt Enduro Tirol",
+          "id": "6a1967a031a1e40446bfcfc9",
+          "number": "260906_MTB01",
+          "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Mountainbike"
           ],
-          "date_from": "2026-08-29",
-          "date_to": "2026-09-05",
+          "date_from": "2026-09-06",
+          "date_to": "2026-09-06",
           "locations": [
-            "nn"
+            "Heidelberg"
           ],
-          "description": "Eine Enduro-Runde durch Tirol - das sind Uphills mit Gletschern und Panorama sowie Flow-Trails und anspruchsvolle Downhills, aber auch Bikepark-Tage auf naturbelassenen oder geshapten Trails. In äußerst unterschiedlichen Etappen nehmen wir viele Trail- und Panorama-Highlights der Region mit (z. B. Bikeparks Fiss und Nauders, Stilfser Joch, Goldseetrail, Fernar-Trail, Holy Hansen Trail, Timmelsjoch). Für einige Abschnitte nutzen wir Shuttle oder Bus, kurbeln aber auch mal Straßen-Transfers. Eine genaue Touren-Beschreibung könnt ihr gerne bei mir anfragen.\nAnforderungen: S3, K3",
-          "bookable_id": "69bd732a4e9957bf1e3485d5",
-          "bookable_start": "2026-08-29",
-          "bookable_end": "2026-09-05",
-          "free_places": 0,
-          "max_places": 3,
-          "bookable_places": 0,
+          "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
+          "bookable_id": "6a1967a031a1e40446bfcfcb",
+          "bookable_start": "2026-09-06",
+          "bookable_end": "2026-09-06",
+          "free_places": 10,
+          "max_places": 10,
+          "bookable_places": 10,
           "waitlist_active": false,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a2a7a1b1644e0483a1806b9",
-        "changed_fields": [
-          "waitlist_active",
-          "bookable_start",
-          "bookable_end",
-          "bookable_id"
-        ],
-        "changes": {
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-09-05",
-            "to": ""
-          },
-          "bookable_end": {
-            "from": "2026-09-05",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "6a2a7a1b1644e0483a1806bb",
-            "to": null
-          }
-        },
-        "current": {
-          "id": "6a2a7a1b1644e0483a1806b9",
-          "number": null,
-          "title": "Samstagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-09-05",
-          "date_to": "2026-09-05",
-          "locations": [
-            "Heidelberg Hauptbahnhof S 2"
-          ],
-          "description": "Gimmeldingen, Weißer Stein, Bad Dürkheim (Schlusseinkehr)\n19,5 Km; 550 Hm: Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 nach Neustadt\n-Anmeldung nicht erforderlich-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a2a7a1b1644e0483a1806b9",
-          "number": null,
-          "title": "Samstagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-09-05",
-          "date_to": "2026-09-05",
-          "locations": [
-            "Heidelberg Hauptbahnhof S 2"
-          ],
-          "description": "Gimmeldingen, Weißer Stein, Bad Dürkheim (Schlusseinkehr)\n19,5 Km; 550 Hm: Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 nach Neustadt\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a2a7a1b1644e0483a1806bb",
-          "bookable_start": "2026-09-05",
-          "bookable_end": "2026-09-05",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a456330727b878c04611239",
-        "changed_fields": [
-          "waitlist_active",
-          "max_places",
-          "bookable_start",
-          "bookable_end",
-          "bookable_id",
-          "free_places",
-          "bookable_places"
-        ],
-        "changes": {
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          },
-          "max_places": {
-            "from": 0,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-08-29",
-            "to": ""
-          },
-          "bookable_end": {
-            "from": "2026-09-05",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "6a456330727b878c0461123c",
-            "to": null
-          },
-          "free_places": {
-            "from": 0,
-            "to": null
-          },
-          "bookable_places": {
-            "from": 0,
-            "to": null
-          }
-        },
-        "current": {
-          "id": "6a456330727b878c04611239",
-          "number": "260829FAM_G001",
-          "title": "Camping und Bouldern in Fontainebleau",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Familienbergsteigen"
-          ],
-          "date_from": "2026-08-29",
-          "date_to": "2026-09-05",
-          "locations": [
-            "Frankreich, Fontainebleau"
-          ],
-          "description": "Grundlegende Sicherheitskenntnisse für eigenverantwortliches Bouldern werden vorausgesetzt. Eine eigene Bouldermatte ist mitzubringen.\n\nDie Tour richtet sich an Familien und legt den Schwerpunkt auf das gemeinsame Bouldern sowie auf Bewegung und gemeinschaftliches Erleben.\n\nEltern bzw. Erziehungsberechtigte tragen während der gesamten Tour die Verantwortung für ihre Kinder.",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a456330727b878c04611239",
-          "number": "260829FAM_G001",
-          "title": "Camping und Bouldern in Fontainebleau",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Familienbergsteigen"
-          ],
-          "date_from": "2026-08-29",
-          "date_to": "2026-09-05",
-          "locations": [
-            "Frankreich, Fontainebleau"
-          ],
-          "description": "Grundlegende Sicherheitskenntnisse für eigenverantwortliches Bouldern werden vorausgesetzt. Eine eigene Bouldermatte ist mitzubringen.\n\nDie Tour richtet sich an Familien und legt den Schwerpunkt auf das gemeinsame Bouldern sowie auf Bewegung und gemeinschaftliches Erleben.\n\nEltern bzw. Erziehungsberechtigte tragen während der gesamten Tour die Verantwortung für ihre Kinder.",
-          "bookable_id": "6a456330727b878c0461123c",
-          "bookable_start": "2026-08-29",
-          "bookable_end": "2026-09-05",
-          "free_places": 0,
-          "max_places": 0,
-          "bookable_places": 0,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a9192cfc28f2b6de7df0188",
-        "changed_fields": [
-          "locations",
-          "description"
-        ],
-        "changes": {
-          "locations": {
-            "from": [
-              "NN"
-            ],
-            "to": [
-              "Heidelberg Hbf RB 68"
-            ]
-          },
-          "description": {
-            "from": "N.D.",
-            "to": "Bensheim, Friedensdenkmal (\"Jerusalem am Rhein\"), Felsenmeer, Waldgasthaus am Borstein (Einkehr), Reichenbach.\n14 Km; 420 m; Gehzeit ca. 4 Std\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung  nicht erforderlich-"
-          }
-        },
-        "current": {
-          "id": "6a9192cfc28f2b6de7df0188",
-          "number": null,
-          "title": "Samstagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-10-31",
-          "date_to": "2026-10-31",
-          "locations": [
-            "Heidelberg Hbf RB 68"
-          ],
-          "description": "Bensheim, Friedensdenkmal (\"Jerusalem am Rhein\"), Felsenmeer, Waldgasthaus am Borstein (Einkehr), Reichenbach.\n14 Km; 420 m; Gehzeit ca. 4 Std\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung  nicht erforderlich-",
-          "bookable_id": "6a9192cfc28f2b6de7df018a",
-          "bookable_start": "2026-10-31",
-          "bookable_end": "2026-10-31",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a9192cfc28f2b6de7df0188",
-          "number": null,
-          "title": "Samstagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-10-31",
-          "date_to": "2026-10-31",
-          "locations": [
-            "NN"
-          ],
-          "description": "N.D.",
-          "bookable_id": "6a9192cfc28f2b6de7df018a",
-          "bookable_start": "2026-10-31",
-          "bookable_end": "2026-10-31",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
           "bookable_canceled": false
         }
       }
