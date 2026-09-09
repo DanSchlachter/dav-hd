@@ -1,14 +1,162 @@
 {
-  "timestamp": "2026-09-08T10:12:26.224134+00:00",
-  "previous_timestamp": "2026-09-07T10:55:18.636598+00:00",
+  "timestamp": "2026-09-09T10:16:37.269269+00:00",
+  "previous_timestamp": "2026-09-08T10:12:26.217741+00:00",
   "summary": {
     "added": 0,
-    "removed": 0,
-    "modified": 0
+    "removed": 3,
+    "modified": 1
   },
   "changes": {
     "added": [],
-    "removed": [],
-    "modified": []
+    "removed": [
+      {
+        "id": "6a2a7a1b1644e0483a1806b9",
+        "number": null,
+        "title": "Samstagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-05",
+        "date_to": "2026-09-05",
+        "locations": [
+          "Heidelberg Hauptbahnhof S 2"
+        ],
+        "description": "Gimmeldingen, Weißer Stein, Bad Dürkheim (Schlusseinkehr)\n19,5 Km; 550 Hm: Gehzeit ca. 5,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 nach Neustadt\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7c392bf69ed3b7261223",
+        "number": null,
+        "title": "Mittwochswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-02",
+        "date_to": "2026-09-02",
+        "locations": [
+          "Heidelberg Hauptbahnhof RB 68"
+        ],
+        "description": "Hammelbach, Eselstein, Waldgaststätte Alt-Lechtern (Einkehr), Hammelbach\n7,5 Km;  180 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7cc2d044b6737a149557",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-04",
+        "date_to": "2026-09-04",
+        "locations": [
+          "Heidelberg Hauptbahnhof S 1"
+        ],
+        "description": "Neckargerach, Mülben, Höllgrund (Einkehr), Waldbrunn\n20 Km; 550 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung  Mosbach\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      }
+    ],
+    "modified": [
+      {
+        "id": "6a2a7d78d044b6737a149b70",
+        "changed_fields": [
+          "description",
+          "locations"
+        ],
+        "changes": {
+          "description": {
+            "from": "N.D.",
+            "to": "Zwingenberg, Margarethenschlucht, Mosbach (Schlusseinkehr)\n22 Km; 580 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Anmeldung nicht erforderlich-"
+          },
+          "locations": {
+            "from": [
+              "N.D."
+            ],
+            "to": [
+              "Heidelberg Hbf. S 2"
+            ]
+          }
+        },
+        "current": {
+          "id": "6a2a7d78d044b6737a149b70",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-18",
+          "date_to": "2026-09-18",
+          "locations": [
+            "Heidelberg Hbf. S 2"
+          ],
+          "description": "Zwingenberg, Margarethenschlucht, Mosbach (Schlusseinkehr)\n22 Km; 580 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a2a7d78d044b6737a149b72",
+          "bookable_start": "2026-09-18",
+          "bookable_end": "2026-09-18",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2a7d78d044b6737a149b70",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-18",
+          "date_to": "2026-09-18",
+          "locations": [
+            "N.D."
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a2a7d78d044b6737a149b72",
+          "bookable_start": "2026-09-18",
+          "bookable_end": "2026-09-18",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
