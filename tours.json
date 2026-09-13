@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-12T09:42:36.050632+00:00",
+  "timestamp": "2026-09-13T10:44:02.024942+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 76,
+  "tour_count": 71,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -55,28 +55,28 @@
       "bookable_canceled": false
     },
     {
-      "id": "69ba96eb0e088a97f50535aa",
-      "number": "260430Kl_G003",
-      "title": "Klettern Donautal",
+      "id": "69ba99aa7942a88da9fdfdf3",
+      "number": "2610_WAN_F_001",
+      "title": "Mehrtagestour in den Thüringer Wald",
       "type": "TOUR",
       "canceled": false,
       "cancel_reason": null,
       "categories": [
-        "Klettern"
+        "Wandern"
       ],
-      "date_from": "2026-04-30",
-      "date_to": "2026-05-03",
+      "date_from": "2026-10-11",
+      "date_to": "2026-10-17",
       "locations": [
-        "Donautal"
+        "Thüringer Wald"
       ],
-      "description": "Campingplatz Hausen im Tal Anreise PKW, privat organisiert Touren 4.-8. Grad, 1-3 Seillängen\nAnforderungen: Vorstieg IV+, Eigenständiges Sichern, Knotenkunde, Abseilen, Erfahrung in Mehrseillängen\nVorbesprechung: per Mail",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
+      "description": "Tageswanderungen im Thüringer Wald. Hin- und Rückfahrt mit der Bahn. Mit der DB von Heidelberg über Frankfurt nach Gotha, weiter mit der Thüringer Wald-Bahn von Gotha nach Bad Tabarz. Unterbringung in einem Hotel in Bad Tabarz. Von dort starten wir unsere Tagestouren. Die umliegenden Berge, wie den Großen Inselsberg erwandern wir teilweise über den Rennsteig, den Tabarzer Vulkansteig oder den Lutherweg. Eine Wanderung führt uns zur Wartburg und nach Eisenach mit Gelegenheit zur Besichtigung von Burg und Stadt.\nUm an verschiedene Ausgangs- und Endpunkte unserer Wanderungen zu gelangen, werden wir den dortigen ÖPNV mit dem Deutschlandticket und der Gästekarte nutzen.\n\nAnforderungen: 700 – 900 Hm, Gehzeiten ca. 6 – 7 Stunden.\nAusrüstung: Wanderkleidung (für jedes Wetter), festes Schuhwerk, Wanderstöcke, Rucksack.\nVorkenntnisse: keine\nAn- und Abreise: Deutsche Bahn (Gruppenfahrkarte), sowie ÖPNV\nUnterbringung: Hotel in Bad Tabarz.\nKosten: ÜN/F im DZ ca. 75 € pro Nacht und Person,\nUnterbringung in DZ / EZ\nTeilnehmerzahl: 8\nAnmeldung: ab sofort\nAnmeldeschluss: 20.06.2026\nVorbesprechung: Termin nach Absprache",
+      "bookable_id": "69ba99aa7942a88da9fdfdf5",
+      "bookable_start": "2026-10-11",
+      "bookable_end": "2026-10-17",
+      "free_places": 0,
+      "max_places": 12,
+      "bookable_places": 0,
+      "waitlist_active": true,
       "bookable_canceled": false
     },
     {
@@ -173,9 +173,9 @@
       "bookable_id": "69bc38bb9daefa4fefc19ab4",
       "bookable_start": "2026-10-18",
       "bookable_end": "2026-10-18",
-      "free_places": 25,
+      "free_places": 22,
       "max_places": 25,
-      "bookable_places": 25,
+      "bookable_places": 22,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -255,31 +255,6 @@
       "bookable_canceled": false
     },
     {
-      "id": "69bd2acaab300e5f4051fe15",
-      "number": "260327Kl_G001",
-      "title": "Anklettern am Battert",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Klettern"
-      ],
-      "date_from": "2026-03-27",
-      "date_to": "2026-03-29",
-      "locations": [
-        "Battert"
-      ],
-      "description": "Traditionelles Anklettern am Battert oberhalb von Baden-Baden. Die Veranstaltung findet bei jeder Witterung statt. Übernachtet, gekocht und gequatscht wird auf der Wiedenbachhütte.\nAnforderungen: Vorstieg V, eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
       "id": "69bd2f0a9daefa4fefd83f7e",
       "number": "260327Ski_F002",
       "title": "Skitouren Großer Sankt Bernhard Pass / Walliser Alpen / Schweiz (Skitouren",
@@ -330,31 +305,6 @@
       "bookable_canceled": false
     },
     {
-      "id": "69bd3cc6d2ab4b4e9477e806",
-      "number": "260410Kl_G002",
-      "title": "Klettern im Battert und Kochen auf der Wiedenbachhütte",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Klettern"
-      ],
-      "date_from": "2026-04-10",
-      "date_to": "2026-04-12",
-      "locations": [
-        "Wiedenbachhütte"
-      ],
-      "description": "Übernachtung auf der Wiedenbachhütte. Abends wird gemeinsam gekocht. Die Lebensmittelkosten werden auf alle Personen aufgeteilt.\nAnforderungen: Kletterkönnen Vorstieg, alpin 5; Grundkenntnisse im Umgang mit mobilen Sicherungen.\nBereitschaft und Können, den hoffentlich hochwertigen Essensplan gemeinsam auszuarbeiten und umzusetzen.",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
       "id": "69bd53cebd72746a9677450e",
       "number": "260510B_F005",
       "title": "ECO// 10.05.2026 Sportwanderung im Schwarzwald (für Frühaussteiger geeignet)",
@@ -370,31 +320,6 @@
         "Schwarzwald"
       ],
       "description": "Diese Tour eignet sich als Einstiegstour. Sie kann nach ca. 20-25 km abgebrochen werden (der Weg zur Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr geplant.\nAAnmeldeschluss: So, 03.05.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist. (ACHTUNG: das Portal erlaubt eine Anmeldung nur bis Samstag, 02.05.26)\nAnforderungen: Anforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
-      "id": "69bd5412bd72746a96774685",
-      "number": "260726Kl_G006",
-      "title": "Klettern im Donautal",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Klettern"
-      ],
-      "date_from": "2026-07-17",
-      "date_to": "2026-07-19",
-      "locations": [
-        "Donautal"
-      ],
-      "description": "Ein- und Mehrseillängenklettern\nÜbernachtung nach Verfügbarkeit: CP Sigmaringen, CP Beuron Hausen im Tal / Camping Buck Beuron / Campinggarten Leibertingen\nAnforderungen: Vorstieg V, Eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
       "bookable_id": null,
       "bookable_start": "",
       "bookable_end": "",
@@ -445,31 +370,6 @@
         "nn"
       ],
       "description": "Du liebst Mountainbiken und möchtest deine Kinder für den Sport begeistern? Bei unserer Familientour entdecken Kinder und Erwachsene zusammen einfache Wege und leichte Trails – und erleben, wie viel Spaß es macht, gemeinsam draußen mit dem Bike unterwegs zu sein. Was euch erwartet: •\tFamilienfreundliche Runde mit moderaten Höhenmetern und Zeit für Pausen •\tEinfache Wege und spielerische, leichte Trailabschnitte, kindgerecht erklärt •\tTipps zu Fahrtechnik für Groß und Klein (bremsen, Kurven, sichere Position) •\tFokus auf Sicherheit, Rücksicht und Spaß, damit alle sich wohlfühlen Die Tour richtet sich an Kinder, die bereits sicher Rad fahren können, und ihre Eltern. Tempo und Pausen passen wir der Gruppe an, damit sich alle wohlfühlen und niemand überfordert wird – mit dem Ziel, dass am Ende alle mit einem Lächeln vom Bike steigen. Wir treffen uns um 10 Uhr an einem ausgewählten Spot im Wald bzw. in der Natur. Der genaue Treffpunkt wird nach Anmeldeschluss bekannt gegeben.\nAnforderungen: •\tMountainbike •\tHelm (für Kinder empfehlen wir zusätzlich einen Integralhelm) •\tBrille und Handschuhe •\tKnie- und Ellenbogenprotektoren (falls vorhanden)",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
-      "id": "69bd5ccfbd72746a96778a45",
-      "number": "260724Kl_G007",
-      "title": "Klettern in Albbruck im Südschwarzwald",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Klettern"
-      ],
-      "date_from": "2026-07-24",
-      "date_to": "2026-07-26",
-      "locations": [
-        "Südschwarzwald"
-      ],
-      "description": "Anforderungen: Vorstieg V+",
       "bookable_id": null,
       "bookable_start": "",
       "bookable_end": "",
@@ -620,13 +520,13 @@
         "Pyrenäen"
       ],
       "description": "Mit dem Taxi fahren wir von Bagneres de Luchon nach Luchon Superbagneres. Von dort geht es über französche und spanische Hütten bis Gavarnie, das wir am Samstagvormittag (spät. 11 Uhr) erreichen. Diese Woche kann auch als Fortsetzung der Tour von Port de la Bonaigua bis Bagneres de Luchon (31. August – 4. September) gewandert werden. In diesem Fall machen wir in Bagneres einen Pausentag. Die Pyrenäen sind weniger überlaufen, als die Alpen. Die Hütten sind kleiner. Die Vegetation unterscheidet sich vor allem auf der spanischen Seite. Rechnet mit teilweise weglosem Gelände durch Geröll und Felsbrocken. Die Anreise gestalten wir individuell, da es sich bei dieser Entfernung anbietet, die Tour mit zusätzlichen Urlaubstagen z.B. am Meer zu verbinden. Anforderungen: Kondition für 21 km und bis zu 1500 HM Aufstieg oder auch mal 1300 Hm\nUnterkünfte: Bewirtete Berghütten in den französischen und spanischen Pyrenäen Verpflegung: Halbpension in den Hütten; Marschverpflegung kann meist in den Hütten erworben werden.\nVortreffen: Termin muss noch ausge",
-      "bookable_id": "69bd6bea4e9957bf1e340113",
-      "bookable_start": "2026-09-06",
-      "bookable_end": "2026-09-12",
-      "free_places": 0,
-      "max_places": 8,
-      "bookable_places": 0,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -930,6 +830,31 @@
       "bookable_canceled": false
     },
     {
+      "id": "6a1964e25fb8f73f00c41f94",
+      "number": "20260606MTB",
+      "title": "Mit dem Mountainbike  in den Pfälzerwald",
+      "type": "CUSTOM",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Mountainbike"
+      ],
+      "date_from": "2026-06-06",
+      "date_to": "2026-06-06",
+      "locations": [
+        "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
+      ],
+      "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
+      "bookable_canceled": false
+    },
+    {
       "id": "6a1966dd75bc005c63fc546f",
       "number": "2600705_MTB01",
       "title": "Mountainbiken für Familien – Gemeinsam auf leichten Trails unterwegs",
@@ -1005,56 +930,6 @@
       "bookable_canceled": false
     },
     {
-      "id": "69ba99aa7942a88da9fdfdf3",
-      "number": "2610_WAN_F_001",
-      "title": "Mehrtagestour in den Thüringer Wald",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-10-11",
-      "date_to": "2026-10-17",
-      "locations": [
-        "Thüringer Wald"
-      ],
-      "description": "Tageswanderungen im Thüringer Wald. Hin- und Rückfahrt mit der Bahn. Mit der DB von Heidelberg über Frankfurt nach Gotha, weiter mit der Thüringer Wald-Bahn von Gotha nach Bad Tabarz. Unterbringung in einem Hotel in Bad Tabarz. Von dort starten wir unsere Tagestouren. Die umliegenden Berge, wie den Großen Inselsberg erwandern wir teilweise über den Rennsteig, den Tabarzer Vulkansteig oder den Lutherweg. Eine Wanderung führt uns zur Wartburg und nach Eisenach mit Gelegenheit zur Besichtigung von Burg und Stadt.\nUm an verschiedene Ausgangs- und Endpunkte unserer Wanderungen zu gelangen, werden wir den dortigen ÖPNV mit dem Deutschlandticket und der Gästekarte nutzen.\n\nAnforderungen: 700 – 900 Hm, Gehzeiten ca. 6 – 7 Stunden.\nAusrüstung: Wanderkleidung (für jedes Wetter), festes Schuhwerk, Wanderstöcke, Rucksack.\nVorkenntnisse: keine\nAn- und Abreise: Deutsche Bahn (Gruppenfahrkarte), sowie ÖPNV\nUnterbringung: Hotel in Bad Tabarz.\nKosten: ÜN/F im DZ ca. 75 € pro Nacht und Person,\nUnterbringung in DZ / EZ\nTeilnehmerzahl: 8\nAnmeldung: ab sofort\nAnmeldeschluss: 20.06.2026\nVorbesprechung: Termin nach Absprache",
-      "bookable_id": "69ba99aa7942a88da9fdfdf5",
-      "bookable_start": "2026-10-11",
-      "bookable_end": "2026-10-17",
-      "free_places": 0,
-      "max_places": 12,
-      "bookable_places": 0,
-      "waitlist_active": true,
-      "bookable_canceled": false
-    },
-    {
-      "id": "6a1964e25fb8f73f00c41f94",
-      "number": "20260606MTB",
-      "title": "Mit dem Mountainbike  in den Pfälzerwald",
-      "type": "CUSTOM",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Mountainbike"
-      ],
-      "date_from": "2026-06-06",
-      "date_to": "2026-06-06",
-      "locations": [
-        "Heidelberg Hauptbahnhof, Willy-Brandt-Platz, Heidelberg-Weststadt, Deutschland"
-      ],
-      "description": "Gemeinsame Anreise mit der S-Bahn nach Neustadt. Von dort starten wir zu einer sportlichen Mountainbike-Tour auf ausgewählten Trails im Pfälzerwald.\nDie Tour führt über abwechslungsreiche Anstiege, technisch interessante Trailpassagen und längere Abfahrten in anspruchsvollem Gelände. Neben fahrtechnischen Herausforderungen erwarten uns beeindruckende Landschaften und klassische Pfälzer Trail-Highlights.\nJe nach Anzahl der Anmeldungen erfolgt eine Einteilung in mehrere Leistungsgruppen.\nDetails zu Treffpunkt, Streckenverlauf, Distanz, Höhenmetern und technischen Anforderungen werden zeitnah bekannt gegeben.\n\nVoraussetzungen: Gute Kondition, sichere Fahrtechnik auf Singletrails sowie ein technisch einwandfreies Mountainbike.\n\nKontakt martin.groeger@alpenverein-heidelberg.de",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
       "id": "6a292a1d51b966ad6f143130",
       "number": null,
       "title": "In-Between-Gruppe Sonntagswanderung",
@@ -1076,31 +951,6 @@
       "free_places": 2,
       "max_places": 10,
       "bookable_places": 2,
-      "waitlist_active": true,
-      "bookable_canceled": false
-    },
-    {
-      "id": "6a2961f21644e0483a1193f3",
-      "number": null,
-      "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Natur- und Umweltschutz"
-      ],
-      "date_from": "2026-10-22",
-      "date_to": "2026-10-26",
-      "locations": [
-        "Tenno, Trentino"
-      ],
-      "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
-      "bookable_id": "6a2961f21644e0483a1193f5",
-      "bookable_start": "2026-10-22",
-      "bookable_end": "2026-10-26",
-      "free_places": 4,
-      "max_places": 8,
-      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1151,6 +1001,31 @@
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a2961f21644e0483a1193f3",
+      "number": null,
+      "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Natur- und Umweltschutz"
+      ],
+      "date_from": "2026-10-22",
+      "date_to": "2026-10-26",
+      "locations": [
+        "Tenno, Trentino"
+      ],
+      "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
+      "bookable_id": "6a2961f21644e0483a1193f5",
+      "bookable_start": "2026-10-22",
+      "bookable_end": "2026-10-26",
+      "free_places": 4,
+      "max_places": 8,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },

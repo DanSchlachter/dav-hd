@@ -1,124 +1,265 @@
 {
-  "timestamp": "2026-09-12T09:42:36.056460+00:00",
-  "previous_timestamp": "2026-09-10T10:10:27.834089+00:00",
+  "timestamp": "2026-09-13T10:44:02.029020+00:00",
+  "previous_timestamp": "2026-09-12T09:42:36.050632+00:00",
   "summary": {
     "added": 0,
-    "removed": 0,
+    "removed": 5,
     "modified": 2
   },
   "changes": {
     "added": [],
-    "removed": [],
+    "removed": [
+      {
+        "id": "69ba96eb0e088a97f50535aa",
+        "number": "260430Kl_G003",
+        "title": "Klettern Donautal",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Klettern"
+        ],
+        "date_from": "2026-04-30",
+        "date_to": "2026-05-03",
+        "locations": [
+          "Donautal"
+        ],
+        "description": "Campingplatz Hausen im Tal Anreise PKW, privat organisiert Touren 4.-8. Grad, 1-3 Seillängen\nAnforderungen: Vorstieg IV+, Eigenständiges Sichern, Knotenkunde, Abseilen, Erfahrung in Mehrseillängen\nVorbesprechung: per Mail",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "69bd2acaab300e5f4051fe15",
+        "number": "260327Kl_G001",
+        "title": "Anklettern am Battert",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Klettern"
+        ],
+        "date_from": "2026-03-27",
+        "date_to": "2026-03-29",
+        "locations": [
+          "Battert"
+        ],
+        "description": "Traditionelles Anklettern am Battert oberhalb von Baden-Baden. Die Veranstaltung findet bei jeder Witterung statt. Übernachtet, gekocht und gequatscht wird auf der Wiedenbachhütte.\nAnforderungen: Vorstieg V, eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "69bd3cc6d2ab4b4e9477e806",
+        "number": "260410Kl_G002",
+        "title": "Klettern im Battert und Kochen auf der Wiedenbachhütte",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Klettern"
+        ],
+        "date_from": "2026-04-10",
+        "date_to": "2026-04-12",
+        "locations": [
+          "Wiedenbachhütte"
+        ],
+        "description": "Übernachtung auf der Wiedenbachhütte. Abends wird gemeinsam gekocht. Die Lebensmittelkosten werden auf alle Personen aufgeteilt.\nAnforderungen: Kletterkönnen Vorstieg, alpin 5; Grundkenntnisse im Umgang mit mobilen Sicherungen.\nBereitschaft und Können, den hoffentlich hochwertigen Essensplan gemeinsam auszuarbeiten und umzusetzen.",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "69bd5412bd72746a96774685",
+        "number": "260726Kl_G006",
+        "title": "Klettern im Donautal",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Klettern"
+        ],
+        "date_from": "2026-07-17",
+        "date_to": "2026-07-19",
+        "locations": [
+          "Donautal"
+        ],
+        "description": "Ein- und Mehrseillängenklettern\nÜbernachtung nach Verfügbarkeit: CP Sigmaringen, CP Beuron Hausen im Tal / Camping Buck Beuron / Campinggarten Leibertingen\nAnforderungen: Vorstieg V, Eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "69bd5ccfbd72746a96778a45",
+        "number": "260724Kl_G007",
+        "title": "Klettern in Albbruck im Südschwarzwald",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Klettern"
+        ],
+        "date_from": "2026-07-24",
+        "date_to": "2026-07-26",
+        "locations": [
+          "Südschwarzwald"
+        ],
+        "description": "Anforderungen: Vorstieg V+",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      }
+    ],
     "modified": [
       {
-        "id": "6a292a1d51b966ad6f143130",
+        "id": "69bc38bb9daefa4fefc19ab1",
         "changed_fields": [
-          "bookable_places",
-          "free_places"
+          "free_places",
+          "bookable_places"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 3,
-            "to": 2
-          },
           "free_places": {
-            "from": 3,
-            "to": 2
+            "from": 25,
+            "to": 22
+          },
+          "bookable_places": {
+            "from": 25,
+            "to": 22
           }
         },
         "current": {
-          "id": "6a292a1d51b966ad6f143130",
-          "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
+          "id": "69bc38bb9daefa4fefc19ab1",
+          "number": "261018FAM_F001",
+          "title": "Tagestour",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-09-20",
-          "date_to": "2026-09-20",
+          "date_from": "2026-10-18",
+          "date_to": "2026-10-18",
           "locations": [
-            "Schwanheim, Pfalz"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
-          "bookable_id": "6a292a1d51b966ad6f143133",
-          "bookable_start": "2026-09-20",
-          "bookable_end": "2026-09-20",
-          "free_places": 2,
-          "max_places": 10,
-          "bookable_places": 2,
+          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
+          "bookable_id": "69bc38bb9daefa4fefc19ab4",
+          "bookable_start": "2026-10-18",
+          "bookable_end": "2026-10-18",
+          "free_places": 22,
+          "max_places": 25,
+          "bookable_places": 22,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a292a1d51b966ad6f143130",
-          "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
+          "id": "69bc38bb9daefa4fefc19ab1",
+          "number": "261018FAM_F001",
+          "title": "Tagestour",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-09-20",
-          "date_to": "2026-09-20",
+          "date_from": "2026-10-18",
+          "date_to": "2026-10-18",
           "locations": [
-            "Schwanheim, Pfalz"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
-          "bookable_id": "6a292a1d51b966ad6f143133",
-          "bookable_start": "2026-09-20",
-          "bookable_end": "2026-09-20",
-          "free_places": 3,
-          "max_places": 10,
-          "bookable_places": 3,
+          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
+          "bookable_id": "69bc38bb9daefa4fefc19ab4",
+          "bookable_start": "2026-10-18",
+          "bookable_end": "2026-10-18",
+          "free_places": 25,
+          "max_places": 25,
+          "bookable_places": 25,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6a2a7d231644e0483a181fdb",
+        "id": "69bd6be94e9957bf1e340111",
         "changed_fields": [
-          "bookable_id",
+          "bookable_end",
+          "free_places",
           "waitlist_active",
+          "max_places",
+          "bookable_id",
           "bookable_start",
-          "bookable_end"
+          "bookable_places"
         ],
         "changes": {
-          "bookable_id": {
-            "from": "6a2a7d231644e0483a181fdd",
+          "bookable_end": {
+            "from": "2026-09-12",
+            "to": ""
+          },
+          "free_places": {
+            "from": 0,
             "to": null
           },
           "waitlist_active": {
             "from": true,
             "to": null
           },
+          "max_places": {
+            "from": 8,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "69bd6bea4e9957bf1e340113",
+            "to": null
+          },
           "bookable_start": {
-            "from": "2026-09-11",
+            "from": "2026-09-06",
             "to": ""
           },
-          "bookable_end": {
-            "from": "2026-09-11",
-            "to": ""
+          "bookable_places": {
+            "from": 0,
+            "to": null
           }
         },
         "current": {
-          "id": "6a2a7d231644e0483a181fdb",
-          "number": null,
-          "title": "Freitagswanderung",
+          "id": "69bd6be94e9957bf1e340111",
+          "number": "260906B_F008",
+          "title": "Hüttentour in den Pyrenäen",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Bergsteigen"
           ],
-          "date_from": "2026-09-11",
-          "date_to": "2026-09-11",
+          "date_from": "2026-09-06",
+          "date_to": "2026-09-12",
           "locations": [
-            "Heidelberg Hbf S 1"
+            "Pyrenäen"
           ],
-          "description": "Neckarsteinach-Neckarhausen, Brauhnsruhe, Neckarsteinach-Mannheimerhütte (Einkehr), Neckarsteinach Bahnhof.\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken.\nWanderführer steigt in Neckarsteinach Bahnhof zu.\n-Anmeldung nicht erforderlich-",
+          "description": "Mit dem Taxi fahren wir von Bagneres de Luchon nach Luchon Superbagneres. Von dort geht es über französche und spanische Hütten bis Gavarnie, das wir am Samstagvormittag (spät. 11 Uhr) erreichen. Diese Woche kann auch als Fortsetzung der Tour von Port de la Bonaigua bis Bagneres de Luchon (31. August – 4. September) gewandert werden. In diesem Fall machen wir in Bagneres einen Pausentag. Die Pyrenäen sind weniger überlaufen, als die Alpen. Die Hütten sind kleiner. Die Vegetation unterscheidet sich vor allem auf der spanischen Seite. Rechnet mit teilweise weglosem Gelände durch Geröll und Felsbrocken. Die Anreise gestalten wir individuell, da es sich bei dieser Entfernung anbietet, die Tour mit zusätzlichen Urlaubstagen z.B. am Meer zu verbinden. Anforderungen: Kondition für 21 km und bis zu 1500 HM Aufstieg oder auch mal 1300 Hm\nUnterkünfte: Bewirtete Berghütten in den französischen und spanischen Pyrenäen Verpflegung: Halbpension in den Hütten; Marschverpflegung kann meist in den Hütten erworben werden.\nVortreffen: Termin muss noch ausge",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -129,27 +270,27 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a2a7d231644e0483a181fdb",
-          "number": null,
-          "title": "Freitagswanderung",
+          "id": "69bd6be94e9957bf1e340111",
+          "number": "260906B_F008",
+          "title": "Hüttentour in den Pyrenäen",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Bergsteigen"
           ],
-          "date_from": "2026-09-11",
-          "date_to": "2026-09-11",
+          "date_from": "2026-09-06",
+          "date_to": "2026-09-12",
           "locations": [
-            "Heidelberg Hbf S 1"
+            "Pyrenäen"
           ],
-          "description": "Neckarsteinach-Neckarhausen, Brauhnsruhe, Neckarsteinach-Mannheimerhütte (Einkehr), Neckarsteinach Bahnhof.\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken.\nWanderführer steigt in Neckarsteinach Bahnhof zu.\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a2a7d231644e0483a181fdd",
-          "bookable_start": "2026-09-11",
-          "bookable_end": "2026-09-11",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Mit dem Taxi fahren wir von Bagneres de Luchon nach Luchon Superbagneres. Von dort geht es über französche und spanische Hütten bis Gavarnie, das wir am Samstagvormittag (spät. 11 Uhr) erreichen. Diese Woche kann auch als Fortsetzung der Tour von Port de la Bonaigua bis Bagneres de Luchon (31. August – 4. September) gewandert werden. In diesem Fall machen wir in Bagneres einen Pausentag. Die Pyrenäen sind weniger überlaufen, als die Alpen. Die Hütten sind kleiner. Die Vegetation unterscheidet sich vor allem auf der spanischen Seite. Rechnet mit teilweise weglosem Gelände durch Geröll und Felsbrocken. Die Anreise gestalten wir individuell, da es sich bei dieser Entfernung anbietet, die Tour mit zusätzlichen Urlaubstagen z.B. am Meer zu verbinden. Anforderungen: Kondition für 21 km und bis zu 1500 HM Aufstieg oder auch mal 1300 Hm\nUnterkünfte: Bewirtete Berghütten in den französischen und spanischen Pyrenäen Verpflegung: Halbpension in den Hütten; Marschverpflegung kann meist in den Hütten erworben werden.\nVortreffen: Termin muss noch ausge",
+          "bookable_id": "69bd6bea4e9957bf1e340113",
+          "bookable_start": "2026-09-06",
+          "bookable_end": "2026-09-12",
+          "free_places": 0,
+          "max_places": 8,
+          "bookable_places": 0,
           "waitlist_active": true,
           "bookable_canceled": false
         }
