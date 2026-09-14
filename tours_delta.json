@@ -1,265 +1,72 @@
 {
-  "timestamp": "2026-09-13T10:44:02.029020+00:00",
-  "previous_timestamp": "2026-09-12T09:42:36.050632+00:00",
+  "timestamp": "2026-09-14T11:07:40.871360+00:00",
+  "previous_timestamp": "2026-09-13T10:44:02.024942+00:00",
   "summary": {
     "added": 0,
-    "removed": 5,
-    "modified": 2
+    "removed": 0,
+    "modified": 3
   },
   "changes": {
     "added": [],
-    "removed": [
-      {
-        "id": "69ba96eb0e088a97f50535aa",
-        "number": "260430Kl_G003",
-        "title": "Klettern Donautal",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Klettern"
-        ],
-        "date_from": "2026-04-30",
-        "date_to": "2026-05-03",
-        "locations": [
-          "Donautal"
-        ],
-        "description": "Campingplatz Hausen im Tal Anreise PKW, privat organisiert Touren 4.-8. Grad, 1-3 Seillängen\nAnforderungen: Vorstieg IV+, Eigenständiges Sichern, Knotenkunde, Abseilen, Erfahrung in Mehrseillängen\nVorbesprechung: per Mail",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69bd2acaab300e5f4051fe15",
-        "number": "260327Kl_G001",
-        "title": "Anklettern am Battert",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Klettern"
-        ],
-        "date_from": "2026-03-27",
-        "date_to": "2026-03-29",
-        "locations": [
-          "Battert"
-        ],
-        "description": "Traditionelles Anklettern am Battert oberhalb von Baden-Baden. Die Veranstaltung findet bei jeder Witterung statt. Übernachtet, gekocht und gequatscht wird auf der Wiedenbachhütte.\nAnforderungen: Vorstieg V, eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69bd3cc6d2ab4b4e9477e806",
-        "number": "260410Kl_G002",
-        "title": "Klettern im Battert und Kochen auf der Wiedenbachhütte",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Klettern"
-        ],
-        "date_from": "2026-04-10",
-        "date_to": "2026-04-12",
-        "locations": [
-          "Wiedenbachhütte"
-        ],
-        "description": "Übernachtung auf der Wiedenbachhütte. Abends wird gemeinsam gekocht. Die Lebensmittelkosten werden auf alle Personen aufgeteilt.\nAnforderungen: Kletterkönnen Vorstieg, alpin 5; Grundkenntnisse im Umgang mit mobilen Sicherungen.\nBereitschaft und Können, den hoffentlich hochwertigen Essensplan gemeinsam auszuarbeiten und umzusetzen.",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69bd5412bd72746a96774685",
-        "number": "260726Kl_G006",
-        "title": "Klettern im Donautal",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Klettern"
-        ],
-        "date_from": "2026-07-17",
-        "date_to": "2026-07-19",
-        "locations": [
-          "Donautal"
-        ],
-        "description": "Ein- und Mehrseillängenklettern\nÜbernachtung nach Verfügbarkeit: CP Sigmaringen, CP Beuron Hausen im Tal / Camping Buck Beuron / Campinggarten Leibertingen\nAnforderungen: Vorstieg V, Eigenverantwortliches Klettern, Umgang mit mobilen Sicherungsgeräten",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "69bd5ccfbd72746a96778a45",
-        "number": "260724Kl_G007",
-        "title": "Klettern in Albbruck im Südschwarzwald",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Klettern"
-        ],
-        "date_from": "2026-07-24",
-        "date_to": "2026-07-26",
-        "locations": [
-          "Südschwarzwald"
-        ],
-        "description": "Anforderungen: Vorstieg V+",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      }
-    ],
+    "removed": [],
     "modified": [
       {
-        "id": "69bc38bb9daefa4fefc19ab1",
+        "id": "69bc38319daefa4fefc181b0",
         "changed_fields": [
           "free_places",
-          "bookable_places"
+          "bookable_places",
+          "bookable_start",
+          "bookable_end",
+          "bookable_id",
+          "max_places",
+          "waitlist_active"
         ],
         "changes": {
           "free_places": {
-            "from": 25,
-            "to": 22
+            "from": 17,
+            "to": null
           },
           "bookable_places": {
-            "from": 25,
-            "to": 22
-          }
-        },
-        "current": {
-          "id": "69bc38bb9daefa4fefc19ab1",
-          "number": "261018FAM_F001",
-          "title": "Tagestour",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Familienbergsteigen"
-          ],
-          "date_from": "2026-10-18",
-          "date_to": "2026-10-18",
-          "locations": [
-            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
-          ],
-          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
-          "bookable_id": "69bc38bb9daefa4fefc19ab4",
-          "bookable_start": "2026-10-18",
-          "bookable_end": "2026-10-18",
-          "free_places": 22,
-          "max_places": 25,
-          "bookable_places": 22,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69bc38bb9daefa4fefc19ab1",
-          "number": "261018FAM_F001",
-          "title": "Tagestour",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Familienbergsteigen"
-          ],
-          "date_from": "2026-10-18",
-          "date_to": "2026-10-18",
-          "locations": [
-            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
-          ],
-          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
-          "bookable_id": "69bc38bb9daefa4fefc19ab4",
-          "bookable_start": "2026-10-18",
-          "bookable_end": "2026-10-18",
-          "free_places": 25,
-          "max_places": 25,
-          "bookable_places": 25,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "69bd6be94e9957bf1e340111",
-        "changed_fields": [
-          "bookable_end",
-          "free_places",
-          "waitlist_active",
-          "max_places",
-          "bookable_id",
-          "bookable_start",
-          "bookable_places"
-        ],
-        "changes": {
-          "bookable_end": {
-            "from": "2026-09-12",
+            "from": 17,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-09-09",
             "to": ""
           },
-          "free_places": {
-            "from": 0,
+          "bookable_end": {
+            "from": "2026-09-13",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "69bc38319daefa4fefc181b2",
+            "to": null
+          },
+          "max_places": {
+            "from": 25,
             "to": null
           },
           "waitlist_active": {
             "from": true,
             "to": null
-          },
-          "max_places": {
-            "from": 8,
-            "to": null
-          },
-          "bookable_id": {
-            "from": "69bd6bea4e9957bf1e340113",
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-09-06",
-            "to": ""
-          },
-          "bookable_places": {
-            "from": 0,
-            "to": null
           }
         },
         "current": {
-          "id": "69bd6be94e9957bf1e340111",
-          "number": "260906B_F008",
-          "title": "Hüttentour in den Pyrenäen",
+          "id": "69bc38319daefa4fefc181b0",
+          "number": "260909FAM_F001",
+          "title": "5 Tage in den Alpen – Klettersteige und Wanderungen rund um Adelboden",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Bergsteigen"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-09-06",
-          "date_to": "2026-09-12",
+          "date_from": "2026-09-09",
+          "date_to": "2026-09-13",
           "locations": [
-            "Pyrenäen"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Mit dem Taxi fahren wir von Bagneres de Luchon nach Luchon Superbagneres. Von dort geht es über französche und spanische Hütten bis Gavarnie, das wir am Samstagvormittag (spät. 11 Uhr) erreichen. Diese Woche kann auch als Fortsetzung der Tour von Port de la Bonaigua bis Bagneres de Luchon (31. August – 4. September) gewandert werden. In diesem Fall machen wir in Bagneres einen Pausentag. Die Pyrenäen sind weniger überlaufen, als die Alpen. Die Hütten sind kleiner. Die Vegetation unterscheidet sich vor allem auf der spanischen Seite. Rechnet mit teilweise weglosem Gelände durch Geröll und Felsbrocken. Die Anreise gestalten wir individuell, da es sich bei dieser Entfernung anbietet, die Tour mit zusätzlichen Urlaubstagen z.B. am Meer zu verbinden. Anforderungen: Kondition für 21 km und bis zu 1500 HM Aufstieg oder auch mal 1300 Hm\nUnterkünfte: Bewirtete Berghütten in den französischen und spanischen Pyrenäen Verpflegung: Halbpension in den Hütten; Marschverpflegung kann meist in den Hütten erworben werden.\nVortreffen: Termin muss noch ausge",
+          "description": "Fünf abwechslungsreiche Tage im Berner Oberland erwarten uns rund um Adelboden. Je nach Lust, Erfahrung und Können ist die Teilnahme sowohl für Familien mit Klettersteig-Erfahrung als auch für Familien möglich, die lieber auf Wanderwegen in den Bergen unterwegs sind. So verbinden wir gemeinsame alpine Erlebnisse mit der Möglichkeit, die Umgebung mit oder ohne Klettersteig zu genießen.\n\nUns erwarten eindrucksvolle Berglandschaften, abwechslungsreiche Touren und schöne gemeinsame Tage in der DAV-Familiengruppe. Für geübte Teilnehmende bieten sich Klettersteige mit luftigen Passagen und alpinem Charakter an, während alle anderen die Region auf Wanderungen und leichteren Bergtouren erleben können.\n\nOrt: Adelboden, Berner Oberland, Schweiz\n\nAnforderungen: Für Klettersteige: Grundkenntnisse im Klettersteiggehen und gute Kondition.  Für Wanderungen: Trittsicherheit und normale Bergwandererfahrung. Teilnahme für Kinder ab 8 Jahren\n\nAnreise: im eigenen Pkw, gern in Fahrgemeinschaften\n\nTourenlänge: je nach Tour bis zu ca. 8 Std. / typischerweise bis zu 10 km\n\nUnterkunft: Selbstversorgerhaus, gemeinsame Verpflegung\n\nKosten (ca.): 200,00 € für Erwachsene / 150,00 € für Kinder bis 15 Jahren\n\nDie Verantwortung liegt bei den teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nDetailplanung und Info: per e-mail",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -270,27 +77,211 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69bd6be94e9957bf1e340111",
-          "number": "260906B_F008",
-          "title": "Hüttentour in den Pyrenäen",
+          "id": "69bc38319daefa4fefc181b0",
+          "number": "260909FAM_F001",
+          "title": "5 Tage in den Alpen – Klettersteige und Wanderungen rund um Adelboden",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Bergsteigen"
+            "Familienbergsteigen"
+          ],
+          "date_from": "2026-09-09",
+          "date_to": "2026-09-13",
+          "locations": [
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
+          ],
+          "description": "Fünf abwechslungsreiche Tage im Berner Oberland erwarten uns rund um Adelboden. Je nach Lust, Erfahrung und Können ist die Teilnahme sowohl für Familien mit Klettersteig-Erfahrung als auch für Familien möglich, die lieber auf Wanderwegen in den Bergen unterwegs sind. So verbinden wir gemeinsame alpine Erlebnisse mit der Möglichkeit, die Umgebung mit oder ohne Klettersteig zu genießen.\n\nUns erwarten eindrucksvolle Berglandschaften, abwechslungsreiche Touren und schöne gemeinsame Tage in der DAV-Familiengruppe. Für geübte Teilnehmende bieten sich Klettersteige mit luftigen Passagen und alpinem Charakter an, während alle anderen die Region auf Wanderungen und leichteren Bergtouren erleben können.\n\nOrt: Adelboden, Berner Oberland, Schweiz\n\nAnforderungen: Für Klettersteige: Grundkenntnisse im Klettersteiggehen und gute Kondition.  Für Wanderungen: Trittsicherheit und normale Bergwandererfahrung. Teilnahme für Kinder ab 8 Jahren\n\nAnreise: im eigenen Pkw, gern in Fahrgemeinschaften\n\nTourenlänge: je nach Tour bis zu ca. 8 Std. / typischerweise bis zu 10 km\n\nUnterkunft: Selbstversorgerhaus, gemeinsame Verpflegung\n\nKosten (ca.): 200,00 € für Erwachsene / 150,00 € für Kinder bis 15 Jahren\n\nDie Verantwortung liegt bei den teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nDetailplanung und Info: per e-mail",
+          "bookable_id": "69bc38319daefa4fefc181b2",
+          "bookable_start": "2026-09-09",
+          "bookable_end": "2026-09-13",
+          "free_places": 17,
+          "max_places": 25,
+          "bookable_places": 17,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69bd761f4e9957bf1e34b337",
+        "changed_fields": [
+          "free_places",
+          "bookable_places",
+          "bookable_start",
+          "bookable_end",
+          "bookable_id",
+          "max_places",
+          "waitlist_active"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 1,
+            "to": null
+          },
+          "bookable_places": {
+            "from": 1,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-09-05",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-09-13",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "69bd761f4e9957bf1e34b3f8",
+            "to": null
+          },
+          "max_places": {
+            "from": 10,
+            "to": null
+          },
+          "waitlist_active": {
+            "from": false,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "69bd761f4e9957bf1e34b337",
+          "number": "260905MTB_F010",
+          "title": "Mountainbike La Grande Travesée des Hautes Alpe",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-09-05",
+          "date_to": "2026-09-13",
+          "locations": [
+            "nn"
+          ],
+          "description": "Traumhafte Berge, herrliche Trails, leckeres Essen – die Grande Traversée des Hautes Alpes (GTHA) ist eine anspruchsvolle alpine Tour in den französischen Alpen, die viel Fahrspaß und Genuss verspricht. Insgesamt warten auf uns rund 200 Kilometer, etwa 8.500 Höhenmeter Anstieg und 9.600 Höhenmeter Abfahrt, das alles vorwiegend auf Singletrails in alpiner Landschaft. Pro Tag sind es etwa 30 bis 40 Kilometer und 1200 bis 1600 Höhenmeter. Neben dem Fahrspaß wollen wir auch die Landschaft genießen und uns Zeit für Fotos Badepausen gönnen. Am letzten Tag fahren wir ein Stück auf der GTHA bis Chorges und von dort mit der Bahn nach Briançon. Von Briançon radeln wir gemächlich das letzte Stück zurück zum Startpunkt.Ihr solltet gute Fitness und solide Fahrtechnik mitbringen.\nAnforderungen: S3 und K3",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd761f4e9957bf1e34b337",
+          "number": "260905MTB_F010",
+          "title": "Mountainbike La Grande Travesée des Hautes Alpe",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-09-05",
+          "date_to": "2026-09-13",
+          "locations": [
+            "nn"
+          ],
+          "description": "Traumhafte Berge, herrliche Trails, leckeres Essen – die Grande Traversée des Hautes Alpes (GTHA) ist eine anspruchsvolle alpine Tour in den französischen Alpen, die viel Fahrspaß und Genuss verspricht. Insgesamt warten auf uns rund 200 Kilometer, etwa 8.500 Höhenmeter Anstieg und 9.600 Höhenmeter Abfahrt, das alles vorwiegend auf Singletrails in alpiner Landschaft. Pro Tag sind es etwa 30 bis 40 Kilometer und 1200 bis 1600 Höhenmeter. Neben dem Fahrspaß wollen wir auch die Landschaft genießen und uns Zeit für Fotos Badepausen gönnen. Am letzten Tag fahren wir ein Stück auf der GTHA bis Chorges und von dort mit der Bahn nach Briançon. Von Briançon radeln wir gemächlich das letzte Stück zurück zum Startpunkt.Ihr solltet gute Fitness und solide Fahrtechnik mitbringen.\nAnforderungen: S3 und K3",
+          "bookable_id": "69bd761f4e9957bf1e34b3f8",
+          "bookable_start": "2026-09-05",
+          "bookable_end": "2026-09-13",
+          "free_places": 1,
+          "max_places": 10,
+          "bookable_places": 1,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69e1ebfa6fdf546c6f73874f",
+        "changed_fields": [
+          "free_places",
+          "bookable_places",
+          "bookable_start",
+          "bookable_end",
+          "bookable_id",
+          "max_places",
+          "waitlist_active"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 3,
+            "to": null
+          },
+          "bookable_places": {
+            "from": 3,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-09-06",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-09-13",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "69e1ebfa6fdf546c6f738751",
+            "to": null
+          },
+          "max_places": {
+            "from": 6,
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "69e1ebfa6fdf546c6f73874f",
+          "number": "20260906MTB01",
+          "title": "Stilfserjoch und 3-Länder-Enduro",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
           ],
           "date_from": "2026-09-06",
-          "date_to": "2026-09-12",
+          "date_to": "2026-09-13",
           "locations": [
-            "Pyrenäen"
+            "Stilfser Joch, Stilfs, Autonome Provinz Bozen - Südtirol, Italien"
           ],
-          "description": "Mit dem Taxi fahren wir von Bagneres de Luchon nach Luchon Superbagneres. Von dort geht es über französche und spanische Hütten bis Gavarnie, das wir am Samstagvormittag (spät. 11 Uhr) erreichen. Diese Woche kann auch als Fortsetzung der Tour von Port de la Bonaigua bis Bagneres de Luchon (31. August – 4. September) gewandert werden. In diesem Fall machen wir in Bagneres einen Pausentag. Die Pyrenäen sind weniger überlaufen, als die Alpen. Die Hütten sind kleiner. Die Vegetation unterscheidet sich vor allem auf der spanischen Seite. Rechnet mit teilweise weglosem Gelände durch Geröll und Felsbrocken. Die Anreise gestalten wir individuell, da es sich bei dieser Entfernung anbietet, die Tour mit zusätzlichen Urlaubstagen z.B. am Meer zu verbinden. Anforderungen: Kondition für 21 km und bis zu 1500 HM Aufstieg oder auch mal 1300 Hm\nUnterkünfte: Bewirtete Berghütten in den französischen und spanischen Pyrenäen Verpflegung: Halbpension in den Hütten; Marschverpflegung kann meist in den Hütten erworben werden.\nVortreffen: Termin muss noch ausge",
-          "bookable_id": "69bd6bea4e9957bf1e340113",
+          "description": "Vom 6.-13. September geht es für uns hoch hinaus aufs Stilfserjoch, wir befahren den legendären Holy Hansen Trail, erfreuen uns an den Strecken im Vinschgau rund um Prad. Als goldener Abschluss geht es an den Reschensee um dort die 3-Länder-Endurostrecken zu erkunden. \nAnforderung: bis zu 1500 hm pedalieren, auch mit Schiebe- und \nTragepassagen. Schwindelfreiheit ist erforderlich und fortgeschrittene Fahrtechnik.",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69e1ebfa6fdf546c6f73874f",
+          "number": "20260906MTB01",
+          "title": "Stilfserjoch und 3-Länder-Enduro",
+          "type": "CUSTOM",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Mountainbike"
+          ],
+          "date_from": "2026-09-06",
+          "date_to": "2026-09-13",
+          "locations": [
+            "Stilfser Joch, Stilfs, Autonome Provinz Bozen - Südtirol, Italien"
+          ],
+          "description": "Vom 6.-13. September geht es für uns hoch hinaus aufs Stilfserjoch, wir befahren den legendären Holy Hansen Trail, erfreuen uns an den Strecken im Vinschgau rund um Prad. Als goldener Abschluss geht es an den Reschensee um dort die 3-Länder-Endurostrecken zu erkunden. \nAnforderung: bis zu 1500 hm pedalieren, auch mit Schiebe- und \nTragepassagen. Schwindelfreiheit ist erforderlich und fortgeschrittene Fahrtechnik.",
+          "bookable_id": "69e1ebfa6fdf546c6f738751",
           "bookable_start": "2026-09-06",
-          "bookable_end": "2026-09-12",
-          "free_places": 0,
-          "max_places": 8,
-          "bookable_places": 0,
+          "bookable_end": "2026-09-13",
+          "free_places": 3,
+          "max_places": 6,
+          "bookable_places": 3,
           "waitlist_active": true,
           "bookable_canceled": false
         }

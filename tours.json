@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-13T10:44:02.024942+00:00",
+  "timestamp": "2026-09-14T11:07:40.866719+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 71,
   "tours": [
@@ -145,13 +145,13 @@
         "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
       ],
       "description": "Fünf abwechslungsreiche Tage im Berner Oberland erwarten uns rund um Adelboden. Je nach Lust, Erfahrung und Können ist die Teilnahme sowohl für Familien mit Klettersteig-Erfahrung als auch für Familien möglich, die lieber auf Wanderwegen in den Bergen unterwegs sind. So verbinden wir gemeinsame alpine Erlebnisse mit der Möglichkeit, die Umgebung mit oder ohne Klettersteig zu genießen.\n\nUns erwarten eindrucksvolle Berglandschaften, abwechslungsreiche Touren und schöne gemeinsame Tage in der DAV-Familiengruppe. Für geübte Teilnehmende bieten sich Klettersteige mit luftigen Passagen und alpinem Charakter an, während alle anderen die Region auf Wanderungen und leichteren Bergtouren erleben können.\n\nOrt: Adelboden, Berner Oberland, Schweiz\n\nAnforderungen: Für Klettersteige: Grundkenntnisse im Klettersteiggehen und gute Kondition.  Für Wanderungen: Trittsicherheit und normale Bergwandererfahrung. Teilnahme für Kinder ab 8 Jahren\n\nAnreise: im eigenen Pkw, gern in Fahrgemeinschaften\n\nTourenlänge: je nach Tour bis zu ca. 8 Std. / typischerweise bis zu 10 km\n\nUnterkunft: Selbstversorgerhaus, gemeinsame Verpflegung\n\nKosten (ca.): 200,00 € für Erwachsene / 150,00 € für Kinder bis 15 Jahren\n\nDie Verantwortung liegt bei den teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nDetailplanung und Info: per e-mail",
-      "bookable_id": "69bc38319daefa4fefc181b2",
-      "bookable_start": "2026-09-09",
-      "bookable_end": "2026-09-13",
-      "free_places": 17,
-      "max_places": 25,
-      "bookable_places": 17,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -595,13 +595,13 @@
         "nn"
       ],
       "description": "Traumhafte Berge, herrliche Trails, leckeres Essen – die Grande Traversée des Hautes Alpes (GTHA) ist eine anspruchsvolle alpine Tour in den französischen Alpen, die viel Fahrspaß und Genuss verspricht. Insgesamt warten auf uns rund 200 Kilometer, etwa 8.500 Höhenmeter Anstieg und 9.600 Höhenmeter Abfahrt, das alles vorwiegend auf Singletrails in alpiner Landschaft. Pro Tag sind es etwa 30 bis 40 Kilometer und 1200 bis 1600 Höhenmeter. Neben dem Fahrspaß wollen wir auch die Landschaft genießen und uns Zeit für Fotos Badepausen gönnen. Am letzten Tag fahren wir ein Stück auf der GTHA bis Chorges und von dort mit der Bahn nach Briançon. Von Briançon radeln wir gemächlich das letzte Stück zurück zum Startpunkt.Ihr solltet gute Fitness und solide Fahrtechnik mitbringen.\nAnforderungen: S3 und K3",
-      "bookable_id": "69bd761f4e9957bf1e34b3f8",
-      "bookable_start": "2026-09-05",
-      "bookable_end": "2026-09-13",
-      "free_places": 1,
-      "max_places": 10,
-      "bookable_places": 1,
-      "waitlist_active": false,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -770,13 +770,13 @@
         "Stilfser Joch, Stilfs, Autonome Provinz Bozen - Südtirol, Italien"
       ],
       "description": "Vom 6.-13. September geht es für uns hoch hinaus aufs Stilfserjoch, wir befahren den legendären Holy Hansen Trail, erfreuen uns an den Strecken im Vinschgau rund um Prad. Als goldener Abschluss geht es an den Reschensee um dort die 3-Länder-Endurostrecken zu erkunden. \nAnforderung: bis zu 1500 hm pedalieren, auch mit Schiebe- und \nTragepassagen. Schwindelfreiheit ist erforderlich und fortgeschrittene Fahrtechnik.",
-      "bookable_id": "69e1ebfa6fdf546c6f738751",
-      "bookable_start": "2026-09-06",
-      "bookable_end": "2026-09-13",
-      "free_places": 3,
-      "max_places": 6,
-      "bookable_places": 3,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
