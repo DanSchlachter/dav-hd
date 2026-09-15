@@ -1,287 +1,208 @@
 {
-  "timestamp": "2026-09-14T11:07:40.871360+00:00",
-  "previous_timestamp": "2026-09-13T10:44:02.024942+00:00",
+  "timestamp": "2026-09-15T10:36:44.229917+00:00",
+  "previous_timestamp": "2026-09-14T11:07:40.866719+00:00",
   "summary": {
-    "added": 0,
+    "added": 5,
     "removed": 0,
-    "modified": 3
+    "modified": 1
   },
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "id": "6aa8ffa6cfc93993cbc53049",
+        "number": "261011-1B_001",
+        "title": "ECO: 11.10.2026-1 Sportwanderung in der Pfalz",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Sportwandern"
+        ],
+        "date_from": "2026-10-11",
+        "date_to": "2026-10-11",
+        "locations": [
+          "Pfalz"
+        ],
+        "description": "Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Vereinsbus. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+        "bookable_id": "6aa8ffa6cfc93993cbc5304c",
+        "bookable_start": "2026-10-11",
+        "bookable_end": "2026-10-11",
+        "free_places": 4,
+        "max_places": 4,
+        "bookable_places": 4,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6aa900e22a789853eea29adc",
+        "number": "261011-2B_002",
+        "title": "ECO: 11.10.2026-2 Sportwanderung in der Pfalz für Frühaussteiger",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Sportwandern"
+        ],
+        "date_from": "2026-10-11",
+        "date_to": "2026-10-11",
+        "locations": [
+          "Pfalz"
+        ],
+        "description": "Diese Tour eignet sich als Einstiegstour. Der Weg zur nächsten Haltestelle muss auf eigene Verantwortung zurückgelegt werden. Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 5\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Fahrgemeinschaft (1 PKW). Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine mindestens 20 – 23km mit ca. 500 - 900 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+        "bookable_id": "6aa900e22a789853eea29ade",
+        "bookable_start": "2026-10-11",
+        "bookable_end": "2026-10-11",
+        "free_places": 4,
+        "max_places": 5,
+        "bookable_places": 4,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6aa9056d2a789853eea2c13e",
+        "number": "261122B_003",
+        "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Sportwandern"
+        ],
+        "date_from": "2026-11-22",
+        "date_to": "2026-11-22",
+        "locations": [
+          "Odenwald"
+        ],
+        "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+        "bookable_id": "6aa9056d2a789853eea2c140",
+        "bookable_start": "2026-11-22",
+        "bookable_end": "2026-11-22",
+        "free_places": 9,
+        "max_places": 9,
+        "bookable_places": 9,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6aa90738cfc93993cbc62e95",
+        "number": "261213-1B_004",
+        "title": "ECO: 13.12.2026-1 Sportwanderung im Odenwald",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Sportwandern"
+        ],
+        "date_from": "2026-12-13",
+        "date_to": "2026-12-13",
+        "locations": [
+          "Odenwald"
+        ],
+        "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 04.12.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+        "bookable_id": "6aa90738cfc93993cbc62e98",
+        "bookable_start": "2026-12-13",
+        "bookable_end": "2026-12-13",
+        "free_places": 4,
+        "max_places": 4,
+        "bookable_places": 4,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6aa907f60364f6427737aae7",
+        "number": "261213-2B_005",
+        "title": "ECO: 13.12.2026-2 Sportwanderung im Odenwald für Frühaussteiger",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Sportwandern"
+        ],
+        "date_from": "2026-12-13",
+        "date_to": "2026-12-13",
+        "locations": [
+          "Odenwald"
+        ],
+        "description": "Diese Tour eignet sich als Einstiegstour. Sie endet nach ca. 20 - 23 km. Der Weg zur nächsten Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 5\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine mindestens 20 - 23km lange Wanderung mit ca. 500 - 900 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 04.12.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+        "bookable_id": "6aa907f60364f6427737aae9",
+        "bookable_start": "2026-12-13",
+        "bookable_end": "2026-12-13",
+        "free_places": 4,
+        "max_places": 5,
+        "bookable_places": 4,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      }
+    ],
     "removed": [],
     "modified": [
       {
-        "id": "69bc38319daefa4fefc181b0",
+        "id": "6a918b6f3c8ac3a04abf49ad",
         "changed_fields": [
-          "free_places",
-          "bookable_places",
-          "bookable_start",
-          "bookable_end",
-          "bookable_id",
-          "max_places",
-          "waitlist_active"
+          "description",
+          "locations"
         ],
         "changes": {
-          "free_places": {
-            "from": 17,
-            "to": null
+          "description": {
+            "from": "N.D.",
+            "to": "Unter-Schönmattenwag, Stiefelhütte, Heiligkreuzsteinach (Schlusseinkehr)\n17 Km; 450 m; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-"
           },
-          "bookable_places": {
-            "from": 17,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-09-09",
-            "to": ""
-          },
-          "bookable_end": {
-            "from": "2026-09-13",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "69bc38319daefa4fefc181b2",
-            "to": null
-          },
-          "max_places": {
-            "from": 25,
-            "to": null
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
+          "locations": {
+            "from": [
+              "NN"
+            ],
+            "to": [
+              "Heidelberg Hbf S 1"
+            ]
           }
         },
         "current": {
-          "id": "69bc38319daefa4fefc181b0",
-          "number": "260909FAM_F001",
-          "title": "5 Tage in den Alpen – Klettersteige und Wanderungen rund um Adelboden",
+          "id": "6a918b6f3c8ac3a04abf49ad",
+          "number": null,
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Familienbergsteigen"
+            "Wandern"
           ],
-          "date_from": "2026-09-09",
-          "date_to": "2026-09-13",
+          "date_from": "2026-10-02",
+          "date_to": "2026-10-02",
           "locations": [
-            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
+            "Heidelberg Hbf S 1"
           ],
-          "description": "Fünf abwechslungsreiche Tage im Berner Oberland erwarten uns rund um Adelboden. Je nach Lust, Erfahrung und Können ist die Teilnahme sowohl für Familien mit Klettersteig-Erfahrung als auch für Familien möglich, die lieber auf Wanderwegen in den Bergen unterwegs sind. So verbinden wir gemeinsame alpine Erlebnisse mit der Möglichkeit, die Umgebung mit oder ohne Klettersteig zu genießen.\n\nUns erwarten eindrucksvolle Berglandschaften, abwechslungsreiche Touren und schöne gemeinsame Tage in der DAV-Familiengruppe. Für geübte Teilnehmende bieten sich Klettersteige mit luftigen Passagen und alpinem Charakter an, während alle anderen die Region auf Wanderungen und leichteren Bergtouren erleben können.\n\nOrt: Adelboden, Berner Oberland, Schweiz\n\nAnforderungen: Für Klettersteige: Grundkenntnisse im Klettersteiggehen und gute Kondition.  Für Wanderungen: Trittsicherheit und normale Bergwandererfahrung. Teilnahme für Kinder ab 8 Jahren\n\nAnreise: im eigenen Pkw, gern in Fahrgemeinschaften\n\nTourenlänge: je nach Tour bis zu ca. 8 Std. / typischerweise bis zu 10 km\n\nUnterkunft: Selbstversorgerhaus, gemeinsame Verpflegung\n\nKosten (ca.): 200,00 € für Erwachsene / 150,00 € für Kinder bis 15 Jahren\n\nDie Verantwortung liegt bei den teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nDetailplanung und Info: per e-mail",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
+          "description": "Unter-Schönmattenwag, Stiefelhütte, Heiligkreuzsteinach (Schlusseinkehr)\n17 Km; 450 m; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918b6f3c8ac3a04abf49af",
+          "bookable_start": "2026-10-02",
+          "bookable_end": "2026-10-02",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69bc38319daefa4fefc181b0",
-          "number": "260909FAM_F001",
-          "title": "5 Tage in den Alpen – Klettersteige und Wanderungen rund um Adelboden",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Familienbergsteigen"
-          ],
-          "date_from": "2026-09-09",
-          "date_to": "2026-09-13",
-          "locations": [
-            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
-          ],
-          "description": "Fünf abwechslungsreiche Tage im Berner Oberland erwarten uns rund um Adelboden. Je nach Lust, Erfahrung und Können ist die Teilnahme sowohl für Familien mit Klettersteig-Erfahrung als auch für Familien möglich, die lieber auf Wanderwegen in den Bergen unterwegs sind. So verbinden wir gemeinsame alpine Erlebnisse mit der Möglichkeit, die Umgebung mit oder ohne Klettersteig zu genießen.\n\nUns erwarten eindrucksvolle Berglandschaften, abwechslungsreiche Touren und schöne gemeinsame Tage in der DAV-Familiengruppe. Für geübte Teilnehmende bieten sich Klettersteige mit luftigen Passagen und alpinem Charakter an, während alle anderen die Region auf Wanderungen und leichteren Bergtouren erleben können.\n\nOrt: Adelboden, Berner Oberland, Schweiz\n\nAnforderungen: Für Klettersteige: Grundkenntnisse im Klettersteiggehen und gute Kondition.  Für Wanderungen: Trittsicherheit und normale Bergwandererfahrung. Teilnahme für Kinder ab 8 Jahren\n\nAnreise: im eigenen Pkw, gern in Fahrgemeinschaften\n\nTourenlänge: je nach Tour bis zu ca. 8 Std. / typischerweise bis zu 10 km\n\nUnterkunft: Selbstversorgerhaus, gemeinsame Verpflegung\n\nKosten (ca.): 200,00 € für Erwachsene / 150,00 € für Kinder bis 15 Jahren\n\nDie Verantwortung liegt bei den teilnehmenden Familien. Eltern sichern und beaufsichtigen ihre Kinder im Klettersteig.\n\nDetailplanung und Info: per e-mail",
-          "bookable_id": "69bc38319daefa4fefc181b2",
-          "bookable_start": "2026-09-09",
-          "bookable_end": "2026-09-13",
-          "free_places": 17,
-          "max_places": 25,
-          "bookable_places": 17,
           "waitlist_active": true,
           "bookable_canceled": false
-        }
-      },
-      {
-        "id": "69bd761f4e9957bf1e34b337",
-        "changed_fields": [
-          "free_places",
-          "bookable_places",
-          "bookable_start",
-          "bookable_end",
-          "bookable_id",
-          "max_places",
-          "waitlist_active"
-        ],
-        "changes": {
-          "free_places": {
-            "from": 1,
-            "to": null
-          },
-          "bookable_places": {
-            "from": 1,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-09-05",
-            "to": ""
-          },
-          "bookable_end": {
-            "from": "2026-09-13",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "69bd761f4e9957bf1e34b3f8",
-            "to": null
-          },
-          "max_places": {
-            "from": 10,
-            "to": null
-          },
-          "waitlist_active": {
-            "from": false,
-            "to": null
-          }
         },
-        "current": {
-          "id": "69bd761f4e9957bf1e34b337",
-          "number": "260905MTB_F010",
-          "title": "Mountainbike La Grande Travesée des Hautes Alpe",
+        "previous": {
+          "id": "6a918b6f3c8ac3a04abf49ad",
+          "number": null,
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Mountainbike"
+            "Wandern"
           ],
-          "date_from": "2026-09-05",
-          "date_to": "2026-09-13",
+          "date_from": "2026-10-02",
+          "date_to": "2026-10-02",
           "locations": [
-            "nn"
+            "NN"
           ],
-          "description": "Traumhafte Berge, herrliche Trails, leckeres Essen – die Grande Traversée des Hautes Alpes (GTHA) ist eine anspruchsvolle alpine Tour in den französischen Alpen, die viel Fahrspaß und Genuss verspricht. Insgesamt warten auf uns rund 200 Kilometer, etwa 8.500 Höhenmeter Anstieg und 9.600 Höhenmeter Abfahrt, das alles vorwiegend auf Singletrails in alpiner Landschaft. Pro Tag sind es etwa 30 bis 40 Kilometer und 1200 bis 1600 Höhenmeter. Neben dem Fahrspaß wollen wir auch die Landschaft genießen und uns Zeit für Fotos Badepausen gönnen. Am letzten Tag fahren wir ein Stück auf der GTHA bis Chorges und von dort mit der Bahn nach Briançon. Von Briançon radeln wir gemächlich das letzte Stück zurück zum Startpunkt.Ihr solltet gute Fitness und solide Fahrtechnik mitbringen.\nAnforderungen: S3 und K3",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
+          "description": "N.D.",
+          "bookable_id": "6a918b6f3c8ac3a04abf49af",
+          "bookable_start": "2026-10-02",
+          "bookable_end": "2026-10-02",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69bd761f4e9957bf1e34b337",
-          "number": "260905MTB_F010",
-          "title": "Mountainbike La Grande Travesée des Hautes Alpe",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-09-05",
-          "date_to": "2026-09-13",
-          "locations": [
-            "nn"
-          ],
-          "description": "Traumhafte Berge, herrliche Trails, leckeres Essen – die Grande Traversée des Hautes Alpes (GTHA) ist eine anspruchsvolle alpine Tour in den französischen Alpen, die viel Fahrspaß und Genuss verspricht. Insgesamt warten auf uns rund 200 Kilometer, etwa 8.500 Höhenmeter Anstieg und 9.600 Höhenmeter Abfahrt, das alles vorwiegend auf Singletrails in alpiner Landschaft. Pro Tag sind es etwa 30 bis 40 Kilometer und 1200 bis 1600 Höhenmeter. Neben dem Fahrspaß wollen wir auch die Landschaft genießen und uns Zeit für Fotos Badepausen gönnen. Am letzten Tag fahren wir ein Stück auf der GTHA bis Chorges und von dort mit der Bahn nach Briançon. Von Briançon radeln wir gemächlich das letzte Stück zurück zum Startpunkt.Ihr solltet gute Fitness und solide Fahrtechnik mitbringen.\nAnforderungen: S3 und K3",
-          "bookable_id": "69bd761f4e9957bf1e34b3f8",
-          "bookable_start": "2026-09-05",
-          "bookable_end": "2026-09-13",
-          "free_places": 1,
-          "max_places": 10,
-          "bookable_places": 1,
-          "waitlist_active": false,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "69e1ebfa6fdf546c6f73874f",
-        "changed_fields": [
-          "free_places",
-          "bookable_places",
-          "bookable_start",
-          "bookable_end",
-          "bookable_id",
-          "max_places",
-          "waitlist_active"
-        ],
-        "changes": {
-          "free_places": {
-            "from": 3,
-            "to": null
-          },
-          "bookable_places": {
-            "from": 3,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-09-06",
-            "to": ""
-          },
-          "bookable_end": {
-            "from": "2026-09-13",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "69e1ebfa6fdf546c6f738751",
-            "to": null
-          },
-          "max_places": {
-            "from": 6,
-            "to": null
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          }
-        },
-        "current": {
-          "id": "69e1ebfa6fdf546c6f73874f",
-          "number": "20260906MTB01",
-          "title": "Stilfserjoch und 3-Länder-Enduro",
-          "type": "CUSTOM",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-09-06",
-          "date_to": "2026-09-13",
-          "locations": [
-            "Stilfser Joch, Stilfs, Autonome Provinz Bozen - Südtirol, Italien"
-          ],
-          "description": "Vom 6.-13. September geht es für uns hoch hinaus aufs Stilfserjoch, wir befahren den legendären Holy Hansen Trail, erfreuen uns an den Strecken im Vinschgau rund um Prad. Als goldener Abschluss geht es an den Reschensee um dort die 3-Länder-Endurostrecken zu erkunden. \nAnforderung: bis zu 1500 hm pedalieren, auch mit Schiebe- und \nTragepassagen. Schwindelfreiheit ist erforderlich und fortgeschrittene Fahrtechnik.",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69e1ebfa6fdf546c6f73874f",
-          "number": "20260906MTB01",
-          "title": "Stilfserjoch und 3-Länder-Enduro",
-          "type": "CUSTOM",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Mountainbike"
-          ],
-          "date_from": "2026-09-06",
-          "date_to": "2026-09-13",
-          "locations": [
-            "Stilfser Joch, Stilfs, Autonome Provinz Bozen - Südtirol, Italien"
-          ],
-          "description": "Vom 6.-13. September geht es für uns hoch hinaus aufs Stilfserjoch, wir befahren den legendären Holy Hansen Trail, erfreuen uns an den Strecken im Vinschgau rund um Prad. Als goldener Abschluss geht es an den Reschensee um dort die 3-Länder-Endurostrecken zu erkunden. \nAnforderung: bis zu 1500 hm pedalieren, auch mit Schiebe- und \nTragepassagen. Schwindelfreiheit ist erforderlich und fortgeschrittene Fahrtechnik.",
-          "bookable_id": "69e1ebfa6fdf546c6f738751",
-          "bookable_start": "2026-09-06",
-          "bookable_end": "2026-09-13",
-          "free_places": 3,
-          "max_places": 6,
-          "bookable_places": 3,
           "waitlist_active": true,
           "bookable_canceled": false
         }
