@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T10:36:44.225079+00:00",
+  "timestamp": "2026-09-16T10:24:47.893419+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 76,
   "tours": [
@@ -948,9 +948,9 @@
       "bookable_id": "6a292a1d51b966ad6f143133",
       "bookable_start": "2026-09-20",
       "bookable_end": "2026-09-20",
-      "free_places": 2,
+      "free_places": 3,
       "max_places": 10,
-      "bookable_places": 2,
+      "bookable_places": 3,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1442,9 +1442,9 @@
       "date_from": "2026-11-06",
       "date_to": "2026-11-06",
       "locations": [
-        "NN"
+        "Heidelberg Hbf S 1"
       ],
-      "description": "N.D.",
+      "description": "Neckarhausen (Fähre), Neckarhäuserhof, Waibstadt(Schlusseinkehr)\n20 Km; 400 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg  Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a918d963c8ac3a04abf6b8f",
       "bookable_start": "2026-11-06",
       "bookable_end": "2026-11-06",
@@ -1798,9 +1798,9 @@
       "bookable_id": "6aa8ffa6cfc93993cbc5304c",
       "bookable_start": "2026-10-11",
       "bookable_end": "2026-10-11",
-      "free_places": 4,
+      "free_places": 2,
       "max_places": 4,
-      "bookable_places": 4,
+      "bookable_places": 2,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1848,9 +1848,9 @@
       "bookable_id": "6aa9056d2a789853eea2c140",
       "bookable_start": "2026-11-22",
       "bookable_end": "2026-11-22",
-      "free_places": 9,
+      "free_places": 7,
       "max_places": 9,
-      "bookable_places": 9,
+      "bookable_places": 7,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1873,9 +1873,9 @@
       "bookable_id": "6aa90738cfc93993cbc62e98",
       "bookable_start": "2026-12-13",
       "bookable_end": "2026-12-13",
-      "free_places": 4,
+      "free_places": 3,
       "max_places": 4,
-      "bookable_places": 4,
+      "bookable_places": 3,
       "waitlist_active": true,
       "bookable_canceled": false
     },
