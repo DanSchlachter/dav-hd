@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T10:24:47.893419+00:00",
+  "timestamp": "2026-09-17T10:34:18.038826+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 76,
   "tours": [
@@ -948,9 +948,9 @@
       "bookable_id": "6a292a1d51b966ad6f143133",
       "bookable_start": "2026-09-20",
       "bookable_end": "2026-09-20",
-      "free_places": 3,
+      "free_places": 2,
       "max_places": 10,
-      "bookable_places": 3,
+      "bookable_places": 2,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -995,13 +995,13 @@
         "Heidelberg Hbf RB 68"
       ],
       "description": "Fürth, Tromm  (Einkehr zur schönen Aussicht), Trommturm, Rimbach\n14 Km; 400 Hm; Gehzeit ca. 4Std.\nAbfahrt Heidelberg Hauptbahnhof 09:26 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a2a7bcad044b6737a148c14",
-      "bookable_start": "2026-09-16",
-      "bookable_end": "2026-09-16",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1848,9 +1848,9 @@
       "bookable_id": "6aa9056d2a789853eea2c140",
       "bookable_start": "2026-11-22",
       "bookable_end": "2026-11-22",
-      "free_places": 7,
+      "free_places": 6,
       "max_places": 9,
-      "bookable_places": 7,
+      "bookable_places": 6,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1873,9 +1873,9 @@
       "bookable_id": "6aa90738cfc93993cbc62e98",
       "bookable_start": "2026-12-13",
       "bookable_end": "2026-12-13",
-      "free_places": 3,
+      "free_places": 2,
       "max_places": 4,
-      "bookable_places": 3,
+      "bookable_places": 2,
       "waitlist_active": true,
       "bookable_canceled": false
     },
