@@ -1,180 +1,57 @@
 {
-  "timestamp": "2026-09-19T09:51:21.020214+00:00",
-  "previous_timestamp": "2026-09-18T10:10:32.409936+00:00",
+  "timestamp": "2026-09-20T10:13:20.798858+00:00",
+  "previous_timestamp": "2026-09-19T09:51:21.013581+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 5
+    "modified": 2
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a2a7d78d044b6737a149b70",
-        "changed_fields": [
-          "bookable_end",
-          "bookable_start",
-          "bookable_id",
-          "waitlist_active"
-        ],
-        "changes": {
-          "bookable_end": {
-            "from": "2026-09-18",
-            "to": ""
-          },
-          "bookable_start": {
-            "from": "2026-09-18",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "6a2a7d78d044b6737a149b72",
-            "to": null
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          }
-        },
-        "current": {
-          "id": "6a2a7d78d044b6737a149b70",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-09-18",
-          "date_to": "2026-09-18",
-          "locations": [
-            "Heidelberg Hbf. S 2"
-          ],
-          "description": "Zwingenberg, Margarethenschlucht, Mosbach (Schlusseinkehr)\n22 Km; 580 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a2a7d78d044b6737a149b70",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-09-18",
-          "date_to": "2026-09-18",
-          "locations": [
-            "Heidelberg Hbf. S 2"
-          ],
-          "description": "Zwingenberg, Margarethenschlucht, Mosbach (Schlusseinkehr)\n22 Km; 580 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a2a7d78d044b6737a149b72",
-          "bookable_start": "2026-09-18",
-          "bookable_end": "2026-09-18",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a918d963c8ac3a04abf6b8a",
-        "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "Neckarhausen (Fähre), Neckarhäuserhof, Waibstadt(Schlusseinkehr)\n20 Km; 400 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg  Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
-            "to": ""
-          },
-          "locations": {
-            "from": [
-              "Heidelberg Hbf S 1"
-            ],
-            "to": [
-              "N.D."
-            ]
-          }
-        },
-        "current": {
-          "id": "6a918d963c8ac3a04abf6b8a",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-11-06",
-          "date_to": "2026-11-06",
-          "locations": [
-            "N.D."
-          ],
-          "description": "",
-          "bookable_id": "6a918d963c8ac3a04abf6b8f",
-          "bookable_start": "2026-11-06",
-          "bookable_end": "2026-11-06",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a918d963c8ac3a04abf6b8a",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-11-06",
-          "date_to": "2026-11-06",
-          "locations": [
-            "Heidelberg Hbf S 1"
-          ],
-          "description": "Neckarhausen (Fähre), Neckarhäuserhof, Waibstadt(Schlusseinkehr)\n20 Km; 400 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg  Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918d963c8ac3a04abf6b8f",
-          "bookable_start": "2026-11-06",
-          "bookable_end": "2026-11-06",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
         "id": "6aa8ffa6cfc93993cbc53049",
         "changed_fields": [
-          "bookable_places",
-          "free_places"
+          "free_places",
+          "bookable_places"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 2,
-            "to": 1
-          },
           "free_places": {
-            "from": 2,
-            "to": 1
+            "from": 1,
+            "to": 0
+          },
+          "bookable_places": {
+            "from": 1,
+            "to": 0
           }
         },
         "current": {
+          "id": "6aa8ffa6cfc93993cbc53049",
+          "number": "261011-1B_001",
+          "title": "ECO: 11.10.2026-1 Sportwanderung in der Pfalz",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-10-11",
+          "date_to": "2026-10-11",
+          "locations": [
+            "Pfalz"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Vereinsbus. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa8ffa6cfc93993cbc5304c",
+          "bookable_start": "2026-10-11",
+          "bookable_end": "2026-10-11",
+          "free_places": 0,
+          "max_places": 4,
+          "bookable_places": 0,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
           "id": "6aa8ffa6cfc93993cbc53049",
           "number": "261011-1B_001",
           "title": "ECO: 11.10.2026-1 Sportwanderung in der Pfalz",
@@ -198,11 +75,28 @@
           "bookable_places": 1,
           "waitlist_active": true,
           "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6aa900e22a789853eea29adc",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 4,
+            "to": 2
+          },
+          "bookable_places": {
+            "from": 4,
+            "to": 2
+          }
         },
-        "previous": {
-          "id": "6aa8ffa6cfc93993cbc53049",
-          "number": "261011-1B_001",
-          "title": "ECO: 11.10.2026-1 Sportwanderung in der Pfalz",
+        "current": {
+          "id": "6aa900e22a789853eea29adc",
+          "number": "261011-2B_002",
+          "title": "ECO: 11.10.2026-2 Sportwanderung in der Pfalz für Frühaussteiger",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
@@ -214,147 +108,38 @@
           "locations": [
             "Pfalz"
           ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Vereinsbus. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa8ffa6cfc93993cbc5304c",
+          "description": "Diese Tour eignet sich als Einstiegstour. Der Weg zur nächsten Haltestelle muss auf eigene Verantwortung zurückgelegt werden. Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 5\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Fahrgemeinschaft (1 PKW). Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine mindestens 20 – 23km mit ca. 500 - 900 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa900e22a789853eea29ade",
           "bookable_start": "2026-10-11",
           "bookable_end": "2026-10-11",
           "free_places": 2,
-          "max_places": 4,
+          "max_places": 5,
           "bookable_places": 2,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6aa9056d2a789853eea2c13e",
-        "changed_fields": [
-          "bookable_places",
-          "free_places"
-        ],
-        "changes": {
-          "bookable_places": {
-            "from": 6,
-            "to": 5
-          },
-          "free_places": {
-            "from": 6,
-            "to": 5
-          }
-        },
-        "current": {
-          "id": "6aa9056d2a789853eea2c13e",
-          "number": "261122B_003",
-          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Sportwandern"
-          ],
-          "date_from": "2026-11-22",
-          "date_to": "2026-11-22",
-          "locations": [
-            "Odenwald"
-          ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa9056d2a789853eea2c140",
-          "bookable_start": "2026-11-22",
-          "bookable_end": "2026-11-22",
-          "free_places": 5,
-          "max_places": 9,
-          "bookable_places": 5,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6aa9056d2a789853eea2c13e",
-          "number": "261122B_003",
-          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
+          "id": "6aa900e22a789853eea29adc",
+          "number": "261011-2B_002",
+          "title": "ECO: 11.10.2026-2 Sportwanderung in der Pfalz für Frühaussteiger",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Sportwandern"
           ],
-          "date_from": "2026-11-22",
-          "date_to": "2026-11-22",
+          "date_from": "2026-10-11",
+          "date_to": "2026-10-11",
           "locations": [
-            "Odenwald"
+            "Pfalz"
           ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa9056d2a789853eea2c140",
-          "bookable_start": "2026-11-22",
-          "bookable_end": "2026-11-22",
-          "free_places": 6,
-          "max_places": 9,
-          "bookable_places": 6,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6aa90738cfc93993cbc62e95",
-        "changed_fields": [
-          "bookable_places",
-          "free_places"
-        ],
-        "changes": {
-          "bookable_places": {
-            "from": 2,
-            "to": 1
-          },
-          "free_places": {
-            "from": 2,
-            "to": 1
-          }
-        },
-        "current": {
-          "id": "6aa90738cfc93993cbc62e95",
-          "number": "261213-1B_004",
-          "title": "ECO: 13.12.2026-1 Sportwanderung im Odenwald",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Sportwandern"
-          ],
-          "date_from": "2026-12-13",
-          "date_to": "2026-12-13",
-          "locations": [
-            "Odenwald"
-          ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 04.12.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa90738cfc93993cbc62e98",
-          "bookable_start": "2026-12-13",
-          "bookable_end": "2026-12-13",
-          "free_places": 1,
-          "max_places": 4,
-          "bookable_places": 1,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6aa90738cfc93993cbc62e95",
-          "number": "261213-1B_004",
-          "title": "ECO: 13.12.2026-1 Sportwanderung im Odenwald",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Sportwandern"
-          ],
-          "date_from": "2026-12-13",
-          "date_to": "2026-12-13",
-          "locations": [
-            "Odenwald"
-          ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 04.12.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa90738cfc93993cbc62e98",
-          "bookable_start": "2026-12-13",
-          "bookable_end": "2026-12-13",
-          "free_places": 2,
-          "max_places": 4,
-          "bookable_places": 2,
+          "description": "Diese Tour eignet sich als Einstiegstour. Der Weg zur nächsten Haltestelle muss auf eigene Verantwortung zurückgelegt werden. Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 5\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Fahrgemeinschaft (1 PKW). Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine mindestens 20 – 23km mit ca. 500 - 900 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa900e22a789853eea29ade",
+          "bookable_start": "2026-10-11",
+          "bookable_end": "2026-10-11",
+          "free_places": 4,
+          "max_places": 5,
+          "bookable_places": 4,
           "waitlist_active": true,
           "bookable_canceled": false
         }
