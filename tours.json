@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T10:13:20.794551+00:00",
+  "timestamp": "2026-09-21T11:17:48.360940+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 76,
   "tours": [
@@ -945,13 +945,13 @@
         "Schwanheim, Pfalz"
       ],
       "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
-      "bookable_id": "6a292a1d51b966ad6f143133",
-      "bookable_start": "2026-09-20",
-      "bookable_end": "2026-09-20",
-      "free_places": 2,
-      "max_places": 10,
-      "bookable_places": 2,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1092,9 +1092,9 @@
       "date_from": "2026-09-25",
       "date_to": "2026-09-25",
       "locations": [
-        "N.D."
+        "Heidelberg Bismarckplatz Bus Linie 735"
       ],
-      "description": "N.D.",
+      "description": "Schönau  (Marktplatz), Mönchsbrunnen, Bäckermädel, Wolfsgrube, Hirschhorn (Schlusseinkehr), Bahnhof.\n14 Km; 350 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Bismarckplatz 07:53 Uhr Bus Linie 735\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a2a7dd7d044b6737a149fb9",
       "bookable_start": "2026-09-25",
       "bookable_end": "2026-09-25",
@@ -1848,9 +1848,9 @@
       "bookable_id": "6aa9056d2a789853eea2c140",
       "bookable_start": "2026-11-22",
       "bookable_end": "2026-11-22",
-      "free_places": 5,
+      "free_places": 4,
       "max_places": 9,
-      "bookable_places": 5,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },
