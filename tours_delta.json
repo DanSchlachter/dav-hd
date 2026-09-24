@@ -1,145 +1,82 @@
 {
-  "timestamp": "2026-09-23T10:23:43.347363+00:00",
-  "previous_timestamp": "2026-09-22T10:28:25.727761+00:00",
+  "timestamp": "2026-09-24T10:40:21.015268+00:00",
+  "previous_timestamp": "2026-09-23T10:23:43.341008+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 2
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6aa9056d2a789853eea2c13e",
+        "id": "6a918c43c28f2b6de7ded8f6",
         "changed_fields": [
-          "bookable_places",
-          "free_places"
+          "locations",
+          "description"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 4,
-            "to": 3
+          "locations": {
+            "from": [
+              "NN"
+            ],
+            "to": [
+              "Heidelberg Hbf S 1"
+            ]
           },
-          "free_places": {
-            "from": 4,
-            "to": 3
+          "description": {
+            "from": "N.D.",
+            "to": "Ober-Schönmattenwag, Grasellenbach Café Bauer (Einkehr), Hammelbach\n16 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-"
           }
         },
         "current": {
-          "id": "6aa9056d2a789853eea2c13e",
-          "number": "261122B_003",
-          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
+          "id": "6a918c43c28f2b6de7ded8f6",
+          "number": null,
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Sportwandern"
+            "Wandern"
           ],
-          "date_from": "2026-11-22",
-          "date_to": "2026-11-22",
+          "date_from": "2026-10-16",
+          "date_to": "2026-10-16",
           "locations": [
-            "Odenwald"
+            "Heidelberg Hbf S 1"
           ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa9056d2a789853eea2c140",
-          "bookable_start": "2026-11-22",
-          "bookable_end": "2026-11-22",
-          "free_places": 3,
-          "max_places": 9,
-          "bookable_places": 3,
+          "description": "Ober-Schönmattenwag, Grasellenbach Café Bauer (Einkehr), Hammelbach\n16 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918c43c28f2b6de7ded8f8",
+          "bookable_start": "2026-10-16",
+          "bookable_end": "2026-10-16",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6aa9056d2a789853eea2c13e",
-          "number": "261122B_003",
-          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
+          "id": "6a918c43c28f2b6de7ded8f6",
+          "number": null,
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Sportwandern"
+            "Wandern"
           ],
-          "date_from": "2026-11-22",
-          "date_to": "2026-11-22",
+          "date_from": "2026-10-16",
+          "date_to": "2026-10-16",
           "locations": [
-            "Odenwald"
+            "NN"
           ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa9056d2a789853eea2c140",
-          "bookable_start": "2026-11-22",
-          "bookable_end": "2026-11-22",
-          "free_places": 4,
-          "max_places": 9,
-          "bookable_places": 4,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6aa90738cfc93993cbc62e95",
-        "changed_fields": [
-          "bookable_places",
-          "free_places"
-        ],
-        "changes": {
-          "bookable_places": {
-            "from": 1,
-            "to": 0
-          },
-          "free_places": {
-            "from": 1,
-            "to": 0
-          }
-        },
-        "current": {
-          "id": "6aa90738cfc93993cbc62e95",
-          "number": "261213-1B_004",
-          "title": "ECO: 13.12.2026-1 Sportwanderung im Odenwald",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Sportwandern"
-          ],
-          "date_from": "2026-12-13",
-          "date_to": "2026-12-13",
-          "locations": [
-            "Odenwald"
-          ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 04.12.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa90738cfc93993cbc62e98",
-          "bookable_start": "2026-12-13",
-          "bookable_end": "2026-12-13",
-          "free_places": 0,
-          "max_places": 4,
-          "bookable_places": 0,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6aa90738cfc93993cbc62e95",
-          "number": "261213-1B_004",
-          "title": "ECO: 13.12.2026-1 Sportwanderung im Odenwald",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Sportwandern"
-          ],
-          "date_from": "2026-12-13",
-          "date_to": "2026-12-13",
-          "locations": [
-            "Odenwald"
-          ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 04.12.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa90738cfc93993cbc62e98",
-          "bookable_start": "2026-12-13",
-          "bookable_end": "2026-12-13",
-          "free_places": 1,
-          "max_places": 4,
-          "bookable_places": 1,
+          "description": "N.D.",
+          "bookable_id": "6a918c43c28f2b6de7ded8f8",
+          "bookable_start": "2026-10-16",
+          "bookable_end": "2026-10-16",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         }

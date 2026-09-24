@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-23T10:23:43.341008+00:00",
+  "timestamp": "2026-09-24T10:40:21.011041+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 76,
   "tours": [
@@ -1342,9 +1342,9 @@
       "date_from": "2026-10-16",
       "date_to": "2026-10-16",
       "locations": [
-        "NN"
+        "Heidelberg Hbf S 1"
       ],
-      "description": "N.D.",
+      "description": "Ober-Schönmattenwag, Grasellenbach Café Bauer (Einkehr), Hammelbach\n16 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a918c43c28f2b6de7ded8f8",
       "bookable_start": "2026-10-16",
       "bookable_end": "2026-10-16",
