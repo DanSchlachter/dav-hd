@@ -1,86 +1,14 @@
 {
-  "timestamp": "2026-09-24T10:40:21.015268+00:00",
-  "previous_timestamp": "2026-09-23T10:23:43.341008+00:00",
+  "timestamp": "2026-09-25T10:43:38.021776+00:00",
+  "previous_timestamp": "2026-09-24T10:40:21.011041+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 0
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": [
-      {
-        "id": "6a918c43c28f2b6de7ded8f6",
-        "changed_fields": [
-          "locations",
-          "description"
-        ],
-        "changes": {
-          "locations": {
-            "from": [
-              "NN"
-            ],
-            "to": [
-              "Heidelberg Hbf S 1"
-            ]
-          },
-          "description": {
-            "from": "N.D.",
-            "to": "Ober-Schönmattenwag, Grasellenbach Café Bauer (Einkehr), Hammelbach\n16 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-"
-          }
-        },
-        "current": {
-          "id": "6a918c43c28f2b6de7ded8f6",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-10-16",
-          "date_to": "2026-10-16",
-          "locations": [
-            "Heidelberg Hbf S 1"
-          ],
-          "description": "Ober-Schönmattenwag, Grasellenbach Café Bauer (Einkehr), Hammelbach\n16 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918c43c28f2b6de7ded8f8",
-          "bookable_start": "2026-10-16",
-          "bookable_end": "2026-10-16",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a918c43c28f2b6de7ded8f6",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-10-16",
-          "date_to": "2026-10-16",
-          "locations": [
-            "NN"
-          ],
-          "description": "N.D.",
-          "bookable_id": "6a918c43c28f2b6de7ded8f8",
-          "bookable_start": "2026-10-16",
-          "bookable_end": "2026-10-16",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      }
-    ]
+    "modified": []
   }
 }
