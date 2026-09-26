@@ -1,14 +1,92 @@
 {
-  "timestamp": "2026-09-25T10:43:38.021776+00:00",
-  "previous_timestamp": "2026-09-24T10:40:21.011041+00:00",
+  "timestamp": "2026-09-26T10:26:07.023876+00:00",
+  "previous_timestamp": "2026-09-25T10:43:38.015454+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "6a2a7dd7d044b6737a149fb7",
+        "changed_fields": [
+          "bookable_id",
+          "bookable_end",
+          "bookable_start",
+          "waitlist_active"
+        ],
+        "changes": {
+          "bookable_id": {
+            "from": "6a2a7dd7d044b6737a149fb9",
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-09-25",
+            "to": ""
+          },
+          "bookable_start": {
+            "from": "2026-09-25",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "6a2a7dd7d044b6737a149fb7",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-25",
+          "locations": [
+            "Heidelberg Bismarckplatz Bus Linie 735"
+          ],
+          "description": "Schönau  (Marktplatz), Mönchsbrunnen, Bäckermädel, Wolfsgrube, Hirschhorn (Schlusseinkehr), Bahnhof.\n14 Km; 350 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Bismarckplatz 07:53 Uhr Bus Linie 735\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2a7dd7d044b6737a149fb7",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-25",
+          "locations": [
+            "Heidelberg Bismarckplatz Bus Linie 735"
+          ],
+          "description": "Schönau  (Marktplatz), Mönchsbrunnen, Bäckermädel, Wolfsgrube, Hirschhorn (Schlusseinkehr), Bahnhof.\n14 Km; 350 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Bismarckplatz 07:53 Uhr Bus Linie 735\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a2a7dd7d044b6737a149fb9",
+          "bookable_start": "2026-09-25",
+          "bookable_end": "2026-09-25",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
