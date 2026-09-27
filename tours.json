@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-26T10:26:07.017718+00:00",
+  "timestamp": "2026-09-27T10:57:42.054336+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 76,
   "tours": [
@@ -970,13 +970,13 @@
         "Heidelberg Hbf S 1"
       ],
       "description": "Kaiserslautern, Weltachs, Kaiserslautern (Schlusseinkehr)\n21 Km; 560 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a2a7a7a1644e0483a18087a",
-      "bookable_start": "2026-09-26",
-      "bookable_end": "2026-09-26",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1217,9 +1217,9 @@
       "date_from": "2026-10-07",
       "date_to": "2026-10-07",
       "locations": [
-        "NN"
+        "Heidelberg Hbf. Bus Linie 34"
       ],
-      "description": "-Anmeldung nicht erforderlich-",
+      "description": "Ziegelhausen, Forlenweg, Höhenweg, Bauernweg, Peterstal (Schlusseinkehr)\n7 Km; 184 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:06 Uhr Bus Linie 34\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a9187f73c8ac3a04abf11f4",
       "bookable_start": "2026-10-07",
       "bookable_end": "2026-10-07",
@@ -1798,9 +1798,9 @@
       "bookable_id": "6aa8ffa6cfc93993cbc5304c",
       "bookable_start": "2026-10-11",
       "bookable_end": "2026-10-11",
-      "free_places": 0,
+      "free_places": 1,
       "max_places": 4,
-      "bookable_places": 0,
+      "bookable_places": 1,
       "waitlist_active": true,
       "bookable_canceled": false
     },

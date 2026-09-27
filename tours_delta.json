@@ -1,35 +1,35 @@
 {
-  "timestamp": "2026-09-26T10:26:07.023876+00:00",
-  "previous_timestamp": "2026-09-25T10:43:38.015454+00:00",
+  "timestamp": "2026-09-27T10:57:42.067094+00:00",
+  "previous_timestamp": "2026-09-26T10:26:07.017718+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 3
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a2a7dd7d044b6737a149fb7",
+        "id": "6a2a7a7a1644e0483a180877",
         "changed_fields": [
-          "bookable_id",
           "bookable_end",
           "bookable_start",
+          "bookable_id",
           "waitlist_active"
         ],
         "changes": {
-          "bookable_id": {
-            "from": "6a2a7dd7d044b6737a149fb9",
-            "to": null
-          },
           "bookable_end": {
-            "from": "2026-09-25",
+            "from": "2026-09-26",
             "to": ""
           },
           "bookable_start": {
-            "from": "2026-09-25",
+            "from": "2026-09-26",
             "to": ""
+          },
+          "bookable_id": {
+            "from": "6a2a7a7a1644e0483a18087a",
+            "to": null
           },
           "waitlist_active": {
             "from": true,
@@ -37,21 +37,21 @@
           }
         },
         "current": {
-          "id": "6a2a7dd7d044b6737a149fb7",
+          "id": "6a2a7a7a1644e0483a180877",
           "number": null,
-          "title": "Freitagswanderung",
+          "title": "Samstagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-09-25",
-          "date_to": "2026-09-25",
+          "date_from": "2026-09-26",
+          "date_to": "2026-09-26",
           "locations": [
-            "Heidelberg Bismarckplatz Bus Linie 735"
+            "Heidelberg Hbf S 1"
           ],
-          "description": "Schönau  (Marktplatz), Mönchsbrunnen, Bäckermädel, Wolfsgrube, Hirschhorn (Schlusseinkehr), Bahnhof.\n14 Km; 350 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Bismarckplatz 07:53 Uhr Bus Linie 735\n-Anmeldung nicht erforderlich-",
+          "description": "Kaiserslautern, Weltachs, Kaiserslautern (Schlusseinkehr)\n21 Km; 560 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -62,27 +62,165 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a2a7dd7d044b6737a149fb7",
+          "id": "6a2a7a7a1644e0483a180877",
           "number": null,
-          "title": "Freitagswanderung",
+          "title": "Samstagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-09-25",
-          "date_to": "2026-09-25",
+          "date_from": "2026-09-26",
+          "date_to": "2026-09-26",
           "locations": [
-            "Heidelberg Bismarckplatz Bus Linie 735"
+            "Heidelberg Hbf S 1"
           ],
-          "description": "Schönau  (Marktplatz), Mönchsbrunnen, Bäckermädel, Wolfsgrube, Hirschhorn (Schlusseinkehr), Bahnhof.\n14 Km; 350 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Bismarckplatz 07:53 Uhr Bus Linie 735\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a2a7dd7d044b6737a149fb9",
-          "bookable_start": "2026-09-25",
-          "bookable_end": "2026-09-25",
+          "description": "Kaiserslautern, Weltachs, Kaiserslautern (Schlusseinkehr)\n21 Km; 560 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a2a7a7a1644e0483a18087a",
+          "bookable_start": "2026-09-26",
+          "bookable_end": "2026-09-26",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a9187f73c8ac3a04abf11f2",
+        "changed_fields": [
+          "locations",
+          "description"
+        ],
+        "changes": {
+          "locations": {
+            "from": [
+              "NN"
+            ],
+            "to": [
+              "Heidelberg Hbf. Bus Linie 34"
+            ]
+          },
+          "description": {
+            "from": "-Anmeldung nicht erforderlich-",
+            "to": "Ziegelhausen, Forlenweg, Höhenweg, Bauernweg, Peterstal (Schlusseinkehr)\n7 Km; 184 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:06 Uhr Bus Linie 34\n-Anmeldung nicht erforderlich-"
+          }
+        },
+        "current": {
+          "id": "6a9187f73c8ac3a04abf11f2",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-10-07",
+          "date_to": "2026-10-07",
+          "locations": [
+            "Heidelberg Hbf. Bus Linie 34"
+          ],
+          "description": "Ziegelhausen, Forlenweg, Höhenweg, Bauernweg, Peterstal (Schlusseinkehr)\n7 Km; 184 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:06 Uhr Bus Linie 34\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a9187f73c8ac3a04abf11f4",
+          "bookable_start": "2026-10-07",
+          "bookable_end": "2026-10-07",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a9187f73c8ac3a04abf11f2",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-10-07",
+          "date_to": "2026-10-07",
+          "locations": [
+            "NN"
+          ],
+          "description": "-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a9187f73c8ac3a04abf11f4",
+          "bookable_start": "2026-10-07",
+          "bookable_end": "2026-10-07",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6aa8ffa6cfc93993cbc53049",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 0,
+            "to": 1
+          },
+          "free_places": {
+            "from": 0,
+            "to": 1
+          }
+        },
+        "current": {
+          "id": "6aa8ffa6cfc93993cbc53049",
+          "number": "261011-1B_001",
+          "title": "ECO: 11.10.2026-1 Sportwanderung in der Pfalz",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-10-11",
+          "date_to": "2026-10-11",
+          "locations": [
+            "Pfalz"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Vereinsbus. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa8ffa6cfc93993cbc5304c",
+          "bookable_start": "2026-10-11",
+          "bookable_end": "2026-10-11",
+          "free_places": 1,
+          "max_places": 4,
+          "bookable_places": 1,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6aa8ffa6cfc93993cbc53049",
+          "number": "261011-1B_001",
+          "title": "ECO: 11.10.2026-1 Sportwanderung in der Pfalz",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-10-11",
+          "date_to": "2026-10-11",
+          "locations": [
+            "Pfalz"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Vereinsbus. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa8ffa6cfc93993cbc5304c",
+          "bookable_start": "2026-10-11",
+          "bookable_end": "2026-10-11",
+          "free_places": 0,
+          "max_places": 4,
+          "bookable_places": 0,
           "waitlist_active": true,
           "bookable_canceled": false
         }
