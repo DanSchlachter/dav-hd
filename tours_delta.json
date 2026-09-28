@@ -1,57 +1,72 @@
 {
-  "timestamp": "2026-09-27T10:57:42.067094+00:00",
-  "previous_timestamp": "2026-09-26T10:26:07.017718+00:00",
+  "timestamp": "2026-09-28T12:13:14.135820+00:00",
+  "previous_timestamp": "2026-09-27T10:57:42.054336+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 3
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a2a7a7a1644e0483a180877",
+        "id": "69bd7b0ebd72746a9678f44e",
         "changed_fields": [
-          "bookable_end",
           "bookable_start",
+          "max_places",
+          "bookable_end",
+          "bookable_places",
           "bookable_id",
+          "free_places",
           "waitlist_active"
         ],
         "changes": {
-          "bookable_end": {
-            "from": "2026-09-26",
+          "bookable_start": {
+            "from": "2026-09-25",
             "to": ""
           },
-          "bookable_start": {
-            "from": "2026-09-26",
+          "max_places": {
+            "from": 30,
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-09-27",
             "to": ""
+          },
+          "bookable_places": {
+            "from": 2,
+            "to": null
           },
           "bookable_id": {
-            "from": "6a2a7a7a1644e0483a18087a",
+            "from": "69bd7b0ebd72746a9678f450",
+            "to": null
+          },
+          "free_places": {
+            "from": 2,
             "to": null
           },
           "waitlist_active": {
-            "from": true,
+            "from": false,
             "to": null
           }
         },
         "current": {
-          "id": "6a2a7a7a1644e0483a180877",
-          "number": null,
-          "title": "Samstagswanderung",
+          "id": "69bd7b0ebd72746a9678f44e",
+          "number": "260925MTB_F011",
+          "title": "Mountainbike Herbstbiken 2026",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Mountainbike"
           ],
-          "date_from": "2026-09-26",
-          "date_to": "2026-09-26",
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-27",
           "locations": [
-            "Heidelberg Hbf S 1"
+            "nn"
           ],
-          "description": "Kaiserslautern, Weltachs, Kaiserslautern (Schlusseinkehr)\n21 Km; 560 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
+          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -62,166 +77,28 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a2a7a7a1644e0483a180877",
-          "number": null,
-          "title": "Samstagswanderung",
+          "id": "69bd7b0ebd72746a9678f44e",
+          "number": "260925MTB_F011",
+          "title": "Mountainbike Herbstbiken 2026",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Mountainbike"
           ],
-          "date_from": "2026-09-26",
-          "date_to": "2026-09-26",
+          "date_from": "2026-09-25",
+          "date_to": "2026-09-27",
           "locations": [
-            "Heidelberg Hbf S 1"
+            "nn"
           ],
-          "description": "Kaiserslautern, Weltachs, Kaiserslautern (Schlusseinkehr)\n21 Km; 560 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a2a7a7a1644e0483a18087a",
-          "bookable_start": "2026-09-26",
-          "bookable_end": "2026-09-26",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a9187f73c8ac3a04abf11f2",
-        "changed_fields": [
-          "locations",
-          "description"
-        ],
-        "changes": {
-          "locations": {
-            "from": [
-              "NN"
-            ],
-            "to": [
-              "Heidelberg Hbf. Bus Linie 34"
-            ]
-          },
-          "description": {
-            "from": "-Anmeldung nicht erforderlich-",
-            "to": "Ziegelhausen, Forlenweg, Höhenweg, Bauernweg, Peterstal (Schlusseinkehr)\n7 Km; 184 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:06 Uhr Bus Linie 34\n-Anmeldung nicht erforderlich-"
-          }
-        },
-        "current": {
-          "id": "6a9187f73c8ac3a04abf11f2",
-          "number": null,
-          "title": "Mittwochswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-10-07",
-          "date_to": "2026-10-07",
-          "locations": [
-            "Heidelberg Hbf. Bus Linie 34"
-          ],
-          "description": "Ziegelhausen, Forlenweg, Höhenweg, Bauernweg, Peterstal (Schlusseinkehr)\n7 Km; 184 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:06 Uhr Bus Linie 34\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a9187f73c8ac3a04abf11f4",
-          "bookable_start": "2026-10-07",
-          "bookable_end": "2026-10-07",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a9187f73c8ac3a04abf11f2",
-          "number": null,
-          "title": "Mittwochswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-10-07",
-          "date_to": "2026-10-07",
-          "locations": [
-            "NN"
-          ],
-          "description": "-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a9187f73c8ac3a04abf11f4",
-          "bookable_start": "2026-10-07",
-          "bookable_end": "2026-10-07",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6aa8ffa6cfc93993cbc53049",
-        "changed_fields": [
-          "bookable_places",
-          "free_places"
-        ],
-        "changes": {
-          "bookable_places": {
-            "from": 0,
-            "to": 1
-          },
-          "free_places": {
-            "from": 0,
-            "to": 1
-          }
-        },
-        "current": {
-          "id": "6aa8ffa6cfc93993cbc53049",
-          "number": "261011-1B_001",
-          "title": "ECO: 11.10.2026-1 Sportwanderung in der Pfalz",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Sportwandern"
-          ],
-          "date_from": "2026-10-11",
-          "date_to": "2026-10-11",
-          "locations": [
-            "Pfalz"
-          ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Vereinsbus. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa8ffa6cfc93993cbc5304c",
-          "bookable_start": "2026-10-11",
-          "bookable_end": "2026-10-11",
-          "free_places": 1,
-          "max_places": 4,
-          "bookable_places": 1,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6aa8ffa6cfc93993cbc53049",
-          "number": "261011-1B_001",
-          "title": "ECO: 11.10.2026-1 Sportwanderung in der Pfalz",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Sportwandern"
-          ],
-          "date_from": "2026-10-11",
-          "date_to": "2026-10-11",
-          "locations": [
-            "Pfalz"
-          ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Vereinsbus. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa8ffa6cfc93993cbc5304c",
-          "bookable_start": "2026-10-11",
-          "bookable_end": "2026-10-11",
-          "free_places": 0,
-          "max_places": 4,
-          "bookable_places": 0,
-          "waitlist_active": true,
+          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
+          "bookable_id": "69bd7b0ebd72746a9678f450",
+          "bookable_start": "2026-09-25",
+          "bookable_end": "2026-09-27",
+          "free_places": 2,
+          "max_places": 30,
+          "bookable_places": 2,
+          "waitlist_active": false,
           "bookable_canceled": false
         }
       }

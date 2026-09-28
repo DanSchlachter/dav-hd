@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T10:57:42.054336+00:00",
+  "timestamp": "2026-09-28T12:13:14.129443+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 76,
   "tours": [
@@ -620,13 +620,13 @@
         "nn"
       ],
       "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
-      "bookable_id": "69bd7b0ebd72746a9678f450",
-      "bookable_start": "2026-09-25",
-      "bookable_end": "2026-09-27",
-      "free_places": 2,
-      "max_places": 30,
-      "bookable_places": 2,
-      "waitlist_active": false,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
