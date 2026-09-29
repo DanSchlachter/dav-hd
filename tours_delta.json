@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-28T12:13:14.135820+00:00",
-  "previous_timestamp": "2026-09-27T10:57:42.054336+00:00",
+  "timestamp": "2026-09-29T11:43:18.064607+00:00",
+  "previous_timestamp": "2026-09-28T12:13:14.129443+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
@@ -11,94 +11,69 @@
     "removed": [],
     "modified": [
       {
-        "id": "69bd7b0ebd72746a9678f44e",
+        "id": "69ba99aa7942a88da9fdfdf3",
         "changed_fields": [
-          "bookable_start",
-          "max_places",
-          "bookable_end",
-          "bookable_places",
-          "bookable_id",
           "free_places",
-          "waitlist_active"
+          "bookable_places"
         ],
         "changes": {
-          "bookable_start": {
-            "from": "2026-09-25",
-            "to": ""
-          },
-          "max_places": {
-            "from": 30,
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-09-27",
-            "to": ""
+          "free_places": {
+            "from": 0,
+            "to": 3
           },
           "bookable_places": {
-            "from": 2,
-            "to": null
-          },
-          "bookable_id": {
-            "from": "69bd7b0ebd72746a9678f450",
-            "to": null
-          },
-          "free_places": {
-            "from": 2,
-            "to": null
-          },
-          "waitlist_active": {
-            "from": false,
-            "to": null
+            "from": 0,
+            "to": 3
           }
         },
         "current": {
-          "id": "69bd7b0ebd72746a9678f44e",
-          "number": "260925MTB_F011",
-          "title": "Mountainbike Herbstbiken 2026",
+          "id": "69ba99aa7942a88da9fdfdf3",
+          "number": "2610_WAN_F_001",
+          "title": "Mehrtagestour in den Thüringer Wald",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Mountainbike"
+            "Wandern"
           ],
-          "date_from": "2026-09-25",
-          "date_to": "2026-09-27",
+          "date_from": "2026-10-11",
+          "date_to": "2026-10-17",
           "locations": [
-            "nn"
+            "Thüringer Wald"
           ],
-          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
+          "description": "Tageswanderungen im Thüringer Wald. Hin- und Rückfahrt mit der Bahn. Mit der DB von Heidelberg über Frankfurt nach Gotha, weiter mit der Thüringer Wald-Bahn von Gotha nach Bad Tabarz. Unterbringung in einem Hotel in Bad Tabarz. Von dort starten wir unsere Tagestouren. Die umliegenden Berge, wie den Großen Inselsberg erwandern wir teilweise über den Rennsteig, den Tabarzer Vulkansteig oder den Lutherweg. Eine Wanderung führt uns zur Wartburg und nach Eisenach mit Gelegenheit zur Besichtigung von Burg und Stadt.\nUm an verschiedene Ausgangs- und Endpunkte unserer Wanderungen zu gelangen, werden wir den dortigen ÖPNV mit dem Deutschlandticket und der Gästekarte nutzen.\n\nAnforderungen: 700 – 900 Hm, Gehzeiten ca. 6 – 7 Stunden.\nAusrüstung: Wanderkleidung (für jedes Wetter), festes Schuhwerk, Wanderstöcke, Rucksack.\nVorkenntnisse: keine\nAn- und Abreise: Deutsche Bahn (Gruppenfahrkarte), sowie ÖPNV\nUnterbringung: Hotel in Bad Tabarz.\nKosten: ÜN/F im DZ ca. 75 € pro Nacht und Person,\nUnterbringung in DZ / EZ\nTeilnehmerzahl: 8\nAnmeldung: ab sofort\nAnmeldeschluss: 20.06.2026\nVorbesprechung: Termin nach Absprache",
+          "bookable_id": "69ba99aa7942a88da9fdfdf5",
+          "bookable_start": "2026-10-11",
+          "bookable_end": "2026-10-17",
+          "free_places": 3,
+          "max_places": 12,
+          "bookable_places": 3,
+          "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69bd7b0ebd72746a9678f44e",
-          "number": "260925MTB_F011",
-          "title": "Mountainbike Herbstbiken 2026",
+          "id": "69ba99aa7942a88da9fdfdf3",
+          "number": "2610_WAN_F_001",
+          "title": "Mehrtagestour in den Thüringer Wald",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Mountainbike"
+            "Wandern"
           ],
-          "date_from": "2026-09-25",
-          "date_to": "2026-09-27",
+          "date_from": "2026-10-11",
+          "date_to": "2026-10-17",
           "locations": [
-            "nn"
+            "Thüringer Wald"
           ],
-          "description": "Wir beenden die Sommerbikesaison mit dem traditionellen Herbstbiken. Unser Stützpunkt ist dieses Jahr die Pfalzakademie in Lambrecht (Pfalz). Die Anreise erfolgt am Freitag Nachmittag. Am Samstag werden wir in verschiedenen Gruppen, leistungsbezogene Touren anbieten. Der Sonntag wird noch für eine angepasste Ausfahrt genutzt.\nOrt: Lambrecht, Pfalz\nAnforderungen: S1-S3, K1-K3, von allem etwas, für alle angepasst. Keiner wird überfordert sein und keiner kommt zu kurz!",
-          "bookable_id": "69bd7b0ebd72746a9678f450",
-          "bookable_start": "2026-09-25",
-          "bookable_end": "2026-09-27",
-          "free_places": 2,
-          "max_places": 30,
-          "bookable_places": 2,
-          "waitlist_active": false,
+          "description": "Tageswanderungen im Thüringer Wald. Hin- und Rückfahrt mit der Bahn. Mit der DB von Heidelberg über Frankfurt nach Gotha, weiter mit der Thüringer Wald-Bahn von Gotha nach Bad Tabarz. Unterbringung in einem Hotel in Bad Tabarz. Von dort starten wir unsere Tagestouren. Die umliegenden Berge, wie den Großen Inselsberg erwandern wir teilweise über den Rennsteig, den Tabarzer Vulkansteig oder den Lutherweg. Eine Wanderung führt uns zur Wartburg und nach Eisenach mit Gelegenheit zur Besichtigung von Burg und Stadt.\nUm an verschiedene Ausgangs- und Endpunkte unserer Wanderungen zu gelangen, werden wir den dortigen ÖPNV mit dem Deutschlandticket und der Gästekarte nutzen.\n\nAnforderungen: 700 – 900 Hm, Gehzeiten ca. 6 – 7 Stunden.\nAusrüstung: Wanderkleidung (für jedes Wetter), festes Schuhwerk, Wanderstöcke, Rucksack.\nVorkenntnisse: keine\nAn- und Abreise: Deutsche Bahn (Gruppenfahrkarte), sowie ÖPNV\nUnterbringung: Hotel in Bad Tabarz.\nKosten: ÜN/F im DZ ca. 75 € pro Nacht und Person,\nUnterbringung in DZ / EZ\nTeilnehmerzahl: 8\nAnmeldung: ab sofort\nAnmeldeschluss: 20.06.2026\nVorbesprechung: Termin nach Absprache",
+          "bookable_id": "69ba99aa7942a88da9fdfdf5",
+          "bookable_start": "2026-10-11",
+          "bookable_end": "2026-10-17",
+          "free_places": 0,
+          "max_places": 12,
+          "bookable_places": 0,
+          "waitlist_active": true,
           "bookable_canceled": false
         }
       }
