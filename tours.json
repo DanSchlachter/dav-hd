@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T11:43:18.058120+00:00",
+  "timestamp": "2026-09-30T11:29:41.712649+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 76,
   "tours": [
@@ -173,9 +173,9 @@
       "bookable_id": "69bc38bb9daefa4fefc19ab4",
       "bookable_start": "2026-10-18",
       "bookable_end": "2026-10-18",
-      "free_places": 22,
+      "free_places": 20,
       "max_places": 25,
-      "bookable_places": 22,
+      "bookable_places": 20,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1317,9 +1317,9 @@
       "date_from": "2026-10-09",
       "date_to": "2026-10-09",
       "locations": [
-        "NN"
+        "Heidelberg Hbf. RB 68"
       ],
-      "description": "N.D.",
+      "description": "Brombach, Ober-Mossau, Erbach\n18,5 Km; 526 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer steigt in Weinheim  zu.\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a918bd33c8ac3a04abf4c4d",
       "bookable_start": "2026-10-09",
       "bookable_end": "2026-10-09",
@@ -1898,9 +1898,9 @@
       "bookable_id": "6aa907f60364f6427737aae9",
       "bookable_start": "2026-12-13",
       "bookable_end": "2026-12-13",
-      "free_places": 4,
+      "free_places": 3,
       "max_places": 5,
-      "bookable_places": 4,
+      "bookable_places": 3,
       "waitlist_active": true,
       "bookable_canceled": false
     }

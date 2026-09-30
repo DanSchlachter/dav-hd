@@ -1,78 +1,216 @@
 {
-  "timestamp": "2026-09-29T11:43:18.064607+00:00",
-  "previous_timestamp": "2026-09-28T12:13:14.129443+00:00",
+  "timestamp": "2026-09-30T11:29:41.719232+00:00",
+  "previous_timestamp": "2026-09-29T11:43:18.058120+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 3
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "69ba99aa7942a88da9fdfdf3",
+        "id": "69bc38bb9daefa4fefc19ab1",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "bookable_places",
+          "free_places"
         ],
         "changes": {
-          "free_places": {
-            "from": 0,
-            "to": 3
-          },
           "bookable_places": {
-            "from": 0,
-            "to": 3
+            "from": 22,
+            "to": 20
+          },
+          "free_places": {
+            "from": 22,
+            "to": 20
           }
         },
         "current": {
-          "id": "69ba99aa7942a88da9fdfdf3",
-          "number": "2610_WAN_F_001",
-          "title": "Mehrtagestour in den Thüringer Wald",
+          "id": "69bc38bb9daefa4fefc19ab1",
+          "number": "261018FAM_F001",
+          "title": "Tagestour",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen"
+          ],
+          "date_from": "2026-10-18",
+          "date_to": "2026-10-18",
+          "locations": [
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
+          ],
+          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
+          "bookable_id": "69bc38bb9daefa4fefc19ab4",
+          "bookable_start": "2026-10-18",
+          "bookable_end": "2026-10-18",
+          "free_places": 20,
+          "max_places": 25,
+          "bookable_places": 20,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bc38bb9daefa4fefc19ab1",
+          "number": "261018FAM_F001",
+          "title": "Tagestour",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen"
+          ],
+          "date_from": "2026-10-18",
+          "date_to": "2026-10-18",
+          "locations": [
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
+          ],
+          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
+          "bookable_id": "69bc38bb9daefa4fefc19ab4",
+          "bookable_start": "2026-10-18",
+          "bookable_end": "2026-10-18",
+          "free_places": 22,
+          "max_places": 25,
+          "bookable_places": 22,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a918bd33c8ac3a04abf4c4b",
+        "changed_fields": [
+          "description",
+          "locations"
+        ],
+        "changes": {
+          "description": {
+            "from": "N.D.",
+            "to": "Brombach, Ober-Mossau, Erbach\n18,5 Km; 526 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer steigt in Weinheim  zu.\n-Anmeldung nicht erforderlich-"
+          },
+          "locations": {
+            "from": [
+              "NN"
+            ],
+            "to": [
+              "Heidelberg Hbf. RB 68"
+            ]
+          }
+        },
+        "current": {
+          "id": "6a918bd33c8ac3a04abf4c4b",
+          "number": null,
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-10-11",
-          "date_to": "2026-10-17",
+          "date_from": "2026-10-09",
+          "date_to": "2026-10-09",
           "locations": [
-            "Thüringer Wald"
+            "Heidelberg Hbf. RB 68"
           ],
-          "description": "Tageswanderungen im Thüringer Wald. Hin- und Rückfahrt mit der Bahn. Mit der DB von Heidelberg über Frankfurt nach Gotha, weiter mit der Thüringer Wald-Bahn von Gotha nach Bad Tabarz. Unterbringung in einem Hotel in Bad Tabarz. Von dort starten wir unsere Tagestouren. Die umliegenden Berge, wie den Großen Inselsberg erwandern wir teilweise über den Rennsteig, den Tabarzer Vulkansteig oder den Lutherweg. Eine Wanderung führt uns zur Wartburg und nach Eisenach mit Gelegenheit zur Besichtigung von Burg und Stadt.\nUm an verschiedene Ausgangs- und Endpunkte unserer Wanderungen zu gelangen, werden wir den dortigen ÖPNV mit dem Deutschlandticket und der Gästekarte nutzen.\n\nAnforderungen: 700 – 900 Hm, Gehzeiten ca. 6 – 7 Stunden.\nAusrüstung: Wanderkleidung (für jedes Wetter), festes Schuhwerk, Wanderstöcke, Rucksack.\nVorkenntnisse: keine\nAn- und Abreise: Deutsche Bahn (Gruppenfahrkarte), sowie ÖPNV\nUnterbringung: Hotel in Bad Tabarz.\nKosten: ÜN/F im DZ ca. 75 € pro Nacht und Person,\nUnterbringung in DZ / EZ\nTeilnehmerzahl: 8\nAnmeldung: ab sofort\nAnmeldeschluss: 20.06.2026\nVorbesprechung: Termin nach Absprache",
-          "bookable_id": "69ba99aa7942a88da9fdfdf5",
-          "bookable_start": "2026-10-11",
-          "bookable_end": "2026-10-17",
+          "description": "Brombach, Ober-Mossau, Erbach\n18,5 Km; 526 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer steigt in Weinheim  zu.\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918bd33c8ac3a04abf4c4d",
+          "bookable_start": "2026-10-09",
+          "bookable_end": "2026-10-09",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a918bd33c8ac3a04abf4c4b",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-10-09",
+          "date_to": "2026-10-09",
+          "locations": [
+            "NN"
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a918bd33c8ac3a04abf4c4d",
+          "bookable_start": "2026-10-09",
+          "bookable_end": "2026-10-09",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6aa907f60364f6427737aae7",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 4,
+            "to": 3
+          },
+          "free_places": {
+            "from": 4,
+            "to": 3
+          }
+        },
+        "current": {
+          "id": "6aa907f60364f6427737aae7",
+          "number": "261213-2B_005",
+          "title": "ECO: 13.12.2026-2 Sportwanderung im Odenwald für Frühaussteiger",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-12-13",
+          "date_to": "2026-12-13",
+          "locations": [
+            "Odenwald"
+          ],
+          "description": "Diese Tour eignet sich als Einstiegstour. Sie endet nach ca. 20 - 23 km. Der Weg zur nächsten Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 5\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine mindestens 20 - 23km lange Wanderung mit ca. 500 - 900 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 04.12.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa907f60364f6427737aae9",
+          "bookable_start": "2026-12-13",
+          "bookable_end": "2026-12-13",
           "free_places": 3,
-          "max_places": 12,
+          "max_places": 5,
           "bookable_places": 3,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69ba99aa7942a88da9fdfdf3",
-          "number": "2610_WAN_F_001",
-          "title": "Mehrtagestour in den Thüringer Wald",
+          "id": "6aa907f60364f6427737aae7",
+          "number": "261213-2B_005",
+          "title": "ECO: 13.12.2026-2 Sportwanderung im Odenwald für Frühaussteiger",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Sportwandern"
           ],
-          "date_from": "2026-10-11",
-          "date_to": "2026-10-17",
+          "date_from": "2026-12-13",
+          "date_to": "2026-12-13",
           "locations": [
-            "Thüringer Wald"
+            "Odenwald"
           ],
-          "description": "Tageswanderungen im Thüringer Wald. Hin- und Rückfahrt mit der Bahn. Mit der DB von Heidelberg über Frankfurt nach Gotha, weiter mit der Thüringer Wald-Bahn von Gotha nach Bad Tabarz. Unterbringung in einem Hotel in Bad Tabarz. Von dort starten wir unsere Tagestouren. Die umliegenden Berge, wie den Großen Inselsberg erwandern wir teilweise über den Rennsteig, den Tabarzer Vulkansteig oder den Lutherweg. Eine Wanderung führt uns zur Wartburg und nach Eisenach mit Gelegenheit zur Besichtigung von Burg und Stadt.\nUm an verschiedene Ausgangs- und Endpunkte unserer Wanderungen zu gelangen, werden wir den dortigen ÖPNV mit dem Deutschlandticket und der Gästekarte nutzen.\n\nAnforderungen: 700 – 900 Hm, Gehzeiten ca. 6 – 7 Stunden.\nAusrüstung: Wanderkleidung (für jedes Wetter), festes Schuhwerk, Wanderstöcke, Rucksack.\nVorkenntnisse: keine\nAn- und Abreise: Deutsche Bahn (Gruppenfahrkarte), sowie ÖPNV\nUnterbringung: Hotel in Bad Tabarz.\nKosten: ÜN/F im DZ ca. 75 € pro Nacht und Person,\nUnterbringung in DZ / EZ\nTeilnehmerzahl: 8\nAnmeldung: ab sofort\nAnmeldeschluss: 20.06.2026\nVorbesprechung: Termin nach Absprache",
-          "bookable_id": "69ba99aa7942a88da9fdfdf5",
-          "bookable_start": "2026-10-11",
-          "bookable_end": "2026-10-17",
-          "free_places": 0,
-          "max_places": 12,
-          "bookable_places": 0,
+          "description": "Diese Tour eignet sich als Einstiegstour. Sie endet nach ca. 20 - 23 km. Der Weg zur nächsten Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 5\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine mindestens 20 - 23km lange Wanderung mit ca. 500 - 900 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 04.12.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa907f60364f6427737aae9",
+          "bookable_start": "2026-12-13",
+          "bookable_end": "2026-12-13",
+          "free_places": 4,
+          "max_places": 5,
+          "bookable_places": 4,
           "waitlist_active": true,
           "bookable_canceled": false
         }
