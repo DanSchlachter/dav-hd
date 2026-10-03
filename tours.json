@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-02T11:29:35.222482+00:00",
+  "timestamp": "2026-10-03T10:45:09.043196+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 76,
   "tours": [
@@ -1295,13 +1295,13 @@
         "Heidelberg Hbf S 1"
       ],
       "description": "Unter-Schönmattenwag, Stiefelhütte, Heiligkreuzsteinach (Schlusseinkehr)\n17 Km; 450 m; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a918b6f3c8ac3a04abf49af",
-      "bookable_start": "2026-10-02",
-      "bookable_end": "2026-10-02",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
