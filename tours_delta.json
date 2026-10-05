@@ -1,14 +1,149 @@
 {
-  "timestamp": "2026-10-04T11:26:54.718710+00:00",
-  "previous_timestamp": "2026-10-03T10:45:09.043196+00:00",
+  "timestamp": "2026-10-05T12:53:08.589494+00:00",
+  "previous_timestamp": "2026-10-04T11:26:54.712137+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 2
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "6a2961f21644e0483a1193f3",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 4,
+            "to": 3
+          },
+          "bookable_places": {
+            "from": 4,
+            "to": 3
+          }
+        },
+        "current": {
+          "id": "6a2961f21644e0483a1193f3",
+          "number": null,
+          "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Natur- und Umweltschutz"
+          ],
+          "date_from": "2026-10-22",
+          "date_to": "2026-10-26",
+          "locations": [
+            "Tenno, Trentino"
+          ],
+          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
+          "bookable_id": "6a2961f21644e0483a1193f5",
+          "bookable_start": "2026-10-22",
+          "bookable_end": "2026-10-26",
+          "free_places": 3,
+          "max_places": 8,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a2961f21644e0483a1193f3",
+          "number": null,
+          "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Natur- und Umweltschutz"
+          ],
+          "date_from": "2026-10-22",
+          "date_to": "2026-10-26",
+          "locations": [
+            "Tenno, Trentino"
+          ],
+          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
+          "bookable_id": "6a2961f21644e0483a1193f5",
+          "bookable_start": "2026-10-22",
+          "bookable_end": "2026-10-26",
+          "free_places": 4,
+          "max_places": 8,
+          "bookable_places": 4,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6aa8ffa6cfc93993cbc53049",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 1,
+            "to": 2
+          },
+          "bookable_places": {
+            "from": 1,
+            "to": 2
+          }
+        },
+        "current": {
+          "id": "6aa8ffa6cfc93993cbc53049",
+          "number": "261011-1B_001",
+          "title": "ECO: 11.10.2026-1 Sportwanderung in der Pfalz",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-10-11",
+          "date_to": "2026-10-11",
+          "locations": [
+            "Pfalz"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Vereinsbus. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa8ffa6cfc93993cbc5304c",
+          "bookable_start": "2026-10-11",
+          "bookable_end": "2026-10-11",
+          "free_places": 2,
+          "max_places": 4,
+          "bookable_places": 2,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6aa8ffa6cfc93993cbc53049",
+          "number": "261011-1B_001",
+          "title": "ECO: 11.10.2026-1 Sportwanderung in der Pfalz",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-10-11",
+          "date_to": "2026-10-11",
+          "locations": [
+            "Pfalz"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Vereinsbus. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa8ffa6cfc93993cbc5304c",
+          "bookable_start": "2026-10-11",
+          "bookable_end": "2026-10-11",
+          "free_places": 1,
+          "max_places": 4,
+          "bookable_places": 1,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
