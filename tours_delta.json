@@ -1,14 +1,82 @@
 {
-  "timestamp": "2026-10-06T12:20:24.808381+00:00",
-  "previous_timestamp": "2026-10-05T12:53:08.582563+00:00",
+  "timestamp": "2026-10-07T12:12:38.878017+00:00",
+  "previous_timestamp": "2026-10-06T12:20:24.803335+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "6aa8ffa6cfc93993cbc53049",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 2,
+            "to": 1
+          },
+          "bookable_places": {
+            "from": 2,
+            "to": 1
+          }
+        },
+        "current": {
+          "id": "6aa8ffa6cfc93993cbc53049",
+          "number": "261011-1B_001",
+          "title": "ECO: 11.10.2026-1 Sportwanderung in der Pfalz",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-10-11",
+          "date_to": "2026-10-11",
+          "locations": [
+            "Pfalz"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Vereinsbus. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa8ffa6cfc93993cbc5304c",
+          "bookable_start": "2026-10-11",
+          "bookable_end": "2026-10-11",
+          "free_places": 1,
+          "max_places": 4,
+          "bookable_places": 1,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6aa8ffa6cfc93993cbc53049",
+          "number": "261011-1B_001",
+          "title": "ECO: 11.10.2026-1 Sportwanderung in der Pfalz",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-10-11",
+          "date_to": "2026-10-11",
+          "locations": [
+            "Pfalz"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr (voraussichtlich PHV-Hütte) geplant.\n\nmax. Teilnehmerzahl: 4\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug oder Vereinsbus. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 2.10.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa8ffa6cfc93993cbc5304c",
+          "bookable_start": "2026-10-11",
+          "bookable_end": "2026-10-11",
+          "free_places": 2,
+          "max_places": 4,
+          "bookable_places": 2,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
