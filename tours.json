@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T12:12:38.871511+00:00",
+  "timestamp": "2026-10-08T12:22:47.544710+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 76,
   "tours": [
@@ -1023,9 +1023,9 @@
       "bookable_id": "6a2961f21644e0483a1193f5",
       "bookable_start": "2026-10-22",
       "bookable_end": "2026-10-26",
-      "free_places": 3,
+      "free_places": 4,
       "max_places": 8,
-      "bookable_places": 3,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1220,13 +1220,13 @@
         "Heidelberg Hbf. Bus Linie 34"
       ],
       "description": "Ziegelhausen, Forlenweg, Höhenweg, Bauernweg, Peterstal (Schlusseinkehr)\n7 Km; 184 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:06 Uhr Bus Linie 34\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a9187f73c8ac3a04abf11f4",
-      "bookable_start": "2026-10-07",
-      "bookable_end": "2026-10-07",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
