@@ -1,135 +1,250 @@
 {
-  "timestamp": "2026-10-08T12:22:47.549706+00:00",
-  "previous_timestamp": "2026-10-07T12:12:38.871511+00:00",
+  "timestamp": "2026-10-09T12:12:40.155288+00:00",
+  "previous_timestamp": "2026-10-08T12:22:47.544710+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 2
+    "modified": 4
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a2961f21644e0483a1193f3",
+        "id": "6a918c8fc28f2b6de7dedab2",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "description",
+          "locations"
         ],
         "changes": {
-          "free_places": {
-            "from": 3,
-            "to": 4
+          "description": {
+            "from": "N.D.",
+            "to": "Kaiserslautern, Antonihof, Johanniskreuz, Iggelbach (Schlusseinkehr).\n18,5 Km; 490 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:17 Uhr RE 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-"
           },
-          "bookable_places": {
-            "from": 3,
-            "to": 4
+          "locations": {
+            "from": [
+              "NN"
+            ],
+            "to": [
+              "Heidelberg Hbf. RE 1"
+            ]
           }
         },
         "current": {
-          "id": "6a2961f21644e0483a1193f3",
+          "id": "6a918c8fc28f2b6de7dedab2",
           "number": null,
-          "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+          "title": "Mittwochswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Natur- und Umweltschutz"
+            "Wandern"
           ],
-          "date_from": "2026-10-22",
-          "date_to": "2026-10-26",
+          "date_from": "2026-10-21",
+          "date_to": "2026-10-21",
           "locations": [
-            "Tenno, Trentino"
+            "Heidelberg Hbf. RE 1"
           ],
-          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
-          "bookable_id": "6a2961f21644e0483a1193f5",
-          "bookable_start": "2026-10-22",
-          "bookable_end": "2026-10-26",
-          "free_places": 4,
-          "max_places": 8,
-          "bookable_places": 4,
+          "description": "Kaiserslautern, Antonihof, Johanniskreuz, Iggelbach (Schlusseinkehr).\n18,5 Km; 490 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:17 Uhr RE 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918c90c28f2b6de7dedab4",
+          "bookable_start": "2026-10-21",
+          "bookable_end": "2026-10-21",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a2961f21644e0483a1193f3",
+          "id": "6a918c8fc28f2b6de7dedab2",
           "number": null,
-          "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+          "title": "Mittwochswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Natur- und Umweltschutz"
+            "Wandern"
           ],
-          "date_from": "2026-10-22",
-          "date_to": "2026-10-26",
+          "date_from": "2026-10-21",
+          "date_to": "2026-10-21",
           "locations": [
-            "Tenno, Trentino"
+            "NN"
           ],
-          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
-          "bookable_id": "6a2961f21644e0483a1193f5",
-          "bookable_start": "2026-10-22",
-          "bookable_end": "2026-10-26",
-          "free_places": 3,
-          "max_places": 8,
-          "bookable_places": 3,
+          "description": "N.D.",
+          "bookable_id": "6a918c90c28f2b6de7dedab4",
+          "bookable_start": "2026-10-21",
+          "bookable_end": "2026-10-21",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6a9187f73c8ac3a04abf11f2",
+        "id": "6a918ceb0137487125302f31",
         "changed_fields": [
-          "bookable_start",
-          "bookable_id",
-          "bookable_end",
-          "waitlist_active"
+          "description",
+          "locations"
         ],
         "changes": {
-          "bookable_start": {
-            "from": "2026-10-07",
-            "to": ""
+          "description": {
+            "from": "N.D.",
+            "to": "Schriesheim, Spatschlucht, Schriesheimer Hütte, Ruine Shanzenköpfle und Hirschburg (Einkehr), Schriesheim\n15 Km; 360 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:55 Uhr Linie 5 nach Schriesheim\nWanderführerin erwartet die Gruppe an der Haltestelle Schriesheim\n\"Zentgartenstraße\" mit Hund Arya\n -Ameldung nicht erforderlich-"
           },
-          "bookable_id": {
-            "from": "6a9187f73c8ac3a04abf11f4",
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-10-07",
-            "to": ""
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
+          "locations": {
+            "from": [
+              "NN"
+            ],
+            "to": [
+              "Heidelberg Bismarckplatz Line 5"
+            ]
           }
         },
         "current": {
-          "id": "6a9187f73c8ac3a04abf11f2",
+          "id": "6a918ceb0137487125302f31",
           "number": null,
-          "title": "Mittwochswanderung",
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-10-07",
-          "date_to": "2026-10-07",
+          "date_from": "2026-10-23",
+          "date_to": "2026-10-23",
           "locations": [
-            "Heidelberg Hbf. Bus Linie 34"
+            "Heidelberg Bismarckplatz Line 5"
           ],
-          "description": "Ziegelhausen, Forlenweg, Höhenweg, Bauernweg, Peterstal (Schlusseinkehr)\n7 Km; 184 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:06 Uhr Bus Linie 34\n-Anmeldung nicht erforderlich-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
+          "description": "Schriesheim, Spatschlucht, Schriesheimer Hütte, Ruine Shanzenköpfle und Hirschburg (Einkehr), Schriesheim\n15 Km; 360 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:55 Uhr Linie 5 nach Schriesheim\nWanderführerin erwartet die Gruppe an der Haltestelle Schriesheim\n\"Zentgartenstraße\" mit Hund Arya\n -Ameldung nicht erforderlich-",
+          "bookable_id": "6a918ceb0137487125302f33",
+          "bookable_start": "2026-10-23",
+          "bookable_end": "2026-10-23",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
-          "waitlist_active": null,
+          "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a9187f73c8ac3a04abf11f2",
+          "id": "6a918ceb0137487125302f31",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-10-23",
+          "date_to": "2026-10-23",
+          "locations": [
+            "NN"
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a918ceb0137487125302f33",
+          "bookable_start": "2026-10-23",
+          "bookable_end": "2026-10-23",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a918d42c28f2b6de7dedde5",
+        "changed_fields": [
+          "description",
+          "locations"
+        ],
+        "changes": {
+          "description": {
+            "from": "N.D.",
+            "to": "Mauer, Meckesheim, Oberhof, Zuzenhausen (Mühlenbäcker Einkehr), Zuzenhausen Bahnhof\n14 Km; 100 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-"
+          },
+          "locations": {
+            "from": [
+              "NN"
+            ],
+            "to": [
+              "Heidelberg Hbf S 7"
+            ]
+          }
+        },
+        "current": {
+          "id": "6a918d42c28f2b6de7dedde5",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-10-30",
+          "date_to": "2026-10-30",
+          "locations": [
+            "Heidelberg Hbf S 7"
+          ],
+          "description": "Mauer, Meckesheim, Oberhof, Zuzenhausen (Mühlenbäcker Einkehr), Zuzenhausen Bahnhof\n14 Km; 100 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918d42c28f2b6de7dedde7",
+          "bookable_start": "2026-10-30",
+          "bookable_end": "2026-10-30",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a918d42c28f2b6de7dedde5",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-10-30",
+          "date_to": "2026-10-30",
+          "locations": [
+            "NN"
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a918d42c28f2b6de7dedde7",
+          "bookable_start": "2026-10-30",
+          "bookable_end": "2026-10-30",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a919143c28f2b6de7defaf2",
+        "changed_fields": [
+          "description",
+          "locations"
+        ],
+        "changes": {
+          "description": {
+            "from": "N.D.",
+            "to": "Mauer, Salzberghütte, Schlangenweg, Waldwimmersbach (Einkehr)\n14 Km; 280Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 7 nach Eppingen\nWanderführerin erwartet die Gruppe am Bahnhof Mauer mit Hund Arya\n-Anmeldung nicht erforderlich-"
+          },
+          "locations": {
+            "from": [
+              "NN"
+            ],
+            "to": [
+              "Heidelberg Hauptbahnhof S 7"
+            ]
+          }
+        },
+        "current": {
+          "id": "6a919143c28f2b6de7defaf2",
           "number": null,
           "title": "Mittwochswanderung",
           "type": "TOUR",
@@ -138,15 +253,40 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-10-07",
-          "date_to": "2026-10-07",
+          "date_from": "2026-11-18",
+          "date_to": "2026-11-18",
           "locations": [
-            "Heidelberg Hbf. Bus Linie 34"
+            "Heidelberg Hauptbahnhof S 7"
           ],
-          "description": "Ziegelhausen, Forlenweg, Höhenweg, Bauernweg, Peterstal (Schlusseinkehr)\n7 Km; 184 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:06 Uhr Bus Linie 34\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a9187f73c8ac3a04abf11f4",
-          "bookable_start": "2026-10-07",
-          "bookable_end": "2026-10-07",
+          "description": "Mauer, Salzberghütte, Schlangenweg, Waldwimmersbach (Einkehr)\n14 Km; 280Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 7 nach Eppingen\nWanderführerin erwartet die Gruppe am Bahnhof Mauer mit Hund Arya\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a919143c28f2b6de7defaf5",
+          "bookable_start": "2026-11-18",
+          "bookable_end": "2026-11-18",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a919143c28f2b6de7defaf2",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-11-18",
+          "date_to": "2026-11-18",
+          "locations": [
+            "NN"
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a919143c28f2b6de7defaf5",
+          "bookable_start": "2026-11-18",
+          "bookable_end": "2026-11-18",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,

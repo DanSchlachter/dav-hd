@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T12:22:47.544710+00:00",
+  "timestamp": "2026-10-09T12:12:40.148854+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 76,
   "tours": [
@@ -1367,9 +1367,9 @@
       "date_from": "2026-10-21",
       "date_to": "2026-10-21",
       "locations": [
-        "NN"
+        "Heidelberg Hbf. RE 1"
       ],
-      "description": "N.D.",
+      "description": "Kaiserslautern, Antonihof, Johanniskreuz, Iggelbach (Schlusseinkehr).\n18,5 Km; 490 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:17 Uhr RE 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a918c90c28f2b6de7dedab4",
       "bookable_start": "2026-10-21",
       "bookable_end": "2026-10-21",
@@ -1392,9 +1392,9 @@
       "date_from": "2026-10-23",
       "date_to": "2026-10-23",
       "locations": [
-        "NN"
+        "Heidelberg Bismarckplatz Line 5"
       ],
-      "description": "N.D.",
+      "description": "Schriesheim, Spatschlucht, Schriesheimer Hütte, Ruine Shanzenköpfle und Hirschburg (Einkehr), Schriesheim\n15 Km; 360 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:55 Uhr Linie 5 nach Schriesheim\nWanderführerin erwartet die Gruppe an der Haltestelle Schriesheim\n\"Zentgartenstraße\" mit Hund Arya\n -Ameldung nicht erforderlich-",
       "bookable_id": "6a918ceb0137487125302f33",
       "bookable_start": "2026-10-23",
       "bookable_end": "2026-10-23",
@@ -1417,9 +1417,9 @@
       "date_from": "2026-10-30",
       "date_to": "2026-10-30",
       "locations": [
-        "NN"
+        "Heidelberg Hbf S 7"
       ],
-      "description": "N.D.",
+      "description": "Mauer, Meckesheim, Oberhof, Zuzenhausen (Mühlenbäcker Einkehr), Zuzenhausen Bahnhof\n14 Km; 100 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a918d42c28f2b6de7dedde7",
       "bookable_start": "2026-10-30",
       "bookable_end": "2026-10-30",
@@ -1617,9 +1617,9 @@
       "date_from": "2026-11-18",
       "date_to": "2026-11-18",
       "locations": [
-        "NN"
+        "Heidelberg Hauptbahnhof S 7"
       ],
-      "description": "N.D.",
+      "description": "Mauer, Salzberghütte, Schlangenweg, Waldwimmersbach (Einkehr)\n14 Km; 280Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 7 nach Eppingen\nWanderführerin erwartet die Gruppe am Bahnhof Mauer mit Hund Arya\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a919143c28f2b6de7defaf5",
       "bookable_start": "2026-11-18",
       "bookable_end": "2026-11-18",
