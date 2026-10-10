@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T12:12:40.148854+00:00",
+  "timestamp": "2026-10-10T11:30:05.626778+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 76,
   "tours": [
@@ -1320,13 +1320,13 @@
         "Heidelberg Hbf. RB 68"
       ],
       "description": "Brombach, Ober-Mossau, Erbach\n18,5 Km; 526 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer steigt in Weinheim  zu.\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a918bd33c8ac3a04abf4c4d",
-      "bookable_start": "2026-10-09",
-      "bookable_end": "2026-10-09",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {

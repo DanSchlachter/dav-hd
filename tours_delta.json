@@ -1,108 +1,43 @@
 {
-  "timestamp": "2026-10-09T12:12:40.155288+00:00",
-  "previous_timestamp": "2026-10-08T12:22:47.544710+00:00",
+  "timestamp": "2026-10-10T11:30:05.630676+00:00",
+  "previous_timestamp": "2026-10-09T12:12:40.148854+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 4
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a918c8fc28f2b6de7dedab2",
+        "id": "6a918bd33c8ac3a04abf4c4b",
         "changed_fields": [
-          "description",
-          "locations"
+          "bookable_end",
+          "waitlist_active",
+          "bookable_start",
+          "bookable_id"
         ],
         "changes": {
-          "description": {
-            "from": "N.D.",
-            "to": "Kaiserslautern, Antonihof, Johanniskreuz, Iggelbach (Schlusseinkehr).\n18,5 Km; 490 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:17 Uhr RE 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-"
+          "bookable_end": {
+            "from": "2026-10-09",
+            "to": ""
           },
-          "locations": {
-            "from": [
-              "NN"
-            ],
-            "to": [
-              "Heidelberg Hbf. RE 1"
-            ]
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-10-09",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a918bd33c8ac3a04abf4c4d",
+            "to": null
           }
         },
         "current": {
-          "id": "6a918c8fc28f2b6de7dedab2",
-          "number": null,
-          "title": "Mittwochswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-10-21",
-          "date_to": "2026-10-21",
-          "locations": [
-            "Heidelberg Hbf. RE 1"
-          ],
-          "description": "Kaiserslautern, Antonihof, Johanniskreuz, Iggelbach (Schlusseinkehr).\n18,5 Km; 490 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:17 Uhr RE 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918c90c28f2b6de7dedab4",
-          "bookable_start": "2026-10-21",
-          "bookable_end": "2026-10-21",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a918c8fc28f2b6de7dedab2",
-          "number": null,
-          "title": "Mittwochswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-10-21",
-          "date_to": "2026-10-21",
-          "locations": [
-            "NN"
-          ],
-          "description": "N.D.",
-          "bookable_id": "6a918c90c28f2b6de7dedab4",
-          "bookable_start": "2026-10-21",
-          "bookable_end": "2026-10-21",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a918ceb0137487125302f31",
-        "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "N.D.",
-            "to": "Schriesheim, Spatschlucht, Schriesheimer Hütte, Ruine Shanzenköpfle und Hirschburg (Einkehr), Schriesheim\n15 Km; 360 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:55 Uhr Linie 5 nach Schriesheim\nWanderführerin erwartet die Gruppe an der Haltestelle Schriesheim\n\"Zentgartenstraße\" mit Hund Arya\n -Ameldung nicht erforderlich-"
-          },
-          "locations": {
-            "from": [
-              "NN"
-            ],
-            "to": [
-              "Heidelberg Bismarckplatz Line 5"
-            ]
-          }
-        },
-        "current": {
-          "id": "6a918ceb0137487125302f31",
+          "id": "6a918bd33c8ac3a04abf4c4b",
           "number": null,
           "title": "Freitagswanderung",
           "type": "TOUR",
@@ -111,23 +46,23 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-10-23",
-          "date_to": "2026-10-23",
+          "date_from": "2026-10-09",
+          "date_to": "2026-10-09",
           "locations": [
-            "Heidelberg Bismarckplatz Line 5"
+            "Heidelberg Hbf. RB 68"
           ],
-          "description": "Schriesheim, Spatschlucht, Schriesheimer Hütte, Ruine Shanzenköpfle und Hirschburg (Einkehr), Schriesheim\n15 Km; 360 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:55 Uhr Linie 5 nach Schriesheim\nWanderführerin erwartet die Gruppe an der Haltestelle Schriesheim\n\"Zentgartenstraße\" mit Hund Arya\n -Ameldung nicht erforderlich-",
-          "bookable_id": "6a918ceb0137487125302f33",
-          "bookable_start": "2026-10-23",
-          "bookable_end": "2026-10-23",
+          "description": "Brombach, Ober-Mossau, Erbach\n18,5 Km; 526 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer steigt in Weinheim  zu.\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
-          "waitlist_active": true,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a918ceb0137487125302f31",
+          "id": "6a918bd33c8ac3a04abf4c4b",
           "number": null,
           "title": "Freitagswanderung",
           "type": "TOUR",
@@ -136,157 +71,15 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-10-23",
-          "date_to": "2026-10-23",
+          "date_from": "2026-10-09",
+          "date_to": "2026-10-09",
           "locations": [
-            "NN"
+            "Heidelberg Hbf. RB 68"
           ],
-          "description": "N.D.",
-          "bookable_id": "6a918ceb0137487125302f33",
-          "bookable_start": "2026-10-23",
-          "bookable_end": "2026-10-23",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a918d42c28f2b6de7dedde5",
-        "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "N.D.",
-            "to": "Mauer, Meckesheim, Oberhof, Zuzenhausen (Mühlenbäcker Einkehr), Zuzenhausen Bahnhof\n14 Km; 100 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-"
-          },
-          "locations": {
-            "from": [
-              "NN"
-            ],
-            "to": [
-              "Heidelberg Hbf S 7"
-            ]
-          }
-        },
-        "current": {
-          "id": "6a918d42c28f2b6de7dedde5",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-10-30",
-          "date_to": "2026-10-30",
-          "locations": [
-            "Heidelberg Hbf S 7"
-          ],
-          "description": "Mauer, Meckesheim, Oberhof, Zuzenhausen (Mühlenbäcker Einkehr), Zuzenhausen Bahnhof\n14 Km; 100 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918d42c28f2b6de7dedde7",
-          "bookable_start": "2026-10-30",
-          "bookable_end": "2026-10-30",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a918d42c28f2b6de7dedde5",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-10-30",
-          "date_to": "2026-10-30",
-          "locations": [
-            "NN"
-          ],
-          "description": "N.D.",
-          "bookable_id": "6a918d42c28f2b6de7dedde7",
-          "bookable_start": "2026-10-30",
-          "bookable_end": "2026-10-30",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a919143c28f2b6de7defaf2",
-        "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "N.D.",
-            "to": "Mauer, Salzberghütte, Schlangenweg, Waldwimmersbach (Einkehr)\n14 Km; 280Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 7 nach Eppingen\nWanderführerin erwartet die Gruppe am Bahnhof Mauer mit Hund Arya\n-Anmeldung nicht erforderlich-"
-          },
-          "locations": {
-            "from": [
-              "NN"
-            ],
-            "to": [
-              "Heidelberg Hauptbahnhof S 7"
-            ]
-          }
-        },
-        "current": {
-          "id": "6a919143c28f2b6de7defaf2",
-          "number": null,
-          "title": "Mittwochswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-11-18",
-          "date_to": "2026-11-18",
-          "locations": [
-            "Heidelberg Hauptbahnhof S 7"
-          ],
-          "description": "Mauer, Salzberghütte, Schlangenweg, Waldwimmersbach (Einkehr)\n14 Km; 280Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 7 nach Eppingen\nWanderführerin erwartet die Gruppe am Bahnhof Mauer mit Hund Arya\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a919143c28f2b6de7defaf5",
-          "bookable_start": "2026-11-18",
-          "bookable_end": "2026-11-18",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a919143c28f2b6de7defaf2",
-          "number": null,
-          "title": "Mittwochswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-11-18",
-          "date_to": "2026-11-18",
-          "locations": [
-            "NN"
-          ],
-          "description": "N.D.",
-          "bookable_id": "6a919143c28f2b6de7defaf5",
-          "bookable_start": "2026-11-18",
-          "bookable_end": "2026-11-18",
+          "description": "Brombach, Ober-Mossau, Erbach\n18,5 Km; 526 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer steigt in Weinheim  zu.\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918bd33c8ac3a04abf4c4d",
+          "bookable_start": "2026-10-09",
+          "bookable_end": "2026-10-09",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
