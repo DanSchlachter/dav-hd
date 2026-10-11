@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-10T11:30:05.630676+00:00",
-  "previous_timestamp": "2026-10-09T12:12:40.148854+00:00",
+  "timestamp": "2026-10-11T11:43:40.801040+00:00",
+  "previous_timestamp": "2026-10-10T11:30:05.626778+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
@@ -11,78 +11,73 @@
     "removed": [],
     "modified": [
       {
-        "id": "6a918bd33c8ac3a04abf4c4b",
+        "id": "69bc38bb9daefa4fefc19ab1",
         "changed_fields": [
-          "bookable_end",
-          "waitlist_active",
-          "bookable_start",
-          "bookable_id"
+          "bookable_places",
+          "free_places",
+          "max_places"
         ],
         "changes": {
-          "bookable_end": {
-            "from": "2026-10-09",
-            "to": ""
+          "bookable_places": {
+            "from": 20,
+            "to": 0
           },
-          "waitlist_active": {
-            "from": true,
-            "to": null
+          "free_places": {
+            "from": 20,
+            "to": 0
           },
-          "bookable_start": {
-            "from": "2026-10-09",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "6a918bd33c8ac3a04abf4c4d",
-            "to": null
+          "max_places": {
+            "from": 25,
+            "to": 0
           }
         },
         "current": {
-          "id": "6a918bd33c8ac3a04abf4c4b",
-          "number": null,
-          "title": "Freitagswanderung",
+          "id": "69bc38bb9daefa4fefc19ab1",
+          "number": "261018FAM_F001",
+          "title": "Tagestour",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-10-09",
-          "date_to": "2026-10-09",
+          "date_from": "2026-10-18",
+          "date_to": "2026-10-18",
           "locations": [
-            "Heidelberg Hbf. RB 68"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Brombach, Ober-Mossau, Erbach\n18,5 Km; 526 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer steigt in Weinheim  zu.\n-Anmeldung nicht erforderlich-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
+          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
+          "bookable_id": "69bc38bb9daefa4fefc19ab4",
+          "bookable_start": "2026-10-18",
+          "bookable_end": "2026-10-18",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
+          "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a918bd33c8ac3a04abf4c4b",
-          "number": null,
-          "title": "Freitagswanderung",
+          "id": "69bc38bb9daefa4fefc19ab1",
+          "number": "261018FAM_F001",
+          "title": "Tagestour",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-10-09",
-          "date_to": "2026-10-09",
+          "date_from": "2026-10-18",
+          "date_to": "2026-10-18",
           "locations": [
-            "Heidelberg Hbf. RB 68"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Brombach, Ober-Mossau, Erbach\n18,5 Km; 526 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer steigt in Weinheim  zu.\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918bd33c8ac3a04abf4c4d",
-          "bookable_start": "2026-10-09",
-          "bookable_end": "2026-10-09",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
+          "bookable_id": "69bc38bb9daefa4fefc19ab4",
+          "bookable_start": "2026-10-18",
+          "bookable_end": "2026-10-18",
+          "free_places": 20,
+          "max_places": 25,
+          "bookable_places": 20,
           "waitlist_active": true,
           "bookable_canceled": false
         }
