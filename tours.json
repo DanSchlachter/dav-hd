@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-14T10:45:53.008335+00:00",
+  "timestamp": "2026-10-15T10:28:52.236454+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 87,
+  "tour_count": 86,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -730,31 +730,6 @@
       "bookable_canceled": false
     },
     {
-      "id": "69d7dc7ba014b4cb7d004572",
-      "number": "26Hoe_F001",
-      "title": "Höhlen-Schnuppertour für Anfänger - Grotte de la Malatiere (Frankreich)",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Höhle"
-      ],
-      "date_from": "2026-05-08",
-      "date_to": "2026-05-10",
-      "locations": [
-        "Heidelberg"
-      ],
-      "description": "Leitung: Martin Benz, Edith Hoffmann, Hannah Wagner\n\nWir besuchen die Grotte de la Malatière im französischen Jura (ca. 4 Stunden Anfahrt)\nDiese Höhle bietet alles, was eine Höhle ausmacht, einen kurzen Eingangsschacht, den man entweder mit Seiltechnik oder mit einer Drahtseilleiter bewältigen kann, ein wenig Kletterei, mehrere Engstellen und einen Quergang.\nEs gibt beeindruckend große Gänge und wunderschöne Tropfsteinformationen zu bewundern. Die gesamte Tour in der Höhle dauert etwa 6 Stunden.\nHin- und Rückfahrt in Fahrgemeinschaften. 2 Übernachtungen in einer Unterkunft. Einzelheiten zu Fahrgemeinschaften, Unterkunft, Material, Anspruch… werden wir in einer Vorbesprechung bekanntgeben.\nAnforderungen: Sehr gute Trittsicherheit, wir befinden uns immer in äußerst unwegsamen Gelände. Kondition für eine Tour mit ca. 6 Stunden Dauer. Allgemeine körperliche Fitness und Beweglichkeit sowie keine Angst vor Engstellen.\nVorbesprechung im großen Seminarraum der Kletterhalle in Heidelberg am Dienstag 28.4. um 19 Uhr - eventuell kurzer Besuch der Stern-Staub-Höhle mit kleiner Einseiltechnik - / Trittleiterübung für den Einstiegsschacht.",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
       "id": "69e1ebfa6fdf546c6f73874f",
       "number": "20260906MTB01",
       "title": "Stilfserjoch und 3-Länder-Enduro",
@@ -1005,31 +980,6 @@
       "bookable_canceled": false
     },
     {
-      "id": "6a2961f21644e0483a1193f3",
-      "number": null,
-      "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Natur- und Umweltschutz"
-      ],
-      "date_from": "2026-10-22",
-      "date_to": "2026-10-26",
-      "locations": [
-        "Tenno, Trentino"
-      ],
-      "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
-      "bookable_id": "6a2961f21644e0483a1193f5",
-      "bookable_start": "2026-10-22",
-      "bookable_end": "2026-10-26",
-      "free_places": 3,
-      "max_places": 8,
-      "bookable_places": 3,
-      "waitlist_active": true,
-      "bookable_canceled": false
-    },
-    {
       "id": "6a2a7d231644e0483a181fdb",
       "number": null,
       "title": "Freitagswanderung",
@@ -1052,6 +1002,31 @@
       "max_places": null,
       "bookable_places": null,
       "waitlist_active": null,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a2961f21644e0483a1193f3",
+      "number": null,
+      "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Natur- und Umweltschutz"
+      ],
+      "date_from": "2026-10-22",
+      "date_to": "2026-10-26",
+      "locations": [
+        "Tenno, Trentino"
+      ],
+      "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
+      "bookable_id": "6a2961f21644e0483a1193f5",
+      "bookable_start": "2026-10-22",
+      "bookable_end": "2026-10-26",
+      "free_places": 3,
+      "max_places": 8,
+      "bookable_places": 3,
+      "waitlist_active": true,
       "bookable_canceled": false
     },
     {
@@ -1848,9 +1823,9 @@
       "bookable_id": "6aa9056d2a789853eea2c140",
       "bookable_start": "2026-11-22",
       "bookable_end": "2026-11-22",
-      "free_places": 3,
+      "free_places": 2,
       "max_places": 9,
-      "bookable_places": 3,
+      "bookable_places": 2,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1976,6 +1951,32 @@
       "bookable_id": "6acc6d6a59257517ccaf763d",
       "bookable_start": "2027-01-18",
       "bookable_end": "2027-01-21",
+      "free_places": 6,
+      "max_places": 6,
+      "bookable_places": 6,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6acc9625468609ef63c3eff7",
+      "number": "2027AUS_009",
+      "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
+      "type": "COURSE",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Ausbildungskurse",
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-02-22",
+      "date_to": "2027-02-25",
+      "locations": [
+        "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
+      ],
+      "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\neigene Anreise in Fahrgemeinschaften oder mit der Bahn\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+      "bookable_id": "6acc9625468609ef63c3eff9",
+      "bookable_start": "2027-02-22",
+      "bookable_end": "2027-02-25",
       "free_places": 6,
       "max_places": 6,
       "bookable_places": 6,
@@ -2161,32 +2162,6 @@
       "free_places": 12,
       "max_places": 12,
       "bookable_places": 12,
-      "waitlist_active": true,
-      "bookable_canceled": false
-    },
-    {
-      "id": "6acc9625468609ef63c3eff7",
-      "number": "2027AUS_009",
-      "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
-      "type": "COURSE",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Ausbildungskurse",
-        "Skibergsteigen"
-      ],
-      "date_from": "2027-02-22",
-      "date_to": "2027-02-25",
-      "locations": [
-        "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
-      ],
-      "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\neigene Anreise in Fahrgemeinschaften oder mit der Bahn\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
-      "bookable_id": "6acc9625468609ef63c3eff9",
-      "bookable_start": "2027-02-22",
-      "bookable_end": "2027-02-25",
-      "free_places": 6,
-      "max_places": 6,
-      "bookable_places": 6,
       "waitlist_active": true,
       "bookable_canceled": false
     }

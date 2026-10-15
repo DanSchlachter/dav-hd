@@ -1,14 +1,108 @@
 {
-  "timestamp": "2026-10-14T10:45:53.020018+00:00",
-  "previous_timestamp": "2026-10-13T13:04:45.415302+00:00",
+  "timestamp": "2026-10-15T10:28:52.245446+00:00",
+  "previous_timestamp": "2026-10-14T10:45:53.008335+00:00",
   "summary": {
     "added": 0,
-    "removed": 0,
-    "modified": 0
+    "removed": 1,
+    "modified": 1
   },
   "changes": {
     "added": [],
-    "removed": [],
-    "modified": []
+    "removed": [
+      {
+        "id": "69d7dc7ba014b4cb7d004572",
+        "number": "26Hoe_F001",
+        "title": "Höhlen-Schnuppertour für Anfänger - Grotte de la Malatiere (Frankreich)",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Höhle"
+        ],
+        "date_from": "2026-05-08",
+        "date_to": "2026-05-10",
+        "locations": [
+          "Heidelberg"
+        ],
+        "description": "Leitung: Martin Benz, Edith Hoffmann, Hannah Wagner\n\nWir besuchen die Grotte de la Malatière im französischen Jura (ca. 4 Stunden Anfahrt)\nDiese Höhle bietet alles, was eine Höhle ausmacht, einen kurzen Eingangsschacht, den man entweder mit Seiltechnik oder mit einer Drahtseilleiter bewältigen kann, ein wenig Kletterei, mehrere Engstellen und einen Quergang.\nEs gibt beeindruckend große Gänge und wunderschöne Tropfsteinformationen zu bewundern. Die gesamte Tour in der Höhle dauert etwa 6 Stunden.\nHin- und Rückfahrt in Fahrgemeinschaften. 2 Übernachtungen in einer Unterkunft. Einzelheiten zu Fahrgemeinschaften, Unterkunft, Material, Anspruch… werden wir in einer Vorbesprechung bekanntgeben.\nAnforderungen: Sehr gute Trittsicherheit, wir befinden uns immer in äußerst unwegsamen Gelände. Kondition für eine Tour mit ca. 6 Stunden Dauer. Allgemeine körperliche Fitness und Beweglichkeit sowie keine Angst vor Engstellen.\nVorbesprechung im großen Seminarraum der Kletterhalle in Heidelberg am Dienstag 28.4. um 19 Uhr - eventuell kurzer Besuch der Stern-Staub-Höhle mit kleiner Einseiltechnik - / Trittleiterübung für den Einstiegsschacht.",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      }
+    ],
+    "modified": [
+      {
+        "id": "6aa9056d2a789853eea2c13e",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 3,
+            "to": 2
+          },
+          "free_places": {
+            "from": 3,
+            "to": 2
+          }
+        },
+        "current": {
+          "id": "6aa9056d2a789853eea2c13e",
+          "number": "261122B_003",
+          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-11-22",
+          "date_to": "2026-11-22",
+          "locations": [
+            "Odenwald"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa9056d2a789853eea2c140",
+          "bookable_start": "2026-11-22",
+          "bookable_end": "2026-11-22",
+          "free_places": 2,
+          "max_places": 9,
+          "bookable_places": 2,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6aa9056d2a789853eea2c13e",
+          "number": "261122B_003",
+          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-11-22",
+          "date_to": "2026-11-22",
+          "locations": [
+            "Odenwald"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa9056d2a789853eea2c140",
+          "bookable_start": "2026-11-22",
+          "bookable_end": "2026-11-22",
+          "free_places": 3,
+          "max_places": 9,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
