@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-15T10:28:52.236454+00:00",
+  "timestamp": "2026-10-16T10:16:24.471931+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 86,
+  "tour_count": 88,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -2162,6 +2162,58 @@
       "free_places": 12,
       "max_places": 12,
       "bookable_places": 12,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6ad1d0d224a1fb6d96bb3405",
+      "number": "2026AUS_044",
+      "title": "Theorie Kurs Skitouren Planung (2 Abende)",
+      "type": "COURSE",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Ausbildungskurse",
+        "Skibergsteigen"
+      ],
+      "date_from": "2026-11-10",
+      "date_to": "2026-11-17",
+      "locations": [
+        "Deutscher Alpenverein Sektion Heidelberg"
+      ],
+      "description": "Touren-Planung: Sicher und strukturiert in den Winter\nWer im Winter abseits der präparierten Pisten unterwegs sein möchte, trägt ein hohes Maß an Eigenverantwortung. Die Tourenplanung ist kein starres Konzept, sondern ein dynamischer Prozess, der zu Hause am Schreibtisch beginnt und erst mit der sicheren Rückkehr im Tal endet.\nDas Ziel dieses Theorie-Kurses ist es, euch die 10 Basics der klassischen Tourenplanung näherzubringen und euch praxisnah zu zeigen, wie ihr Gefahrenzonen bereits im Vorfeld strukturiert entschärft.\nVoraussetzungen für die Teilnahme:\nInterpretation des Lawinenlageberichts (LLB)\nErste Erfahrung im Umgang mit analogem und/oder digitalem Kartenmaterial\nVerwandle Risiken in planbare Herausforderungen – melde dich an und werde fit für den Winter abseits der Piste!\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, kleiner Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 10\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+      "bookable_id": "6ad1d0d224a1fb6d96bb3407",
+      "bookable_start": "2026-11-10",
+      "bookable_end": "2026-11-17",
+      "free_places": 10,
+      "max_places": 10,
+      "bookable_places": 10,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6ad1d2da108f1685efc3b8de",
+      "number": "2027AUS_011",
+      "title": "Theorie Kurs Skitouren Planung (2 Abende)",
+      "type": "COURSE",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Ausbildungskurse",
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-01-12",
+      "date_to": "2027-01-19",
+      "locations": [
+        "Deutscher Alpenverein Sektion Heidelberg"
+      ],
+      "description": "Touren-Planung: Sicher und strukturiert in den Winter\nWer im Winter abseits der präparierten Pisten unterwegs sein möchte, trägt ein hohes Maß an Eigenverantwortung. Die Tourenplanung ist kein starres Konzept, sondern ein dynamischer Prozess, der zu Hause am Schreibtisch beginnt und erst mit der sicheren Rückkehr im Tal endet.\nDas Ziel dieses Theorie-Kurses ist es, euch die 10 Basics der klassischen Tourenplanung näherzubringen und euch praxisnah zu zeigen, wie ihr Gefahrenzonen bereits im Vorfeld strukturiert entschärft.\nVoraussetzungen für die Teilnahme:\nInterpretation des Lawinenlageberichts (LLB)\nErste Erfahrung im Umgang mit analogem und/oder digitalem Kartenmaterial\nVerwandle Risiken in planbare Herausforderungen – melde dich an und werde fit für den Winter abseits der Piste!\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, kleiner Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 10\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+      "bookable_id": "6ad1d2da108f1685efc3b8e0",
+      "bookable_start": "2027-01-12",
+      "bookable_end": "2027-01-19",
+      "free_places": 10,
+      "max_places": 10,
+      "bookable_places": 10,
       "waitlist_active": true,
       "bookable_canceled": false
     }
