@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-16T10:16:24.471931+00:00",
+  "timestamp": "2026-10-17T09:50:25.411142+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 88,
+  "tour_count": 89,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -1320,13 +1320,13 @@
         "Heidelberg Hbf S 1"
       ],
       "description": "Ober-Schönmattenwag, Grasellenbach Café Bauer (Einkehr), Hammelbach\n16 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a918c43c28f2b6de7ded8f8",
-      "bookable_start": "2026-10-16",
-      "bookable_end": "2026-10-16",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -2162,6 +2162,31 @@
       "free_places": 12,
       "max_places": 12,
       "bookable_places": 12,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6ad06fa52c6ac4d436cfdbee",
+      "number": "2026AUS_045",
+      "title": "Einführung in die Einseiltechnik für Höhlenbefahrungen",
+      "type": "COURSE",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Ausbildungskurse"
+      ],
+      "date_from": "2026-11-12",
+      "date_to": "2026-11-12",
+      "locations": [
+        "Kletterhalle DAV Heidelberg, Harbigweg, Kirchheim, Deutschland"
+      ],
+      "description": "Höhlen sind ein spannendes Naturphänomen in denen es noch viel zu entdecken gibt: Neue Bereiche in denen noch nie Jemand war, Vermessung, Kartierung, Geologie, Hydrologie, Biologie, schöne Tropfstein und Sinterformationen, Tauchen, Fotografie und vieles mehr! Doch um Höhlen sicher zu befahren und sie zu erhalten braucht es Wissen und die passende Ausrüstung. In diesem Kurs bekommst du einen ersten Einblick in die Einseiltechnik, die wir in der Höhle nutzten, wenn Höhenunterschiede zu überwinden sind oder wir uns gegen Absturz sichern müssen.\n\nInhalte: Vorstellung der Ausrüstung, Aufsteigen am Seil, Abseilen mit einem Petzl Stop und Umstiegstellen\nAnforderungen: Allgemeine Sportlichkeit\nTeilnehmerzahl max.: 4\nMindestalter: 18 Jahre\nAusrüstung: Verschmutzbare Kleidung, lange Hose, festes Schuhwerk\nWeiter wird benötigt und kann geliehen werden: Helm, Kopflampe, komplette Einseiltechnik Ausrüstung (Höhlengurt (kein Klettergurt!), Hauptglied, Petzl Stop, Bremskarabiner, 1 Ovalkarabiner (Trilock), 1 Bremskarabiner, 2m Dynamikseil zur Selbstsicherung, 2 D-Karabiner (Schrauber), Trittschlinge, Bruststeigklemme, Handsteigklemme)\nKursgebühr: Kursgebühr: 40€\nOrt: Kletterhalle Großer Seminarraum (Harbigweg 20, 69124 Heidelberg)",
+      "bookable_id": "6ad06fa52c6ac4d436cfdbf0",
+      "bookable_start": "2026-11-12",
+      "bookable_end": "2026-11-12",
+      "free_places": 6,
+      "max_places": 6,
+      "bookable_places": 6,
       "waitlist_active": true,
       "bookable_canceled": false
     },
