@@ -1,83 +1,72 @@
 {
-  "timestamp": "2026-10-17T09:50:25.420467+00:00",
-  "previous_timestamp": "2026-10-16T10:16:24.471931+00:00",
+  "timestamp": "2026-10-18T10:01:29.270521+00:00",
+  "previous_timestamp": "2026-10-17T09:50:25.411142+00:00",
   "summary": {
-    "added": 1,
+    "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 3
   },
   "changes": {
-    "added": [
-      {
-        "id": "6ad06fa52c6ac4d436cfdbee",
-        "number": "2026AUS_045",
-        "title": "Einführung in die Einseiltechnik für Höhlenbefahrungen",
-        "type": "COURSE",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Ausbildungskurse"
-        ],
-        "date_from": "2026-11-12",
-        "date_to": "2026-11-12",
-        "locations": [
-          "Kletterhalle DAV Heidelberg, Harbigweg, Kirchheim, Deutschland"
-        ],
-        "description": "Höhlen sind ein spannendes Naturphänomen in denen es noch viel zu entdecken gibt: Neue Bereiche in denen noch nie Jemand war, Vermessung, Kartierung, Geologie, Hydrologie, Biologie, schöne Tropfstein und Sinterformationen, Tauchen, Fotografie und vieles mehr! Doch um Höhlen sicher zu befahren und sie zu erhalten braucht es Wissen und die passende Ausrüstung. In diesem Kurs bekommst du einen ersten Einblick in die Einseiltechnik, die wir in der Höhle nutzten, wenn Höhenunterschiede zu überwinden sind oder wir uns gegen Absturz sichern müssen.\n\nInhalte: Vorstellung der Ausrüstung, Aufsteigen am Seil, Abseilen mit einem Petzl Stop und Umstiegstellen\nAnforderungen: Allgemeine Sportlichkeit\nTeilnehmerzahl max.: 4\nMindestalter: 18 Jahre\nAusrüstung: Verschmutzbare Kleidung, lange Hose, festes Schuhwerk\nWeiter wird benötigt und kann geliehen werden: Helm, Kopflampe, komplette Einseiltechnik Ausrüstung (Höhlengurt (kein Klettergurt!), Hauptglied, Petzl Stop, Bremskarabiner, 1 Ovalkarabiner (Trilock), 1 Bremskarabiner, 2m Dynamikseil zur Selbstsicherung, 2 D-Karabiner (Schrauber), Trittschlinge, Bruststeigklemme, Handsteigklemme)\nKursgebühr: Kursgebühr: 40€\nOrt: Kletterhalle Großer Seminarraum (Harbigweg 20, 69124 Heidelberg)",
-        "bookable_id": "6ad06fa52c6ac4d436cfdbf0",
-        "bookable_start": "2026-11-12",
-        "bookable_end": "2026-11-12",
-        "free_places": 6,
-        "max_places": 6,
-        "bookable_places": 6,
-        "waitlist_active": true,
-        "bookable_canceled": false
-      }
-    ],
+    "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a918c43c28f2b6de7ded8f6",
+        "id": "69ba99aa7942a88da9fdfdf3",
         "changed_fields": [
-          "waitlist_active",
+          "free_places",
           "bookable_end",
           "bookable_start",
-          "bookable_id"
+          "max_places",
+          "bookable_places",
+          "bookable_id",
+          "waitlist_active"
         ],
         "changes": {
-          "waitlist_active": {
-            "from": true,
+          "free_places": {
+            "from": 3,
             "to": null
           },
           "bookable_end": {
-            "from": "2026-10-16",
+            "from": "2026-10-17",
             "to": ""
           },
           "bookable_start": {
-            "from": "2026-10-16",
+            "from": "2026-10-11",
             "to": ""
           },
+          "max_places": {
+            "from": 12,
+            "to": null
+          },
+          "bookable_places": {
+            "from": 3,
+            "to": null
+          },
           "bookable_id": {
-            "from": "6a918c43c28f2b6de7ded8f8",
+            "from": "69ba99aa7942a88da9fdfdf5",
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
             "to": null
           }
         },
         "current": {
-          "id": "6a918c43c28f2b6de7ded8f6",
-          "number": null,
-          "title": "Freitagswanderung",
+          "id": "69ba99aa7942a88da9fdfdf3",
+          "number": "2610_WAN_F_001",
+          "title": "Mehrtagestour in den Thüringer Wald",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-10-16",
-          "date_to": "2026-10-16",
+          "date_from": "2026-10-11",
+          "date_to": "2026-10-17",
           "locations": [
-            "Heidelberg Hbf S 1"
+            "Thüringer Wald"
           ],
-          "description": "Ober-Schönmattenwag, Grasellenbach Café Bauer (Einkehr), Hammelbach\n16 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
+          "description": "Tageswanderungen im Thüringer Wald. Hin- und Rückfahrt mit der Bahn. Mit der DB von Heidelberg über Frankfurt nach Gotha, weiter mit der Thüringer Wald-Bahn von Gotha nach Bad Tabarz. Unterbringung in einem Hotel in Bad Tabarz. Von dort starten wir unsere Tagestouren. Die umliegenden Berge, wie den Großen Inselsberg erwandern wir teilweise über den Rennsteig, den Tabarzer Vulkansteig oder den Lutherweg. Eine Wanderung führt uns zur Wartburg und nach Eisenach mit Gelegenheit zur Besichtigung von Burg und Stadt.\nUm an verschiedene Ausgangs- und Endpunkte unserer Wanderungen zu gelangen, werden wir den dortigen ÖPNV mit dem Deutschlandticket und der Gästekarte nutzen.\n\nAnforderungen: 700 – 900 Hm, Gehzeiten ca. 6 – 7 Stunden.\nAusrüstung: Wanderkleidung (für jedes Wetter), festes Schuhwerk, Wanderstöcke, Rucksack.\nVorkenntnisse: keine\nAn- und Abreise: Deutsche Bahn (Gruppenfahrkarte), sowie ÖPNV\nUnterbringung: Hotel in Bad Tabarz.\nKosten: ÜN/F im DZ ca. 75 € pro Nacht und Person,\nUnterbringung in DZ / EZ\nTeilnehmerzahl: 8\nAnmeldung: ab sofort\nAnmeldeschluss: 20.06.2026\nVorbesprechung: Termin nach Absprache",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -88,7 +77,124 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a918c43c28f2b6de7ded8f6",
+          "id": "69ba99aa7942a88da9fdfdf3",
+          "number": "2610_WAN_F_001",
+          "title": "Mehrtagestour in den Thüringer Wald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-10-11",
+          "date_to": "2026-10-17",
+          "locations": [
+            "Thüringer Wald"
+          ],
+          "description": "Tageswanderungen im Thüringer Wald. Hin- und Rückfahrt mit der Bahn. Mit der DB von Heidelberg über Frankfurt nach Gotha, weiter mit der Thüringer Wald-Bahn von Gotha nach Bad Tabarz. Unterbringung in einem Hotel in Bad Tabarz. Von dort starten wir unsere Tagestouren. Die umliegenden Berge, wie den Großen Inselsberg erwandern wir teilweise über den Rennsteig, den Tabarzer Vulkansteig oder den Lutherweg. Eine Wanderung führt uns zur Wartburg und nach Eisenach mit Gelegenheit zur Besichtigung von Burg und Stadt.\nUm an verschiedene Ausgangs- und Endpunkte unserer Wanderungen zu gelangen, werden wir den dortigen ÖPNV mit dem Deutschlandticket und der Gästekarte nutzen.\n\nAnforderungen: 700 – 900 Hm, Gehzeiten ca. 6 – 7 Stunden.\nAusrüstung: Wanderkleidung (für jedes Wetter), festes Schuhwerk, Wanderstöcke, Rucksack.\nVorkenntnisse: keine\nAn- und Abreise: Deutsche Bahn (Gruppenfahrkarte), sowie ÖPNV\nUnterbringung: Hotel in Bad Tabarz.\nKosten: ÜN/F im DZ ca. 75 € pro Nacht und Person,\nUnterbringung in DZ / EZ\nTeilnehmerzahl: 8\nAnmeldung: ab sofort\nAnmeldeschluss: 20.06.2026\nVorbesprechung: Termin nach Absprache",
+          "bookable_id": "69ba99aa7942a88da9fdfdf5",
+          "bookable_start": "2026-10-11",
+          "bookable_end": "2026-10-17",
+          "free_places": 3,
+          "max_places": 12,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a918a613c8ac3a04abf3c33",
+        "changed_fields": [
+          "description",
+          "locations"
+        ],
+        "changes": {
+          "description": {
+            "from": "-Anmeldung nicht erforderlich-",
+            "to": "Affolterbach Mitte, Wahlen, Grasellenbach Café Bauer  (Einkehr), Hammelbach\n8 Km; 120 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-"
+          },
+          "locations": {
+            "from": [
+              "NN"
+            ],
+            "to": [
+              "Heidelberg Hbf RB 68"
+            ]
+          }
+        },
+        "current": {
+          "id": "6a918a613c8ac3a04abf3c33",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-11-04",
+          "date_to": "2026-11-04",
+          "locations": [
+            "Heidelberg Hbf RB 68"
+          ],
+          "description": "Affolterbach Mitte, Wahlen, Grasellenbach Café Bauer  (Einkehr), Hammelbach\n8 Km; 120 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918a613c8ac3a04abf3c37",
+          "bookable_start": "2026-11-04",
+          "bookable_end": "2026-11-04",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a918a613c8ac3a04abf3c33",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-11-04",
+          "date_to": "2026-11-04",
+          "locations": [
+            "NN"
+          ],
+          "description": "-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918a613c8ac3a04abf3c37",
+          "bookable_start": "2026-11-04",
+          "bookable_end": "2026-11-04",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a918d963c8ac3a04abf6b8a",
+        "changed_fields": [
+          "description",
+          "locations"
+        ],
+        "changes": {
+          "description": {
+            "from": "",
+            "to": "Lambrecht, Sankt Martin (Einkehr)\n16,5 Km; 520 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Anmeldung nicht erforderlich-"
+          },
+          "locations": {
+            "from": [
+              "N.D."
+            ],
+            "to": [
+              "Heidelberg Hbf S 2"
+            ]
+          }
+        },
+        "current": {
+          "id": "6a918d963c8ac3a04abf6b8a",
           "number": null,
           "title": "Freitagswanderung",
           "type": "TOUR",
@@ -97,15 +203,40 @@
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-10-16",
-          "date_to": "2026-10-16",
+          "date_from": "2026-11-06",
+          "date_to": "2026-11-06",
           "locations": [
-            "Heidelberg Hbf S 1"
+            "Heidelberg Hbf S 2"
           ],
-          "description": "Ober-Schönmattenwag, Grasellenbach Café Bauer (Einkehr), Hammelbach\n16 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918c43c28f2b6de7ded8f8",
-          "bookable_start": "2026-10-16",
-          "bookable_end": "2026-10-16",
+          "description": "Lambrecht, Sankt Martin (Einkehr)\n16,5 Km; 520 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918d963c8ac3a04abf6b8f",
+          "bookable_start": "2026-11-06",
+          "bookable_end": "2026-11-06",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a918d963c8ac3a04abf6b8a",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-11-06",
+          "date_to": "2026-11-06",
+          "locations": [
+            "N.D."
+          ],
+          "description": "",
+          "bookable_id": "6a918d963c8ac3a04abf6b8f",
+          "bookable_start": "2026-11-06",
+          "bookable_end": "2026-11-06",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
