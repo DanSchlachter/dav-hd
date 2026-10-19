@@ -1,50 +1,50 @@
 {
-  "timestamp": "2026-10-18T10:01:29.270521+00:00",
-  "previous_timestamp": "2026-10-17T09:50:25.411142+00:00",
+  "timestamp": "2026-10-19T11:26:11.222170+00:00",
+  "previous_timestamp": "2026-10-18T10:01:29.260995+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 3
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "69ba99aa7942a88da9fdfdf3",
+        "id": "69bc38bb9daefa4fefc19ab1",
         "changed_fields": [
-          "free_places",
           "bookable_end",
-          "bookable_start",
           "max_places",
+          "free_places",
           "bookable_places",
           "bookable_id",
+          "bookable_start",
           "waitlist_active"
         ],
         "changes": {
-          "free_places": {
-            "from": 3,
-            "to": null
-          },
           "bookable_end": {
-            "from": "2026-10-17",
-            "to": ""
-          },
-          "bookable_start": {
-            "from": "2026-10-11",
+            "from": "2026-10-18",
             "to": ""
           },
           "max_places": {
-            "from": 12,
+            "from": 0,
+            "to": null
+          },
+          "free_places": {
+            "from": 0,
             "to": null
           },
           "bookable_places": {
-            "from": 3,
+            "from": 0,
             "to": null
           },
           "bookable_id": {
-            "from": "69ba99aa7942a88da9fdfdf5",
+            "from": "69bc38bb9daefa4fefc19ab4",
             "to": null
+          },
+          "bookable_start": {
+            "from": "2026-10-18",
+            "to": ""
           },
           "waitlist_active": {
             "from": true,
@@ -52,21 +52,21 @@
           }
         },
         "current": {
-          "id": "69ba99aa7942a88da9fdfdf3",
-          "number": "2610_WAN_F_001",
-          "title": "Mehrtagestour in den Thüringer Wald",
+          "id": "69bc38bb9daefa4fefc19ab1",
+          "number": "261018FAM_F001",
+          "title": "Tagestour",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-10-11",
-          "date_to": "2026-10-17",
+          "date_from": "2026-10-18",
+          "date_to": "2026-10-18",
           "locations": [
-            "Thüringer Wald"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Tageswanderungen im Thüringer Wald. Hin- und Rückfahrt mit der Bahn. Mit der DB von Heidelberg über Frankfurt nach Gotha, weiter mit der Thüringer Wald-Bahn von Gotha nach Bad Tabarz. Unterbringung in einem Hotel in Bad Tabarz. Von dort starten wir unsere Tagestouren. Die umliegenden Berge, wie den Großen Inselsberg erwandern wir teilweise über den Rennsteig, den Tabarzer Vulkansteig oder den Lutherweg. Eine Wanderung führt uns zur Wartburg und nach Eisenach mit Gelegenheit zur Besichtigung von Burg und Stadt.\nUm an verschiedene Ausgangs- und Endpunkte unserer Wanderungen zu gelangen, werden wir den dortigen ÖPNV mit dem Deutschlandticket und der Gästekarte nutzen.\n\nAnforderungen: 700 – 900 Hm, Gehzeiten ca. 6 – 7 Stunden.\nAusrüstung: Wanderkleidung (für jedes Wetter), festes Schuhwerk, Wanderstöcke, Rucksack.\nVorkenntnisse: keine\nAn- und Abreise: Deutsche Bahn (Gruppenfahrkarte), sowie ÖPNV\nUnterbringung: Hotel in Bad Tabarz.\nKosten: ÜN/F im DZ ca. 75 € pro Nacht und Person,\nUnterbringung in DZ / EZ\nTeilnehmerzahl: 8\nAnmeldung: ab sofort\nAnmeldeschluss: 20.06.2026\nVorbesprechung: Termin nach Absprache",
+          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -77,169 +77,27 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69ba99aa7942a88da9fdfdf3",
-          "number": "2610_WAN_F_001",
-          "title": "Mehrtagestour in den Thüringer Wald",
+          "id": "69bc38bb9daefa4fefc19ab1",
+          "number": "261018FAM_F001",
+          "title": "Tagestour",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-10-11",
-          "date_to": "2026-10-17",
+          "date_from": "2026-10-18",
+          "date_to": "2026-10-18",
           "locations": [
-            "Thüringer Wald"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Tageswanderungen im Thüringer Wald. Hin- und Rückfahrt mit der Bahn. Mit der DB von Heidelberg über Frankfurt nach Gotha, weiter mit der Thüringer Wald-Bahn von Gotha nach Bad Tabarz. Unterbringung in einem Hotel in Bad Tabarz. Von dort starten wir unsere Tagestouren. Die umliegenden Berge, wie den Großen Inselsberg erwandern wir teilweise über den Rennsteig, den Tabarzer Vulkansteig oder den Lutherweg. Eine Wanderung führt uns zur Wartburg und nach Eisenach mit Gelegenheit zur Besichtigung von Burg und Stadt.\nUm an verschiedene Ausgangs- und Endpunkte unserer Wanderungen zu gelangen, werden wir den dortigen ÖPNV mit dem Deutschlandticket und der Gästekarte nutzen.\n\nAnforderungen: 700 – 900 Hm, Gehzeiten ca. 6 – 7 Stunden.\nAusrüstung: Wanderkleidung (für jedes Wetter), festes Schuhwerk, Wanderstöcke, Rucksack.\nVorkenntnisse: keine\nAn- und Abreise: Deutsche Bahn (Gruppenfahrkarte), sowie ÖPNV\nUnterbringung: Hotel in Bad Tabarz.\nKosten: ÜN/F im DZ ca. 75 € pro Nacht und Person,\nUnterbringung in DZ / EZ\nTeilnehmerzahl: 8\nAnmeldung: ab sofort\nAnmeldeschluss: 20.06.2026\nVorbesprechung: Termin nach Absprache",
-          "bookable_id": "69ba99aa7942a88da9fdfdf5",
-          "bookable_start": "2026-10-11",
-          "bookable_end": "2026-10-17",
-          "free_places": 3,
-          "max_places": 12,
-          "bookable_places": 3,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a918a613c8ac3a04abf3c33",
-        "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "-Anmeldung nicht erforderlich-",
-            "to": "Affolterbach Mitte, Wahlen, Grasellenbach Café Bauer  (Einkehr), Hammelbach\n8 Km; 120 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-"
-          },
-          "locations": {
-            "from": [
-              "NN"
-            ],
-            "to": [
-              "Heidelberg Hbf RB 68"
-            ]
-          }
-        },
-        "current": {
-          "id": "6a918a613c8ac3a04abf3c33",
-          "number": null,
-          "title": "Mittwochswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-11-04",
-          "date_to": "2026-11-04",
-          "locations": [
-            "Heidelberg Hbf RB 68"
-          ],
-          "description": "Affolterbach Mitte, Wahlen, Grasellenbach Café Bauer  (Einkehr), Hammelbach\n8 Km; 120 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918a613c8ac3a04abf3c37",
-          "bookable_start": "2026-11-04",
-          "bookable_end": "2026-11-04",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a918a613c8ac3a04abf3c33",
-          "number": null,
-          "title": "Mittwochswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-11-04",
-          "date_to": "2026-11-04",
-          "locations": [
-            "NN"
-          ],
-          "description": "-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918a613c8ac3a04abf3c37",
-          "bookable_start": "2026-11-04",
-          "bookable_end": "2026-11-04",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a918d963c8ac3a04abf6b8a",
-        "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "",
-            "to": "Lambrecht, Sankt Martin (Einkehr)\n16,5 Km; 520 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Anmeldung nicht erforderlich-"
-          },
-          "locations": {
-            "from": [
-              "N.D."
-            ],
-            "to": [
-              "Heidelberg Hbf S 2"
-            ]
-          }
-        },
-        "current": {
-          "id": "6a918d963c8ac3a04abf6b8a",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-11-06",
-          "date_to": "2026-11-06",
-          "locations": [
-            "Heidelberg Hbf S 2"
-          ],
-          "description": "Lambrecht, Sankt Martin (Einkehr)\n16,5 Km; 520 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918d963c8ac3a04abf6b8f",
-          "bookable_start": "2026-11-06",
-          "bookable_end": "2026-11-06",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a918d963c8ac3a04abf6b8a",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-11-06",
-          "date_to": "2026-11-06",
-          "locations": [
-            "N.D."
-          ],
-          "description": "",
-          "bookable_id": "6a918d963c8ac3a04abf6b8f",
-          "bookable_start": "2026-11-06",
-          "bookable_end": "2026-11-06",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
+          "bookable_id": "69bc38bb9daefa4fefc19ab4",
+          "bookable_start": "2026-10-18",
+          "bookable_end": "2026-10-18",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
           "waitlist_active": true,
           "bookable_canceled": false
         }
