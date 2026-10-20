@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-19T11:26:11.212595+00:00",
+  "timestamp": "2026-10-20T10:32:38.844132+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 89,
+  "tour_count": 92,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -227,56 +227,6 @@
       "max_places": 18,
       "bookable_places": 18,
       "waitlist_active": true,
-      "bookable_canceled": false
-    },
-    {
-      "id": "69bd25fdab300e5f4051d1fe",
-      "number": "260425Ski_F001",
-      "title": "Chamonix, evtl. alternativ Arolla im Wallis (Skihochtouren)",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Skibergsteigen"
-      ],
-      "date_from": "2026-04-24",
-      "date_to": "2026-04-27",
-      "locations": [
-        "NN"
-      ],
-      "description": "Touren: mit der sicher spektakulärsten Seilbahn Europas mit 2800 Hm bis zur Aiguille du Midi auf 3800m und Abfahrt durch das Vallee blanche durch die Seracs. Tag 2 Tour auf die Aiguille des Grands Montets bei Argentiere (3300 m), Aufstieg von 2600m aus dem Skigebiet heraus. Letzte Möglichkeit, da die ehemalige Seilbahn auf die Aiguille erneuert wird und dann alles wieder von Pistenfahrern frequentiert ist! Optional vielleicht noch ein weiterer Tag bei guten Bedingungen nach Arolla (2000m) und über die Cabane des Dix (2930m) und Pigne d´Arolla (3800m) wieder zurück. Unterkunft: 3 x Hotel in Argentiere, ca. 50€ pPpN, eventuell 1x Cabane des Dix\nAnforderungen: S2, A1-2, K1",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
-      "id": "69bd2f0a9daefa4fefd83f7e",
-      "number": "260327Ski_F002",
-      "title": "Skitouren Großer Sankt Bernhard Pass / Walliser Alpen / Schweiz (Skitouren",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Skibergsteigen"
-      ],
-      "date_from": "2026-03-27",
-      "date_to": "2026-03-29",
-      "locations": [
-        "Grosser St. Bernhard"
-      ],
-      "description": "Mittelschwere Genuss-Skitouren für Anfänger und Fortgeschrittene; nicht für Gipfelstürmer!\nFREITAG: Anfahrt nach Bourg St. Pierre (7:00 Uhr Abfahrt), Parkplatz am Nordportal Tunnel des Großen Sankt Bernhard Pass, Skitour zum Hospiz-Grand-St-Bernard (2469 m, 550 HM, 2 Std.), Übernachtung im Hospiz.\nSAMSTAG: Abfahrt ins Tal zum Tunnelportal (550 HM), Skitour auf den „Mont Telliere“ (2950m ,1030 HM , 3 Std) Gipfelhang bis 35 Grad, am Gipfelgrat kurzes Stück zu Fuß), Abfahrt/ Aufstieg über Col de Drone zum Hospiz, mit 300 HM Gegenanstieg, Gesamtzeit 5-6 Std, Übernachtung im Hospiz.\nSONNTAG: Skitour auf den „Mont Fourchon“ (2902m, 600 HM, 2,5 Std.), Abfahrt zum Hospiz, Abfahrt ins Tal zum Auto, Heimfahrt.\nTalort/Unterkunft: Bourg St. Pierre (Nordseite Großer-Sankt-Bernhard-Pass). Unterkunft Hospitz-Grand-St-Bernard, ca. 2 Std Aufstieg mit Gepäck. Übernachtung im Lager mit Halbpension (Frühstück+Abendessen) 65,00 CHF pro Person und Tag (ca. 70 €). Bei Absage nach Anmeldeschluss fallen Stornokosten für die Unterkunft in voller Höhe an, die zu erstatten sind.\nAnforderungen: A0,S1,K1 mittelschwere Skitouren mit Kondition für 1200 HM (bereits zuvor gemachte Skitouren sind Voraussetzung); Spitzkehren im Aufstieg, zum Teil bis 35 Grad. Skitechnik: Grundschwung abseits der Piste.Sicherer Umgang mit LVS-Gerät, Sonde, Schaufel.",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1005,31 +955,6 @@
       "bookable_canceled": false
     },
     {
-      "id": "6a2961f21644e0483a1193f3",
-      "number": null,
-      "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Natur- und Umweltschutz"
-      ],
-      "date_from": "2026-10-22",
-      "date_to": "2026-10-26",
-      "locations": [
-        "Tenno, Trentino"
-      ],
-      "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
-      "bookable_id": "6a2961f21644e0483a1193f5",
-      "bookable_start": "2026-10-22",
-      "bookable_end": "2026-10-26",
-      "free_places": 3,
-      "max_places": 8,
-      "bookable_places": 3,
-      "waitlist_active": true,
-      "bookable_canceled": false
-    },
-    {
       "id": "6a2a7d78d044b6737a149b70",
       "number": null,
       "title": "Freitagswanderung",
@@ -1077,6 +1002,31 @@
       "max_places": null,
       "bookable_places": null,
       "waitlist_active": null,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6a2961f21644e0483a1193f3",
+      "number": null,
+      "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Natur- und Umweltschutz"
+      ],
+      "date_from": "2026-10-22",
+      "date_to": "2026-10-26",
+      "locations": [
+        "Tenno, Trentino"
+      ],
+      "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
+      "bookable_id": "6a2961f21644e0483a1193f5",
+      "bookable_start": "2026-10-22",
+      "bookable_end": "2026-10-26",
+      "free_places": 3,
+      "max_places": 8,
+      "bookable_places": 3,
+      "waitlist_active": true,
       "bookable_canceled": false
     },
     {
@@ -1880,6 +1830,32 @@
       "bookable_canceled": false
     },
     {
+      "id": "6acbed1459257517ccaed3fa",
+      "number": "2027AUS_003",
+      "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
+      "type": "COURSE",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Ausbildungskurse",
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-02-19",
+      "date_to": "2027-02-22",
+      "locations": [
+        "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
+      ],
+      "description": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: \nDas Lawinenopfer kann nicht rechtzeitig, das heißt binnen der ersten 15 Minuten der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. \nLernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen ‘Ernstfall‘ unter realistischen Bedingungen. \nFür Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. \nVermittlung von Grundkenntnissen und -Fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. \nKursinhalte:\nInhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle)\nHandhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung\nFreischaufeln des Verschütteten \nAusrüstungs- und Materialkunde\nGrundwissen in Schnee- und Lawinenkunde. \nAnforderungen: Mitglied im DAV, Teilnahme an der Theorie- und Seminarreihe Lawinenkunde, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Finden und Ausgraben von Verschütteten durch sicheren Umgang mit dem LVS-Gerät, Einsatz von Sonde und Schaufel, Beurteilung von Gefahren im Vorfeld einer Skitour\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 160,- (EUR 120,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+      "bookable_id": "6acbed1459257517ccaed3fc",
+      "bookable_start": "2027-02-19",
+      "bookable_end": "2027-02-22",
+      "free_places": 6,
+      "max_places": 6,
+      "bookable_places": 6,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
       "id": "6acbed8a9ab509bba47b3011",
       "number": "2027AUS_004",
       "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
@@ -1902,6 +1878,32 @@
       "free_places": 6,
       "max_places": 6,
       "bookable_places": 6,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6acc683b59257517ccaf6699",
+      "number": "2027AUS_006",
+      "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+      "type": "COURSE",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Ausbildungskurse",
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-02-10",
+      "date_to": "2027-02-17",
+      "locations": [
+        "Deutscher Alpenverein Sektion Heidelberg"
+      ],
+      "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+      "bookable_id": "6acc683b59257517ccaf669f",
+      "bookable_start": "2027-02-10",
+      "bookable_end": "2027-02-17",
+      "free_places": 12,
+      "max_places": 12,
+      "bookable_places": 12,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2088,32 +2090,6 @@
       "bookable_canceled": false
     },
     {
-      "id": "6acbed1459257517ccaed3fa",
-      "number": "2027AUS_003",
-      "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
-      "type": "COURSE",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Ausbildungskurse",
-        "Skibergsteigen"
-      ],
-      "date_from": "2027-02-19",
-      "date_to": "2027-02-22",
-      "locations": [
-        "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
-      ],
-      "description": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: \nDas Lawinenopfer kann nicht rechtzeitig, das heißt binnen der ersten 15 Minuten der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. \nLernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen ‘Ernstfall‘ unter realistischen Bedingungen. \nFür Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. \nVermittlung von Grundkenntnissen und -Fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. \nKursinhalte:\nInhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle)\nHandhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung\nFreischaufeln des Verschütteten \nAusrüstungs- und Materialkunde\nGrundwissen in Schnee- und Lawinenkunde. \nAnforderungen: Mitglied im DAV, Teilnahme an der Theorie- und Seminarreihe Lawinenkunde, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Finden und Ausgraben von Verschütteten durch sicheren Umgang mit dem LVS-Gerät, Einsatz von Sonde und Schaufel, Beurteilung von Gefahren im Vorfeld einer Skitour\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 160,- (EUR 120,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
-      "bookable_id": "6acbed1459257517ccaed3fc",
-      "bookable_start": "2027-02-19",
-      "bookable_end": "2027-02-22",
-      "free_places": 6,
-      "max_places": 6,
-      "bookable_places": 6,
-      "waitlist_active": true,
-      "bookable_canceled": false
-    },
-    {
       "id": "6acc66ed67344b53bb164e12",
       "number": "2027AUS_005",
       "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
@@ -2140,40 +2116,15 @@
       "bookable_canceled": false
     },
     {
-      "id": "6acc683b59257517ccaf6699",
-      "number": "2027AUS_006",
-      "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+      "id": "6ad06fa52c6ac4d436cfdbee",
+      "number": "2026AUS_045",
+      "title": "Einführung in die Einseiltechnik für Höhlenbefahrungen SRT",
       "type": "COURSE",
       "canceled": false,
       "cancel_reason": null,
       "categories": [
         "Ausbildungskurse",
-        "Skibergsteigen"
-      ],
-      "date_from": "2027-02-10",
-      "date_to": "2027-02-17",
-      "locations": [
-        "Deutscher Alpenverein Sektion Heidelberg"
-      ],
-      "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-      "bookable_id": "6acc683b59257517ccaf669f",
-      "bookable_start": "2027-02-10",
-      "bookable_end": "2027-02-17",
-      "free_places": 12,
-      "max_places": 12,
-      "bookable_places": 12,
-      "waitlist_active": true,
-      "bookable_canceled": false
-    },
-    {
-      "id": "6ad06fa52c6ac4d436cfdbee",
-      "number": "2026AUS_045",
-      "title": "Einführung in die Einseiltechnik für Höhlenbefahrungen",
-      "type": "COURSE",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Ausbildungskurse"
+        "Höhle"
       ],
       "date_from": "2026-11-12",
       "date_to": "2026-11-12",
@@ -2239,6 +2190,131 @@
       "free_places": 10,
       "max_places": 10,
       "bookable_places": 10,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6ad662bc62f629bcfc95e334",
+      "number": "270120SKI_G001",
+      "title": "Kleinwalsertal",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-01-20",
+      "date_to": "2027-01-24",
+      "locations": [
+        "Mittelberg Höfle"
+      ],
+      "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTraditioneller Saisonbeginn, einfache bis mittlere Touren:\nz.B. Walmendingerhorn, Grünhorn, Gamsfuß, Derrajoch\nUnterkunft: Nettes Gästehaus Wildbach mit Sauna in Mittelberg-Höfle: ca. 65€ m.F.\nAnforderungen: S1-2, K1, A0\nTeilnehmerzahl: max. 8",
+      "bookable_id": "6ad662bc62f629bcfc95e336",
+      "bookable_start": "2027-01-20",
+      "bookable_end": "2027-01-24",
+      "free_places": 0,
+      "max_places": 0,
+      "bookable_places": 0,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6ad67eaa62f629bcfc96888f",
+      "number": "270226SKI_G002",
+      "title": "Südtirol/Vinschgau/Schlinig",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-02-26",
+      "date_to": "2027-03-02",
+      "locations": [
+        "Schlinig"
+      ],
+      "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSüdtirol/Vinschgau/Schlinig :\nTouren: Sesvenna, Watles, Rojen, Langtaufers\nUnterkunft: Gemütliches Hotel Edelweiß in Schlinig (1700m) mit familiärer Bewirtung: 85€ mit HP\nAnforderungen: S2, K1, A1\nTeilnehmerzahl: max. 7",
+      "bookable_id": "6ad67eaa62f629bcfc968891",
+      "bookable_start": "2027-02-26",
+      "bookable_end": "2027-03-02",
+      "free_places": 0,
+      "max_places": 0,
+      "bookable_places": 0,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6ad680b88d1d336feeb27dee",
+      "number": "270313SKI_G003",
+      "title": "Touren vom Simplonpass",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-03-13",
+      "date_to": "2027-03-16",
+      "locations": [
+        "Simplonpass"
+      ],
+      "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTouren vom Simplonpass \nz.B. Magehorn, Mäderhorn, Spitzhorli, Breithorn (Simplonpass)\nUnterkunft: Hospiz am Simplonpass (2000m), ca. 80 SF mit HP\nAnforderungen: S2, K1, A1\nTeilnehmerzahl: max. 7",
+      "bookable_id": "6ad680b88d1d336feeb27df6",
+      "bookable_start": "2027-03-13",
+      "bookable_end": "2027-03-16",
+      "free_places": 0,
+      "max_places": 0,
+      "bookable_places": 0,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6ad681c962f629bcfc969103",
+      "number": "270402SKI_G004",
+      "title": "Norwegen: Tromsö",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-04-02",
+      "date_to": "2027-04-09",
+      "locations": [
+        "Tromsö, Norwegen"
+      ],
+      "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nNorwegen: Tromsö\nSpektakuläre Landschaften und perfekte Touren 300km nördlich des Polarkreises vom Fjord zum Gipfel. Gute Chance auf Polarlichter.\nUnterkünfte: 3 Nächte im komfortablen Hotel in Tromsö am Hafen (mit HP), 4 Nächte in Selbstversorgerhaus auf der Insel Kvaloya.\nAnforderungen: S2-3, K1, A1\nKosten: Flüge, Unterkünfte, Mietwagen. ca. 950 € p.P.\nTeilnehmerzahl: max. 7",
+      "bookable_id": "6ad681c962f629bcfc969105",
+      "bookable_start": "2027-04-02",
+      "bookable_end": "2027-04-09",
+      "free_places": 0,
+      "max_places": 0,
+      "bookable_places": 0,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6ad682ec6fc3051a1de54478",
+      "number": "270422SKI_G005",
+      "title": "Chamonix/Gr. St. Bernhard",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-04-22",
+      "date_to": "2027-04-25",
+      "locations": [
+        "Chamonix"
+      ],
+      "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nChamonix/Gr. St. Bernhard\nTag 1: mit der sicher spektakulärsten Seilbahn Europas mit 2800 Hm zur Aiguille du Midi auf 3800m und Abfahrt durch das Vallee blanche durch die Seracs (so lange es sie noch gibt!). Tag 2 und 3, je nach Schneelage, z.B. Gr. St. Bernhard.\nUnterkunft: 3 x komfortables Hotel in Argentiere, ca. 60€ m.F.\nAnforderungen: S2-3, K1, A1-2\nTeilnehmerzahl: max. 7",
+      "bookable_id": "6ad682ec6fc3051a1de5447a",
+      "bookable_start": "2027-04-22",
+      "bookable_end": "2027-04-25",
+      "free_places": 0,
+      "max_places": 0,
+      "bookable_places": 0,
       "waitlist_active": true,
       "bookable_canceled": false
     }
