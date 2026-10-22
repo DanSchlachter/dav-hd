@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T10:44:57.075331+00:00",
+  "timestamp": "2026-10-22T10:46:22.979220+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 92,
   "tours": [
@@ -1295,13 +1295,13 @@
         "Heidelberg Hbf. RE 1"
       ],
       "description": "Kaiserslautern, Antonihof, Johanniskreuz, Iggelbach (Schlusseinkehr).\n18,5 Km; 490 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:17 Uhr RE 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a918c90c28f2b6de7dedab4",
-      "bookable_start": "2026-10-21",
-      "bookable_end": "2026-10-21",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {

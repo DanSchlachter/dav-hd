@@ -1,14 +1,92 @@
 {
-  "timestamp": "2026-10-21T10:44:57.084857+00:00",
-  "previous_timestamp": "2026-10-20T10:32:38.844132+00:00",
+  "timestamp": "2026-10-22T10:46:22.984953+00:00",
+  "previous_timestamp": "2026-10-21T10:44:57.075331+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "6a918c8fc28f2b6de7dedab2",
+        "changed_fields": [
+          "bookable_start",
+          "bookable_end",
+          "waitlist_active",
+          "bookable_id"
+        ],
+        "changes": {
+          "bookable_start": {
+            "from": "2026-10-21",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-10-21",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "6a918c90c28f2b6de7dedab4",
+            "to": null
+          }
+        },
+        "current": {
+          "id": "6a918c8fc28f2b6de7dedab2",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-10-21",
+          "date_to": "2026-10-21",
+          "locations": [
+            "Heidelberg Hbf. RE 1"
+          ],
+          "description": "Kaiserslautern, Antonihof, Johanniskreuz, Iggelbach (Schlusseinkehr).\n18,5 Km; 490 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:17 Uhr RE 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a918c8fc28f2b6de7dedab2",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-10-21",
+          "date_to": "2026-10-21",
+          "locations": [
+            "Heidelberg Hbf. RE 1"
+          ],
+          "description": "Kaiserslautern, Antonihof, Johanniskreuz, Iggelbach (Schlusseinkehr).\n18,5 Km; 490 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:17 Uhr RE 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918c90c28f2b6de7dedab4",
+          "bookable_start": "2026-10-21",
+          "bookable_end": "2026-10-21",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
