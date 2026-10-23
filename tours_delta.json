@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-22T10:46:22.984953+00:00",
-  "previous_timestamp": "2026-10-21T10:44:57.075331+00:00",
+  "timestamp": "2026-10-23T10:37:56.138027+00:00",
+  "previous_timestamp": "2026-10-22T10:46:22.979220+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
@@ -11,78 +11,68 @@
     "removed": [],
     "modified": [
       {
-        "id": "6a918c8fc28f2b6de7dedab2",
+        "id": "6a9193ffc28f2b6de7df0635",
         "changed_fields": [
-          "bookable_start",
-          "bookable_end",
-          "waitlist_active",
-          "bookable_id"
+          "free_places",
+          "bookable_places"
         ],
         "changes": {
-          "bookable_start": {
-            "from": "2026-10-21",
-            "to": ""
+          "free_places": {
+            "from": 10,
+            "to": 9
           },
-          "bookable_end": {
-            "from": "2026-10-21",
-            "to": ""
-          },
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          },
-          "bookable_id": {
-            "from": "6a918c90c28f2b6de7dedab4",
-            "to": null
+          "bookable_places": {
+            "from": 10,
+            "to": 9
           }
         },
         "current": {
-          "id": "6a918c8fc28f2b6de7dedab2",
+          "id": "6a9193ffc28f2b6de7df0635",
           "number": null,
-          "title": "Mittwochswanderung",
+          "title": "In-Between-Gruppe Sonntagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-10-21",
-          "date_to": "2026-10-21",
+          "date_from": "2026-12-20",
+          "date_to": "2026-12-20",
           "locations": [
-            "Heidelberg Hbf. RE 1"
+            "NN"
           ],
-          "description": "Kaiserslautern, Antonihof, Johanniskreuz, Iggelbach (Schlusseinkehr).\n18,5 Km; 490 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:17 Uhr RE 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
+          "description": "ND",
+          "bookable_id": "6a9193ffc28f2b6de7df0637",
+          "bookable_start": "2026-12-20",
+          "bookable_end": "2026-12-20",
+          "free_places": 9,
+          "max_places": 10,
+          "bookable_places": 9,
+          "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a918c8fc28f2b6de7dedab2",
+          "id": "6a9193ffc28f2b6de7df0635",
           "number": null,
-          "title": "Mittwochswanderung",
+          "title": "In-Between-Gruppe Sonntagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-10-21",
-          "date_to": "2026-10-21",
+          "date_from": "2026-12-20",
+          "date_to": "2026-12-20",
           "locations": [
-            "Heidelberg Hbf. RE 1"
+            "NN"
           ],
-          "description": "Kaiserslautern, Antonihof, Johanniskreuz, Iggelbach (Schlusseinkehr).\n18,5 Km; 490 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:17 Uhr RE 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918c90c28f2b6de7dedab4",
-          "bookable_start": "2026-10-21",
-          "bookable_end": "2026-10-21",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "ND",
+          "bookable_id": "6a9193ffc28f2b6de7df0637",
+          "bookable_start": "2026-12-20",
+          "bookable_end": "2026-12-20",
+          "free_places": 10,
+          "max_places": 10,
+          "bookable_places": 10,
           "waitlist_active": true,
           "bookable_canceled": false
         }
