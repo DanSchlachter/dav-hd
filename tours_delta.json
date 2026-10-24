@@ -1,78 +1,159 @@
 {
-  "timestamp": "2026-10-23T10:37:56.138027+00:00",
-  "previous_timestamp": "2026-10-22T10:46:22.979220+00:00",
+  "timestamp": "2026-10-24T09:55:52.526575+00:00",
+  "previous_timestamp": "2026-10-23T10:37:56.131065+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 2
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a9193ffc28f2b6de7df0635",
+        "id": "6a918ceb0137487125302f31",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "bookable_start",
+          "waitlist_active",
+          "bookable_end",
+          "bookable_id"
         ],
         "changes": {
-          "free_places": {
-            "from": 10,
-            "to": 9
+          "bookable_start": {
+            "from": "2026-10-23",
+            "to": ""
           },
-          "bookable_places": {
-            "from": 10,
-            "to": 9
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-10-23",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a918ceb0137487125302f33",
+            "to": null
           }
         },
         "current": {
-          "id": "6a9193ffc28f2b6de7df0635",
+          "id": "6a918ceb0137487125302f31",
           "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-12-20",
-          "date_to": "2026-12-20",
+          "date_from": "2026-10-23",
+          "date_to": "2026-10-23",
           "locations": [
-            "NN"
+            "Heidelberg Bismarckplatz Line 5"
           ],
-          "description": "ND",
-          "bookable_id": "6a9193ffc28f2b6de7df0637",
-          "bookable_start": "2026-12-20",
-          "bookable_end": "2026-12-20",
-          "free_places": 9,
-          "max_places": 10,
-          "bookable_places": 9,
+          "description": "Schriesheim, Spatschlucht, Schriesheimer Hütte, Ruine Shanzenköpfle und Hirschburg (Einkehr), Schriesheim\n15 Km; 360 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:55 Uhr Linie 5 nach Schriesheim\nWanderführerin erwartet die Gruppe an der Haltestelle Schriesheim\n\"Zentgartenstraße\" mit Hund Arya\n -Ameldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a918ceb0137487125302f31",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-10-23",
+          "date_to": "2026-10-23",
+          "locations": [
+            "Heidelberg Bismarckplatz Line 5"
+          ],
+          "description": "Schriesheim, Spatschlucht, Schriesheimer Hütte, Ruine Shanzenköpfle und Hirschburg (Einkehr), Schriesheim\n15 Km; 360 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:55 Uhr Linie 5 nach Schriesheim\nWanderführerin erwartet die Gruppe an der Haltestelle Schriesheim\n\"Zentgartenstraße\" mit Hund Arya\n -Ameldung nicht erforderlich-",
+          "bookable_id": "6a918ceb0137487125302f33",
+          "bookable_start": "2026-10-23",
+          "bookable_end": "2026-10-23",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a918def3c8ac3a04abf6dd1",
+        "changed_fields": [
+          "locations",
+          "description"
+        ],
+        "changes": {
+          "locations": {
+            "from": [
+              "NN"
+            ],
+            "to": [
+              "Heidelberg Hbf. S 1"
+            ]
+          },
+          "description": {
+            "from": "N.D.",
+            "to": "Neckarzimmern, Neckarsteig, Bad Wimpfen\n18,5 Km; 320 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-"
+          }
+        },
+        "current": {
+          "id": "6a918def3c8ac3a04abf6dd1",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-11-13",
+          "date_to": "2026-11-13",
+          "locations": [
+            "Heidelberg Hbf. S 1"
+          ],
+          "description": "Neckarzimmern, Neckarsteig, Bad Wimpfen\n18,5 Km; 320 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918def3c8ac3a04abf6dd3",
+          "bookable_start": "2026-11-13",
+          "bookable_end": "2026-11-13",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a9193ffc28f2b6de7df0635",
+          "id": "6a918def3c8ac3a04abf6dd1",
           "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
+          "title": "Freitagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-12-20",
-          "date_to": "2026-12-20",
+          "date_from": "2026-11-13",
+          "date_to": "2026-11-13",
           "locations": [
             "NN"
           ],
-          "description": "ND",
-          "bookable_id": "6a9193ffc28f2b6de7df0637",
-          "bookable_start": "2026-12-20",
-          "bookable_end": "2026-12-20",
-          "free_places": 10,
-          "max_places": 10,
-          "bookable_places": 10,
+          "description": "N.D.",
+          "bookable_id": "6a918def3c8ac3a04abf6dd3",
+          "bookable_start": "2026-11-13",
+          "bookable_end": "2026-11-13",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         }

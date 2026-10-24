@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T10:37:56.131065+00:00",
+  "timestamp": "2026-10-24T09:55:52.516924+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 92,
   "tours": [
@@ -1320,13 +1320,13 @@
         "Heidelberg Bismarckplatz Line 5"
       ],
       "description": "Schriesheim, Spatschlucht, Schriesheimer Hütte, Ruine Shanzenköpfle und Hirschburg (Einkehr), Schriesheim\n15 Km; 360 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:55 Uhr Linie 5 nach Schriesheim\nWanderführerin erwartet die Gruppe an der Haltestelle Schriesheim\n\"Zentgartenstraße\" mit Hund Arya\n -Ameldung nicht erforderlich-",
-      "bookable_id": "6a918ceb0137487125302f33",
-      "bookable_start": "2026-10-23",
-      "bookable_end": "2026-10-23",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1392,9 +1392,9 @@
       "date_from": "2026-11-13",
       "date_to": "2026-11-13",
       "locations": [
-        "NN"
+        "Heidelberg Hbf. S 1"
       ],
-      "description": "N.D.",
+      "description": "Neckarzimmern, Neckarsteig, Bad Wimpfen\n18,5 Km; 320 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a918def3c8ac3a04abf6dd3",
       "bookable_start": "2026-11-13",
       "bookable_end": "2026-11-13",
