@@ -1,159 +1,80 @@
 {
-  "timestamp": "2026-10-24T09:55:52.526575+00:00",
-  "previous_timestamp": "2026-10-23T10:37:56.131065+00:00",
+  "timestamp": "2026-10-25T10:18:11.193098+00:00",
+  "previous_timestamp": "2026-10-24T09:55:52.516924+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 2
+    "modified": 1
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a918ceb0137487125302f31",
+        "id": "6acb629467344b53bb129605",
         "changed_fields": [
-          "bookable_start",
-          "waitlist_active",
-          "bookable_end",
-          "bookable_id"
+          "bookable_places",
+          "free_places"
         ],
         "changes": {
-          "bookable_start": {
-            "from": "2026-10-23",
-            "to": ""
+          "bookable_places": {
+            "from": 12,
+            "to": 11
           },
-          "waitlist_active": {
-            "from": true,
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-10-23",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "6a918ceb0137487125302f33",
-            "to": null
+          "free_places": {
+            "from": 12,
+            "to": 11
           }
         },
         "current": {
-          "id": "6a918ceb0137487125302f31",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
+          "id": "6acb629467344b53bb129605",
+          "number": "2026AUS_043",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Ausbildungskurse",
+            "Skibergsteigen"
           ],
-          "date_from": "2026-10-23",
-          "date_to": "2026-10-23",
+          "date_from": "2026-12-02",
+          "date_to": "2026-12-16",
           "locations": [
-            "Heidelberg Bismarckplatz Line 5"
+            "Deutscher Alpenverein Sektion Heidelberg"
           ],
-          "description": "Schriesheim, Spatschlucht, Schriesheimer Hütte, Ruine Shanzenköpfle und Hirschburg (Einkehr), Schriesheim\n15 Km; 360 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:55 Uhr Linie 5 nach Schriesheim\nWanderführerin erwartet die Gruppe an der Haltestelle Schriesheim\n\"Zentgartenstraße\" mit Hund Arya\n -Ameldung nicht erforderlich-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a918ceb0137487125302f31",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-10-23",
-          "date_to": "2026-10-23",
-          "locations": [
-            "Heidelberg Bismarckplatz Line 5"
-          ],
-          "description": "Schriesheim, Spatschlucht, Schriesheimer Hütte, Ruine Shanzenköpfle und Hirschburg (Einkehr), Schriesheim\n15 Km; 360 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:55 Uhr Linie 5 nach Schriesheim\nWanderführerin erwartet die Gruppe an der Haltestelle Schriesheim\n\"Zentgartenstraße\" mit Hund Arya\n -Ameldung nicht erforderlich-",
-          "bookable_id": "6a918ceb0137487125302f33",
-          "bookable_start": "2026-10-23",
-          "bookable_end": "2026-10-23",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6a918def3c8ac3a04abf6dd1",
-        "changed_fields": [
-          "locations",
-          "description"
-        ],
-        "changes": {
-          "locations": {
-            "from": [
-              "NN"
-            ],
-            "to": [
-              "Heidelberg Hbf. S 1"
-            ]
-          },
-          "description": {
-            "from": "N.D.",
-            "to": "Neckarzimmern, Neckarsteig, Bad Wimpfen\n18,5 Km; 320 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-"
-          }
-        },
-        "current": {
-          "id": "6a918def3c8ac3a04abf6dd1",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-11-13",
-          "date_to": "2026-11-13",
-          "locations": [
-            "Heidelberg Hbf. S 1"
-          ],
-          "description": "Neckarzimmern, Neckarsteig, Bad Wimpfen\n18,5 Km; 320 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918def3c8ac3a04abf6dd3",
-          "bookable_start": "2026-11-13",
-          "bookable_end": "2026-11-13",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acb629467344b53bb129609",
+          "bookable_start": "2026-12-02",
+          "bookable_end": "2026-12-16",
+          "free_places": 11,
+          "max_places": 12,
+          "bookable_places": 11,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a918def3c8ac3a04abf6dd1",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
+          "id": "6acb629467344b53bb129605",
+          "number": "2026AUS_043",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Ausbildungskurse",
+            "Skibergsteigen"
           ],
-          "date_from": "2026-11-13",
-          "date_to": "2026-11-13",
+          "date_from": "2026-12-02",
+          "date_to": "2026-12-16",
           "locations": [
-            "NN"
+            "Deutscher Alpenverein Sektion Heidelberg"
           ],
-          "description": "N.D.",
-          "bookable_id": "6a918def3c8ac3a04abf6dd3",
-          "bookable_start": "2026-11-13",
-          "bookable_end": "2026-11-13",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acb629467344b53bb129609",
+          "bookable_start": "2026-12-02",
+          "bookable_end": "2026-12-16",
+          "free_places": 12,
+          "max_places": 12,
+          "bookable_places": 12,
           "waitlist_active": true,
           "bookable_canceled": false
         }
