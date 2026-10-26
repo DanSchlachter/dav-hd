@@ -1,61 +1,194 @@
 {
-  "timestamp": "2026-10-25T10:18:11.193098+00:00",
-  "previous_timestamp": "2026-10-24T09:55:52.516924+00:00",
+  "timestamp": "2026-10-26T11:44:52.146421+00:00",
+  "previous_timestamp": "2026-10-25T10:18:11.184558+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 4
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6acb629467344b53bb129605",
+        "id": "69bc39359daefa4fefc1a077",
         "changed_fields": [
-          "bookable_places",
-          "free_places"
+          "free_places",
+          "bookable_places"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 12,
-            "to": 11
-          },
           "free_places": {
-            "from": 12,
-            "to": 11
+            "from": 25,
+            "to": 23
+          },
+          "bookable_places": {
+            "from": 25,
+            "to": 23
           }
         },
         "current": {
-          "id": "6acb629467344b53bb129605",
-          "number": "2026AUS_043",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
-          "type": "COURSE",
+          "id": "69bc39359daefa4fefc1a077",
+          "number": "261115FAM_F001",
+          "title": "Tagestour",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Ausbildungskurse",
-            "Skibergsteigen"
+            "Familienbergsteigen"
           ],
-          "date_from": "2026-12-02",
-          "date_to": "2026-12-16",
+          "date_from": "2026-11-15",
+          "date_to": "2026-11-15",
           "locations": [
-            "Deutscher Alpenverein Sektion Heidelberg"
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
           ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acb629467344b53bb129609",
-          "bookable_start": "2026-12-02",
-          "bookable_end": "2026-12-16",
-          "free_places": 11,
-          "max_places": 12,
-          "bookable_places": 11,
+          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
+          "bookable_id": "69bc39359daefa4fefc1a079",
+          "bookable_start": "2026-11-15",
+          "bookable_end": "2026-11-15",
+          "free_places": 23,
+          "max_places": 25,
+          "bookable_places": 23,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6acb629467344b53bb129605",
-          "number": "2026AUS_043",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "id": "69bc39359daefa4fefc1a077",
+          "number": "261115FAM_F001",
+          "title": "Tagestour",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Familienbergsteigen"
+          ],
+          "date_from": "2026-11-15",
+          "date_to": "2026-11-15",
+          "locations": [
+            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
+          ],
+          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
+          "bookable_id": "69bc39359daefa4fefc1a079",
+          "bookable_start": "2026-11-15",
+          "bookable_end": "2026-11-15",
+          "free_places": 25,
+          "max_places": 25,
+          "bookable_places": 25,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "69bd32589daefa4fefd879ae",
+        "changed_fields": [
+          "bookable_start",
+          "free_places",
+          "bookable_places",
+          "bookable_end",
+          "bookable_id",
+          "max_places",
+          "waitlist_active"
+        ],
+        "changes": {
+          "bookable_start": {
+            "from": "2026-10-18",
+            "to": ""
+          },
+          "free_places": {
+            "from": 0,
+            "to": null
+          },
+          "bookable_places": {
+            "from": 0,
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-10-25",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "69bd32589daefa4fefd879b3",
+            "to": null
+          },
+          "max_places": {
+            "from": 6,
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "69bd32589daefa4fefd879ae",
+          "number": "261018B_002",
+          "title": "ECO// Bergsteigen und Klettersteige am Comer See 18.10.-25.10.2026",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Bergsteigen"
+          ],
+          "date_from": "2026-10-18",
+          "date_to": "2026-10-25",
+          "locations": [
+            "Comer See"
+          ],
+          "description": "Spannende Bergwege und schwere Klettersteige am Comer See warten auf uns. Erfahrungen im Klettersteiggehen in Schwierigkeit C/D/E, Trittsicherheit und Sicherheit im Umgang mit Ausgesetztheit sollten vorhanden sein. Stationiert sind wir auf der Piani Resinelli oberhalb von Lecco bei Ai Frassini in Zimmern und Halbpension.\nAnfahrt mit Sektionsbus ist geplant.\nOrt: Piani Resinelli\nAnforderungen: Klettersteiggehen in Schwierigkeit C/D/E Trittsicherheit und Sicherheit im Umgang mit Ausgesetztheit. Komplette Klettersteigausrüstung mit Helm",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "69bd32589daefa4fefd879ae",
+          "number": "261018B_002",
+          "title": "ECO// Bergsteigen und Klettersteige am Comer See 18.10.-25.10.2026",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Bergsteigen"
+          ],
+          "date_from": "2026-10-18",
+          "date_to": "2026-10-25",
+          "locations": [
+            "Comer See"
+          ],
+          "description": "Spannende Bergwege und schwere Klettersteige am Comer See warten auf uns. Erfahrungen im Klettersteiggehen in Schwierigkeit C/D/E, Trittsicherheit und Sicherheit im Umgang mit Ausgesetztheit sollten vorhanden sein. Stationiert sind wir auf der Piani Resinelli oberhalb von Lecco bei Ai Frassini in Zimmern und Halbpension.\nAnfahrt mit Sektionsbus ist geplant.\nOrt: Piani Resinelli\nAnforderungen: Klettersteiggehen in Schwierigkeit C/D/E Trittsicherheit und Sicherheit im Umgang mit Ausgesetztheit. Komplette Klettersteigausrüstung mit Helm",
+          "bookable_id": "69bd32589daefa4fefd879b3",
+          "bookable_start": "2026-10-18",
+          "bookable_end": "2026-10-25",
+          "free_places": 0,
+          "max_places": 6,
+          "bookable_places": 0,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6acb48f567344b53bb11f6a1",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 6,
+            "to": 5
+          },
+          "bookable_places": {
+            "from": 6,
+            "to": 5
+          }
+        },
+        "current": {
+          "id": "6acb48f567344b53bb11f6a1",
+          "number": "2026AUS_042",
+          "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
           "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
@@ -63,18 +196,113 @@
             "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2026-12-02",
-          "date_to": "2026-12-16",
+          "date_from": "2026-12-18",
+          "date_to": "2026-12-21",
           "locations": [
-            "Deutscher Alpenverein Sektion Heidelberg"
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
           ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acb629467344b53bb129609",
-          "bookable_start": "2026-12-02",
-          "bookable_end": "2026-12-16",
-          "free_places": 12,
-          "max_places": 12,
-          "bookable_places": 12,
+          "description": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: \nDas Lawinenopfer kann nicht rechtzeitig, das heißt binnen der ersten 15 Minuten der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. \nLernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen ‘Ernstfall‘ unter realistischen Bedingungen. \nFür Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. \nVermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. \nKursinhalte:\nInhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle)\nHandhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung\nFreischaufeln des Verschütteten \nAusrüstungs- und Materialkunde\nGrundwissen in Schnee- und Lawinenkunde. \nAnforderungen: Mitglied im DAV, Teilnahme an der Theorie- und Seminarreihe Lawinenkunde, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Finden und Ausgraben von Verschütteten durch sicheren Umgang mit dem LVS-Gerät, Einsatz von Sonde und Schaufel, Beurteilung von Gefahren im Vorfeld einer Skitour\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 160,- (EUR 120,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acb48f567344b53bb11f6a3",
+          "bookable_start": "2026-12-18",
+          "bookable_end": "2026-12-21",
+          "free_places": 5,
+          "max_places": 6,
+          "bookable_places": 5,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6acb48f567344b53bb11f6a1",
+          "number": "2026AUS_042",
+          "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2026-12-18",
+          "date_to": "2026-12-21",
+          "locations": [
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
+          ],
+          "description": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: \nDas Lawinenopfer kann nicht rechtzeitig, das heißt binnen der ersten 15 Minuten der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. \nLernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen ‘Ernstfall‘ unter realistischen Bedingungen. \nFür Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. \nVermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. \nKursinhalte:\nInhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle)\nHandhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung\nFreischaufeln des Verschütteten \nAusrüstungs- und Materialkunde\nGrundwissen in Schnee- und Lawinenkunde. \nAnforderungen: Mitglied im DAV, Teilnahme an der Theorie- und Seminarreihe Lawinenkunde, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Finden und Ausgraben von Verschütteten durch sicheren Umgang mit dem LVS-Gerät, Einsatz von Sonde und Schaufel, Beurteilung von Gefahren im Vorfeld einer Skitour\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 160,- (EUR 120,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acb48f567344b53bb11f6a3",
+          "bookable_start": "2026-12-18",
+          "bookable_end": "2026-12-21",
+          "free_places": 6,
+          "max_places": 6,
+          "bookable_places": 6,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6ad06fa52c6ac4d436cfdbee",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 6,
+            "to": 5
+          },
+          "bookable_places": {
+            "from": 6,
+            "to": 5
+          }
+        },
+        "current": {
+          "id": "6ad06fa52c6ac4d436cfdbee",
+          "number": "2026AUS_045",
+          "title": "Einführung in die Einseiltechnik für Höhlenbefahrungen SRT",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Höhle"
+          ],
+          "date_from": "2026-11-12",
+          "date_to": "2026-11-12",
+          "locations": [
+            "Kletterhalle DAV Heidelberg, Harbigweg, Kirchheim, Deutschland"
+          ],
+          "description": "Höhlen sind ein spannendes Naturphänomen in denen es noch viel zu entdecken gibt: Neue Bereiche in denen noch nie Jemand war, Vermessung, Kartierung, Geologie, Hydrologie, Biologie, schöne Tropfstein und Sinterformationen, Tauchen, Fotografie und vieles mehr! Doch um Höhlen sicher zu befahren und sie zu erhalten braucht es Wissen und die passende Ausrüstung. In diesem Kurs bekommst du einen ersten Einblick in die Einseiltechnik, die wir in der Höhle nutzten, wenn Höhenunterschiede zu überwinden sind oder wir uns gegen Absturz sichern müssen.\n\nInhalte: Vorstellung der Ausrüstung, Aufsteigen am Seil, Abseilen mit einem Petzl Stop und Umstiegstellen\nAnforderungen: Allgemeine Sportlichkeit\nTeilnehmerzahl max.: 4\nMindestalter: 18 Jahre\nAusrüstung: Verschmutzbare Kleidung, lange Hose, festes Schuhwerk\nWeiter wird benötigt und kann geliehen werden: Helm, Kopflampe, komplette Einseiltechnik Ausrüstung (Höhlengurt (kein Klettergurt!), Hauptglied, Petzl Stop, Bremskarabiner, 1 Ovalkarabiner (Trilock), 1 Bremskarabiner, 2m Dynamikseil zur Selbstsicherung, 2 D-Karabiner (Schrauber), Trittschlinge, Bruststeigklemme, Handsteigklemme)\nKursgebühr: Kursgebühr: 40€\nOrt: Kletterhalle Großer Seminarraum (Harbigweg 20, 69124 Heidelberg)",
+          "bookable_id": "6ad06fa52c6ac4d436cfdbf0",
+          "bookable_start": "2026-11-12",
+          "bookable_end": "2026-11-12",
+          "free_places": 5,
+          "max_places": 6,
+          "bookable_places": 5,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6ad06fa52c6ac4d436cfdbee",
+          "number": "2026AUS_045",
+          "title": "Einführung in die Einseiltechnik für Höhlenbefahrungen SRT",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Höhle"
+          ],
+          "date_from": "2026-11-12",
+          "date_to": "2026-11-12",
+          "locations": [
+            "Kletterhalle DAV Heidelberg, Harbigweg, Kirchheim, Deutschland"
+          ],
+          "description": "Höhlen sind ein spannendes Naturphänomen in denen es noch viel zu entdecken gibt: Neue Bereiche in denen noch nie Jemand war, Vermessung, Kartierung, Geologie, Hydrologie, Biologie, schöne Tropfstein und Sinterformationen, Tauchen, Fotografie und vieles mehr! Doch um Höhlen sicher zu befahren und sie zu erhalten braucht es Wissen und die passende Ausrüstung. In diesem Kurs bekommst du einen ersten Einblick in die Einseiltechnik, die wir in der Höhle nutzten, wenn Höhenunterschiede zu überwinden sind oder wir uns gegen Absturz sichern müssen.\n\nInhalte: Vorstellung der Ausrüstung, Aufsteigen am Seil, Abseilen mit einem Petzl Stop und Umstiegstellen\nAnforderungen: Allgemeine Sportlichkeit\nTeilnehmerzahl max.: 4\nMindestalter: 18 Jahre\nAusrüstung: Verschmutzbare Kleidung, lange Hose, festes Schuhwerk\nWeiter wird benötigt und kann geliehen werden: Helm, Kopflampe, komplette Einseiltechnik Ausrüstung (Höhlengurt (kein Klettergurt!), Hauptglied, Petzl Stop, Bremskarabiner, 1 Ovalkarabiner (Trilock), 1 Bremskarabiner, 2m Dynamikseil zur Selbstsicherung, 2 D-Karabiner (Schrauber), Trittschlinge, Bruststeigklemme, Handsteigklemme)\nKursgebühr: Kursgebühr: 40€\nOrt: Kletterhalle Großer Seminarraum (Harbigweg 20, 69124 Heidelberg)",
+          "bookable_id": "6ad06fa52c6ac4d436cfdbf0",
+          "bookable_start": "2026-11-12",
+          "bookable_end": "2026-11-12",
+          "free_places": 6,
+          "max_places": 6,
+          "bookable_places": 6,
           "waitlist_active": true,
           "bookable_canceled": false
         }

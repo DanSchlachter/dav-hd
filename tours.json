@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-25T10:18:11.184558+00:00",
+  "timestamp": "2026-10-26T11:44:52.139468+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 92,
   "tours": [
@@ -198,9 +198,9 @@
       "bookable_id": "69bc39359daefa4fefc1a079",
       "bookable_start": "2026-11-15",
       "bookable_end": "2026-11-15",
-      "free_places": 25,
+      "free_places": 23,
       "max_places": 25,
-      "bookable_places": 25,
+      "bookable_places": 23,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -245,13 +245,13 @@
         "Comer See"
       ],
       "description": "Spannende Bergwege und schwere Klettersteige am Comer See warten auf uns. Erfahrungen im Klettersteiggehen in Schwierigkeit C/D/E, Trittsicherheit und Sicherheit im Umgang mit Ausgesetztheit sollten vorhanden sein. Stationiert sind wir auf der Piani Resinelli oberhalb von Lecco bei Ai Frassini in Zimmern und Halbpension.\nAnfahrt mit Sektionsbus ist geplant.\nOrt: Piani Resinelli\nAnforderungen: Klettersteiggehen in Schwierigkeit C/D/E Trittsicherheit und Sicherheit im Umgang mit Ausgesetztheit. Komplette Klettersteigausrüstung mit Helm",
-      "bookable_id": "69bd32589daefa4fefd879b3",
-      "bookable_start": "2026-10-18",
-      "bookable_end": "2026-10-25",
-      "free_places": 0,
-      "max_places": 6,
-      "bookable_places": 0,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -2031,9 +2031,9 @@
       "bookable_id": "6acb48f567344b53bb11f6a3",
       "bookable_start": "2026-12-18",
       "bookable_end": "2026-12-21",
-      "free_places": 6,
+      "free_places": 5,
       "max_places": 6,
-      "bookable_places": 6,
+      "bookable_places": 5,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2135,9 +2135,9 @@
       "bookable_id": "6ad06fa52c6ac4d436cfdbf0",
       "bookable_start": "2026-11-12",
       "bookable_end": "2026-11-12",
-      "free_places": 6,
+      "free_places": 5,
       "max_places": 6,
-      "bookable_places": 6,
+      "bookable_places": 5,
       "waitlist_active": true,
       "bookable_canceled": false
     },
