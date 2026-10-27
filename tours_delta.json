@@ -1,139 +1,398 @@
 {
-  "timestamp": "2026-10-26T11:44:52.146421+00:00",
-  "previous_timestamp": "2026-10-25T10:18:11.184558+00:00",
+  "timestamp": "2026-10-27T11:11:31.928569+00:00",
+  "previous_timestamp": "2026-10-26T11:44:52.139468+00:00",
   "summary": {
     "added": 0,
-    "removed": 0,
-    "modified": 4
+    "removed": 13,
+    "modified": 2
   },
   "changes": {
     "added": [],
-    "removed": [],
-    "modified": [
+    "removed": [
       {
-        "id": "69bc39359daefa4fefc1a077",
-        "changed_fields": [
-          "free_places",
-          "bookable_places"
+        "id": "69ba99aa7942a88da9fdfdf3",
+        "number": "2610_WAN_F_001",
+        "title": "Mehrtagestour in den Thüringer Wald",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
         ],
-        "changes": {
-          "free_places": {
-            "from": 25,
-            "to": 23
-          },
-          "bookable_places": {
-            "from": 25,
-            "to": 23
-          }
-        },
-        "current": {
-          "id": "69bc39359daefa4fefc1a077",
-          "number": "261115FAM_F001",
-          "title": "Tagestour",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Familienbergsteigen"
-          ],
-          "date_from": "2026-11-15",
-          "date_to": "2026-11-15",
-          "locations": [
-            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
-          ],
-          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
-          "bookable_id": "69bc39359daefa4fefc1a079",
-          "bookable_start": "2026-11-15",
-          "bookable_end": "2026-11-15",
-          "free_places": 23,
-          "max_places": 25,
-          "bookable_places": 23,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "69bc39359daefa4fefc1a077",
-          "number": "261115FAM_F001",
-          "title": "Tagestour",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Familienbergsteigen"
-          ],
-          "date_from": "2026-11-15",
-          "date_to": "2026-11-15",
-          "locations": [
-            "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
-          ],
-          "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
-          "bookable_id": "69bc39359daefa4fefc1a079",
-          "bookable_start": "2026-11-15",
-          "bookable_end": "2026-11-15",
-          "free_places": 25,
-          "max_places": 25,
-          "bookable_places": 25,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
+        "date_from": "2026-10-11",
+        "date_to": "2026-10-17",
+        "locations": [
+          "Thüringer Wald"
+        ],
+        "description": "Tageswanderungen im Thüringer Wald. Hin- und Rückfahrt mit der Bahn. Mit der DB von Heidelberg über Frankfurt nach Gotha, weiter mit der Thüringer Wald-Bahn von Gotha nach Bad Tabarz. Unterbringung in einem Hotel in Bad Tabarz. Von dort starten wir unsere Tagestouren. Die umliegenden Berge, wie den Großen Inselsberg erwandern wir teilweise über den Rennsteig, den Tabarzer Vulkansteig oder den Lutherweg. Eine Wanderung führt uns zur Wartburg und nach Eisenach mit Gelegenheit zur Besichtigung von Burg und Stadt.\nUm an verschiedene Ausgangs- und Endpunkte unserer Wanderungen zu gelangen, werden wir den dortigen ÖPNV mit dem Deutschlandticket und der Gästekarte nutzen.\n\nAnforderungen: 700 – 900 Hm, Gehzeiten ca. 6 – 7 Stunden.\nAusrüstung: Wanderkleidung (für jedes Wetter), festes Schuhwerk, Wanderstöcke, Rucksack.\nVorkenntnisse: keine\nAn- und Abreise: Deutsche Bahn (Gruppenfahrkarte), sowie ÖPNV\nUnterbringung: Hotel in Bad Tabarz.\nKosten: ÜN/F im DZ ca. 75 € pro Nacht und Person,\nUnterbringung in DZ / EZ\nTeilnehmerzahl: 8\nAnmeldung: ab sofort\nAnmeldeschluss: 20.06.2026\nVorbesprechung: Termin nach Absprache",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
       },
       {
-        "id": "69bd32589daefa4fefd879ae",
+        "id": "6a292a1d51b966ad6f143130",
+        "number": null,
+        "title": "In-Between-Gruppe Sonntagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-20",
+        "date_to": "2026-09-20",
+        "locations": [
+          "Schwanheim, Pfalz"
+        ],
+        "description": "Wanderung in der Pfalz, rund um Schwanheim.\nTreffpunkt Parkplatz bei Schwanheim.\nKoordinaten: 32U 418446 544747, kleiner Parkplatz an der K 54\nAnfahrt in Fahrgemeinschaften.",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7a7a1644e0483a180877",
+        "number": null,
+        "title": "Samstagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-26",
+        "date_to": "2026-09-26",
+        "locations": [
+          "Heidelberg Hbf S 1"
+        ],
+        "description": "Kaiserslautern, Weltachs, Kaiserslautern (Schlusseinkehr)\n21 Km; 560 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7bcad044b6737a148c12",
+        "number": null,
+        "title": "Mittwochswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-16",
+        "date_to": "2026-09-16",
+        "locations": [
+          "Heidelberg Hbf RB 68"
+        ],
+        "description": "Fürth, Tromm  (Einkehr zur schönen Aussicht), Trommturm, Rimbach\n14 Km; 400 Hm; Gehzeit ca. 4Std.\nAbfahrt Heidelberg Hauptbahnhof 09:26 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7d231644e0483a181fdb",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-11",
+        "date_to": "2026-09-11",
+        "locations": [
+          "Heidelberg Hbf S 1"
+        ],
+        "description": "Neckarsteinach-Neckarhausen, Brauhnsruhe, Neckarsteinach-Mannheimerhütte (Einkehr), Neckarsteinach Bahnhof.\n10,5 Km; 150 Hm; Gehzeit ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:54 Uhr S 1 Richtung Osterburken.\nWanderführer steigt in Neckarsteinach Bahnhof zu.\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7d78d044b6737a149b70",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-18",
+        "date_to": "2026-09-18",
+        "locations": [
+          "Heidelberg Hbf. S 2"
+        ],
+        "description": "Zwingenberg, Margarethenschlucht, Mosbach (Schlusseinkehr)\n22 Km; 580 Hm; Gehzeit ca. 6 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:25 Uhr S 2 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a2a7dd7d044b6737a149fb7",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-09-25",
+        "date_to": "2026-09-25",
+        "locations": [
+          "Heidelberg Bismarckplatz Bus Linie 735"
+        ],
+        "description": "Schönau  (Marktplatz), Mönchsbrunnen, Bäckermädel, Wolfsgrube, Hirschhorn (Schlusseinkehr), Bahnhof.\n14 Km; 350 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Bismarckplatz 07:53 Uhr Bus Linie 735\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a9187f73c8ac3a04abf11f2",
+        "number": null,
+        "title": "Mittwochswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-10-07",
+        "date_to": "2026-10-07",
+        "locations": [
+          "Heidelberg Hbf. Bus Linie 34"
+        ],
+        "description": "Ziegelhausen, Forlenweg, Höhenweg, Bauernweg, Peterstal (Schlusseinkehr)\n7 Km; 184 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:06 Uhr Bus Linie 34\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a918b6f3c8ac3a04abf49ad",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-10-02",
+        "date_to": "2026-10-02",
+        "locations": [
+          "Heidelberg Hbf S 1"
+        ],
+        "description": "Unter-Schönmattenwag, Stiefelhütte, Heiligkreuzsteinach (Schlusseinkehr)\n17 Km; 450 m; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a918bd33c8ac3a04abf4c4b",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-10-09",
+        "date_to": "2026-10-09",
+        "locations": [
+          "Heidelberg Hbf. RB 68"
+        ],
+        "description": "Brombach, Ober-Mossau, Erbach\n18,5 Km; 526 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\nWanderführer steigt in Weinheim  zu.\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a918c43c28f2b6de7ded8f6",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-10-16",
+        "date_to": "2026-10-16",
+        "locations": [
+          "Heidelberg Hbf S 1"
+        ],
+        "description": "Ober-Schönmattenwag, Grasellenbach Café Bauer (Einkehr), Hammelbach\n16 Km; 450 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Mosbach\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a918c8fc28f2b6de7dedab2",
+        "number": null,
+        "title": "Mittwochswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-10-21",
+        "date_to": "2026-10-21",
+        "locations": [
+          "Heidelberg Hbf. RE 1"
+        ],
+        "description": "Kaiserslautern, Antonihof, Johanniskreuz, Iggelbach (Schlusseinkehr).\n18,5 Km; 490 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:17 Uhr RE 1 nach Kaiserslautern\n-Anmeldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      },
+      {
+        "id": "6a918ceb0137487125302f31",
+        "number": null,
+        "title": "Freitagswanderung",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Wandern"
+        ],
+        "date_from": "2026-10-23",
+        "date_to": "2026-10-23",
+        "locations": [
+          "Heidelberg Bismarckplatz Line 5"
+        ],
+        "description": "Schriesheim, Spatschlucht, Schriesheimer Hütte, Ruine Shanzenköpfle und Hirschburg (Einkehr), Schriesheim\n15 Km; 360 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Bismarckplatz 08:55 Uhr Linie 5 nach Schriesheim\nWanderführerin erwartet die Gruppe an der Haltestelle Schriesheim\n\"Zentgartenstraße\" mit Hund Arya\n -Ameldung nicht erforderlich-",
+        "bookable_id": null,
+        "bookable_start": "",
+        "bookable_end": "",
+        "free_places": null,
+        "max_places": null,
+        "bookable_places": null,
+        "waitlist_active": null,
+        "bookable_canceled": false
+      }
+    ],
+    "modified": [
+      {
+        "id": "6a2961f21644e0483a1193f3",
         "changed_fields": [
-          "bookable_start",
-          "free_places",
-          "bookable_places",
           "bookable_end",
-          "bookable_id",
           "max_places",
-          "waitlist_active"
+          "bookable_places",
+          "bookable_start",
+          "waitlist_active",
+          "free_places",
+          "bookable_id"
         ],
         "changes": {
-          "bookable_start": {
-            "from": "2026-10-18",
+          "bookable_end": {
+            "from": "2026-10-26",
             "to": ""
           },
-          "free_places": {
-            "from": 0,
+          "max_places": {
+            "from": 8,
             "to": null
           },
           "bookable_places": {
-            "from": 0,
+            "from": 3,
             "to": null
           },
-          "bookable_end": {
-            "from": "2026-10-25",
+          "bookable_start": {
+            "from": "2026-10-22",
             "to": ""
-          },
-          "bookable_id": {
-            "from": "69bd32589daefa4fefd879b3",
-            "to": null
-          },
-          "max_places": {
-            "from": 6,
-            "to": null
           },
           "waitlist_active": {
             "from": true,
             "to": null
+          },
+          "free_places": {
+            "from": 3,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "6a2961f21644e0483a1193f5",
+            "to": null
           }
         },
         "current": {
-          "id": "69bd32589daefa4fefd879ae",
-          "number": "261018B_002",
-          "title": "ECO// Bergsteigen und Klettersteige am Comer See 18.10.-25.10.2026",
+          "id": "6a2961f21644e0483a1193f3",
+          "number": null,
+          "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Bergsteigen"
+            "Natur- und Umweltschutz"
           ],
-          "date_from": "2026-10-18",
-          "date_to": "2026-10-25",
+          "date_from": "2026-10-22",
+          "date_to": "2026-10-26",
           "locations": [
-            "Comer See"
+            "Tenno, Trentino"
           ],
-          "description": "Spannende Bergwege und schwere Klettersteige am Comer See warten auf uns. Erfahrungen im Klettersteiggehen in Schwierigkeit C/D/E, Trittsicherheit und Sicherheit im Umgang mit Ausgesetztheit sollten vorhanden sein. Stationiert sind wir auf der Piani Resinelli oberhalb von Lecco bei Ai Frassini in Zimmern und Halbpension.\nAnfahrt mit Sektionsbus ist geplant.\nOrt: Piani Resinelli\nAnforderungen: Klettersteiggehen in Schwierigkeit C/D/E Trittsicherheit und Sicherheit im Umgang mit Ausgesetztheit. Komplette Klettersteigausrüstung mit Helm",
+          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -144,51 +403,51 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "69bd32589daefa4fefd879ae",
-          "number": "261018B_002",
-          "title": "ECO// Bergsteigen und Klettersteige am Comer See 18.10.-25.10.2026",
+          "id": "6a2961f21644e0483a1193f3",
+          "number": null,
+          "title": "ECO - Yoga, Wandern und Naturerleben in Trentino",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Bergsteigen"
+            "Natur- und Umweltschutz"
           ],
-          "date_from": "2026-10-18",
-          "date_to": "2026-10-25",
+          "date_from": "2026-10-22",
+          "date_to": "2026-10-26",
           "locations": [
-            "Comer See"
+            "Tenno, Trentino"
           ],
-          "description": "Spannende Bergwege und schwere Klettersteige am Comer See warten auf uns. Erfahrungen im Klettersteiggehen in Schwierigkeit C/D/E, Trittsicherheit und Sicherheit im Umgang mit Ausgesetztheit sollten vorhanden sein. Stationiert sind wir auf der Piani Resinelli oberhalb von Lecco bei Ai Frassini in Zimmern und Halbpension.\nAnfahrt mit Sektionsbus ist geplant.\nOrt: Piani Resinelli\nAnforderungen: Klettersteiggehen in Schwierigkeit C/D/E Trittsicherheit und Sicherheit im Umgang mit Ausgesetztheit. Komplette Klettersteigausrüstung mit Helm",
-          "bookable_id": "69bd32589daefa4fefd879b3",
-          "bookable_start": "2026-10-18",
-          "bookable_end": "2026-10-25",
-          "free_places": 0,
-          "max_places": 6,
-          "bookable_places": 0,
+          "description": "Die Reise geht ins italienische Trentino in die Umgebung von Tenno  (20 Minuten von Riva del Garda, der Nordspitze des Gardasees, gelegen). Es wird täglich am Vormittag eine zwei-stündige Yoga-Einheit geben. Für die Nachmittage sind Wanderungen mit leichter Anforderung geplant (befestigte Wege, maximal 4 Stunden). Integriert darin sind Naturbetrachtungen, die eine lebendige Beziehungsaufnahme zur Umwelt fördern können. Die umliegenden Bergseen sind darüber hinaus sehr gut für ein kühles Tauchbad geeignet.\nWir werden die Sonnenoase, auch bekannt als Kulturprojekt Naone, (https://www.naone.it) im kleinen Ort Lundo kennenlernen. Es ist ein ökologisches Zukunftsprojekt mit Spiritualität, Natur und Kunst. Schöne Landschafts – und Häusergestaltung, nachhaltiges Wirtschaften und eine sehr ansprechende, beziehungsvoll gestaltete Ernährungskultur können wir auf unkomplizierte Weise dort erleben.\nUnterkunft : „Casa de bellezza“, ein bed and breakfast mit außergewöhnlich schön gestalteten Räumen, einem Garten, einer Bibliothek und einem Yogaraum. https://casa-della-bellezza trentino.it/de/das-haus/ Mit der Anmeldung wird die Unterkunft mitgebucht. Einzelzimmer pro Nacht: € 35.- mit Frühstück. Doppelzimmer pro Nacht: € 30.- mit Frühstück. Die Unterkunft bezahlt jeder direkt vor Ort. \nAnreise gemeinsam mit dem Zug. Vor Ort werden die Wegstrecken mit geliehenen PKWs zurückgelegt,\nVorbesprechung verbindlich geplant für den 17.09 um 18 Uhr, Ort wird noch bekanntgegeben (Alternativtermin wenn Leute nicht können nach Absprache.)",
+          "bookable_id": "6a2961f21644e0483a1193f5",
+          "bookable_start": "2026-10-22",
+          "bookable_end": "2026-10-26",
+          "free_places": 3,
+          "max_places": 8,
+          "bookable_places": 3,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6acb48f567344b53bb11f6a1",
+        "id": "6ad1d0d224a1fb6d96bb3405",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "bookable_places",
+          "free_places"
         ],
         "changes": {
-          "free_places": {
-            "from": 6,
-            "to": 5
-          },
           "bookable_places": {
-            "from": 6,
-            "to": 5
+            "from": 10,
+            "to": 9
+          },
+          "free_places": {
+            "from": 10,
+            "to": 9
           }
         },
         "current": {
-          "id": "6acb48f567344b53bb11f6a1",
-          "number": "2026AUS_042",
-          "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
+          "id": "6ad1d0d224a1fb6d96bb3405",
+          "number": "2026AUS_044",
+          "title": "Theorie Kurs Skitouren Planung (2 Abende)",
           "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
@@ -196,25 +455,25 @@
             "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2026-12-18",
-          "date_to": "2026-12-21",
+          "date_from": "2026-11-10",
+          "date_to": "2026-11-17",
           "locations": [
-            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
+            "Deutscher Alpenverein Sektion Heidelberg"
           ],
-          "description": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: \nDas Lawinenopfer kann nicht rechtzeitig, das heißt binnen der ersten 15 Minuten der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. \nLernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen ‘Ernstfall‘ unter realistischen Bedingungen. \nFür Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. \nVermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. \nKursinhalte:\nInhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle)\nHandhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung\nFreischaufeln des Verschütteten \nAusrüstungs- und Materialkunde\nGrundwissen in Schnee- und Lawinenkunde. \nAnforderungen: Mitglied im DAV, Teilnahme an der Theorie- und Seminarreihe Lawinenkunde, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Finden und Ausgraben von Verschütteten durch sicheren Umgang mit dem LVS-Gerät, Einsatz von Sonde und Schaufel, Beurteilung von Gefahren im Vorfeld einer Skitour\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 160,- (EUR 120,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
-          "bookable_id": "6acb48f567344b53bb11f6a3",
-          "bookable_start": "2026-12-18",
-          "bookable_end": "2026-12-21",
-          "free_places": 5,
-          "max_places": 6,
-          "bookable_places": 5,
+          "description": "Touren-Planung: Sicher und strukturiert in den Winter\nWer im Winter abseits der präparierten Pisten unterwegs sein möchte, trägt ein hohes Maß an Eigenverantwortung. Die Tourenplanung ist kein starres Konzept, sondern ein dynamischer Prozess, der zu Hause am Schreibtisch beginnt und erst mit der sicheren Rückkehr im Tal endet.\nDas Ziel dieses Theorie-Kurses ist es, euch die 10 Basics der klassischen Tourenplanung näherzubringen und euch praxisnah zu zeigen, wie ihr Gefahrenzonen bereits im Vorfeld strukturiert entschärft.\nVoraussetzungen für die Teilnahme:\nInterpretation des Lawinenlageberichts (LLB)\nErste Erfahrung im Umgang mit analogem und/oder digitalem Kartenmaterial\nVerwandle Risiken in planbare Herausforderungen – melde dich an und werde fit für den Winter abseits der Piste!\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, kleiner Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 10\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6ad1d0d224a1fb6d96bb3407",
+          "bookable_start": "2026-11-10",
+          "bookable_end": "2026-11-17",
+          "free_places": 9,
+          "max_places": 10,
+          "bookable_places": 9,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6acb48f567344b53bb11f6a1",
-          "number": "2026AUS_042",
-          "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
+          "id": "6ad1d0d224a1fb6d96bb3405",
+          "number": "2026AUS_044",
+          "title": "Theorie Kurs Skitouren Planung (2 Abende)",
           "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
@@ -222,87 +481,18 @@
             "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2026-12-18",
-          "date_to": "2026-12-21",
+          "date_from": "2026-11-10",
+          "date_to": "2026-11-17",
           "locations": [
-            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
+            "Deutscher Alpenverein Sektion Heidelberg"
           ],
-          "description": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: \nDas Lawinenopfer kann nicht rechtzeitig, das heißt binnen der ersten 15 Minuten der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. \nLernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen ‘Ernstfall‘ unter realistischen Bedingungen. \nFür Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. \nVermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. \nKursinhalte:\nInhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle)\nHandhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung\nFreischaufeln des Verschütteten \nAusrüstungs- und Materialkunde\nGrundwissen in Schnee- und Lawinenkunde. \nAnforderungen: Mitglied im DAV, Teilnahme an der Theorie- und Seminarreihe Lawinenkunde, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Finden und Ausgraben von Verschütteten durch sicheren Umgang mit dem LVS-Gerät, Einsatz von Sonde und Schaufel, Beurteilung von Gefahren im Vorfeld einer Skitour\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 160,- (EUR 120,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
-          "bookable_id": "6acb48f567344b53bb11f6a3",
-          "bookable_start": "2026-12-18",
-          "bookable_end": "2026-12-21",
-          "free_places": 6,
-          "max_places": 6,
-          "bookable_places": 6,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6ad06fa52c6ac4d436cfdbee",
-        "changed_fields": [
-          "free_places",
-          "bookable_places"
-        ],
-        "changes": {
-          "free_places": {
-            "from": 6,
-            "to": 5
-          },
-          "bookable_places": {
-            "from": 6,
-            "to": 5
-          }
-        },
-        "current": {
-          "id": "6ad06fa52c6ac4d436cfdbee",
-          "number": "2026AUS_045",
-          "title": "Einführung in die Einseiltechnik für Höhlenbefahrungen SRT",
-          "type": "COURSE",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Ausbildungskurse",
-            "Höhle"
-          ],
-          "date_from": "2026-11-12",
-          "date_to": "2026-11-12",
-          "locations": [
-            "Kletterhalle DAV Heidelberg, Harbigweg, Kirchheim, Deutschland"
-          ],
-          "description": "Höhlen sind ein spannendes Naturphänomen in denen es noch viel zu entdecken gibt: Neue Bereiche in denen noch nie Jemand war, Vermessung, Kartierung, Geologie, Hydrologie, Biologie, schöne Tropfstein und Sinterformationen, Tauchen, Fotografie und vieles mehr! Doch um Höhlen sicher zu befahren und sie zu erhalten braucht es Wissen und die passende Ausrüstung. In diesem Kurs bekommst du einen ersten Einblick in die Einseiltechnik, die wir in der Höhle nutzten, wenn Höhenunterschiede zu überwinden sind oder wir uns gegen Absturz sichern müssen.\n\nInhalte: Vorstellung der Ausrüstung, Aufsteigen am Seil, Abseilen mit einem Petzl Stop und Umstiegstellen\nAnforderungen: Allgemeine Sportlichkeit\nTeilnehmerzahl max.: 4\nMindestalter: 18 Jahre\nAusrüstung: Verschmutzbare Kleidung, lange Hose, festes Schuhwerk\nWeiter wird benötigt und kann geliehen werden: Helm, Kopflampe, komplette Einseiltechnik Ausrüstung (Höhlengurt (kein Klettergurt!), Hauptglied, Petzl Stop, Bremskarabiner, 1 Ovalkarabiner (Trilock), 1 Bremskarabiner, 2m Dynamikseil zur Selbstsicherung, 2 D-Karabiner (Schrauber), Trittschlinge, Bruststeigklemme, Handsteigklemme)\nKursgebühr: Kursgebühr: 40€\nOrt: Kletterhalle Großer Seminarraum (Harbigweg 20, 69124 Heidelberg)",
-          "bookable_id": "6ad06fa52c6ac4d436cfdbf0",
-          "bookable_start": "2026-11-12",
-          "bookable_end": "2026-11-12",
-          "free_places": 5,
-          "max_places": 6,
-          "bookable_places": 5,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6ad06fa52c6ac4d436cfdbee",
-          "number": "2026AUS_045",
-          "title": "Einführung in die Einseiltechnik für Höhlenbefahrungen SRT",
-          "type": "COURSE",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Ausbildungskurse",
-            "Höhle"
-          ],
-          "date_from": "2026-11-12",
-          "date_to": "2026-11-12",
-          "locations": [
-            "Kletterhalle DAV Heidelberg, Harbigweg, Kirchheim, Deutschland"
-          ],
-          "description": "Höhlen sind ein spannendes Naturphänomen in denen es noch viel zu entdecken gibt: Neue Bereiche in denen noch nie Jemand war, Vermessung, Kartierung, Geologie, Hydrologie, Biologie, schöne Tropfstein und Sinterformationen, Tauchen, Fotografie und vieles mehr! Doch um Höhlen sicher zu befahren und sie zu erhalten braucht es Wissen und die passende Ausrüstung. In diesem Kurs bekommst du einen ersten Einblick in die Einseiltechnik, die wir in der Höhle nutzten, wenn Höhenunterschiede zu überwinden sind oder wir uns gegen Absturz sichern müssen.\n\nInhalte: Vorstellung der Ausrüstung, Aufsteigen am Seil, Abseilen mit einem Petzl Stop und Umstiegstellen\nAnforderungen: Allgemeine Sportlichkeit\nTeilnehmerzahl max.: 4\nMindestalter: 18 Jahre\nAusrüstung: Verschmutzbare Kleidung, lange Hose, festes Schuhwerk\nWeiter wird benötigt und kann geliehen werden: Helm, Kopflampe, komplette Einseiltechnik Ausrüstung (Höhlengurt (kein Klettergurt!), Hauptglied, Petzl Stop, Bremskarabiner, 1 Ovalkarabiner (Trilock), 1 Bremskarabiner, 2m Dynamikseil zur Selbstsicherung, 2 D-Karabiner (Schrauber), Trittschlinge, Bruststeigklemme, Handsteigklemme)\nKursgebühr: Kursgebühr: 40€\nOrt: Kletterhalle Großer Seminarraum (Harbigweg 20, 69124 Heidelberg)",
-          "bookable_id": "6ad06fa52c6ac4d436cfdbf0",
-          "bookable_start": "2026-11-12",
-          "bookable_end": "2026-11-12",
-          "free_places": 6,
-          "max_places": 6,
-          "bookable_places": 6,
+          "description": "Touren-Planung: Sicher und strukturiert in den Winter\nWer im Winter abseits der präparierten Pisten unterwegs sein möchte, trägt ein hohes Maß an Eigenverantwortung. Die Tourenplanung ist kein starres Konzept, sondern ein dynamischer Prozess, der zu Hause am Schreibtisch beginnt und erst mit der sicheren Rückkehr im Tal endet.\nDas Ziel dieses Theorie-Kurses ist es, euch die 10 Basics der klassischen Tourenplanung näherzubringen und euch praxisnah zu zeigen, wie ihr Gefahrenzonen bereits im Vorfeld strukturiert entschärft.\nVoraussetzungen für die Teilnahme:\nInterpretation des Lawinenlageberichts (LLB)\nErste Erfahrung im Umgang mit analogem und/oder digitalem Kartenmaterial\nVerwandle Risiken in planbare Herausforderungen – melde dich an und werde fit für den Winter abseits der Piste!\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, kleiner Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 10\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6ad1d0d224a1fb6d96bb3407",
+          "bookable_start": "2026-11-10",
+          "bookable_end": "2026-11-17",
+          "free_places": 10,
+          "max_places": 10,
+          "bookable_places": 10,
           "waitlist_active": true,
           "bookable_canceled": false
         }
