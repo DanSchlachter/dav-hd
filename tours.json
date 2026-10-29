@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-28T11:45:47.664975+00:00",
+  "timestamp": "2026-10-29T11:53:43.154795+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 79,
+  "tour_count": 80,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -1576,9 +1576,9 @@
       "bookable_id": "6acbeba267344b53bb15ba40",
       "bookable_start": "2027-01-15",
       "bookable_end": "2027-01-18",
-      "free_places": 6,
+      "free_places": 4,
       "max_places": 6,
-      "bookable_places": 6,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1732,9 +1732,9 @@
       "bookable_id": "6acc6d6a59257517ccaf763d",
       "bookable_start": "2027-01-18",
       "bookable_end": "2027-01-21",
-      "free_places": 6,
+      "free_places": 4,
       "max_places": 6,
-      "bookable_places": 6,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1987,6 +1987,31 @@
       "bookable_id": "6ad682ec6fc3051a1de5447a",
       "bookable_start": "2027-04-22",
       "bookable_end": "2027-04-25",
+      "free_places": 0,
+      "max_places": 0,
+      "bookable_places": 0,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6ae125d7e9d7d7e9aa89b2a3",
+      "number": "270424SKI_G006",
+      "title": "Geführte Skitourentage in St. Antönien",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-02-24",
+      "date_to": "2027-02-28",
+      "locations": [
+        "Berghaus Bellawiese  St. Antönien"
+      ],
+      "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSt. Antönien bietet abwechslungsreiche Skitouren in der eindrucksvollen Bergwelt des Rätikons. Je nach Schnee-, Wetter- und Lawinenverhältnissen wählen wir gemeinsam lohnende Tourenziele und geniessen schöne Aufstiege, abwechslungsreiche Abfahrten und die gemeinsame Zeit in den Bergen.\n\nMögliche Tourenziele\n\nSaaser Calanda: aussichtsreiche Skitour mit abwechslungsreichem Gelände\nHasenflüeli: lohnendes Gipfelziel mit alpinem Charakter\nRotspitz: abwechslungsreiche Skitour mit eindrucksvollem Panorama\nMadrisahorn: anspruchsvollere Alternative bei passenden Verhältnissen\nAnforderungen und Eckdaten\n\nGebiet: St. Antönien und Umgebung, Prättigau\nGruppe: maximal 4 Personen\nAufstieg: ca. 1.000–1.200 Höhenmeter, je nach Tour\nDauer: ca. 4–6 Stunden, abhängig vom Tourenziel\nSchwierigkeit: bei den regulären Tourenzielen etwa K1–2 / S2; alpine Anforderungen je nach Route\nMadrisahorn: anspruchsvolle Skitour, SAC-Schwierigkeit ZS\nVoraussetzungen: gute Kondition, sichere Spitzkehrentechnik, Erfahrung im freien Skiraum und sehr gutes Skikönnen in allen Schneearten und bei wechselnden Schneeverhältnissen\nÜbernachtung und Erholung\nÜbernachtung im Berghaus Bellawiese in St. Antönien im 4-Bett-Zimmer, inklusive Halbpension für ca. CHF 105 pro Person und Nacht. Eine Sauna lädt nach dem Tourentag zum Entspannen ein.\nAusrüstung\nVollständige Skitourenausrüstung mit LVS, Sonde und Schaufel. Eine iProbe als elektronische Suchsonde ist ideal. Harscheisen sowie Steigeisen und Pickel je nach Tourenziel und Verhältnissen mitnehmen. Für das Madrisahorn ist eine sorgfältige Beurteilung der Verhältnisse am steilen Gipfelhang erforderlich.\nTourenplanung und Sicherheit\nDer Gipfel ist kein Muss! Wir passen die Touren flexibel an die aktuellen Schnee-, Wetter- und Lawinenverhältnisse sowie an das Befinden der Gruppe an. Sicherheit und gemeinsamer Abfahrtsgenuss stehen an erster Stelle.\nAnmeldung und Besprechung\n\nAnmeldeschluss: 31. Dezember\nTourenbesprechung: spätestens Mitte Januar\nWeitere Informationen zur Besprechung folgen per E-Mail.\nKleine Gruppe, grosse Bergmomente und genussvolle Abfahrten im Rätikon!",
+      "bookable_id": "6ae125d7e9d7d7e9aa89b2a5",
+      "bookable_start": "2027-02-24",
+      "bookable_end": "2027-02-28",
       "free_places": 0,
       "max_places": 0,
       "bookable_places": 0,

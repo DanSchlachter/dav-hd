@@ -1,35 +1,61 @@
 {
-  "timestamp": "2026-10-28T11:45:47.674047+00:00",
-  "previous_timestamp": "2026-10-27T11:11:31.919621+00:00",
+  "timestamp": "2026-10-29T11:53:43.161394+00:00",
+  "previous_timestamp": "2026-10-28T11:45:47.664975+00:00",
   "summary": {
-    "added": 0,
+    "added": 1,
     "removed": 0,
-    "modified": 1
+    "modified": 2
   },
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "id": "6ae125d7e9d7d7e9aa89b2a3",
+        "number": "270424SKI_G006",
+        "title": "Geführte Skitourentage in St. Antönien",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Skibergsteigen"
+        ],
+        "date_from": "2027-02-24",
+        "date_to": "2027-02-28",
+        "locations": [
+          "Berghaus Bellawiese  St. Antönien"
+        ],
+        "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSt. Antönien bietet abwechslungsreiche Skitouren in der eindrucksvollen Bergwelt des Rätikons. Je nach Schnee-, Wetter- und Lawinenverhältnissen wählen wir gemeinsam lohnende Tourenziele und geniessen schöne Aufstiege, abwechslungsreiche Abfahrten und die gemeinsame Zeit in den Bergen.\n\nMögliche Tourenziele\n\nSaaser Calanda: aussichtsreiche Skitour mit abwechslungsreichem Gelände\nHasenflüeli: lohnendes Gipfelziel mit alpinem Charakter\nRotspitz: abwechslungsreiche Skitour mit eindrucksvollem Panorama\nMadrisahorn: anspruchsvollere Alternative bei passenden Verhältnissen\nAnforderungen und Eckdaten\n\nGebiet: St. Antönien und Umgebung, Prättigau\nGruppe: maximal 4 Personen\nAufstieg: ca. 1.000–1.200 Höhenmeter, je nach Tour\nDauer: ca. 4–6 Stunden, abhängig vom Tourenziel\nSchwierigkeit: bei den regulären Tourenzielen etwa K1–2 / S2; alpine Anforderungen je nach Route\nMadrisahorn: anspruchsvolle Skitour, SAC-Schwierigkeit ZS\nVoraussetzungen: gute Kondition, sichere Spitzkehrentechnik, Erfahrung im freien Skiraum und sehr gutes Skikönnen in allen Schneearten und bei wechselnden Schneeverhältnissen\nÜbernachtung und Erholung\nÜbernachtung im Berghaus Bellawiese in St. Antönien im 4-Bett-Zimmer, inklusive Halbpension für ca. CHF 105 pro Person und Nacht. Eine Sauna lädt nach dem Tourentag zum Entspannen ein.\nAusrüstung\nVollständige Skitourenausrüstung mit LVS, Sonde und Schaufel. Eine iProbe als elektronische Suchsonde ist ideal. Harscheisen sowie Steigeisen und Pickel je nach Tourenziel und Verhältnissen mitnehmen. Für das Madrisahorn ist eine sorgfältige Beurteilung der Verhältnisse am steilen Gipfelhang erforderlich.\nTourenplanung und Sicherheit\nDer Gipfel ist kein Muss! Wir passen die Touren flexibel an die aktuellen Schnee-, Wetter- und Lawinenverhältnisse sowie an das Befinden der Gruppe an. Sicherheit und gemeinsamer Abfahrtsgenuss stehen an erster Stelle.\nAnmeldung und Besprechung\n\nAnmeldeschluss: 31. Dezember\nTourenbesprechung: spätestens Mitte Januar\nWeitere Informationen zur Besprechung folgen per E-Mail.\nKleine Gruppe, grosse Bergmomente und genussvolle Abfahrten im Rätikon!",
+        "bookable_id": "6ae125d7e9d7d7e9aa89b2a5",
+        "bookable_start": "2027-02-24",
+        "bookable_end": "2027-02-28",
+        "free_places": 0,
+        "max_places": 0,
+        "bookable_places": 0,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      }
+    ],
     "removed": [],
     "modified": [
       {
-        "id": "6acb629467344b53bb129605",
+        "id": "6acbeba267344b53bb15ba3e",
         "changed_fields": [
-          "bookable_places",
-          "free_places"
+          "free_places",
+          "bookable_places"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 11,
-            "to": 10
-          },
           "free_places": {
-            "from": 11,
-            "to": 10
+            "from": 6,
+            "to": 4
+          },
+          "bookable_places": {
+            "from": 6,
+            "to": 4
           }
         },
         "current": {
-          "id": "6acb629467344b53bb129605",
-          "number": "2026AUS_043",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "id": "6acbeba267344b53bb15ba3e",
+          "number": "2027AUS_002",
+          "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
           "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
@@ -37,25 +63,25 @@
             "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2026-12-02",
-          "date_to": "2026-12-16",
+          "date_from": "2027-01-15",
+          "date_to": "2027-01-18",
           "locations": [
-            "Deutscher Alpenverein Sektion Heidelberg"
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
           ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acb629467344b53bb129609",
-          "bookable_start": "2026-12-02",
-          "bookable_end": "2026-12-16",
-          "free_places": 10,
-          "max_places": 12,
-          "bookable_places": 10,
+          "description": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: \nDas Lawinenopfer kann nicht rechtzeitig, das heißt binnen der ersten 15 Minuten der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. \nLernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen ‘Ernstfall‘ unter realistischen Bedingungen. \nFür Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. \nVermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. \nKursinhalte:\nInhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle)\nHandhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung\nFreischaufeln des Verschütteten \nAusrüstungs- und Materialkunde\nGrundwissen in Schnee- und Lawinenkunde. \nAnforderungen: Mitglied im DAV, Teilnahme an der Theorie- und Seminarreihe Lawinenkunde, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Finden und Ausgraben von Verschütteten durch sicheren Umgang mit dem LVS-Gerät, Einsatz von Sonde und Schaufel, Beurteilung von Gefahren im Vorfeld einer Skitour\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 160,- (EUR 120,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acbeba267344b53bb15ba40",
+          "bookable_start": "2027-01-15",
+          "bookable_end": "2027-01-18",
+          "free_places": 4,
+          "max_places": 6,
+          "bookable_places": 4,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6acb629467344b53bb129605",
-          "number": "2026AUS_043",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "id": "6acbeba267344b53bb15ba3e",
+          "number": "2027AUS_002",
+          "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
           "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
@@ -63,18 +89,87 @@
             "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2026-12-02",
-          "date_to": "2026-12-16",
+          "date_from": "2027-01-15",
+          "date_to": "2027-01-18",
           "locations": [
-            "Deutscher Alpenverein Sektion Heidelberg"
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
           ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acb629467344b53bb129609",
-          "bookable_start": "2026-12-02",
-          "bookable_end": "2026-12-16",
-          "free_places": 11,
-          "max_places": 12,
-          "bookable_places": 11,
+          "description": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: \nDas Lawinenopfer kann nicht rechtzeitig, das heißt binnen der ersten 15 Minuten der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. \nLernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen ‘Ernstfall‘ unter realistischen Bedingungen. \nFür Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. \nVermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. \nKursinhalte:\nInhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle)\nHandhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung\nFreischaufeln des Verschütteten \nAusrüstungs- und Materialkunde\nGrundwissen in Schnee- und Lawinenkunde. \nAnforderungen: Mitglied im DAV, Teilnahme an der Theorie- und Seminarreihe Lawinenkunde, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Finden und Ausgraben von Verschütteten durch sicheren Umgang mit dem LVS-Gerät, Einsatz von Sonde und Schaufel, Beurteilung von Gefahren im Vorfeld einer Skitour\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 160,- (EUR 120,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acbeba267344b53bb15ba40",
+          "bookable_start": "2027-01-15",
+          "bookable_end": "2027-01-18",
+          "free_places": 6,
+          "max_places": 6,
+          "bookable_places": 6,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6acc6d6959257517ccaf763b",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 6,
+            "to": 4
+          },
+          "bookable_places": {
+            "from": 6,
+            "to": 4
+          }
+        },
+        "current": {
+          "id": "6acc6d6959257517ccaf763b",
+          "number": "2027AUS_008",
+          "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-01-18",
+          "date_to": "2027-01-21",
+          "locations": [
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
+          ],
+          "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\neigene Anreise in Fahrgemeinschaften oder mit der Bahn\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acc6d6a59257517ccaf763d",
+          "bookable_start": "2027-01-18",
+          "bookable_end": "2027-01-21",
+          "free_places": 4,
+          "max_places": 6,
+          "bookable_places": 4,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6acc6d6959257517ccaf763b",
+          "number": "2027AUS_008",
+          "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-01-18",
+          "date_to": "2027-01-21",
+          "locations": [
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
+          ],
+          "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\neigene Anreise in Fahrgemeinschaften oder mit der Bahn\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acc6d6a59257517ccaf763d",
+          "bookable_start": "2027-01-18",
+          "bookable_end": "2027-01-21",
+          "free_places": 6,
+          "max_places": 6,
+          "bookable_places": 6,
           "waitlist_active": true,
           "bookable_canceled": false
         }
