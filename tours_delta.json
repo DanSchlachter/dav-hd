@@ -1,80 +1,222 @@
 {
-  "timestamp": "2026-10-30T11:47:22.531728+00:00",
-  "previous_timestamp": "2026-10-29T11:53:43.154795+00:00",
+  "timestamp": "2026-10-31T11:20:47.673231+00:00",
+  "previous_timestamp": "2026-10-30T11:47:22.522426+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 3
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6acb629467344b53bb129605",
+        "id": "6a918d42c28f2b6de7dedde5",
+        "changed_fields": [
+          "waitlist_active",
+          "bookable_id",
+          "bookable_start",
+          "bookable_end"
+        ],
+        "changes": {
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "6a918d42c28f2b6de7dedde7",
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-10-30",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-10-30",
+            "to": ""
+          }
+        },
+        "current": {
+          "id": "6a918d42c28f2b6de7dedde5",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-10-30",
+          "date_to": "2026-10-30",
+          "locations": [
+            "Heidelberg Hbf S 7"
+          ],
+          "description": "Mauer, Meckesheim, Oberhof, Zuzenhausen (Mühlenbäcker Einkehr), Zuzenhausen Bahnhof\n14 Km; 100 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a918d42c28f2b6de7dedde5",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-10-30",
+          "date_to": "2026-10-30",
+          "locations": [
+            "Heidelberg Hbf S 7"
+          ],
+          "description": "Mauer, Meckesheim, Oberhof, Zuzenhausen (Mühlenbäcker Einkehr), Zuzenhausen Bahnhof\n14 Km; 100 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918d42c28f2b6de7dedde7",
+          "bookable_start": "2026-10-30",
+          "bookable_end": "2026-10-30",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6a9193ffc28f2b6de7df0635",
         "changed_fields": [
           "free_places",
           "bookable_places"
         ],
         "changes": {
           "free_places": {
-            "from": 10,
+            "from": 9,
             "to": 8
           },
           "bookable_places": {
-            "from": 10,
+            "from": 9,
             "to": 8
           }
         },
         "current": {
-          "id": "6acb629467344b53bb129605",
-          "number": "2026AUS_043",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
-          "type": "COURSE",
+          "id": "6a9193ffc28f2b6de7df0635",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Ausbildungskurse",
-            "Skibergsteigen"
+            "Wandern"
           ],
-          "date_from": "2026-12-02",
-          "date_to": "2026-12-16",
+          "date_from": "2026-12-20",
+          "date_to": "2026-12-20",
           "locations": [
-            "Deutscher Alpenverein Sektion Heidelberg"
+            "NN"
           ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acb629467344b53bb129609",
-          "bookable_start": "2026-12-02",
-          "bookable_end": "2026-12-16",
+          "description": "ND",
+          "bookable_id": "6a9193ffc28f2b6de7df0637",
+          "bookable_start": "2026-12-20",
+          "bookable_end": "2026-12-20",
           "free_places": 8,
-          "max_places": 12,
+          "max_places": 10,
           "bookable_places": 8,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6acb629467344b53bb129605",
-          "number": "2026AUS_043",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
-          "type": "COURSE",
+          "id": "6a9193ffc28f2b6de7df0635",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Ausbildungskurse",
-            "Skibergsteigen"
+            "Wandern"
           ],
-          "date_from": "2026-12-02",
-          "date_to": "2026-12-16",
+          "date_from": "2026-12-20",
+          "date_to": "2026-12-20",
           "locations": [
-            "Deutscher Alpenverein Sektion Heidelberg"
+            "NN"
           ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acb629467344b53bb129609",
-          "bookable_start": "2026-12-02",
-          "bookable_end": "2026-12-16",
-          "free_places": 10,
-          "max_places": 12,
-          "bookable_places": 10,
+          "description": "ND",
+          "bookable_id": "6a9193ffc28f2b6de7df0637",
+          "bookable_start": "2026-12-20",
+          "bookable_end": "2026-12-20",
+          "free_places": 9,
+          "max_places": 10,
+          "bookable_places": 9,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6aa9056d2a789853eea2c13e",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 2,
+            "to": 3
+          },
+          "bookable_places": {
+            "from": 2,
+            "to": 3
+          }
+        },
+        "current": {
+          "id": "6aa9056d2a789853eea2c13e",
+          "number": "261122B_003",
+          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-11-22",
+          "date_to": "2026-11-22",
+          "locations": [
+            "Odenwald"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa9056d2a789853eea2c140",
+          "bookable_start": "2026-11-22",
+          "bookable_end": "2026-11-22",
+          "free_places": 3,
+          "max_places": 9,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6aa9056d2a789853eea2c13e",
+          "number": "261122B_003",
+          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-11-22",
+          "date_to": "2026-11-22",
+          "locations": [
+            "Odenwald"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa9056d2a789853eea2c140",
+          "bookable_start": "2026-11-22",
+          "bookable_end": "2026-11-22",
+          "free_places": 2,
+          "max_places": 9,
+          "bookable_places": 2,
           "waitlist_active": true,
           "bookable_canceled": false
         }

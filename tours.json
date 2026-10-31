@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T11:47:22.522426+00:00",
+  "timestamp": "2026-10-31T11:20:47.664550+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 80,
   "tours": [
@@ -1020,13 +1020,13 @@
         "Heidelberg Hbf S 7"
       ],
       "description": "Mauer, Meckesheim, Oberhof, Zuzenhausen (Mühlenbäcker Einkehr), Zuzenhausen Bahnhof\n14 Km; 100 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a918d42c28f2b6de7dedde7",
-      "bookable_start": "2026-10-30",
-      "bookable_end": "2026-10-30",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1373,9 +1373,9 @@
       "bookable_id": "6a9193ffc28f2b6de7df0637",
       "bookable_start": "2026-12-20",
       "bookable_end": "2026-12-20",
-      "free_places": 9,
+      "free_places": 8,
       "max_places": 10,
-      "bookable_places": 9,
+      "bookable_places": 8,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1448,9 +1448,9 @@
       "bookable_id": "6aa9056d2a789853eea2c140",
       "bookable_start": "2026-11-22",
       "bookable_end": "2026-11-22",
-      "free_places": 2,
+      "free_places": 3,
       "max_places": 9,
-      "bookable_places": 2,
+      "bookable_places": 3,
       "waitlist_active": true,
       "bookable_canceled": false
     },
