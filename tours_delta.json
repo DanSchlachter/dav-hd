@@ -1,57 +1,57 @@
 {
-  "timestamp": "2026-10-31T11:20:47.673231+00:00",
-  "previous_timestamp": "2026-10-30T11:47:22.522426+00:00",
+  "timestamp": "2026-11-01T12:12:02.991343+00:00",
+  "previous_timestamp": "2026-10-31T11:20:47.664550+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 3
+    "modified": 4
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a918d42c28f2b6de7dedde5",
+        "id": "6a9192cfc28f2b6de7df0188",
         "changed_fields": [
+          "bookable_start",
           "waitlist_active",
           "bookable_id",
-          "bookable_start",
           "bookable_end"
         ],
         "changes": {
+          "bookable_start": {
+            "from": "2026-10-31",
+            "to": ""
+          },
           "waitlist_active": {
             "from": true,
             "to": null
           },
           "bookable_id": {
-            "from": "6a918d42c28f2b6de7dedde7",
+            "from": "6a9192cfc28f2b6de7df018a",
             "to": null
           },
-          "bookable_start": {
-            "from": "2026-10-30",
-            "to": ""
-          },
           "bookable_end": {
-            "from": "2026-10-30",
+            "from": "2026-10-31",
             "to": ""
           }
         },
         "current": {
-          "id": "6a918d42c28f2b6de7dedde5",
+          "id": "6a9192cfc28f2b6de7df0188",
           "number": null,
-          "title": "Freitagswanderung",
+          "title": "Samstagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-10-30",
-          "date_to": "2026-10-30",
+          "date_from": "2026-10-31",
+          "date_to": "2026-10-31",
           "locations": [
-            "Heidelberg Hbf S 7"
+            "Heidelberg Hbf RB 68"
           ],
-          "description": "Mauer, Meckesheim, Oberhof, Zuzenhausen (Mühlenbäcker Einkehr), Zuzenhausen Bahnhof\n14 Km; 100 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
+          "description": "Bensheim, Friedensdenkmal (\"Jerusalem am Rhein\"), Felsenmeer, Waldgasthaus am Borstein (Einkehr), Reichenbach.\n14 Km; 420 m; Gehzeit ca. 4 Std\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung  nicht erforderlich-",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -62,24 +62,24 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a918d42c28f2b6de7dedde5",
+          "id": "6a9192cfc28f2b6de7df0188",
           "number": null,
-          "title": "Freitagswanderung",
+          "title": "Samstagswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
             "Wandern"
           ],
-          "date_from": "2026-10-30",
-          "date_to": "2026-10-30",
+          "date_from": "2026-10-31",
+          "date_to": "2026-10-31",
           "locations": [
-            "Heidelberg Hbf S 7"
+            "Heidelberg Hbf RB 68"
           ],
-          "description": "Mauer, Meckesheim, Oberhof, Zuzenhausen (Mühlenbäcker Einkehr), Zuzenhausen Bahnhof\n14 Km; 100 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918d42c28f2b6de7dedde7",
-          "bookable_start": "2026-10-30",
-          "bookable_end": "2026-10-30",
+          "description": "Bensheim, Friedensdenkmal (\"Jerusalem am Rhein\"), Felsenmeer, Waldgasthaus am Borstein (Einkehr), Reichenbach.\n14 Km; 420 m; Gehzeit ca. 4 Std\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung  nicht erforderlich-",
+          "bookable_id": "6a9192cfc28f2b6de7df018a",
+          "bookable_start": "2026-10-31",
+          "bookable_end": "2026-10-31",
           "free_places": null,
           "max_places": null,
           "bookable_places": null,
@@ -90,20 +90,45 @@
       {
         "id": "6a9193ffc28f2b6de7df0635",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "bookable_places",
+          "free_places"
         ],
         "changes": {
-          "free_places": {
-            "from": 9,
-            "to": 8
-          },
           "bookable_places": {
-            "from": 9,
-            "to": 8
+            "from": 8,
+            "to": 7
+          },
+          "free_places": {
+            "from": 8,
+            "to": 7
           }
         },
         "current": {
+          "id": "6a9193ffc28f2b6de7df0635",
+          "number": null,
+          "title": "In-Between-Gruppe Sonntagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-12-20",
+          "date_to": "2026-12-20",
+          "locations": [
+            "NN"
+          ],
+          "description": "ND",
+          "bookable_id": "6a9193ffc28f2b6de7df0637",
+          "bookable_start": "2026-12-20",
+          "bookable_end": "2026-12-20",
+          "free_places": 7,
+          "max_places": 10,
+          "bookable_places": 7,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
           "id": "6a9193ffc28f2b6de7df0635",
           "number": null,
           "title": "In-Between-Gruppe Sonntagswanderung",
@@ -127,96 +152,140 @@
           "bookable_places": 8,
           "waitlist_active": true,
           "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6aa907f60364f6427737aae7",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 3,
+            "to": 2
+          },
+          "free_places": {
+            "from": 3,
+            "to": 2
+          }
         },
-        "previous": {
-          "id": "6a9193ffc28f2b6de7df0635",
-          "number": null,
-          "title": "In-Between-Gruppe Sonntagswanderung",
+        "current": {
+          "id": "6aa907f60364f6427737aae7",
+          "number": "261213-2B_005",
+          "title": "ECO: 13.12.2026-2 Sportwanderung im Odenwald für Frühaussteiger",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Sportwandern"
           ],
-          "date_from": "2026-12-20",
-          "date_to": "2026-12-20",
+          "date_from": "2026-12-13",
+          "date_to": "2026-12-13",
           "locations": [
-            "NN"
+            "Odenwald"
           ],
-          "description": "ND",
-          "bookable_id": "6a9193ffc28f2b6de7df0637",
-          "bookable_start": "2026-12-20",
-          "bookable_end": "2026-12-20",
-          "free_places": 9,
-          "max_places": 10,
-          "bookable_places": 9,
+          "description": "Diese Tour eignet sich als Einstiegstour. Sie endet nach ca. 20 - 23 km. Der Weg zur nächsten Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 5\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine mindestens 20 - 23km lange Wanderung mit ca. 500 - 900 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 04.12.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa907f60364f6427737aae9",
+          "bookable_start": "2026-12-13",
+          "bookable_end": "2026-12-13",
+          "free_places": 2,
+          "max_places": 5,
+          "bookable_places": 2,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6aa907f60364f6427737aae7",
+          "number": "261213-2B_005",
+          "title": "ECO: 13.12.2026-2 Sportwanderung im Odenwald für Frühaussteiger",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-12-13",
+          "date_to": "2026-12-13",
+          "locations": [
+            "Odenwald"
+          ],
+          "description": "Diese Tour eignet sich als Einstiegstour. Sie endet nach ca. 20 - 23 km. Der Weg zur nächsten Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 5\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine mindestens 20 - 23km lange Wanderung mit ca. 500 - 900 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 04.12.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa907f60364f6427737aae9",
+          "bookable_start": "2026-12-13",
+          "bookable_end": "2026-12-13",
+          "free_places": 3,
+          "max_places": 5,
+          "bookable_places": 3,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6aa9056d2a789853eea2c13e",
+        "id": "6acc9625468609ef63c3eff7",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "bookable_places",
+          "free_places"
         ],
         "changes": {
-          "free_places": {
-            "from": 2,
-            "to": 3
-          },
           "bookable_places": {
-            "from": 2,
-            "to": 3
+            "from": 6,
+            "to": 2
+          },
+          "free_places": {
+            "from": 6,
+            "to": 2
           }
         },
         "current": {
-          "id": "6aa9056d2a789853eea2c13e",
-          "number": "261122B_003",
-          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
-          "type": "TOUR",
+          "id": "6acc9625468609ef63c3eff7",
+          "number": "2027AUS_009",
+          "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
+          "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Sportwandern"
+            "Ausbildungskurse",
+            "Skibergsteigen"
           ],
-          "date_from": "2026-11-22",
-          "date_to": "2026-11-22",
+          "date_from": "2027-02-22",
+          "date_to": "2027-02-25",
           "locations": [
-            "Odenwald"
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
           ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa9056d2a789853eea2c140",
-          "bookable_start": "2026-11-22",
-          "bookable_end": "2026-11-22",
-          "free_places": 3,
-          "max_places": 9,
-          "bookable_places": 3,
+          "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\neigene Anreise in Fahrgemeinschaften oder mit der Bahn\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acc9625468609ef63c3eff9",
+          "bookable_start": "2027-02-22",
+          "bookable_end": "2027-02-25",
+          "free_places": 2,
+          "max_places": 6,
+          "bookable_places": 2,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6aa9056d2a789853eea2c13e",
-          "number": "261122B_003",
-          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
-          "type": "TOUR",
+          "id": "6acc9625468609ef63c3eff7",
+          "number": "2027AUS_009",
+          "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
+          "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Sportwandern"
+            "Ausbildungskurse",
+            "Skibergsteigen"
           ],
-          "date_from": "2026-11-22",
-          "date_to": "2026-11-22",
+          "date_from": "2027-02-22",
+          "date_to": "2027-02-25",
           "locations": [
-            "Odenwald"
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
           ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa9056d2a789853eea2c140",
-          "bookable_start": "2026-11-22",
-          "bookable_end": "2026-11-22",
-          "free_places": 2,
-          "max_places": 9,
-          "bookable_places": 2,
+          "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\neigene Anreise in Fahrgemeinschaften oder mit der Bahn\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acc9625468609ef63c3eff9",
+          "bookable_start": "2027-02-22",
+          "bookable_end": "2027-02-25",
+          "free_places": 6,
+          "max_places": 6,
+          "bookable_places": 6,
           "waitlist_active": true,
           "bookable_canceled": false
         }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T11:20:47.664550+00:00",
+  "timestamp": "2026-11-01T12:12:02.986132+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 80,
   "tours": [
@@ -1295,13 +1295,13 @@
         "Heidelberg Hbf RB 68"
       ],
       "description": "Bensheim, Friedensdenkmal (\"Jerusalem am Rhein\"), Felsenmeer, Waldgasthaus am Borstein (Einkehr), Reichenbach.\n14 Km; 420 m; Gehzeit ca. 4 Std\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung  nicht erforderlich-",
-      "bookable_id": "6a9192cfc28f2b6de7df018a",
-      "bookable_start": "2026-10-31",
-      "bookable_end": "2026-10-31",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1373,9 +1373,9 @@
       "bookable_id": "6a9193ffc28f2b6de7df0637",
       "bookable_start": "2026-12-20",
       "bookable_end": "2026-12-20",
-      "free_places": 8,
+      "free_places": 7,
       "max_places": 10,
-      "bookable_places": 8,
+      "bookable_places": 7,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1498,9 +1498,9 @@
       "bookable_id": "6aa907f60364f6427737aae9",
       "bookable_start": "2026-12-13",
       "bookable_end": "2026-12-13",
-      "free_places": 3,
+      "free_places": 2,
       "max_places": 5,
-      "bookable_places": 3,
+      "bookable_places": 2,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1758,9 +1758,9 @@
       "bookable_id": "6acc9625468609ef63c3eff9",
       "bookable_start": "2027-02-22",
       "bookable_end": "2027-02-25",
-      "free_places": 6,
+      "free_places": 2,
       "max_places": 6,
-      "bookable_places": 6,
+      "bookable_places": 2,
       "waitlist_active": true,
       "bookable_canceled": false
     },
