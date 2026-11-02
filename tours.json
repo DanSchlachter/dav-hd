@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-01T12:12:02.986132+00:00",
+  "timestamp": "2026-11-02T14:01:03.554315+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 80,
+  "tour_count": 81,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -1448,9 +1448,9 @@
       "bookable_id": "6aa9056d2a789853eea2c140",
       "bookable_start": "2026-11-22",
       "bookable_end": "2026-11-22",
-      "free_places": 3,
+      "free_places": 2,
       "max_places": 9,
-      "bookable_places": 3,
+      "bookable_places": 2,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1963,9 +1963,9 @@
       "bookable_start": "2027-04-02",
       "bookable_end": "2027-04-09",
       "free_places": 0,
-      "max_places": 0,
+      "max_places": 7,
       "bookable_places": 0,
-      "waitlist_active": true,
+      "waitlist_active": false,
       "bookable_canceled": false
     },
     {
@@ -2012,6 +2012,31 @@
       "bookable_id": "6ae125d7e9d7d7e9aa89b2a5",
       "bookable_start": "2027-02-24",
       "bookable_end": "2027-02-28",
+      "free_places": 0,
+      "max_places": 0,
+      "bookable_places": 0,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6ae7a688bf83c06675a9cfbf",
+      "number": "270313SKI_G007",
+      "title": "Tagestouren im Lechtal",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-03-13",
+      "date_to": "2027-03-17",
+      "locations": [
+        "Föhrenhof"
+      ],
+      "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSamstag 13. März 2027 bis Mittwoch 17. März 2027\nHotel Föhrenhof in Stanzach (950hm) mit Halbpension und Kurtaxe 96 Euro p.P (Doppelzimmer) \n\nHinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTagestouren im Lechtal und den Seitentälern je nach Wetter, Schnee und Tagesbedingungen. z.B. Jochspitze, Schafkar, Auf der Matte, Elmer Muttekopf\n\nAnforderungen: S1 - S3, K2 (1000-1400hm), A0 bis A1 \nTeilnehmerzahl: max. 5\nLVS Kurs ist Teilnahmebedingung (Auffrischungsübungen gerne vor Ort) \nAnfahrt mit privatem hybrid Bus (keine Fahrtkosten)",
+      "bookable_id": "6ae7a688bf83c06675a9cfc1",
+      "bookable_start": "2027-03-13",
+      "bookable_end": "2027-03-17",
       "free_places": 0,
       "max_places": 0,
       "bookable_places": 0,
