@@ -1,171 +1,149 @@
 {
-  "timestamp": "2026-11-02T14:01:03.562726+00:00",
-  "previous_timestamp": "2026-11-01T12:12:02.986132+00:00",
+  "timestamp": "2026-11-03T13:09:33.830851+00:00",
+  "previous_timestamp": "2026-11-02T14:01:03.554315+00:00",
   "summary": {
-    "added": 1,
+    "added": 0,
     "removed": 0,
     "modified": 2
   },
   "changes": {
-    "added": [
-      {
-        "id": "6ae7a688bf83c06675a9cfbf",
-        "number": "270313SKI_G007",
-        "title": "Tagestouren im Lechtal",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Skibergsteigen"
-        ],
-        "date_from": "2027-03-13",
-        "date_to": "2027-03-17",
-        "locations": [
-          "Föhrenhof"
-        ],
-        "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSamstag 13. März 2027 bis Mittwoch 17. März 2027\nHotel Föhrenhof in Stanzach (950hm) mit Halbpension und Kurtaxe 96 Euro p.P (Doppelzimmer) \n\nHinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTagestouren im Lechtal und den Seitentälern je nach Wetter, Schnee und Tagesbedingungen. z.B. Jochspitze, Schafkar, Auf der Matte, Elmer Muttekopf\n\nAnforderungen: S1 - S3, K2 (1000-1400hm), A0 bis A1 \nTeilnehmerzahl: max. 5\nLVS Kurs ist Teilnahmebedingung (Auffrischungsübungen gerne vor Ort) \nAnfahrt mit privatem hybrid Bus (keine Fahrtkosten)",
-        "bookable_id": "6ae7a688bf83c06675a9cfc1",
-        "bookable_start": "2027-03-13",
-        "bookable_end": "2027-03-17",
-        "free_places": 0,
-        "max_places": 0,
-        "bookable_places": 0,
-        "waitlist_active": true,
-        "bookable_canceled": false
-      }
-    ],
+    "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6aa9056d2a789853eea2c13e",
+        "id": "6acb629467344b53bb129605",
         "changed_fields": [
           "free_places",
           "bookable_places"
         ],
         "changes": {
           "free_places": {
-            "from": 3,
-            "to": 2
+            "from": 8,
+            "to": 7
           },
           "bookable_places": {
-            "from": 3,
-            "to": 2
+            "from": 8,
+            "to": 7
           }
         },
         "current": {
-          "id": "6aa9056d2a789853eea2c13e",
-          "number": "261122B_003",
-          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
-          "type": "TOUR",
+          "id": "6acb629467344b53bb129605",
+          "number": "2026AUS_043",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Sportwandern"
+            "Ausbildungskurse",
+            "Skibergsteigen"
           ],
-          "date_from": "2026-11-22",
-          "date_to": "2026-11-22",
+          "date_from": "2026-12-02",
+          "date_to": "2026-12-16",
           "locations": [
-            "Odenwald"
+            "Deutscher Alpenverein Sektion Heidelberg"
           ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa9056d2a789853eea2c140",
-          "bookable_start": "2026-11-22",
-          "bookable_end": "2026-11-22",
-          "free_places": 2,
-          "max_places": 9,
-          "bookable_places": 2,
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acb629467344b53bb129609",
+          "bookable_start": "2026-12-02",
+          "bookable_end": "2026-12-16",
+          "free_places": 7,
+          "max_places": 12,
+          "bookable_places": 7,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6aa9056d2a789853eea2c13e",
-          "number": "261122B_003",
-          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
-          "type": "TOUR",
+          "id": "6acb629467344b53bb129605",
+          "number": "2026AUS_043",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Sportwandern"
+            "Ausbildungskurse",
+            "Skibergsteigen"
           ],
-          "date_from": "2026-11-22",
-          "date_to": "2026-11-22",
+          "date_from": "2026-12-02",
+          "date_to": "2026-12-16",
           "locations": [
-            "Odenwald"
+            "Deutscher Alpenverein Sektion Heidelberg"
           ],
-          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
-          "bookable_id": "6aa9056d2a789853eea2c140",
-          "bookable_start": "2026-11-22",
-          "bookable_end": "2026-11-22",
-          "free_places": 3,
-          "max_places": 9,
-          "bookable_places": 3,
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acb629467344b53bb129609",
+          "bookable_start": "2026-12-02",
+          "bookable_end": "2026-12-16",
+          "free_places": 8,
+          "max_places": 12,
+          "bookable_places": 8,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6ad681c962f629bcfc969103",
+        "id": "6acc9625468609ef63c3eff7",
         "changed_fields": [
-          "waitlist_active",
-          "max_places"
+          "free_places",
+          "bookable_places"
         ],
         "changes": {
-          "waitlist_active": {
-            "from": true,
-            "to": false
+          "free_places": {
+            "from": 2,
+            "to": 1
           },
-          "max_places": {
-            "from": 0,
-            "to": 7
+          "bookable_places": {
+            "from": 2,
+            "to": 1
           }
         },
         "current": {
-          "id": "6ad681c962f629bcfc969103",
-          "number": "270402SKI_G004",
-          "title": "Norwegen: Tromsö",
-          "type": "TOUR",
+          "id": "6acc9625468609ef63c3eff7",
+          "number": "2027AUS_009",
+          "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
+          "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
+            "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2027-04-02",
-          "date_to": "2027-04-09",
+          "date_from": "2027-02-22",
+          "date_to": "2027-02-25",
           "locations": [
-            "Tromsö, Norwegen"
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
           ],
-          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nNorwegen: Tromsö\nSpektakuläre Landschaften und perfekte Touren 300km nördlich des Polarkreises vom Fjord zum Gipfel. Gute Chance auf Polarlichter.\nUnterkünfte: 3 Nächte im komfortablen Hotel in Tromsö am Hafen (mit HP), 4 Nächte in Selbstversorgerhaus auf der Insel Kvaloya.\nAnforderungen: S2-3, K1, A1\nKosten: Flüge, Unterkünfte, Mietwagen. ca. 950 € p.P.\nTeilnehmerzahl: max. 7",
-          "bookable_id": "6ad681c962f629bcfc969105",
-          "bookable_start": "2027-04-02",
-          "bookable_end": "2027-04-09",
-          "free_places": 0,
-          "max_places": 7,
-          "bookable_places": 0,
-          "waitlist_active": false,
+          "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\neigene Anreise in Fahrgemeinschaften oder mit der Bahn\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acc9625468609ef63c3eff9",
+          "bookable_start": "2027-02-22",
+          "bookable_end": "2027-02-25",
+          "free_places": 1,
+          "max_places": 6,
+          "bookable_places": 1,
+          "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6ad681c962f629bcfc969103",
-          "number": "270402SKI_G004",
-          "title": "Norwegen: Tromsö",
-          "type": "TOUR",
+          "id": "6acc9625468609ef63c3eff7",
+          "number": "2027AUS_009",
+          "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
+          "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
+            "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2027-04-02",
-          "date_to": "2027-04-09",
+          "date_from": "2027-02-22",
+          "date_to": "2027-02-25",
           "locations": [
-            "Tromsö, Norwegen"
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
           ],
-          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nNorwegen: Tromsö\nSpektakuläre Landschaften und perfekte Touren 300km nördlich des Polarkreises vom Fjord zum Gipfel. Gute Chance auf Polarlichter.\nUnterkünfte: 3 Nächte im komfortablen Hotel in Tromsö am Hafen (mit HP), 4 Nächte in Selbstversorgerhaus auf der Insel Kvaloya.\nAnforderungen: S2-3, K1, A1\nKosten: Flüge, Unterkünfte, Mietwagen. ca. 950 € p.P.\nTeilnehmerzahl: max. 7",
-          "bookable_id": "6ad681c962f629bcfc969105",
-          "bookable_start": "2027-04-02",
-          "bookable_end": "2027-04-09",
-          "free_places": 0,
-          "max_places": 0,
-          "bookable_places": 0,
+          "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\neigene Anreise in Fahrgemeinschaften oder mit der Bahn\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acc9625468609ef63c3eff9",
+          "bookable_start": "2027-02-22",
+          "bookable_end": "2027-02-25",
+          "free_places": 2,
+          "max_places": 6,
+          "bookable_places": 2,
           "waitlist_active": true,
           "bookable_canceled": false
         }
