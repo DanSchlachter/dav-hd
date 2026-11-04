@@ -1,35 +1,87 @@
 {
-  "timestamp": "2026-11-03T13:09:33.830851+00:00",
-  "previous_timestamp": "2026-11-02T14:01:03.554315+00:00",
+  "timestamp": "2026-11-04T13:24:26.030938+00:00",
+  "previous_timestamp": "2026-11-03T13:09:33.824061+00:00",
   "summary": {
-    "added": 0,
+    "added": 1,
     "removed": 0,
-    "modified": 2
+    "modified": 1
   },
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "id": "6ae8360fbf83c06675abc9a1",
+        "number": "20270219_B_001",
+        "title": "Schneeschuhdurchquerung Spitzingsee",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Bergsteigen",
+          "Skibergsteigen"
+        ],
+        "date_from": "2027-02-19",
+        "date_to": "2027-02-21",
+        "locations": [
+          "Spitzingsee, Schliersee, Deutschland"
+        ],
+        "description": "Gemeinschaftstour: 19.–21.02.2027\nDrei Tage mit Schneeschuhen durch die winterliche Berglandschaft rund um den Spitzingsee. Von Fischhausen-Neuhaus führt uns die Route über die Bodenschneid (1.668 m) und das Rotwandgebiet bis nach Osterhofen bei Bayrischzell.\nGeplanter Tourenverlauf:\n· Freitag: Fischhausen-Neuhaus – Bodenschneidhaus (1.365 m), ca. 575 Hm, 2 Std.\n· Samstag: Bodenschneid (1.668 m) – Obere Firstalm – Spitzingsee – Rotwandhaus (1.737 m), ca. 950 Hm Aufstieg, 6 Std.\n· Sonntag: Hochmiesing (1.883 m) – Soinsee – Osterhofen, ca. 400 Hm Aufstieg, 6 Std.\nOrt: Spitzingsee\nOrganisation:\nAn- und Abreise mit öffentlichen Verkehrsmitteln. Zwei Übernachtungen in Alpenvereinshütten.\nSollte nicht ausreichend Schnee für eine Schneeschuhtour liegen, führen wir die Tour nach Möglichkeit als Winterwanderung mit Grödeln durch. Die genaue Routenwahl und gegebenenfalls notwendige Anpassungen richten sich nach den aktuellen Schnee-, Wetter- und Lawinenverhältnissen.\n\nAls Gemeinschaftstour planen und entscheiden wir gemeinsam. Alle Teilnehmenden übernehmen einen Teil der Tourenplanung und sollten in der Lage sein, eigenständig und verantwortungsbewusst im winterlichen Gebirge unterwegs zu sein\n\nAnforderungen: Voraussetzung sind ein \naktueller LVS-Kurs \nvollständige Lawinennotfallausrüstung (LVS-Gerät, Sonde, Schaufel) sowie sichere Beherrschung der Ausrüstung\nKondition für bis zu 7 Stunden Gehzeit und rund 1.000 Höhenmeter im Aufstieg erforderlich\nDie Tour richtet sich an erfahrene, konditionsstarke Schneeschuhbergsteiger mit alpiner Wintererfahrung\nTeilnehmer: 6 (einschließlich Organisator)\nVortreffen: wird noch bekannt gegeben",
+        "bookable_id": "6ae8360fbf83c06675abc9a4",
+        "bookable_start": "2027-02-19",
+        "bookable_end": "2027-02-21",
+        "free_places": 5,
+        "max_places": 5,
+        "bookable_places": 5,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      }
+    ],
     "removed": [],
     "modified": [
       {
-        "id": "6acb629467344b53bb129605",
+        "id": "6ad1d0d224a1fb6d96bb3405",
         "changed_fields": [
+          "bookable_start",
+          "bookable_places",
+          "max_places",
+          "bookable_end",
+          "waitlist_active",
           "free_places",
-          "bookable_places"
+          "bookable_id"
         ],
         "changes": {
-          "free_places": {
-            "from": 8,
-            "to": 7
+          "bookable_start": {
+            "from": "2026-11-10",
+            "to": ""
           },
           "bookable_places": {
-            "from": 8,
-            "to": 7
+            "from": 9,
+            "to": null
+          },
+          "max_places": {
+            "from": 10,
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-11-17",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "free_places": {
+            "from": 9,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "6ad1d0d224a1fb6d96bb3407",
+            "to": null
           }
         },
         "current": {
-          "id": "6acb629467344b53bb129605",
-          "number": "2026AUS_043",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "id": "6ad1d0d224a1fb6d96bb3405",
+          "number": "2026AUS_044",
+          "title": "Theorie Kurs Skitouren Planung (2 Abende)",
           "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
@@ -37,25 +89,25 @@
             "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2026-12-02",
-          "date_to": "2026-12-16",
+          "date_from": "2026-11-10",
+          "date_to": "2026-11-17",
           "locations": [
             "Deutscher Alpenverein Sektion Heidelberg"
           ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acb629467344b53bb129609",
-          "bookable_start": "2026-12-02",
-          "bookable_end": "2026-12-16",
-          "free_places": 7,
-          "max_places": 12,
-          "bookable_places": 7,
-          "waitlist_active": true,
+          "description": "Touren-Planung: Sicher und strukturiert in den Winter\nWer im Winter abseits der präparierten Pisten unterwegs sein möchte, trägt ein hohes Maß an Eigenverantwortung. Die Tourenplanung ist kein starres Konzept, sondern ein dynamischer Prozess, der zu Hause am Schreibtisch beginnt und erst mit der sicheren Rückkehr im Tal endet.\nDas Ziel dieses Theorie-Kurses ist es, euch die 10 Basics der klassischen Tourenplanung näherzubringen und euch praxisnah zu zeigen, wie ihr Gefahrenzonen bereits im Vorfeld strukturiert entschärft.\nVoraussetzungen für die Teilnahme:\nInterpretation des Lawinenlageberichts (LLB)\nErste Erfahrung im Umgang mit analogem und/oder digitalem Kartenmaterial\nVerwandle Risiken in planbare Herausforderungen – melde dich an und werde fit für den Winter abseits der Piste!\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, kleiner Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 10\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6acb629467344b53bb129605",
-          "number": "2026AUS_043",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "id": "6ad1d0d224a1fb6d96bb3405",
+          "number": "2026AUS_044",
+          "title": "Theorie Kurs Skitouren Planung (2 Abende)",
           "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
@@ -63,87 +115,18 @@
             "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2026-12-02",
-          "date_to": "2026-12-16",
+          "date_from": "2026-11-10",
+          "date_to": "2026-11-17",
           "locations": [
             "Deutscher Alpenverein Sektion Heidelberg"
           ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acb629467344b53bb129609",
-          "bookable_start": "2026-12-02",
-          "bookable_end": "2026-12-16",
-          "free_places": 8,
-          "max_places": 12,
-          "bookable_places": 8,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6acc9625468609ef63c3eff7",
-        "changed_fields": [
-          "free_places",
-          "bookable_places"
-        ],
-        "changes": {
-          "free_places": {
-            "from": 2,
-            "to": 1
-          },
-          "bookable_places": {
-            "from": 2,
-            "to": 1
-          }
-        },
-        "current": {
-          "id": "6acc9625468609ef63c3eff7",
-          "number": "2027AUS_009",
-          "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
-          "type": "COURSE",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Ausbildungskurse",
-            "Skibergsteigen"
-          ],
-          "date_from": "2027-02-22",
-          "date_to": "2027-02-25",
-          "locations": [
-            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
-          ],
-          "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\neigene Anreise in Fahrgemeinschaften oder mit der Bahn\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
-          "bookable_id": "6acc9625468609ef63c3eff9",
-          "bookable_start": "2027-02-22",
-          "bookable_end": "2027-02-25",
-          "free_places": 1,
-          "max_places": 6,
-          "bookable_places": 1,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6acc9625468609ef63c3eff7",
-          "number": "2027AUS_009",
-          "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
-          "type": "COURSE",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Ausbildungskurse",
-            "Skibergsteigen"
-          ],
-          "date_from": "2027-02-22",
-          "date_to": "2027-02-25",
-          "locations": [
-            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
-          ],
-          "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\neigene Anreise in Fahrgemeinschaften oder mit der Bahn\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
-          "bookable_id": "6acc9625468609ef63c3eff9",
-          "bookable_start": "2027-02-22",
-          "bookable_end": "2027-02-25",
-          "free_places": 2,
-          "max_places": 6,
-          "bookable_places": 2,
+          "description": "Touren-Planung: Sicher und strukturiert in den Winter\nWer im Winter abseits der präparierten Pisten unterwegs sein möchte, trägt ein hohes Maß an Eigenverantwortung. Die Tourenplanung ist kein starres Konzept, sondern ein dynamischer Prozess, der zu Hause am Schreibtisch beginnt und erst mit der sicheren Rückkehr im Tal endet.\nDas Ziel dieses Theorie-Kurses ist es, euch die 10 Basics der klassischen Tourenplanung näherzubringen und euch praxisnah zu zeigen, wie ihr Gefahrenzonen bereits im Vorfeld strukturiert entschärft.\nVoraussetzungen für die Teilnahme:\nInterpretation des Lawinenlageberichts (LLB)\nErste Erfahrung im Umgang mit analogem und/oder digitalem Kartenmaterial\nVerwandle Risiken in planbare Herausforderungen – melde dich an und werde fit für den Winter abseits der Piste!\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, kleiner Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 10\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6ad1d0d224a1fb6d96bb3407",
+          "bookable_start": "2026-11-10",
+          "bookable_end": "2026-11-17",
+          "free_places": 9,
+          "max_places": 10,
+          "bookable_places": 9,
           "waitlist_active": true,
           "bookable_canceled": false
         }

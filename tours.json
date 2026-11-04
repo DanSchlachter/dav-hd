@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-03T13:09:33.824061+00:00",
+  "timestamp": "2026-11-04T13:24:26.021411+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 81,
+  "tour_count": 82,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -1833,13 +1833,13 @@
         "Deutscher Alpenverein Sektion Heidelberg"
       ],
       "description": "Touren-Planung: Sicher und strukturiert in den Winter\nWer im Winter abseits der präparierten Pisten unterwegs sein möchte, trägt ein hohes Maß an Eigenverantwortung. Die Tourenplanung ist kein starres Konzept, sondern ein dynamischer Prozess, der zu Hause am Schreibtisch beginnt und erst mit der sicheren Rückkehr im Tal endet.\nDas Ziel dieses Theorie-Kurses ist es, euch die 10 Basics der klassischen Tourenplanung näherzubringen und euch praxisnah zu zeigen, wie ihr Gefahrenzonen bereits im Vorfeld strukturiert entschärft.\nVoraussetzungen für die Teilnahme:\nInterpretation des Lawinenlageberichts (LLB)\nErste Erfahrung im Umgang mit analogem und/oder digitalem Kartenmaterial\nVerwandle Risiken in planbare Herausforderungen – melde dich an und werde fit für den Winter abseits der Piste!\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, kleiner Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 10\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-      "bookable_id": "6ad1d0d224a1fb6d96bb3407",
-      "bookable_start": "2026-11-10",
-      "bookable_end": "2026-11-17",
-      "free_places": 9,
-      "max_places": 10,
-      "bookable_places": 9,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -2040,6 +2040,32 @@
       "free_places": 0,
       "max_places": 0,
       "bookable_places": 0,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6ae8360fbf83c06675abc9a1",
+      "number": "20270219_B_001",
+      "title": "Schneeschuhdurchquerung Spitzingsee",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Bergsteigen",
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-02-19",
+      "date_to": "2027-02-21",
+      "locations": [
+        "Spitzingsee, Schliersee, Deutschland"
+      ],
+      "description": "Gemeinschaftstour: 19.–21.02.2027\nDrei Tage mit Schneeschuhen durch die winterliche Berglandschaft rund um den Spitzingsee. Von Fischhausen-Neuhaus führt uns die Route über die Bodenschneid (1.668 m) und das Rotwandgebiet bis nach Osterhofen bei Bayrischzell.\nGeplanter Tourenverlauf:\n· Freitag: Fischhausen-Neuhaus – Bodenschneidhaus (1.365 m), ca. 575 Hm, 2 Std.\n· Samstag: Bodenschneid (1.668 m) – Obere Firstalm – Spitzingsee – Rotwandhaus (1.737 m), ca. 950 Hm Aufstieg, 6 Std.\n· Sonntag: Hochmiesing (1.883 m) – Soinsee – Osterhofen, ca. 400 Hm Aufstieg, 6 Std.\nOrt: Spitzingsee\nOrganisation:\nAn- und Abreise mit öffentlichen Verkehrsmitteln. Zwei Übernachtungen in Alpenvereinshütten.\nSollte nicht ausreichend Schnee für eine Schneeschuhtour liegen, führen wir die Tour nach Möglichkeit als Winterwanderung mit Grödeln durch. Die genaue Routenwahl und gegebenenfalls notwendige Anpassungen richten sich nach den aktuellen Schnee-, Wetter- und Lawinenverhältnissen.\n\nAls Gemeinschaftstour planen und entscheiden wir gemeinsam. Alle Teilnehmenden übernehmen einen Teil der Tourenplanung und sollten in der Lage sein, eigenständig und verantwortungsbewusst im winterlichen Gebirge unterwegs zu sein\n\nAnforderungen: Voraussetzung sind ein \naktueller LVS-Kurs \nvollständige Lawinennotfallausrüstung (LVS-Gerät, Sonde, Schaufel) sowie sichere Beherrschung der Ausrüstung\nKondition für bis zu 7 Stunden Gehzeit und rund 1.000 Höhenmeter im Aufstieg erforderlich\nDie Tour richtet sich an erfahrene, konditionsstarke Schneeschuhbergsteiger mit alpiner Wintererfahrung\nTeilnehmer: 6 (einschließlich Organisator)\nVortreffen: wird noch bekannt gegeben",
+      "bookable_id": "6ae8360fbf83c06675abc9a4",
+      "bookable_start": "2027-02-19",
+      "bookable_end": "2027-02-21",
+      "free_places": 5,
+      "max_places": 5,
+      "bookable_places": 5,
       "waitlist_active": true,
       "bookable_canceled": false
     }
