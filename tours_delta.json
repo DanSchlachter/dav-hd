@@ -1,36 +1,35 @@
 {
-  "timestamp": "2026-11-04T13:24:26.030938+00:00",
-  "previous_timestamp": "2026-11-03T13:09:33.824061+00:00",
+  "timestamp": "2026-11-05T13:38:58.997907+00:00",
+  "previous_timestamp": "2026-11-04T13:24:26.021411+00:00",
   "summary": {
     "added": 1,
     "removed": 0,
-    "modified": 1
+    "modified": 2
   },
   "changes": {
     "added": [
       {
-        "id": "6ae8360fbf83c06675abc9a1",
-        "number": "20270219_B_001",
-        "title": "Schneeschuhdurchquerung Spitzingsee",
+        "id": "6aeb60ad3e16d9d7f7c6192b",
+        "number": "2701289SKI_G008",
+        "title": "Allgäuer Alpen – Skitouren für Einsteiger und Fortgeschrittene",
         "type": "TOUR",
         "canceled": false,
         "cancel_reason": null,
         "categories": [
-          "Bergsteigen",
           "Skibergsteigen"
         ],
-        "date_from": "2027-02-19",
-        "date_to": "2027-02-21",
+        "date_from": "2027-01-29",
+        "date_to": "2027-01-31",
         "locations": [
-          "Spitzingsee, Schliersee, Deutschland"
+          "Sonthofen – Blaichach - Gasthaus Schiff"
         ],
-        "description": "Gemeinschaftstour: 19.–21.02.2027\nDrei Tage mit Schneeschuhen durch die winterliche Berglandschaft rund um den Spitzingsee. Von Fischhausen-Neuhaus führt uns die Route über die Bodenschneid (1.668 m) und das Rotwandgebiet bis nach Osterhofen bei Bayrischzell.\nGeplanter Tourenverlauf:\n· Freitag: Fischhausen-Neuhaus – Bodenschneidhaus (1.365 m), ca. 575 Hm, 2 Std.\n· Samstag: Bodenschneid (1.668 m) – Obere Firstalm – Spitzingsee – Rotwandhaus (1.737 m), ca. 950 Hm Aufstieg, 6 Std.\n· Sonntag: Hochmiesing (1.883 m) – Soinsee – Osterhofen, ca. 400 Hm Aufstieg, 6 Std.\nOrt: Spitzingsee\nOrganisation:\nAn- und Abreise mit öffentlichen Verkehrsmitteln. Zwei Übernachtungen in Alpenvereinshütten.\nSollte nicht ausreichend Schnee für eine Schneeschuhtour liegen, führen wir die Tour nach Möglichkeit als Winterwanderung mit Grödeln durch. Die genaue Routenwahl und gegebenenfalls notwendige Anpassungen richten sich nach den aktuellen Schnee-, Wetter- und Lawinenverhältnissen.\n\nAls Gemeinschaftstour planen und entscheiden wir gemeinsam. Alle Teilnehmenden übernehmen einen Teil der Tourenplanung und sollten in der Lage sein, eigenständig und verantwortungsbewusst im winterlichen Gebirge unterwegs zu sein\n\nAnforderungen: Voraussetzung sind ein \naktueller LVS-Kurs \nvollständige Lawinennotfallausrüstung (LVS-Gerät, Sonde, Schaufel) sowie sichere Beherrschung der Ausrüstung\nKondition für bis zu 7 Stunden Gehzeit und rund 1.000 Höhenmeter im Aufstieg erforderlich\nDie Tour richtet sich an erfahrene, konditionsstarke Schneeschuhbergsteiger mit alpiner Wintererfahrung\nTeilnehmer: 6 (einschließlich Organisator)\nVortreffen: wird noch bekannt gegeben",
-        "bookable_id": "6ae8360fbf83c06675abc9a4",
-        "bookable_start": "2027-02-19",
-        "bookable_end": "2027-02-21",
-        "free_places": 5,
-        "max_places": 5,
-        "bookable_places": 5,
+        "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSonthofen – Blaichach - Unterkunft Gasthaus Schiff – 60 Euro pro Person für 2 Nächte ohne Frühstück. \n\nTourenleiter: Bernd Hallex und Peter Kühnle\n\nTourenbeschreibung und Hinweise zur Anmeldung\nAls Einstieg für das neue Tourenjahr bieten wir für Einsteiger und Fortgeschrittene Touren im Allgäu und Tannheimer Tal an. Tourenvorschläge je nach Verhältnissen im Tourengebiet. Riedberger Horn von Grasgehren und Balderschwang, Wannenkopf von Obermaiselstein oder im Tannheimer Tal auf den Ponten. \nAnforderungen : S1-2, K1, A0 – Grundschwung abseits der Piste\nTeilnehmerzahl 10\n\nWichtig: Die Unterkunft wird ab dem 30.12.2026 kostenpflichtig. Ab diesem Zeitpunkt werden bei Rücktritt von der Tour Unterkunftskosten fällig.\nBernd Hallex Tel 0170/5341159",
+        "bookable_id": "6aeb60ad3e16d9d7f7c6192d",
+        "bookable_start": "2027-01-29",
+        "bookable_end": "2027-01-31",
+        "free_places": 0,
+        "max_places": 0,
+        "bookable_places": 0,
         "waitlist_active": true,
         "bookable_canceled": false
       }
@@ -38,63 +37,47 @@
     "removed": [],
     "modified": [
       {
-        "id": "6ad1d0d224a1fb6d96bb3405",
+        "id": "6a918a613c8ac3a04abf3c33",
         "changed_fields": [
-          "bookable_start",
-          "bookable_places",
-          "max_places",
-          "bookable_end",
           "waitlist_active",
-          "free_places",
+          "bookable_end",
+          "bookable_start",
           "bookable_id"
         ],
         "changes": {
-          "bookable_start": {
-            "from": "2026-11-10",
-            "to": ""
-          },
-          "bookable_places": {
-            "from": 9,
-            "to": null
-          },
-          "max_places": {
-            "from": 10,
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-11-17",
-            "to": ""
-          },
           "waitlist_active": {
             "from": true,
             "to": null
           },
-          "free_places": {
-            "from": 9,
-            "to": null
+          "bookable_end": {
+            "from": "2026-11-04",
+            "to": ""
+          },
+          "bookable_start": {
+            "from": "2026-11-04",
+            "to": ""
           },
           "bookable_id": {
-            "from": "6ad1d0d224a1fb6d96bb3407",
+            "from": "6a918a613c8ac3a04abf3c37",
             "to": null
           }
         },
         "current": {
-          "id": "6ad1d0d224a1fb6d96bb3405",
-          "number": "2026AUS_044",
-          "title": "Theorie Kurs Skitouren Planung (2 Abende)",
-          "type": "COURSE",
+          "id": "6a918a613c8ac3a04abf3c33",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Ausbildungskurse",
-            "Skibergsteigen"
+            "Wandern"
           ],
-          "date_from": "2026-11-10",
-          "date_to": "2026-11-17",
+          "date_from": "2026-11-04",
+          "date_to": "2026-11-04",
           "locations": [
-            "Deutscher Alpenverein Sektion Heidelberg"
+            "Heidelberg Hbf RB 68"
           ],
-          "description": "Touren-Planung: Sicher und strukturiert in den Winter\nWer im Winter abseits der präparierten Pisten unterwegs sein möchte, trägt ein hohes Maß an Eigenverantwortung. Die Tourenplanung ist kein starres Konzept, sondern ein dynamischer Prozess, der zu Hause am Schreibtisch beginnt und erst mit der sicheren Rückkehr im Tal endet.\nDas Ziel dieses Theorie-Kurses ist es, euch die 10 Basics der klassischen Tourenplanung näherzubringen und euch praxisnah zu zeigen, wie ihr Gefahrenzonen bereits im Vorfeld strukturiert entschärft.\nVoraussetzungen für die Teilnahme:\nInterpretation des Lawinenlageberichts (LLB)\nErste Erfahrung im Umgang mit analogem und/oder digitalem Kartenmaterial\nVerwandle Risiken in planbare Herausforderungen – melde dich an und werde fit für den Winter abseits der Piste!\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, kleiner Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 10\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "description": "Affolterbach Mitte, Wahlen, Grasellenbach Café Bauer  (Einkehr), Hammelbach\n8 Km; 120 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
           "bookable_id": null,
           "bookable_start": "",
           "bookable_end": "",
@@ -105,9 +88,51 @@
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6ad1d0d224a1fb6d96bb3405",
-          "number": "2026AUS_044",
-          "title": "Theorie Kurs Skitouren Planung (2 Abende)",
+          "id": "6a918a613c8ac3a04abf3c33",
+          "number": null,
+          "title": "Mittwochswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-11-04",
+          "date_to": "2026-11-04",
+          "locations": [
+            "Heidelberg Hbf RB 68"
+          ],
+          "description": "Affolterbach Mitte, Wahlen, Grasellenbach Café Bauer  (Einkehr), Hammelbach\n8 Km; 120 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918a613c8ac3a04abf3c37",
+          "bookable_start": "2026-11-04",
+          "bookable_end": "2026-11-04",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6acc66ed67344b53bb164e12",
+        "changed_fields": [
+          "date_from",
+          "bookable_start"
+        ],
+        "changes": {
+          "date_from": {
+            "from": "2027-01-06",
+            "to": "2027-01-07"
+          },
+          "bookable_start": {
+            "from": "2027-01-06",
+            "to": "2027-01-07"
+          }
+        },
+        "current": {
+          "id": "6acc66ed67344b53bb164e12",
+          "number": "2027AUS_005",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
           "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
@@ -115,18 +140,44 @@
             "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2026-11-10",
-          "date_to": "2026-11-17",
+          "date_from": "2027-01-07",
+          "date_to": "2027-01-13",
           "locations": [
             "Deutscher Alpenverein Sektion Heidelberg"
           ],
-          "description": "Touren-Planung: Sicher und strukturiert in den Winter\nWer im Winter abseits der präparierten Pisten unterwegs sein möchte, trägt ein hohes Maß an Eigenverantwortung. Die Tourenplanung ist kein starres Konzept, sondern ein dynamischer Prozess, der zu Hause am Schreibtisch beginnt und erst mit der sicheren Rückkehr im Tal endet.\nDas Ziel dieses Theorie-Kurses ist es, euch die 10 Basics der klassischen Tourenplanung näherzubringen und euch praxisnah zu zeigen, wie ihr Gefahrenzonen bereits im Vorfeld strukturiert entschärft.\nVoraussetzungen für die Teilnahme:\nInterpretation des Lawinenlageberichts (LLB)\nErste Erfahrung im Umgang mit analogem und/oder digitalem Kartenmaterial\nVerwandle Risiken in planbare Herausforderungen – melde dich an und werde fit für den Winter abseits der Piste!\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, kleiner Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 10\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6ad1d0d224a1fb6d96bb3407",
-          "bookable_start": "2026-11-10",
-          "bookable_end": "2026-11-17",
-          "free_places": 9,
-          "max_places": 10,
-          "bookable_places": 9,
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acc66ed67344b53bb164e14",
+          "bookable_start": "2027-01-07",
+          "bookable_end": "2027-01-13",
+          "free_places": 12,
+          "max_places": 12,
+          "bookable_places": 12,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6acc66ed67344b53bb164e12",
+          "number": "2027AUS_005",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-01-06",
+          "date_to": "2027-01-13",
+          "locations": [
+            "Deutscher Alpenverein Sektion Heidelberg"
+          ],
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acc66ed67344b53bb164e14",
+          "bookable_start": "2027-01-06",
+          "bookable_end": "2027-01-13",
+          "free_places": 12,
+          "max_places": 12,
+          "bookable_places": 12,
           "waitlist_active": true,
           "bookable_canceled": false
         }

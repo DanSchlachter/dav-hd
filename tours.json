@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-04T13:24:26.021411+00:00",
+  "timestamp": "2026-11-05T13:38:58.988734+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 82,
+  "tour_count": 83,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -970,13 +970,13 @@
         "Heidelberg Hbf RB 68"
       ],
       "description": "Affolterbach Mitte, Wahlen, Grasellenbach Café Bauer  (Einkehr), Hammelbach\n8 Km; 120 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a918a613c8ac3a04abf3c37",
-      "bookable_start": "2026-11-04",
-      "bookable_end": "2026-11-04",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1645,14 +1645,14 @@
         "Ausbildungskurse",
         "Skibergsteigen"
       ],
-      "date_from": "2027-01-06",
+      "date_from": "2027-01-07",
       "date_to": "2027-01-13",
       "locations": [
         "Deutscher Alpenverein Sektion Heidelberg"
       ],
       "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
       "bookable_id": "6acc66ed67344b53bb164e14",
-      "bookable_start": "2027-01-06",
+      "bookable_start": "2027-01-07",
       "bookable_end": "2027-01-13",
       "free_places": 12,
       "max_places": 12,
@@ -2066,6 +2066,31 @@
       "free_places": 5,
       "max_places": 5,
       "bookable_places": 5,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6aeb60ad3e16d9d7f7c6192b",
+      "number": "2701289SKI_G008",
+      "title": "Allgäuer Alpen – Skitouren für Einsteiger und Fortgeschrittene",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-01-29",
+      "date_to": "2027-01-31",
+      "locations": [
+        "Sonthofen – Blaichach - Gasthaus Schiff"
+      ],
+      "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSonthofen – Blaichach - Unterkunft Gasthaus Schiff – 60 Euro pro Person für 2 Nächte ohne Frühstück. \n\nTourenleiter: Bernd Hallex und Peter Kühnle\n\nTourenbeschreibung und Hinweise zur Anmeldung\nAls Einstieg für das neue Tourenjahr bieten wir für Einsteiger und Fortgeschrittene Touren im Allgäu und Tannheimer Tal an. Tourenvorschläge je nach Verhältnissen im Tourengebiet. Riedberger Horn von Grasgehren und Balderschwang, Wannenkopf von Obermaiselstein oder im Tannheimer Tal auf den Ponten. \nAnforderungen : S1-2, K1, A0 – Grundschwung abseits der Piste\nTeilnehmerzahl 10\n\nWichtig: Die Unterkunft wird ab dem 30.12.2026 kostenpflichtig. Ab diesem Zeitpunkt werden bei Rücktritt von der Tour Unterkunftskosten fällig.\nBernd Hallex Tel 0170/5341159",
+      "bookable_id": "6aeb60ad3e16d9d7f7c6192d",
+      "bookable_start": "2027-01-29",
+      "bookable_end": "2027-01-31",
+      "free_places": 0,
+      "max_places": 0,
+      "bookable_places": 0,
       "waitlist_active": true,
       "bookable_canceled": false
     }
