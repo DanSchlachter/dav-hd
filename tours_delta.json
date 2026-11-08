@@ -1,159 +1,197 @@
 {
-  "timestamp": "2026-11-07T12:00:11.107729+00:00",
-  "previous_timestamp": "2026-11-06T13:22:33.114042+00:00",
+  "timestamp": "2026-11-08T12:20:59.562304+00:00",
+  "previous_timestamp": "2026-11-07T12:00:11.100916+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 2
+    "modified": 3
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6a918d963c8ac3a04abf6b8a",
+        "id": "6ad67eaa62f629bcfc96888f",
         "changed_fields": [
-          "waitlist_active",
-          "bookable_start",
-          "bookable_id",
-          "bookable_end"
+          "waitlist_active"
         ],
         "changes": {
           "waitlist_active": {
             "from": true,
-            "to": null
-          },
-          "bookable_start": {
-            "from": "2026-11-06",
-            "to": ""
-          },
-          "bookable_id": {
-            "from": "6a918d963c8ac3a04abf6b8f",
-            "to": null
-          },
-          "bookable_end": {
-            "from": "2026-11-06",
-            "to": ""
+            "to": false
           }
         },
         "current": {
-          "id": "6a918d963c8ac3a04abf6b8a",
-          "number": null,
-          "title": "Freitagswanderung",
+          "id": "6ad67eaa62f629bcfc96888f",
+          "number": "270226SKI_G002",
+          "title": "Südtirol/Vinschgau/Schlinig",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Skibergsteigen"
           ],
-          "date_from": "2026-11-06",
-          "date_to": "2026-11-06",
+          "date_from": "2027-02-26",
+          "date_to": "2027-03-02",
           "locations": [
-            "Heidelberg Hbf S 2"
+            "Schlinig"
           ],
-          "description": "Lambrecht, Sankt Martin (Einkehr)\n16,5 Km; 520 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Anmeldung nicht erforderlich-",
-          "bookable_id": null,
-          "bookable_start": "",
-          "bookable_end": "",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": null,
+          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSüdtirol/Vinschgau/Schlinig :\nTouren: Sesvenna, Watles, Rojen, Langtaufers\nUnterkunft: Gemütliches Hotel Edelweiß in Schlinig (1700m) mit familiärer Bewirtung: 85€ mit HP\nAnforderungen: S2, K1, A1\nTeilnehmerzahl: max. 7",
+          "bookable_id": "6ad67eaa62f629bcfc968891",
+          "bookable_start": "2027-02-26",
+          "bookable_end": "2027-03-02",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
+          "waitlist_active": false,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a918d963c8ac3a04abf6b8a",
-          "number": null,
-          "title": "Freitagswanderung",
+          "id": "6ad67eaa62f629bcfc96888f",
+          "number": "270226SKI_G002",
+          "title": "Südtirol/Vinschgau/Schlinig",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Skibergsteigen"
           ],
-          "date_from": "2026-11-06",
-          "date_to": "2026-11-06",
+          "date_from": "2027-02-26",
+          "date_to": "2027-03-02",
           "locations": [
-            "Heidelberg Hbf S 2"
+            "Schlinig"
           ],
-          "description": "Lambrecht, Sankt Martin (Einkehr)\n16,5 Km; 520 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918d963c8ac3a04abf6b8f",
-          "bookable_start": "2026-11-06",
-          "bookable_end": "2026-11-06",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSüdtirol/Vinschgau/Schlinig :\nTouren: Sesvenna, Watles, Rojen, Langtaufers\nUnterkunft: Gemütliches Hotel Edelweiß in Schlinig (1700m) mit familiärer Bewirtung: 85€ mit HP\nAnforderungen: S2, K1, A1\nTeilnehmerzahl: max. 7",
+          "bookable_id": "6ad67eaa62f629bcfc968891",
+          "bookable_start": "2027-02-26",
+          "bookable_end": "2027-03-02",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6a918e45c28f2b6de7dee96e",
+        "id": "6ad680b88d1d336feeb27dee",
         "changed_fields": [
-          "description",
-          "locations"
+          "waitlist_active"
         ],
         "changes": {
-          "description": {
-            "from": "",
-            "to": "Bad Dürkheim Hardenburg, Wachenheim (Schlusseinkehr)\n18,5 Km; 550 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-"
-          },
-          "locations": {
-            "from": [
-              "NN"
-            ],
-            "to": [
-              "Heidelberg Hbf. S 1"
-            ]
+          "waitlist_active": {
+            "from": true,
+            "to": false
           }
         },
         "current": {
-          "id": "6a918e45c28f2b6de7dee96e",
-          "number": null,
-          "title": "Freitagswanderung",
+          "id": "6ad680b88d1d336feeb27dee",
+          "number": "270313SKI_G003",
+          "title": "Touren vom Simplonpass",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Skibergsteigen"
           ],
-          "date_from": "2026-11-20",
-          "date_to": "2026-11-20",
+          "date_from": "2027-03-13",
+          "date_to": "2027-03-16",
           "locations": [
-            "Heidelberg Hbf. S 1"
+            "Simplonpass"
           ],
-          "description": "Bad Dürkheim Hardenburg, Wachenheim (Schlusseinkehr)\n18,5 Km; 550 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918e45c28f2b6de7dee970",
-          "bookable_start": "2026-11-20",
-          "bookable_end": "2026-11-20",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
+          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTouren vom Simplonpass \nz.B. Magehorn, Mäderhorn, Spitzhorli, Breithorn (Simplonpass)\nUnterkunft: Hospiz am Simplonpass (2000m), ca. 80 SF mit HP\nAnforderungen: S2, K1, A1\nTeilnehmerzahl: max. 7",
+          "bookable_id": "6ad680b88d1d336feeb27df6",
+          "bookable_start": "2027-03-13",
+          "bookable_end": "2027-03-16",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
+          "waitlist_active": false,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6a918e45c28f2b6de7dee96e",
-          "number": null,
-          "title": "Freitagswanderung",
+          "id": "6ad680b88d1d336feeb27dee",
+          "number": "270313SKI_G003",
+          "title": "Touren vom Simplonpass",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Wandern"
+            "Skibergsteigen"
           ],
-          "date_from": "2026-11-20",
-          "date_to": "2026-11-20",
+          "date_from": "2027-03-13",
+          "date_to": "2027-03-16",
           "locations": [
-            "NN"
+            "Simplonpass"
           ],
-          "description": "",
-          "bookable_id": "6a918e45c28f2b6de7dee970",
-          "bookable_start": "2026-11-20",
-          "bookable_end": "2026-11-20",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
+          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTouren vom Simplonpass \nz.B. Magehorn, Mäderhorn, Spitzhorli, Breithorn (Simplonpass)\nUnterkunft: Hospiz am Simplonpass (2000m), ca. 80 SF mit HP\nAnforderungen: S2, K1, A1\nTeilnehmerzahl: max. 7",
+          "bookable_id": "6ad680b88d1d336feeb27df6",
+          "bookable_start": "2027-03-13",
+          "bookable_end": "2027-03-16",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6ad682ec6fc3051a1de54478",
+        "changed_fields": [
+          "waitlist_active"
+        ],
+        "changes": {
+          "waitlist_active": {
+            "from": true,
+            "to": false
+          }
+        },
+        "current": {
+          "id": "6ad682ec6fc3051a1de54478",
+          "number": "270422SKI_G005",
+          "title": "Chamonix/Gr. St. Bernhard",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-04-22",
+          "date_to": "2027-04-25",
+          "locations": [
+            "Chamonix"
+          ],
+          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nChamonix/Gr. St. Bernhard\nTag 1: mit der sicher spektakulärsten Seilbahn Europas mit 2800 Hm zur Aiguille du Midi auf 3800m und Abfahrt durch das Vallee blanche durch die Seracs (so lange es sie noch gibt!). Tag 2 und 3, je nach Schneelage, z.B. Gr. St. Bernhard.\nUnterkunft: 3 x komfortables Hotel in Argentiere, ca. 60€ m.F.\nAnforderungen: S2-3, K1, A1-2\nTeilnehmerzahl: max. 7",
+          "bookable_id": "6ad682ec6fc3051a1de5447a",
+          "bookable_start": "2027-04-22",
+          "bookable_end": "2027-04-25",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6ad682ec6fc3051a1de54478",
+          "number": "270422SKI_G005",
+          "title": "Chamonix/Gr. St. Bernhard",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-04-22",
+          "date_to": "2027-04-25",
+          "locations": [
+            "Chamonix"
+          ],
+          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nChamonix/Gr. St. Bernhard\nTag 1: mit der sicher spektakulärsten Seilbahn Europas mit 2800 Hm zur Aiguille du Midi auf 3800m und Abfahrt durch das Vallee blanche durch die Seracs (so lange es sie noch gibt!). Tag 2 und 3, je nach Schneelage, z.B. Gr. St. Bernhard.\nUnterkunft: 3 x komfortables Hotel in Argentiere, ca. 60€ m.F.\nAnforderungen: S2-3, K1, A1-2\nTeilnehmerzahl: max. 7",
+          "bookable_id": "6ad682ec6fc3051a1de5447a",
+          "bookable_start": "2027-04-22",
+          "bookable_end": "2027-04-25",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
           "waitlist_active": true,
           "bookable_canceled": false
         }
