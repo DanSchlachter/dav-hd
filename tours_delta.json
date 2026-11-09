@@ -1,197 +1,176 @@
 {
-  "timestamp": "2026-11-08T12:20:59.562304+00:00",
-  "previous_timestamp": "2026-11-07T12:00:11.100916+00:00",
+  "timestamp": "2026-11-09T14:34:29.164466+00:00",
+  "previous_timestamp": "2026-11-08T12:20:59.384371+00:00",
   "summary": {
     "added": 0,
-    "removed": 0,
-    "modified": 3
+    "removed": 1,
+    "modified": 2
   },
   "changes": {
     "added": [],
-    "removed": [],
+    "removed": [
+      {
+        "id": "6ad06fa52c6ac4d436cfdbee",
+        "number": "2026AUS_045",
+        "title": "Einführung in die Einseiltechnik für Höhlenbefahrungen SRT",
+        "type": "COURSE",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Ausbildungskurse",
+          "Höhle"
+        ],
+        "date_from": "2026-11-12",
+        "date_to": "2026-11-12",
+        "locations": [
+          "Kletterhalle DAV Heidelberg, Harbigweg, Kirchheim, Deutschland"
+        ],
+        "description": "Höhlen sind ein spannendes Naturphänomen in denen es noch viel zu entdecken gibt: Neue Bereiche in denen noch nie Jemand war, Vermessung, Kartierung, Geologie, Hydrologie, Biologie, schöne Tropfstein und Sinterformationen, Tauchen, Fotografie und vieles mehr! Doch um Höhlen sicher zu befahren und sie zu erhalten braucht es Wissen und die passende Ausrüstung. In diesem Kurs bekommst du einen ersten Einblick in die Einseiltechnik, die wir in der Höhle nutzten, wenn Höhenunterschiede zu überwinden sind oder wir uns gegen Absturz sichern müssen.\n\nInhalte: Vorstellung der Ausrüstung, Aufsteigen am Seil, Abseilen mit einem Petzl Stop und Umstiegstellen\nAnforderungen: Allgemeine Sportlichkeit\nTeilnehmerzahl max.: 4\nMindestalter: 18 Jahre\nAusrüstung: Verschmutzbare Kleidung, lange Hose, festes Schuhwerk\nWeiter wird benötigt und kann geliehen werden: Helm, Kopflampe, komplette Einseiltechnik Ausrüstung (Höhlengurt (kein Klettergurt!), Hauptglied, Petzl Stop, Bremskarabiner, 1 Ovalkarabiner (Trilock), 1 Bremskarabiner, 2m Dynamikseil zur Selbstsicherung, 2 D-Karabiner (Schrauber), Trittschlinge, Bruststeigklemme, Handsteigklemme)\nKursgebühr: Kursgebühr: 40€\nOrt: Kletterhalle Großer Seminarraum (Harbigweg 20, 69124 Heidelberg)",
+        "bookable_id": "6ad06fa52c6ac4d436cfdbf0",
+        "bookable_start": "2026-11-12",
+        "bookable_end": "2026-11-12",
+        "free_places": 5,
+        "max_places": 6,
+        "bookable_places": 5,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      }
+    ],
     "modified": [
       {
-        "id": "6ad67eaa62f629bcfc96888f",
+        "id": "6acb629467344b53bb129605",
         "changed_fields": [
-          "waitlist_active"
+          "bookable_places",
+          "free_places"
         ],
         "changes": {
-          "waitlist_active": {
-            "from": true,
-            "to": false
+          "bookable_places": {
+            "from": 7,
+            "to": 5
+          },
+          "free_places": {
+            "from": 7,
+            "to": 5
           }
         },
         "current": {
-          "id": "6ad67eaa62f629bcfc96888f",
-          "number": "270226SKI_G002",
-          "title": "Südtirol/Vinschgau/Schlinig",
-          "type": "TOUR",
+          "id": "6acb629467344b53bb129605",
+          "number": "2026AUS_043",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
+            "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2027-02-26",
-          "date_to": "2027-03-02",
+          "date_from": "2026-12-02",
+          "date_to": "2026-12-16",
           "locations": [
-            "Schlinig"
+            "Deutscher Alpenverein Sektion Heidelberg"
           ],
-          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSüdtirol/Vinschgau/Schlinig :\nTouren: Sesvenna, Watles, Rojen, Langtaufers\nUnterkunft: Gemütliches Hotel Edelweiß in Schlinig (1700m) mit familiärer Bewirtung: 85€ mit HP\nAnforderungen: S2, K1, A1\nTeilnehmerzahl: max. 7",
-          "bookable_id": "6ad67eaa62f629bcfc968891",
-          "bookable_start": "2027-02-26",
-          "bookable_end": "2027-03-02",
-          "free_places": 0,
-          "max_places": 0,
-          "bookable_places": 0,
-          "waitlist_active": false,
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acb629467344b53bb129609",
+          "bookable_start": "2026-12-02",
+          "bookable_end": "2026-12-16",
+          "free_places": 5,
+          "max_places": 12,
+          "bookable_places": 5,
+          "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6ad67eaa62f629bcfc96888f",
-          "number": "270226SKI_G002",
-          "title": "Südtirol/Vinschgau/Schlinig",
-          "type": "TOUR",
+          "id": "6acb629467344b53bb129605",
+          "number": "2026AUS_043",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
+            "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2027-02-26",
-          "date_to": "2027-03-02",
+          "date_from": "2026-12-02",
+          "date_to": "2026-12-16",
           "locations": [
-            "Schlinig"
+            "Deutscher Alpenverein Sektion Heidelberg"
           ],
-          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSüdtirol/Vinschgau/Schlinig :\nTouren: Sesvenna, Watles, Rojen, Langtaufers\nUnterkunft: Gemütliches Hotel Edelweiß in Schlinig (1700m) mit familiärer Bewirtung: 85€ mit HP\nAnforderungen: S2, K1, A1\nTeilnehmerzahl: max. 7",
-          "bookable_id": "6ad67eaa62f629bcfc968891",
-          "bookable_start": "2027-02-26",
-          "bookable_end": "2027-03-02",
-          "free_places": 0,
-          "max_places": 0,
-          "bookable_places": 0,
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acb629467344b53bb129609",
+          "bookable_start": "2026-12-02",
+          "bookable_end": "2026-12-16",
+          "free_places": 7,
+          "max_places": 12,
+          "bookable_places": 7,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6ad680b88d1d336feeb27dee",
+        "id": "6acbed1459257517ccaed3fa",
         "changed_fields": [
-          "waitlist_active"
+          "bookable_places",
+          "free_places"
         ],
         "changes": {
-          "waitlist_active": {
-            "from": true,
-            "to": false
+          "bookable_places": {
+            "from": 6,
+            "to": 4
+          },
+          "free_places": {
+            "from": 6,
+            "to": 4
           }
         },
         "current": {
-          "id": "6ad680b88d1d336feeb27dee",
-          "number": "270313SKI_G003",
-          "title": "Touren vom Simplonpass",
-          "type": "TOUR",
+          "id": "6acbed1459257517ccaed3fa",
+          "number": "2027AUS_003",
+          "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
+          "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
+            "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2027-03-13",
-          "date_to": "2027-03-16",
+          "date_from": "2027-02-19",
+          "date_to": "2027-02-22",
           "locations": [
-            "Simplonpass"
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
           ],
-          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTouren vom Simplonpass \nz.B. Magehorn, Mäderhorn, Spitzhorli, Breithorn (Simplonpass)\nUnterkunft: Hospiz am Simplonpass (2000m), ca. 80 SF mit HP\nAnforderungen: S2, K1, A1\nTeilnehmerzahl: max. 7",
-          "bookable_id": "6ad680b88d1d336feeb27df6",
-          "bookable_start": "2027-03-13",
-          "bookable_end": "2027-03-16",
-          "free_places": 0,
-          "max_places": 0,
-          "bookable_places": 0,
-          "waitlist_active": false,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6ad680b88d1d336feeb27dee",
-          "number": "270313SKI_G003",
-          "title": "Touren vom Simplonpass",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Skibergsteigen"
-          ],
-          "date_from": "2027-03-13",
-          "date_to": "2027-03-16",
-          "locations": [
-            "Simplonpass"
-          ],
-          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTouren vom Simplonpass \nz.B. Magehorn, Mäderhorn, Spitzhorli, Breithorn (Simplonpass)\nUnterkunft: Hospiz am Simplonpass (2000m), ca. 80 SF mit HP\nAnforderungen: S2, K1, A1\nTeilnehmerzahl: max. 7",
-          "bookable_id": "6ad680b88d1d336feeb27df6",
-          "bookable_start": "2027-03-13",
-          "bookable_end": "2027-03-16",
-          "free_places": 0,
-          "max_places": 0,
-          "bookable_places": 0,
+          "description": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: \nDas Lawinenopfer kann nicht rechtzeitig, das heißt binnen der ersten 15 Minuten der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. \nLernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen ‘Ernstfall‘ unter realistischen Bedingungen. \nFür Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. \nVermittlung von Grundkenntnissen und -Fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. \nKursinhalte:\nInhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle)\nHandhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung\nFreischaufeln des Verschütteten \nAusrüstungs- und Materialkunde\nGrundwissen in Schnee- und Lawinenkunde. \nAnforderungen: Mitglied im DAV, Teilnahme an der Theorie- und Seminarreihe Lawinenkunde, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Finden und Ausgraben von Verschütteten durch sicheren Umgang mit dem LVS-Gerät, Einsatz von Sonde und Schaufel, Beurteilung von Gefahren im Vorfeld einer Skitour\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 160,- (EUR 120,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acbed1459257517ccaed3fc",
+          "bookable_start": "2027-02-19",
+          "bookable_end": "2027-02-22",
+          "free_places": 4,
+          "max_places": 6,
+          "bookable_places": 4,
           "waitlist_active": true,
           "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6ad682ec6fc3051a1de54478",
-        "changed_fields": [
-          "waitlist_active"
-        ],
-        "changes": {
-          "waitlist_active": {
-            "from": true,
-            "to": false
-          }
-        },
-        "current": {
-          "id": "6ad682ec6fc3051a1de54478",
-          "number": "270422SKI_G005",
-          "title": "Chamonix/Gr. St. Bernhard",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Skibergsteigen"
-          ],
-          "date_from": "2027-04-22",
-          "date_to": "2027-04-25",
-          "locations": [
-            "Chamonix"
-          ],
-          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nChamonix/Gr. St. Bernhard\nTag 1: mit der sicher spektakulärsten Seilbahn Europas mit 2800 Hm zur Aiguille du Midi auf 3800m und Abfahrt durch das Vallee blanche durch die Seracs (so lange es sie noch gibt!). Tag 2 und 3, je nach Schneelage, z.B. Gr. St. Bernhard.\nUnterkunft: 3 x komfortables Hotel in Argentiere, ca. 60€ m.F.\nAnforderungen: S2-3, K1, A1-2\nTeilnehmerzahl: max. 7",
-          "bookable_id": "6ad682ec6fc3051a1de5447a",
-          "bookable_start": "2027-04-22",
-          "bookable_end": "2027-04-25",
-          "free_places": 0,
-          "max_places": 0,
-          "bookable_places": 0,
-          "waitlist_active": false,
-          "bookable_canceled": false
         },
         "previous": {
-          "id": "6ad682ec6fc3051a1de54478",
-          "number": "270422SKI_G005",
-          "title": "Chamonix/Gr. St. Bernhard",
-          "type": "TOUR",
+          "id": "6acbed1459257517ccaed3fa",
+          "number": "2027AUS_003",
+          "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
+          "type": "COURSE",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
+            "Ausbildungskurse",
             "Skibergsteigen"
           ],
-          "date_from": "2027-04-22",
-          "date_to": "2027-04-25",
+          "date_from": "2027-02-19",
+          "date_to": "2027-02-22",
           "locations": [
-            "Chamonix"
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
           ],
-          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nChamonix/Gr. St. Bernhard\nTag 1: mit der sicher spektakulärsten Seilbahn Europas mit 2800 Hm zur Aiguille du Midi auf 3800m und Abfahrt durch das Vallee blanche durch die Seracs (so lange es sie noch gibt!). Tag 2 und 3, je nach Schneelage, z.B. Gr. St. Bernhard.\nUnterkunft: 3 x komfortables Hotel in Argentiere, ca. 60€ m.F.\nAnforderungen: S2-3, K1, A1-2\nTeilnehmerzahl: max. 7",
-          "bookable_id": "6ad682ec6fc3051a1de5447a",
-          "bookable_start": "2027-04-22",
-          "bookable_end": "2027-04-25",
-          "free_places": 0,
-          "max_places": 0,
-          "bookable_places": 0,
+          "description": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: \nDas Lawinenopfer kann nicht rechtzeitig, das heißt binnen der ersten 15 Minuten der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. \nLernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen ‘Ernstfall‘ unter realistischen Bedingungen. \nFür Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. \nVermittlung von Grundkenntnissen und -Fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. \nKursinhalte:\nInhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle)\nHandhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung\nFreischaufeln des Verschütteten \nAusrüstungs- und Materialkunde\nGrundwissen in Schnee- und Lawinenkunde. \nAnforderungen: Mitglied im DAV, Teilnahme an der Theorie- und Seminarreihe Lawinenkunde, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Finden und Ausgraben von Verschütteten durch sicheren Umgang mit dem LVS-Gerät, Einsatz von Sonde und Schaufel, Beurteilung von Gefahren im Vorfeld einer Skitour\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 160,- (EUR 120,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acbed1459257517ccaed3fc",
+          "bookable_start": "2027-02-19",
+          "bookable_end": "2027-02-22",
+          "free_places": 6,
+          "max_places": 6,
+          "bookable_places": 6,
           "waitlist_active": true,
           "bookable_canceled": false
         }
