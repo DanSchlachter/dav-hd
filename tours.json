@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T14:34:29.155041+00:00",
+  "timestamp": "2026-11-10T13:53:34.746143+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 82,
   "tours": [
@@ -992,9 +992,9 @@
       "date_from": "2026-12-02",
       "date_to": "2026-12-02",
       "locations": [
-        "NN"
+        "Heidelberg Hbf S 3"
       ],
-      "description": "-Anmeldung nicht erforderlich-",
+      "description": "Speyer, Altstadt, Dom, Rheinufer\n(Mittagseinkehr), Weihnachtsmarkt\n7 Km; 15 Hm; Gehzeit  ca. 3 Std.\nAbfahrt Heidelberg Hauptbahnhof 09:13 Uhr S 3 nach Speyer\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a918ace3c8ac3a04abf438c",
       "bookable_start": "2026-12-02",
       "bookable_end": "2026-12-02",
@@ -1550,9 +1550,9 @@
       "bookable_id": "6acb629467344b53bb129609",
       "bookable_start": "2026-12-02",
       "bookable_end": "2026-12-16",
-      "free_places": 5,
+      "free_places": 4,
       "max_places": 12,
-      "bookable_places": 5,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1654,9 +1654,9 @@
       "bookable_id": "6acc66ed67344b53bb164e14",
       "bookable_start": "2027-01-07",
       "bookable_end": "2027-01-13",
-      "free_places": 12,
+      "free_places": 8,
       "max_places": 12,
-      "bookable_places": 12,
+      "bookable_places": 8,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1836,9 +1836,9 @@
       "bookable_id": "6ad1d2da108f1685efc3b8e0",
       "bookable_start": "2027-01-12",
       "bookable_end": "2027-01-19",
-      "free_places": 10,
+      "free_places": 8,
       "max_places": 10,
-      "bookable_places": 10,
+      "bookable_places": 8,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2007,7 +2007,7 @@
       "locations": [
         "Föhrenhof"
       ],
-      "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSamstag 13. März 2027 bis Mittwoch 17. März 2027\nHotel Föhrenhof in Stanzach (950hm) mit Halbpension und Kurtaxe 96 Euro p.P (Doppelzimmer) \n\nHinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTagestouren im Lechtal und den Seitentälern je nach Wetter, Schnee und Tagesbedingungen. z.B. Jochspitze, Schafkar, Auf der Matte, Elmer Muttekopf\n\nAnforderungen: S1 - S3, K2 (1000-1400hm), A0 bis A1 \nTeilnehmerzahl: max. 5\nLVS Kurs ist Teilnahmebedingung (Auffrischungsübungen gerne vor Ort) \nAnfahrt mit privatem hybrid Bus (keine Fahrtkosten)",
+      "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSamstag 13. März 2027 bis Mittwoch 17. März 2027\nHotel Föhrenhof in Stanzach (950hm) mit Halbpension und Kurtaxe 96 Euro p.P (Doppelzimmer) \n\nHinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTagestouren im Lechtal und den Seitentälern je nach Wetter, Schnee und Tagesbedingungen. z.B. Jochspitze, Schafkar, Auf der Matte, Elmer Muttekopf\n\nAnforderungen: S1 - S3, K2 (1000-1400hm), A0 bis A1 \nTeilnehmerzahl: max. 5\nLVS Kurs ist Teilnahmebedingung (Auffrischungsübungen gerne vor Ort) \nAnfahrt mit privatem hybrid Bus (keine Fahrtkosten)\n\njoachim.koeble@alpenverein-heidelberg.de",
       "bookable_id": "6ae7a688bf83c06675a9cfc1",
       "bookable_start": "2027-03-13",
       "bookable_end": "2027-03-17",
