@@ -1,13 +1,39 @@
 {
-  "timestamp": "2026-11-11T13:05:37.974641+00:00",
-  "previous_timestamp": "2026-11-10T13:53:34.746143+00:00",
+  "timestamp": "2026-11-12T14:08:26.063322+00:00",
+  "previous_timestamp": "2026-11-11T13:05:37.965972+00:00",
   "summary": {
-    "added": 0,
+    "added": 1,
     "removed": 0,
     "modified": 0
   },
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "id": "6af575babe461bb584627120",
+        "number": "20270828_B_001",
+        "title": "Bergsteigen in der Hohen Tatra – Anspruchsvolle Bergtouren rund um Zakopane (28.08.-05.09.2027)",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Bergsteigen"
+        ],
+        "date_from": "2027-08-28",
+        "date_to": "2027-09-05",
+        "locations": [
+          "Zakopane (Hohe Tatra)"
+        ],
+        "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nBei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
+        "bookable_id": "6af575babe461bb584627122",
+        "bookable_start": "2027-08-28",
+        "bookable_end": "2027-09-05",
+        "free_places": 8,
+        "max_places": 8,
+        "bookable_places": 8,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      }
+    ],
     "removed": [],
     "modified": []
   }
