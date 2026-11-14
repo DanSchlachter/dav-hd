@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-13T13:32:50.097392+00:00",
+  "timestamp": "2026-11-14T12:38:15.300360+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 83,
   "tours": [
@@ -1070,13 +1070,13 @@
         "Heidelberg Hbf. S 1"
       ],
       "description": "Neckarzimmern, Neckarsteig, Bad Wimpfen\n18,5 Km; 320 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a918def3c8ac3a04abf6dd3",
-      "bookable_start": "2026-11-13",
-      "bookable_end": "2026-11-13",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1550,9 +1550,9 @@
       "bookable_id": "6acb629467344b53bb129609",
       "bookable_start": "2026-12-02",
       "bookable_end": "2026-12-16",
-      "free_places": 3,
+      "free_places": 4,
       "max_places": 12,
-      "bookable_places": 3,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2083,13 +2083,13 @@
       "locations": [
         "Zakopane (Hohe Tatra)"
       ],
-      "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
+      "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
       "bookable_id": "6af575babe461bb584627122",
       "bookable_start": "2027-08-28",
       "bookable_end": "2027-09-05",
-      "free_places": 8,
-      "max_places": 8,
-      "bookable_places": 8,
+      "free_places": 9,
+      "max_places": 9,
+      "bookable_places": 9,
       "waitlist_active": true,
       "bookable_canceled": false
     }

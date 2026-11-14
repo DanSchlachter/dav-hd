@@ -1,15 +1,92 @@
 {
-  "timestamp": "2026-11-13T13:32:50.106298+00:00",
-  "previous_timestamp": "2026-11-12T14:08:26.056891+00:00",
+  "timestamp": "2026-11-14T12:38:15.309364+00:00",
+  "previous_timestamp": "2026-11-13T13:32:50.097392+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 2
+    "modified": 3
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
+      {
+        "id": "6a918def3c8ac3a04abf6dd1",
+        "changed_fields": [
+          "bookable_start",
+          "waitlist_active",
+          "bookable_id",
+          "bookable_end"
+        ],
+        "changes": {
+          "bookable_start": {
+            "from": "2026-11-13",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "6a918def3c8ac3a04abf6dd3",
+            "to": null
+          },
+          "bookable_end": {
+            "from": "2026-11-13",
+            "to": ""
+          }
+        },
+        "current": {
+          "id": "6a918def3c8ac3a04abf6dd1",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-11-13",
+          "date_to": "2026-11-13",
+          "locations": [
+            "Heidelberg Hbf. S 1"
+          ],
+          "description": "Neckarzimmern, Neckarsteig, Bad Wimpfen\n18,5 Km; 320 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a918def3c8ac3a04abf6dd1",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-11-13",
+          "date_to": "2026-11-13",
+          "locations": [
+            "Heidelberg Hbf. S 1"
+          ],
+          "description": "Neckarzimmern, Neckarsteig, Bad Wimpfen\n18,5 Km; 320 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918def3c8ac3a04abf6dd3",
+          "bookable_start": "2026-11-13",
+          "bookable_end": "2026-11-13",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
       {
         "id": "6acb629467344b53bb129605",
         "changed_fields": [
@@ -18,41 +95,15 @@
         ],
         "changes": {
           "free_places": {
-            "from": 4,
-            "to": 3
+            "from": 3,
+            "to": 4
           },
           "bookable_places": {
-            "from": 4,
-            "to": 3
+            "from": 3,
+            "to": 4
           }
         },
         "current": {
-          "id": "6acb629467344b53bb129605",
-          "number": "2026AUS_043",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
-          "type": "COURSE",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Ausbildungskurse",
-            "Skibergsteigen"
-          ],
-          "date_from": "2026-12-02",
-          "date_to": "2026-12-16",
-          "locations": [
-            "Deutscher Alpenverein Sektion Heidelberg"
-          ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acb629467344b53bb129609",
-          "bookable_start": "2026-12-02",
-          "bookable_end": "2026-12-16",
-          "free_places": 3,
-          "max_places": 12,
-          "bookable_places": 3,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
           "id": "6acb629467344b53bb129605",
           "number": "2026AUS_043",
           "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
@@ -77,17 +128,58 @@
           "bookable_places": 4,
           "waitlist_active": true,
           "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6acb629467344b53bb129605",
+          "number": "2026AUS_043",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2026-12-02",
+          "date_to": "2026-12-16",
+          "locations": [
+            "Deutscher Alpenverein Sektion Heidelberg"
+          ],
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acb629467344b53bb129609",
+          "bookable_start": "2026-12-02",
+          "bookable_end": "2026-12-16",
+          "free_places": 3,
+          "max_places": 12,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
         }
       },
       {
         "id": "6af575babe461bb584627120",
         "changed_fields": [
+          "free_places",
+          "max_places",
+          "bookable_places",
           "description"
         ],
         "changes": {
+          "free_places": {
+            "from": 8,
+            "to": 9
+          },
+          "max_places": {
+            "from": 8,
+            "to": 9
+          },
+          "bookable_places": {
+            "from": 8,
+            "to": 9
+          },
           "description": {
-            "from": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nBei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
-            "to": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell."
+            "from": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
+            "to": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell."
           }
         },
         "current": {
@@ -105,13 +197,13 @@
           "locations": [
             "Zakopane (Hohe Tatra)"
           ],
-          "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
+          "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
           "bookable_id": "6af575babe461bb584627122",
           "bookable_start": "2027-08-28",
           "bookable_end": "2027-09-05",
-          "free_places": 8,
-          "max_places": 8,
-          "bookable_places": 8,
+          "free_places": 9,
+          "max_places": 9,
+          "bookable_places": 9,
           "waitlist_active": true,
           "bookable_canceled": false
         },
@@ -130,7 +222,7 @@
           "locations": [
             "Zakopane (Hohe Tatra)"
           ],
-          "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nBei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
+          "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
           "bookable_id": "6af575babe461bb584627122",
           "bookable_start": "2027-08-28",
           "bookable_end": "2027-09-05",
