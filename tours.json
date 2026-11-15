@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-14T12:38:15.300360+00:00",
+  "timestamp": "2026-11-15T13:04:30.424889+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 83,
+  "tour_count": 84,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -1317,9 +1317,9 @@
       "date_from": "2026-11-28",
       "date_to": "2026-11-28",
       "locations": [
-        "NN"
+        "Heidelberg Bismarckplatz Bus Linie 34"
       ],
-      "description": "N.D.",
+      "description": "Heiligkreuzsteinach, Hoher Darsberg, Neckarsteinach (Schlusseinkehr)\n19 Km; 380 Hm;  Gehzeit ca. 5,5  Std.\n Abfahrt Heidelberg Bismarckplatz 09:16 Uhr Bus Linie 34 nach Heiligkreuzsteinach\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a91931c3c8ac3a04abfb339",
       "bookable_start": "2026-11-28",
       "bookable_end": "2026-11-28",
@@ -2090,6 +2090,31 @@
       "free_places": 9,
       "max_places": 9,
       "bookable_places": 9,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6af88024f3f2ec8874254303",
+      "number": null,
+      "title": "Samstagswanderung, 2. Weihnachtsfeiertag",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Wandern"
+      ],
+      "date_from": "2026-12-26",
+      "date_to": "2026-12-26",
+      "locations": [
+        "Heidelberg Hbf RB 68"
+      ],
+      "description": "Fürth, Walpurgiskapelle, Waldgaststätte Alt-Lechtern (Einkehr, keine Kartenzahlung), Fürth\n16  Km; 470 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
+      "bookable_id": "6af88024f3f2ec8874254305",
+      "bookable_start": "2026-12-26",
+      "bookable_end": "2026-12-26",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
       "waitlist_active": true,
       "bookable_canceled": false
     }
