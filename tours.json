@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T13:04:30.424889+00:00",
+  "timestamp": "2026-11-16T14:09:39.033124+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 84,
   "tours": [
@@ -170,13 +170,13 @@
         "Alpenverein Heidelberg, Harbigweg 20, 69124 Heidelberg"
       ],
       "description": "Kinder ab 7 Jahren; Tourenlängen 6-14 km; Tourenzeiten 4-6 St.\n\nDer genaue Veranstaltungsort wird noch bekannt gegeben.",
-      "bookable_id": "69bc39359daefa4fefc1a079",
-      "bookable_start": "2026-11-15",
-      "bookable_end": "2026-11-15",
-      "free_places": 23,
-      "max_places": 25,
-      "bookable_places": 23,
-      "waitlist_active": true,
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
+      "free_places": null,
+      "max_places": null,
+      "bookable_places": null,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -220,31 +220,6 @@
         "Comer See"
       ],
       "description": "Spannende Bergwege und schwere Klettersteige am Comer See warten auf uns. Erfahrungen im Klettersteiggehen in Schwierigkeit C/D/E, Trittsicherheit und Sicherheit im Umgang mit Ausgesetztheit sollten vorhanden sein. Stationiert sind wir auf der Piani Resinelli oberhalb von Lecco bei Ai Frassini in Zimmern und Halbpension.\nAnfahrt mit Sektionsbus ist geplant.\nOrt: Piani Resinelli\nAnforderungen: Klettersteiggehen in Schwierigkeit C/D/E Trittsicherheit und Sicherheit im Umgang mit Ausgesetztheit. Komplette Klettersteigausrüstung mit Helm",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
-      "id": "69bd53cebd72746a9677450e",
-      "number": "260510B_F005",
-      "title": "ECO// 10.05.2026 Sportwanderung im Schwarzwald (für Frühaussteiger geeignet)",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Sportwandern"
-      ],
-      "date_from": "2026-05-10",
-      "date_to": "2026-05-10",
-      "locations": [
-        "Schwarzwald"
-      ],
-      "description": "Diese Tour eignet sich als Einstiegstour. Sie kann nach ca. 20-25 km abgebrochen werden (der Weg zur Haltestelle muss auf eigene Verantwortung zurückgelegt werden). Es ist eine ca. einstündige Mittagseinkehr geplant.\nAAnmeldeschluss: So, 03.05.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist. (ACHTUNG: das Portal erlaubt eine Anmeldung nur bis Samstag, 02.05.26)\nAnforderungen: Anforderung: Fitness für eine mindestens 20 - 25km (bei vorzeitigem Abbruch) bzw. 32 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 Km",
       "bookable_id": null,
       "bookable_start": "",
       "bookable_end": "",
@@ -1117,9 +1092,9 @@
       "date_from": "2026-11-27",
       "date_to": "2026-11-27",
       "locations": [
-        "NN"
+        "Heidelberg Hbf S 7"
       ],
-      "description": "N.D.",
+      "description": "Hoffenheim, Dietmar Hopp-Stadion, Wanderparkplatz, Daisbach, Sinsheim (Schlusseinkehr)\n14 Km; 150 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung  Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a918e9a3c8ac3a04abf7736",
       "bookable_start": "2026-11-27",
       "bookable_end": "2026-11-27",
@@ -1448,9 +1423,9 @@
       "bookable_id": "6aa9056d2a789853eea2c140",
       "bookable_start": "2026-11-22",
       "bookable_end": "2026-11-22",
-      "free_places": 2,
+      "free_places": 3,
       "max_places": 9,
-      "bookable_places": 2,
+      "bookable_places": 3,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2115,6 +2090,32 @@
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6afae8adb52b44a8f41ef922",
+      "number": "2026AUS_047",
+      "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
+      "type": "COURSE",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Ausbildungskurse",
+        "Skibergsteigen"
+      ],
+      "date_from": "2026-12-18",
+      "date_to": "2026-12-21",
+      "locations": [
+        "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
+      ],
+      "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+      "bookable_id": "6afae8adb52b44a8f41ef925",
+      "bookable_start": "2026-12-18",
+      "bookable_end": "2026-12-21",
+      "free_places": 6,
+      "max_places": 6,
+      "bookable_places": 6,
       "waitlist_active": true,
       "bookable_canceled": false
     }
