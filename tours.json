@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-16T14:09:39.033124+00:00",
+  "timestamp": "2026-11-17T15:03:06.114632+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 84,
+  "tour_count": 79,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -930,31 +930,6 @@
       "bookable_canceled": false
     },
     {
-      "id": "6a918a613c8ac3a04abf3c33",
-      "number": null,
-      "title": "Mittwochswanderung",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-11-04",
-      "date_to": "2026-11-04",
-      "locations": [
-        "Heidelberg Hbf RB 68"
-      ],
-      "description": "Affolterbach Mitte, Wahlen, Grasellenbach Café Bauer  (Einkehr), Hammelbach\n8 Km; 120 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
       "id": "6a918ace3c8ac3a04abf438a",
       "number": null,
       "title": "Mittwochswanderung",
@@ -977,81 +952,6 @@
       "max_places": null,
       "bookable_places": null,
       "waitlist_active": true,
-      "bookable_canceled": false
-    },
-    {
-      "id": "6a918d42c28f2b6de7dedde5",
-      "number": null,
-      "title": "Freitagswanderung",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-10-30",
-      "date_to": "2026-10-30",
-      "locations": [
-        "Heidelberg Hbf S 7"
-      ],
-      "description": "Mauer, Meckesheim, Oberhof, Zuzenhausen (Mühlenbäcker Einkehr), Zuzenhausen Bahnhof\n14 Km; 100 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
-      "id": "6a918d963c8ac3a04abf6b8a",
-      "number": null,
-      "title": "Freitagswanderung",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-11-06",
-      "date_to": "2026-11-06",
-      "locations": [
-        "Heidelberg Hbf S 2"
-      ],
-      "description": "Lambrecht, Sankt Martin (Einkehr)\n16,5 Km; 520 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Anmeldung nicht erforderlich-",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
-      "bookable_canceled": false
-    },
-    {
-      "id": "6a918def3c8ac3a04abf6dd1",
-      "number": null,
-      "title": "Freitagswanderung",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-11-13",
-      "date_to": "2026-11-13",
-      "locations": [
-        "Heidelberg Hbf. S 1"
-      ],
-      "description": "Neckarzimmern, Neckarsteig, Bad Wimpfen\n18,5 Km; 320 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1252,31 +1152,6 @@
       "max_places": null,
       "bookable_places": null,
       "waitlist_active": true,
-      "bookable_canceled": false
-    },
-    {
-      "id": "6a9192cfc28f2b6de7df0188",
-      "number": null,
-      "title": "Samstagswanderung",
-      "type": "TOUR",
-      "canceled": false,
-      "cancel_reason": null,
-      "categories": [
-        "Wandern"
-      ],
-      "date_from": "2026-10-31",
-      "date_to": "2026-10-31",
-      "locations": [
-        "Heidelberg Hbf RB 68"
-      ],
-      "description": "Bensheim, Friedensdenkmal (\"Jerusalem am Rhein\"), Felsenmeer, Waldgasthaus am Borstein (Einkehr), Reichenbach.\n14 Km; 420 m; Gehzeit ca. 4 Std\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung  nicht erforderlich-",
-      "bookable_id": null,
-      "bookable_start": "",
-      "bookable_end": "",
-      "free_places": null,
-      "max_places": null,
-      "bookable_places": null,
-      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -2056,9 +1931,9 @@
       "date_from": "2027-08-28",
       "date_to": "2027-09-05",
       "locations": [
-        "Zakopane (Hohe Tatra)"
+        "Zakopane, Polen"
       ],
-      "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
+      "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise lange Bergtouren mit Gehzeiten von 8-9 Stunden sowie 1.300 bis 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4.\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis 9 Stunden Gehzeit und 1.300 bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
       "bookable_id": "6af575babe461bb584627122",
       "bookable_start": "2027-08-28",
       "bookable_end": "2027-09-05",
