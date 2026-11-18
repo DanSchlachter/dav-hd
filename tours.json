@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-17T15:03:06.114632+00:00",
+  "timestamp": "2026-11-18T14:42:47.235414+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 79,
   "tours": [
@@ -1017,9 +1017,9 @@
       "date_from": "2026-12-04",
       "date_to": "2026-12-04",
       "locations": [
-        "NN"
+        "Heidelberg Hbf S 1"
       ],
-      "description": "N.D.",
+      "description": "Neidenfels, Mollenkopf, Hochspeyer (Schlusseinkehr)\n18 Km; 500 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung  Homburg\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a918ee7c28f2b6de7deed03",
       "bookable_start": "2026-12-04",
       "bookable_end": "2026-12-04",
@@ -1504,9 +1504,9 @@
       "bookable_id": "6acc66ed67344b53bb164e14",
       "bookable_start": "2027-01-07",
       "bookable_end": "2027-01-13",
-      "free_places": 8,
+      "free_places": 7,
       "max_places": 12,
-      "bookable_places": 8,
+      "bookable_places": 7,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1714,7 +1714,7 @@
       "free_places": 0,
       "max_places": 0,
       "bookable_places": 0,
-      "waitlist_active": true,
+      "waitlist_active": false,
       "bookable_canceled": false
     },
     {
@@ -1937,9 +1937,9 @@
       "bookable_id": "6af575babe461bb584627122",
       "bookable_start": "2027-08-28",
       "bookable_end": "2027-09-05",
-      "free_places": 9,
+      "free_places": 8,
       "max_places": 9,
-      "bookable_places": 9,
+      "bookable_places": 8,
       "waitlist_active": true,
       "bookable_canceled": false
     },

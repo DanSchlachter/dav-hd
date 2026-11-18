@@ -1,159 +1,231 @@
 {
-  "timestamp": "2026-11-17T15:03:06.121156+00:00",
-  "previous_timestamp": "2026-11-16T14:09:39.033124+00:00",
+  "timestamp": "2026-11-18T14:42:47.242199+00:00",
+  "previous_timestamp": "2026-11-17T15:03:06.114632+00:00",
   "summary": {
     "added": 0,
-    "removed": 5,
-    "modified": 1
+    "removed": 0,
+    "modified": 4
   },
   "changes": {
     "added": [],
-    "removed": [
-      {
-        "id": "6a918a613c8ac3a04abf3c33",
-        "number": null,
-        "title": "Mittwochswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-11-04",
-        "date_to": "2026-11-04",
-        "locations": [
-          "Heidelberg Hbf RB 68"
-        ],
-        "description": "Affolterbach Mitte, Wahlen, Grasellenbach Café Bauer  (Einkehr), Hammelbach\n8 Km; 120 Hm; Gehzeit ca. 2,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a918d42c28f2b6de7dedde5",
-        "number": null,
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-10-30",
-        "date_to": "2026-10-30",
-        "locations": [
-          "Heidelberg Hbf S 7"
-        ],
-        "description": "Mauer, Meckesheim, Oberhof, Zuzenhausen (Mühlenbäcker Einkehr), Zuzenhausen Bahnhof\n14 Km; 100 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a918d963c8ac3a04abf6b8a",
-        "number": null,
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-11-06",
-        "date_to": "2026-11-06",
-        "locations": [
-          "Heidelberg Hbf S 2"
-        ],
-        "description": "Lambrecht, Sankt Martin (Einkehr)\n16,5 Km; 520 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:34 Uhr S 2 Richtung Kaiserslautern\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a918def3c8ac3a04abf6dd1",
-        "number": null,
-        "title": "Freitagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-11-13",
-        "date_to": "2026-11-13",
-        "locations": [
-          "Heidelberg Hbf. S 1"
-        ],
-        "description": "Neckarzimmern, Neckarsteig, Bad Wimpfen\n18,5 Km; 320 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 07:54 Uhr S 1 Richtung Osterburken\n-Anmeldung nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      },
-      {
-        "id": "6a9192cfc28f2b6de7df0188",
-        "number": null,
-        "title": "Samstagswanderung",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Wandern"
-        ],
-        "date_from": "2026-10-31",
-        "date_to": "2026-10-31",
-        "locations": [
-          "Heidelberg Hbf RB 68"
-        ],
-        "description": "Bensheim, Friedensdenkmal (\"Jerusalem am Rhein\"), Felsenmeer, Waldgasthaus am Borstein (Einkehr), Reichenbach.\n14 Km; 420 m; Gehzeit ca. 4 Std\nAbfahrt Heidelberg Hauptbahnhof 08:21 Uhr RB 68 Richtung Frankfurt\n-Anmeldung  nicht erforderlich-",
-        "bookable_id": null,
-        "bookable_start": "",
-        "bookable_end": "",
-        "free_places": null,
-        "max_places": null,
-        "bookable_places": null,
-        "waitlist_active": null,
-        "bookable_canceled": false
-      }
-    ],
+    "removed": [],
     "modified": [
+      {
+        "id": "6a918ee7c28f2b6de7deed01",
+        "changed_fields": [
+          "description",
+          "locations"
+        ],
+        "changes": {
+          "description": {
+            "from": "N.D.",
+            "to": "Neidenfels, Mollenkopf, Hochspeyer (Schlusseinkehr)\n18 Km; 500 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung  Homburg\n-Anmeldung nicht erforderlich-"
+          },
+          "locations": {
+            "from": [
+              "NN"
+            ],
+            "to": [
+              "Heidelberg Hbf S 1"
+            ]
+          }
+        },
+        "current": {
+          "id": "6a918ee7c28f2b6de7deed01",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-12-04",
+          "date_to": "2026-12-04",
+          "locations": [
+            "Heidelberg Hbf S 1"
+          ],
+          "description": "Neidenfels, Mollenkopf, Hochspeyer (Schlusseinkehr)\n18 Km; 500 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung  Homburg\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918ee7c28f2b6de7deed03",
+          "bookable_start": "2026-12-04",
+          "bookable_end": "2026-12-04",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a918ee7c28f2b6de7deed01",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-12-04",
+          "date_to": "2026-12-04",
+          "locations": [
+            "NN"
+          ],
+          "description": "N.D.",
+          "bookable_id": "6a918ee7c28f2b6de7deed03",
+          "bookable_start": "2026-12-04",
+          "bookable_end": "2026-12-04",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6acc66ed67344b53bb164e12",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 8,
+            "to": 7
+          },
+          "free_places": {
+            "from": 8,
+            "to": 7
+          }
+        },
+        "current": {
+          "id": "6acc66ed67344b53bb164e12",
+          "number": "2027AUS_005",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-01-07",
+          "date_to": "2027-01-13",
+          "locations": [
+            "Deutscher Alpenverein Sektion Heidelberg"
+          ],
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acc66ed67344b53bb164e14",
+          "bookable_start": "2027-01-07",
+          "bookable_end": "2027-01-13",
+          "free_places": 7,
+          "max_places": 12,
+          "bookable_places": 7,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6acc66ed67344b53bb164e12",
+          "number": "2027AUS_005",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-01-07",
+          "date_to": "2027-01-13",
+          "locations": [
+            "Deutscher Alpenverein Sektion Heidelberg"
+          ],
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acc66ed67344b53bb164e14",
+          "bookable_start": "2027-01-07",
+          "bookable_end": "2027-01-13",
+          "free_places": 8,
+          "max_places": 12,
+          "bookable_places": 8,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6ad662bc62f629bcfc95e334",
+        "changed_fields": [
+          "waitlist_active"
+        ],
+        "changes": {
+          "waitlist_active": {
+            "from": true,
+            "to": false
+          }
+        },
+        "current": {
+          "id": "6ad662bc62f629bcfc95e334",
+          "number": "270120SKI_G001",
+          "title": "Kleinwalsertal",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-01-20",
+          "date_to": "2027-01-24",
+          "locations": [
+            "Mittelberg Höfle"
+          ],
+          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTraditioneller Saisonbeginn, einfache bis mittlere Touren:\nz.B. Walmendingerhorn, Grünhorn, Gamsfuß, Derrajoch\nUnterkunft: Nettes Gästehaus Wildbach mit Sauna in Mittelberg-Höfle: ca. 65€ m.F.\nAnforderungen: S1-2, K1, A0\nTeilnehmerzahl: max. 8",
+          "bookable_id": "6ad662bc62f629bcfc95e336",
+          "bookable_start": "2027-01-20",
+          "bookable_end": "2027-01-24",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
+          "waitlist_active": false,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6ad662bc62f629bcfc95e334",
+          "number": "270120SKI_G001",
+          "title": "Kleinwalsertal",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-01-20",
+          "date_to": "2027-01-24",
+          "locations": [
+            "Mittelberg Höfle"
+          ],
+          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTraditioneller Saisonbeginn, einfache bis mittlere Touren:\nz.B. Walmendingerhorn, Grünhorn, Gamsfuß, Derrajoch\nUnterkunft: Nettes Gästehaus Wildbach mit Sauna in Mittelberg-Höfle: ca. 65€ m.F.\nAnforderungen: S1-2, K1, A0\nTeilnehmerzahl: max. 8",
+          "bookable_id": "6ad662bc62f629bcfc95e336",
+          "bookable_start": "2027-01-20",
+          "bookable_end": "2027-01-24",
+          "free_places": 0,
+          "max_places": 0,
+          "bookable_places": 0,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
       {
         "id": "6af575babe461bb584627120",
         "changed_fields": [
-          "locations",
-          "description"
+          "bookable_places",
+          "free_places"
         ],
         "changes": {
-          "locations": {
-            "from": [
-              "Zakopane (Hohe Tatra)"
-            ],
-            "to": [
-              "Zakopane, Polen"
-            ]
+          "bookable_places": {
+            "from": 9,
+            "to": 8
           },
-          "description": {
-            "from": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
-            "to": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise lange Bergtouren mit Gehzeiten von 8-9 Stunden sowie 1.300 bis 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4.\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis 9 Stunden Gehzeit und 1.300 bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell."
+          "free_places": {
+            "from": 9,
+            "to": 8
           }
         },
         "current": {
@@ -175,9 +247,9 @@
           "bookable_id": "6af575babe461bb584627122",
           "bookable_start": "2027-08-28",
           "bookable_end": "2027-09-05",
-          "free_places": 9,
+          "free_places": 8,
           "max_places": 9,
-          "bookable_places": 9,
+          "bookable_places": 8,
           "waitlist_active": true,
           "bookable_canceled": false
         },
@@ -194,9 +266,9 @@
           "date_from": "2027-08-28",
           "date_to": "2027-09-05",
           "locations": [
-            "Zakopane (Hohe Tatra)"
+            "Zakopane, Polen"
           ],
-          "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise sehr lange Bergtouren mit Gehzeiten von bis zu 10 Stunden sowie bis zu 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4, einzelne Touren können bis T5 reichen.\n\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis Schwierigkeit T5, überwiegend T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis zu 10 Stunden Gehzeit und bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
+          "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise lange Bergtouren mit Gehzeiten von 8-9 Stunden sowie 1.300 bis 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4.\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis 9 Stunden Gehzeit und 1.300 bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
           "bookable_id": "6af575babe461bb584627122",
           "bookable_start": "2027-08-28",
           "bookable_end": "2027-09-05",
