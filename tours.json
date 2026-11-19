@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-18T14:42:47.235414+00:00",
+  "timestamp": "2026-11-19T14:49:52.106817+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 79,
+  "tour_count": 80,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -1095,13 +1095,13 @@
         "Heidelberg Hauptbahnhof S 7"
       ],
       "description": "Mauer, Salzberghütte, Schlangenweg, Waldwimmersbach (Einkehr)\n14 Km; 280Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 7 nach Eppingen\nWanderführerin erwartet die Gruppe am Bahnhof Mauer mit Hund Arya\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a919143c28f2b6de7defaf5",
-      "bookable_start": "2026-11-18",
-      "bookable_end": "2026-11-18",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1887,9 +1887,9 @@
       "bookable_id": "6ae8360fbf83c06675abc9a4",
       "bookable_start": "2027-02-19",
       "bookable_end": "2027-02-21",
-      "free_places": 5,
+      "free_places": 4,
       "max_places": 5,
-      "bookable_places": 5,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1991,6 +1991,32 @@
       "free_places": 6,
       "max_places": 6,
       "bookable_places": 6,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6afda213d4feedc675efa79f",
+      "number": "20270225_B_001",
+      "title": "Schneeschuhtour: Erholsamer Winteraufenthalt in der Gauenhütte (25.02.-28.02.2027)",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Bergsteigen",
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-02-25",
+      "date_to": "2027-02-28",
+      "locations": [
+        "Gauenhütte"
+      ],
+      "description": "Gemeinschaftstour Do. 25.02.-28.02.2027\nLeitung: Ute Pfüller (0176-20186674 / ute.pfueller@alpenverein-heidelberg.de ) und Torsten Wendler (DAV Konstanz)\nWas euch erwartet: Nachdem uns letztes Jahr die angespannte Lawinenlage einen Strich durch die Rechnung gemacht hat, nehmen wir dieses Jahr einen erneuten Anlauf! Eingebettet in die tief verschneite Winterlandschaft des Montafons liegt die idyllische Selbstversorgerhütte Gauenhütte auf rund 1200 Meter Höhe. Ein idealer Ausgangspunkt für gemütliche und zugleich eindrucksvolle Schneeschuhtouren durch das Gauertal. Im Vordergrund soll an diesem Wochenende das Thema Entspannung, Erholung und Erleben stehen. Ein Aufenthalt in der Gauenhütte soll die Rückkehr zu den einfachen Dingen sein: Natur, Ruhe, Wärme & Kälte, Gemeinschaft.\nDies ist ein Angebot, das ich mit Torsten Wendler in Kooperation mit der DAV Sektion Konstanz durchführe. Die Gruppe besteht aus max. 12 Teilnehmenden.\nTermin: Donnerstag 25.02.2026 – Sonntag 28.02.2026\nOrt: Selbstversorgerhütte und gemeinsames Kochen: Wir sind in der Gauenhüte des DAV Konstanz untergebracht, wo wir gemeinsam kochen und den Tag bei leckeren Mahlzeiten ausklingen lassen. Dabei ist die Mithilfe von allen TN (Planung, Einkaufen, Vorbereitung, tragen (!), kochen, aufräumen ...) ist bei dieser Gemeinschaftstour selbstverständlich! Gauenhütte, www.dav-konstanz.de/huetten/gauenhuette\nVoraussetzungen: Die Touren sind für alle „Draußen-Menschen“ mit guter Grundkondition geeignet, die auch offen sind für das Thema „Naturerleben in der Gesundheitsprävention“ . Es sind keine besonderen technischen Kenntnisse erforderlich. Die Touren im Gauertal sind technisch nicht schwierig und eignen sich bestens für Einsteiger und Genießer, erfordern dennoch gute Grundkondition, da die verschneiten Wege stellweise fordernd sein können und die Kälte auch Kraft zehrend sein kann.\nGrundkenntnisse in Lawinenkunde, wie sie z.B. an den beiden Abenden im Kurs: \"LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung\" erworbenen können sind erwünscht, jedoch keine Voraussetzung. Die Gegend liegt in einem grundsätzlich ziemlich Lawinen-sicheren Gebiet, wie wir letztes Jahr gemerkt haben jedoch nicht absolut lawinensicher. Die Tour wird nur bei sehr sicheren Verhältnissen durchgeführt! Auch werden wir zu Beginn eine Einführung in die Lawinenverschütteten-Suche (LVS) durchführen (ersetzt keinen LVs-Kurs!)\nSchwierigkeit: SS I -Höhenmeter: bis 500 hm Entfernung: bis 10 km Dauer: bis 6h\nAusrüstungsliste lt. Sektion Konstanz SS1 Schneeschuhbergsteigen www.dav-konstanz.de/ausruestung\nObligatorisch: LVS-Gerät, Sonde und Schaufel Schneeschuhe, Winterstöcke und Bergschuhe (für TN unserer Tour sind in der Geschäftsstelle Leihgeräte (LVS-Gerät, Sonde und Schaufel Schneeschuhe) reserviert!)\n· Bitte bei Anmeldung angeben was benötigt wird.\nTeilnahmegebühr: \nMitglied DAV-Heidelberg: Keine\nMitglied anderer Sektion: 30,- EUR pro Person\nEine Teilnahme für Nichtmitglieder im Alpenverein ist nicht möglich. \nFahrt, Unterbringung, Verpflegung sind nicht Bestandteil der Tour/Fahrt. Diese Kosten sind selbst zu tragen.\nUnterkunftsgebühren richten sich nach der Teilnehmerzahl (ca. 17-20 €/Nacht). Die Hütte ist exklusiv für unsere Gruppe reserviert\nAnreise: Anreise mit dem Sektionsbus – Abfahrt Donnerstag, ca. 7 Uhr HD (DAV Harbigweg): Sonntag- Abend\n· Bitte bei Anmeldung angeben wer bereit ist streckenweise den Bus zu fahren.\nMaximale Teilnehmer*innenzahl: 6\nAnmeldung möglich ab sofort\nAnmeldeschluss: Sonntag 10.Januar 2027\nOnline- Vorbesprechung: Dienstag, 19. Januar 2027 Uhrzeit: 19 Uhr\nEs gelten die Teilnahmebedingungen der DAV-Sektion Heidelberg\nTeilnehmer: 6 (einschließlich Organisator)\nVortreffen: wird noch bekannt gegeben",
+      "bookable_id": "6afda213d4feedc675efa7a4",
+      "bookable_start": "2027-02-25",
+      "bookable_end": "2027-02-28",
+      "free_places": 4,
+      "max_places": 5,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     }

@@ -1,280 +1,184 @@
 {
-  "timestamp": "2026-11-18T14:42:47.242199+00:00",
-  "previous_timestamp": "2026-11-17T15:03:06.114632+00:00",
+  "timestamp": "2026-11-19T14:49:52.150320+00:00",
+  "previous_timestamp": "2026-11-18T14:42:47.235414+00:00",
   "summary": {
-    "added": 0,
+    "added": 1,
     "removed": 0,
-    "modified": 4
+    "modified": 2
   },
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "id": "6afda213d4feedc675efa79f",
+        "number": "20270225_B_001",
+        "title": "Schneeschuhtour: Erholsamer Winteraufenthalt in der Gauenhütte (25.02.-28.02.2027)",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Bergsteigen",
+          "Skibergsteigen"
+        ],
+        "date_from": "2027-02-25",
+        "date_to": "2027-02-28",
+        "locations": [
+          "Gauenhütte"
+        ],
+        "description": "Gemeinschaftstour Do. 25.02.-28.02.2027\nLeitung: Ute Pfüller (0176-20186674 / ute.pfueller@alpenverein-heidelberg.de ) und Torsten Wendler (DAV Konstanz)\nWas euch erwartet: Nachdem uns letztes Jahr die angespannte Lawinenlage einen Strich durch die Rechnung gemacht hat, nehmen wir dieses Jahr einen erneuten Anlauf! Eingebettet in die tief verschneite Winterlandschaft des Montafons liegt die idyllische Selbstversorgerhütte Gauenhütte auf rund 1200 Meter Höhe. Ein idealer Ausgangspunkt für gemütliche und zugleich eindrucksvolle Schneeschuhtouren durch das Gauertal. Im Vordergrund soll an diesem Wochenende das Thema Entspannung, Erholung und Erleben stehen. Ein Aufenthalt in der Gauenhütte soll die Rückkehr zu den einfachen Dingen sein: Natur, Ruhe, Wärme & Kälte, Gemeinschaft.\nDies ist ein Angebot, das ich mit Torsten Wendler in Kooperation mit der DAV Sektion Konstanz durchführe. Die Gruppe besteht aus max. 12 Teilnehmenden.\nTermin: Donnerstag 25.02.2026 – Sonntag 28.02.2026\nOrt: Selbstversorgerhütte und gemeinsames Kochen: Wir sind in der Gauenhüte des DAV Konstanz untergebracht, wo wir gemeinsam kochen und den Tag bei leckeren Mahlzeiten ausklingen lassen. Dabei ist die Mithilfe von allen TN (Planung, Einkaufen, Vorbereitung, tragen (!), kochen, aufräumen ...) ist bei dieser Gemeinschaftstour selbstverständlich! Gauenhütte, www.dav-konstanz.de/huetten/gauenhuette\nVoraussetzungen: Die Touren sind für alle „Draußen-Menschen“ mit guter Grundkondition geeignet, die auch offen sind für das Thema „Naturerleben in der Gesundheitsprävention“ . Es sind keine besonderen technischen Kenntnisse erforderlich. Die Touren im Gauertal sind technisch nicht schwierig und eignen sich bestens für Einsteiger und Genießer, erfordern dennoch gute Grundkondition, da die verschneiten Wege stellweise fordernd sein können und die Kälte auch Kraft zehrend sein kann.\nGrundkenntnisse in Lawinenkunde, wie sie z.B. an den beiden Abenden im Kurs: \"LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung\" erworbenen können sind erwünscht, jedoch keine Voraussetzung. Die Gegend liegt in einem grundsätzlich ziemlich Lawinen-sicheren Gebiet, wie wir letztes Jahr gemerkt haben jedoch nicht absolut lawinensicher. Die Tour wird nur bei sehr sicheren Verhältnissen durchgeführt! Auch werden wir zu Beginn eine Einführung in die Lawinenverschütteten-Suche (LVS) durchführen (ersetzt keinen LVs-Kurs!)\nSchwierigkeit: SS I -Höhenmeter: bis 500 hm Entfernung: bis 10 km Dauer: bis 6h\nAusrüstungsliste lt. Sektion Konstanz SS1 Schneeschuhbergsteigen www.dav-konstanz.de/ausruestung\nObligatorisch: LVS-Gerät, Sonde und Schaufel Schneeschuhe, Winterstöcke und Bergschuhe (für TN unserer Tour sind in der Geschäftsstelle Leihgeräte (LVS-Gerät, Sonde und Schaufel Schneeschuhe) reserviert!)\n· Bitte bei Anmeldung angeben was benötigt wird.\nTeilnahmegebühr: \nMitglied DAV-Heidelberg: Keine\nMitglied anderer Sektion: 30,- EUR pro Person\nEine Teilnahme für Nichtmitglieder im Alpenverein ist nicht möglich. \nFahrt, Unterbringung, Verpflegung sind nicht Bestandteil der Tour/Fahrt. Diese Kosten sind selbst zu tragen.\nUnterkunftsgebühren richten sich nach der Teilnehmerzahl (ca. 17-20 €/Nacht). Die Hütte ist exklusiv für unsere Gruppe reserviert\nAnreise: Anreise mit dem Sektionsbus – Abfahrt Donnerstag, ca. 7 Uhr HD (DAV Harbigweg): Sonntag- Abend\n· Bitte bei Anmeldung angeben wer bereit ist streckenweise den Bus zu fahren.\nMaximale Teilnehmer*innenzahl: 6\nAnmeldung möglich ab sofort\nAnmeldeschluss: Sonntag 10.Januar 2027\nOnline- Vorbesprechung: Dienstag, 19. Januar 2027 Uhrzeit: 19 Uhr\nEs gelten die Teilnahmebedingungen der DAV-Sektion Heidelberg\nTeilnehmer: 6 (einschließlich Organisator)\nVortreffen: wird noch bekannt gegeben",
+        "bookable_id": "6afda213d4feedc675efa7a4",
+        "bookable_start": "2027-02-25",
+        "bookable_end": "2027-02-28",
+        "free_places": 4,
+        "max_places": 5,
+        "bookable_places": 4,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      }
+    ],
     "removed": [],
     "modified": [
       {
-        "id": "6a918ee7c28f2b6de7deed01",
+        "id": "6a919143c28f2b6de7defaf2",
         "changed_fields": [
-          "description",
-          "locations"
-        ],
-        "changes": {
-          "description": {
-            "from": "N.D.",
-            "to": "Neidenfels, Mollenkopf, Hochspeyer (Schlusseinkehr)\n18 Km; 500 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung  Homburg\n-Anmeldung nicht erforderlich-"
-          },
-          "locations": {
-            "from": [
-              "NN"
-            ],
-            "to": [
-              "Heidelberg Hbf S 1"
-            ]
-          }
-        },
-        "current": {
-          "id": "6a918ee7c28f2b6de7deed01",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-12-04",
-          "date_to": "2026-12-04",
-          "locations": [
-            "Heidelberg Hbf S 1"
-          ],
-          "description": "Neidenfels, Mollenkopf, Hochspeyer (Schlusseinkehr)\n18 Km; 500 Hm; Gehzeit ca. 5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung  Homburg\n-Anmeldung nicht erforderlich-",
-          "bookable_id": "6a918ee7c28f2b6de7deed03",
-          "bookable_start": "2026-12-04",
-          "bookable_end": "2026-12-04",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6a918ee7c28f2b6de7deed01",
-          "number": null,
-          "title": "Freitagswanderung",
-          "type": "TOUR",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Wandern"
-          ],
-          "date_from": "2026-12-04",
-          "date_to": "2026-12-04",
-          "locations": [
-            "NN"
-          ],
-          "description": "N.D.",
-          "bookable_id": "6a918ee7c28f2b6de7deed03",
-          "bookable_start": "2026-12-04",
-          "bookable_end": "2026-12-04",
-          "free_places": null,
-          "max_places": null,
-          "bookable_places": null,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6acc66ed67344b53bb164e12",
-        "changed_fields": [
-          "bookable_places",
-          "free_places"
-        ],
-        "changes": {
-          "bookable_places": {
-            "from": 8,
-            "to": 7
-          },
-          "free_places": {
-            "from": 8,
-            "to": 7
-          }
-        },
-        "current": {
-          "id": "6acc66ed67344b53bb164e12",
-          "number": "2027AUS_005",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
-          "type": "COURSE",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Ausbildungskurse",
-            "Skibergsteigen"
-          ],
-          "date_from": "2027-01-07",
-          "date_to": "2027-01-13",
-          "locations": [
-            "Deutscher Alpenverein Sektion Heidelberg"
-          ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acc66ed67344b53bb164e14",
-          "bookable_start": "2027-01-07",
-          "bookable_end": "2027-01-13",
-          "free_places": 7,
-          "max_places": 12,
-          "bookable_places": 7,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        },
-        "previous": {
-          "id": "6acc66ed67344b53bb164e12",
-          "number": "2027AUS_005",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
-          "type": "COURSE",
-          "canceled": false,
-          "cancel_reason": null,
-          "categories": [
-            "Ausbildungskurse",
-            "Skibergsteigen"
-          ],
-          "date_from": "2027-01-07",
-          "date_to": "2027-01-13",
-          "locations": [
-            "Deutscher Alpenverein Sektion Heidelberg"
-          ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acc66ed67344b53bb164e14",
-          "bookable_start": "2027-01-07",
-          "bookable_end": "2027-01-13",
-          "free_places": 8,
-          "max_places": 12,
-          "bookable_places": 8,
-          "waitlist_active": true,
-          "bookable_canceled": false
-        }
-      },
-      {
-        "id": "6ad662bc62f629bcfc95e334",
-        "changed_fields": [
-          "waitlist_active"
+          "waitlist_active",
+          "bookable_start",
+          "bookable_end",
+          "bookable_id"
         ],
         "changes": {
           "waitlist_active": {
             "from": true,
-            "to": false
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-11-18",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-11-18",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a919143c28f2b6de7defaf5",
+            "to": null
           }
         },
         "current": {
-          "id": "6ad662bc62f629bcfc95e334",
-          "number": "270120SKI_G001",
-          "title": "Kleinwalsertal",
+          "id": "6a919143c28f2b6de7defaf2",
+          "number": null,
+          "title": "Mittwochswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Skibergsteigen"
+            "Wandern"
           ],
-          "date_from": "2027-01-20",
-          "date_to": "2027-01-24",
+          "date_from": "2026-11-18",
+          "date_to": "2026-11-18",
           "locations": [
-            "Mittelberg Höfle"
+            "Heidelberg Hauptbahnhof S 7"
           ],
-          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTraditioneller Saisonbeginn, einfache bis mittlere Touren:\nz.B. Walmendingerhorn, Grünhorn, Gamsfuß, Derrajoch\nUnterkunft: Nettes Gästehaus Wildbach mit Sauna in Mittelberg-Höfle: ca. 65€ m.F.\nAnforderungen: S1-2, K1, A0\nTeilnehmerzahl: max. 8",
-          "bookable_id": "6ad662bc62f629bcfc95e336",
-          "bookable_start": "2027-01-20",
-          "bookable_end": "2027-01-24",
-          "free_places": 0,
-          "max_places": 0,
-          "bookable_places": 0,
-          "waitlist_active": false,
+          "description": "Mauer, Salzberghütte, Schlangenweg, Waldwimmersbach (Einkehr)\n14 Km; 280Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 7 nach Eppingen\nWanderführerin erwartet die Gruppe am Bahnhof Mauer mit Hund Arya\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6ad662bc62f629bcfc95e334",
-          "number": "270120SKI_G001",
-          "title": "Kleinwalsertal",
+          "id": "6a919143c28f2b6de7defaf2",
+          "number": null,
+          "title": "Mittwochswanderung",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Skibergsteigen"
+            "Wandern"
           ],
-          "date_from": "2027-01-20",
-          "date_to": "2027-01-24",
+          "date_from": "2026-11-18",
+          "date_to": "2026-11-18",
           "locations": [
-            "Mittelberg Höfle"
+            "Heidelberg Hauptbahnhof S 7"
           ],
-          "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nTraditioneller Saisonbeginn, einfache bis mittlere Touren:\nz.B. Walmendingerhorn, Grünhorn, Gamsfuß, Derrajoch\nUnterkunft: Nettes Gästehaus Wildbach mit Sauna in Mittelberg-Höfle: ca. 65€ m.F.\nAnforderungen: S1-2, K1, A0\nTeilnehmerzahl: max. 8",
-          "bookable_id": "6ad662bc62f629bcfc95e336",
-          "bookable_start": "2027-01-20",
-          "bookable_end": "2027-01-24",
-          "free_places": 0,
-          "max_places": 0,
-          "bookable_places": 0,
+          "description": "Mauer, Salzberghütte, Schlangenweg, Waldwimmersbach (Einkehr)\n14 Km; 280Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 7 nach Eppingen\nWanderführerin erwartet die Gruppe am Bahnhof Mauer mit Hund Arya\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a919143c28f2b6de7defaf5",
+          "bookable_start": "2026-11-18",
+          "bookable_end": "2026-11-18",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         }
       },
       {
-        "id": "6af575babe461bb584627120",
+        "id": "6ae8360fbf83c06675abc9a1",
         "changed_fields": [
-          "bookable_places",
-          "free_places"
+          "free_places",
+          "bookable_places"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 9,
-            "to": 8
-          },
           "free_places": {
-            "from": 9,
-            "to": 8
+            "from": 5,
+            "to": 4
+          },
+          "bookable_places": {
+            "from": 5,
+            "to": 4
           }
         },
         "current": {
-          "id": "6af575babe461bb584627120",
-          "number": "20270828_B_001",
-          "title": "Bergsteigen in der Hohen Tatra – Anspruchsvolle Bergtouren rund um Zakopane (28.08.-05.09.2027)",
+          "id": "6ae8360fbf83c06675abc9a1",
+          "number": "20270219_B_001",
+          "title": "Schneeschuhdurchquerung Spitzingsee",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Bergsteigen"
+            "Bergsteigen",
+            "Skibergsteigen"
           ],
-          "date_from": "2027-08-28",
-          "date_to": "2027-09-05",
+          "date_from": "2027-02-19",
+          "date_to": "2027-02-21",
           "locations": [
-            "Zakopane, Polen"
+            "Spitzingsee, Schliersee, Deutschland"
           ],
-          "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise lange Bergtouren mit Gehzeiten von 8-9 Stunden sowie 1.300 bis 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4.\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis 9 Stunden Gehzeit und 1.300 bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
-          "bookable_id": "6af575babe461bb584627122",
-          "bookable_start": "2027-08-28",
-          "bookable_end": "2027-09-05",
-          "free_places": 8,
-          "max_places": 9,
-          "bookable_places": 8,
+          "description": "Gemeinschaftstour: 19.–21.02.2027\nDrei Tage mit Schneeschuhen durch die winterliche Berglandschaft rund um den Spitzingsee. Von Fischhausen-Neuhaus führt uns die Route über die Bodenschneid (1.668 m) und das Rotwandgebiet bis nach Osterhofen bei Bayrischzell.\nGeplanter Tourenverlauf:\n· Freitag: Fischhausen-Neuhaus – Bodenschneidhaus (1.365 m), ca. 575 Hm, 2 Std.\n· Samstag: Bodenschneid (1.668 m) – Obere Firstalm – Spitzingsee – Rotwandhaus (1.737 m), ca. 950 Hm Aufstieg, 6 Std.\n· Sonntag: Hochmiesing (1.883 m) – Soinsee – Osterhofen, ca. 400 Hm Aufstieg, 6 Std.\nOrt: Spitzingsee\nOrganisation:\nAn- und Abreise mit öffentlichen Verkehrsmitteln. Zwei Übernachtungen in Alpenvereinshütten.\nSollte nicht ausreichend Schnee für eine Schneeschuhtour liegen, führen wir die Tour nach Möglichkeit als Winterwanderung mit Grödeln durch. Die genaue Routenwahl und gegebenenfalls notwendige Anpassungen richten sich nach den aktuellen Schnee-, Wetter- und Lawinenverhältnissen.\n\nAls Gemeinschaftstour planen und entscheiden wir gemeinsam. Alle Teilnehmenden übernehmen einen Teil der Tourenplanung und sollten in der Lage sein, eigenständig und verantwortungsbewusst im winterlichen Gebirge unterwegs zu sein\n\nAnforderungen: Voraussetzung sind ein \naktueller LVS-Kurs \nvollständige Lawinennotfallausrüstung (LVS-Gerät, Sonde, Schaufel) sowie sichere Beherrschung der Ausrüstung\nKondition für bis zu 7 Stunden Gehzeit und rund 1.000 Höhenmeter im Aufstieg erforderlich\nDie Tour richtet sich an erfahrene, konditionsstarke Schneeschuhbergsteiger mit alpiner Wintererfahrung\nTeilnehmer: 6 (einschließlich Organisator)\nVortreffen: wird noch bekannt gegeben",
+          "bookable_id": "6ae8360fbf83c06675abc9a4",
+          "bookable_start": "2027-02-19",
+          "bookable_end": "2027-02-21",
+          "free_places": 4,
+          "max_places": 5,
+          "bookable_places": 4,
           "waitlist_active": true,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6af575babe461bb584627120",
-          "number": "20270828_B_001",
-          "title": "Bergsteigen in der Hohen Tatra – Anspruchsvolle Bergtouren rund um Zakopane (28.08.-05.09.2027)",
+          "id": "6ae8360fbf83c06675abc9a1",
+          "number": "20270219_B_001",
+          "title": "Schneeschuhdurchquerung Spitzingsee",
           "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Bergsteigen"
+            "Bergsteigen",
+            "Skibergsteigen"
           ],
-          "date_from": "2027-08-28",
-          "date_to": "2027-09-05",
+          "date_from": "2027-02-19",
+          "date_to": "2027-02-21",
           "locations": [
-            "Zakopane, Polen"
+            "Spitzingsee, Schliersee, Deutschland"
           ],
-          "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise lange Bergtouren mit Gehzeiten von 8-9 Stunden sowie 1.300 bis 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4.\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis 9 Stunden Gehzeit und 1.300 bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
-          "bookable_id": "6af575babe461bb584627122",
-          "bookable_start": "2027-08-28",
-          "bookable_end": "2027-09-05",
-          "free_places": 9,
-          "max_places": 9,
-          "bookable_places": 9,
+          "description": "Gemeinschaftstour: 19.–21.02.2027\nDrei Tage mit Schneeschuhen durch die winterliche Berglandschaft rund um den Spitzingsee. Von Fischhausen-Neuhaus führt uns die Route über die Bodenschneid (1.668 m) und das Rotwandgebiet bis nach Osterhofen bei Bayrischzell.\nGeplanter Tourenverlauf:\n· Freitag: Fischhausen-Neuhaus – Bodenschneidhaus (1.365 m), ca. 575 Hm, 2 Std.\n· Samstag: Bodenschneid (1.668 m) – Obere Firstalm – Spitzingsee – Rotwandhaus (1.737 m), ca. 950 Hm Aufstieg, 6 Std.\n· Sonntag: Hochmiesing (1.883 m) – Soinsee – Osterhofen, ca. 400 Hm Aufstieg, 6 Std.\nOrt: Spitzingsee\nOrganisation:\nAn- und Abreise mit öffentlichen Verkehrsmitteln. Zwei Übernachtungen in Alpenvereinshütten.\nSollte nicht ausreichend Schnee für eine Schneeschuhtour liegen, führen wir die Tour nach Möglichkeit als Winterwanderung mit Grödeln durch. Die genaue Routenwahl und gegebenenfalls notwendige Anpassungen richten sich nach den aktuellen Schnee-, Wetter- und Lawinenverhältnissen.\n\nAls Gemeinschaftstour planen und entscheiden wir gemeinsam. Alle Teilnehmenden übernehmen einen Teil der Tourenplanung und sollten in der Lage sein, eigenständig und verantwortungsbewusst im winterlichen Gebirge unterwegs zu sein\n\nAnforderungen: Voraussetzung sind ein \naktueller LVS-Kurs \nvollständige Lawinennotfallausrüstung (LVS-Gerät, Sonde, Schaufel) sowie sichere Beherrschung der Ausrüstung\nKondition für bis zu 7 Stunden Gehzeit und rund 1.000 Höhenmeter im Aufstieg erforderlich\nDie Tour richtet sich an erfahrene, konditionsstarke Schneeschuhbergsteiger mit alpiner Wintererfahrung\nTeilnehmer: 6 (einschließlich Organisator)\nVortreffen: wird noch bekannt gegeben",
+          "bookable_id": "6ae8360fbf83c06675abc9a4",
+          "bookable_start": "2027-02-19",
+          "bookable_end": "2027-02-21",
+          "free_places": 5,
+          "max_places": 5,
+          "bookable_places": 5,
           "waitlist_active": true,
           "bookable_canceled": false
         }
