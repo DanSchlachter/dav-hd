@@ -1,24 +1,337 @@
 {
-  "timestamp": "2026-11-20T14:30:43.760379+00:00",
-  "previous_timestamp": "2026-11-19T14:49:52.106817+00:00",
+  "timestamp": "2026-11-21T13:49:48.905455+00:00",
+  "previous_timestamp": "2026-11-20T14:30:43.754738+00:00",
   "summary": {
-    "added": 0,
+    "added": 1,
     "removed": 0,
-    "modified": 1
+    "modified": 5
   },
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "id": "6afc57092b2f912ac1cfb168",
+        "number": "202700506_B_001",
+        "title": "Trekking auf dem Skye Trail – Schottland (Zeitraum 06.-30.05.2027)",
+        "type": "TOUR",
+        "canceled": false,
+        "cancel_reason": null,
+        "categories": [
+          "Bergsteigen"
+        ],
+        "date_from": "2027-05-06",
+        "date_to": "2027-05-06",
+        "locations": [
+          "Isle of Skye"
+        ],
+        "description": "Führungstour: 8–9 Tage im Zeitraum 06.–30.05.2027 \nTrekking auf dem Skye Trail – Schottland \nDie Isle of Skye gehört zu den landschaftlich spektakulärsten Regionen Schottlands. Der rund 130 km lange Skye Trail führt vom nördlichsten Zipfel der Insel bis nach Broadford im Süden. Unterwegs erwarten uns schroffe Bergketten, bizarre Felsformationen, einsame Küstenlandschaften, weite Moorgebiete und beeindruckende Ausblicke auf den Atlantik. \nZu den landschaftlichen Höhepunkten gehören der spektakuläre Trotternish Ridge mit dem Old Man of Storr und dem Quiraing, die wilde Küstenlandschaft der Insel sowie die beeindruckende Bergkulisse der Cuillin Mountains. \nAnders als der bekannte West Highland Way ist der Skye Trail kein ausgebauter Fernwanderweg. Die Route ist nicht markiert und führt über längere Abschnitte durch wegloses, unwegsames Gelände. Wir wandern über steile Grashänge, felsige Bergpfade, ausgesetzte Küstenwege und durch teilweise sumpfige Moorlandschaften. Besonders die lange Überschreitung des Trotternish Ridge mit ihren steilen Auf- und Abstiegen und wenigen Ausweichmöglichkeiten ist anspruchsvoll. \nWir sind bewusst früh in der Wandersaison unterwegs. Der Mai gehört zu den vergleichsweise trockenen Monaten auf Skye, und das Risiko, von den berüchtigten schottischen Stechmücken (Midges) geplagt zu werden, ist noch gering. Dafür müssen wir in höheren Lagen mit einzelnen Altschneefeldern und möglicherweise winterlichen Bedingungen rechnen. \nWir sind mit dem Zelt unterwegs, was uns eine große Flexibilität bei der Reiseroute und der wetterabhängigen Planung unserer Tagesetappen gibt. Je nach Etappenziel übernachten wir auf Campingplätzen oder an geeigneten Plätzen in der Natur. Zwischendurch werden wir auch einige Nächte in einfachen Herbergen oder Hostels verbringen. \nAnforderungen: \nDie Tour richtet sich an erfahrene, konditionsstarke Bergwanderer und ist deutlich anspruchsvoller als klassische Fernwanderwege wie der West Highland Way. \nWir sind durchschnittlich 7–9 Stunden täglich unterwegs, auf einzelnen Etappen auch länger. Du solltest Kondition für Tagesetappen von 15–25 km mit voller Trekkingausrüstung (Zelt, Schlafsack und Verpflegung) mitbringen. Auf der Überschreitung des Trotternish Ridge sind zudem zahlreiche Auf- und Abstiege mit insgesamt erheblichen Höhenmetern zu bewältigen. \nVorausgesetzt werden sehr gute Trittsicherheit auch in weglosem, steilem und rutschigem Gelände, Schwindelfreiheit auf ausgesetzten Passagen sowie Erfahrung mit anspruchsvollen Bergwanderungen. Du solltest außerdem mit rauem Wetter, starkem Wind, Regen und schlechter Sicht zurechtkommen. Einzelne Bachquerungen können bei starkem Regen schwierig oder unpassierbar werden. Verbleibende Altschneefelder können gegebenenfalls Anpassungen der Route erforderlich machen. \nAblauf & Kosten: \nUm die Flugkosten möglichst gering zu halten (Ziel unter 300 Euro), buchen wir nach der Vorbesprechung gemeinsam innerhalb des angegebenen Zeitfensters. Geplant sind insgesamt 9–10 Reisetage einschließlich An- und Abreise. \nIch rechne mit 2–3 Übernachtungen in einfachen Herbergen oder Hostels (ca. 50–70 Euro pro Nacht). Ansonsten fallen Transferkosten sowie Kosten für Verpflegung und Campingplätze an. Die genaue Tourenplanung erfolgt in Abhängigkeit von den Flugverbindungen, den verfügbaren Unterkünften und den Wetterverhältnissen. \nFür die Einreise nach Großbritannien sind ein gültiger Reisepass und eine elektronische Einreisegenehmigung (ETA) erforderlich. \nAnmeldeschluss: 04.01.2027 \nVorbesprechung (virtuell): 13.01.2027, 19:30 Uhr \nTeilnehmer: 6 \n \nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag",
+        "bookable_id": "6afc57092b2f912ac1cfb16b",
+        "bookable_start": "2027-05-06",
+        "bookable_end": "2027-05-06",
+        "free_places": 7,
+        "max_places": 7,
+        "bookable_places": 7,
+        "waitlist_active": true,
+        "bookable_canceled": false
+      }
+    ],
     "removed": [],
     "modified": [
       {
-        "id": "6afda213d4feedc675efa79f",
+        "id": "6a918e45c28f2b6de7dee96e",
         "changed_fields": [
-          "max_places"
+          "waitlist_active",
+          "bookable_start",
+          "bookable_end",
+          "bookable_id"
         ],
         "changes": {
-          "max_places": {
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-11-20",
+            "to": ""
+          },
+          "bookable_end": {
+            "from": "2026-11-20",
+            "to": ""
+          },
+          "bookable_id": {
+            "from": "6a918e45c28f2b6de7dee970",
+            "to": null
+          }
+        },
+        "current": {
+          "id": "6a918e45c28f2b6de7dee96e",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-11-20",
+          "date_to": "2026-11-20",
+          "locations": [
+            "Heidelberg Hbf. S 1"
+          ],
+          "description": "Bad Dürkheim Hardenburg, Wachenheim (Schlusseinkehr)\n18,5 Km; 550 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a918e45c28f2b6de7dee96e",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-11-20",
+          "date_to": "2026-11-20",
+          "locations": [
+            "Heidelberg Hbf. S 1"
+          ],
+          "description": "Bad Dürkheim Hardenburg, Wachenheim (Schlusseinkehr)\n18,5 Km; 550 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918e45c28f2b6de7dee970",
+          "bookable_start": "2026-11-20",
+          "bookable_end": "2026-11-20",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6aa9056d2a789853eea2c13e",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 3,
+            "to": 4
+          },
+          "free_places": {
+            "from": 3,
+            "to": 4
+          }
+        },
+        "current": {
+          "id": "6aa9056d2a789853eea2c13e",
+          "number": "261122B_003",
+          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-11-22",
+          "date_to": "2026-11-22",
+          "locations": [
+            "Odenwald"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa9056d2a789853eea2c140",
+          "bookable_start": "2026-11-22",
+          "bookable_end": "2026-11-22",
+          "free_places": 4,
+          "max_places": 9,
+          "bookable_places": 4,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6aa9056d2a789853eea2c13e",
+          "number": "261122B_003",
+          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-11-22",
+          "date_to": "2026-11-22",
+          "locations": [
+            "Odenwald"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa9056d2a789853eea2c140",
+          "bookable_start": "2026-11-22",
+          "bookable_end": "2026-11-22",
+          "free_places": 3,
+          "max_places": 9,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6acb48f567344b53bb11f6a1",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
             "from": 5,
-            "to": 6
+            "to": 4
+          },
+          "free_places": {
+            "from": 5,
+            "to": 4
+          }
+        },
+        "current": {
+          "id": "6acb48f567344b53bb11f6a1",
+          "number": "2026AUS_042",
+          "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2026-12-18",
+          "date_to": "2026-12-21",
+          "locations": [
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
+          ],
+          "description": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: \nDas Lawinenopfer kann nicht rechtzeitig, das heißt binnen der ersten 15 Minuten der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. \nLernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen ‘Ernstfall‘ unter realistischen Bedingungen. \nFür Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. \nVermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. \nKursinhalte:\nInhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle)\nHandhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung\nFreischaufeln des Verschütteten \nAusrüstungs- und Materialkunde\nGrundwissen in Schnee- und Lawinenkunde. \nAnforderungen: Mitglied im DAV, Teilnahme an der Theorie- und Seminarreihe Lawinenkunde, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Finden und Ausgraben von Verschütteten durch sicheren Umgang mit dem LVS-Gerät, Einsatz von Sonde und Schaufel, Beurteilung von Gefahren im Vorfeld einer Skitour\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 160,- (EUR 120,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acb48f567344b53bb11f6a3",
+          "bookable_start": "2026-12-18",
+          "bookable_end": "2026-12-21",
+          "free_places": 4,
+          "max_places": 6,
+          "bookable_places": 4,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6acb48f567344b53bb11f6a1",
+          "number": "2026AUS_042",
+          "title": "LVS-Ausbildung - Einführung in die Handhabung des LVS-Gerätes, der Lawinensonde und -schaufel",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2026-12-18",
+          "date_to": "2026-12-21",
+          "locations": [
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
+          ],
+          "description": "Auch im heutigen High-Tech-Zeitalter kommt bei etwa 50 % von Lawinenverschütteten jegliche Hilfe zu spät: \nDas Lawinenopfer kann nicht rechtzeitig, das heißt binnen der ersten 15 Minuten der Verschüttung, lokalisiert und geborgen werden. Die Ursachen hierfür liegen zu oft in einer mangelnden Kenntnis der Suchtechniken und einer unzureichenden Vertrautheit mit dem LVS-Gerät. \nLernt mit aktuellen Lawinenverschüttetensuchgeräten umzugehen, übt erfolgreiche Suchstrategien ein und erlebt einen ‘Ernstfall‘ unter realistischen Bedingungen. \nFür Teilnehmer an Touren, die bisher an keinem Lawinen- oder Skitourenkurs teilgenommen haben, sehen wir das LVS-Training als verbindliche Voraussetzung an. \nVermittlung von Grundkenntnissen und -fähigkeiten in Suche und Bergung von Lawinenverschütteten mit LVS-Gerät, Lawinensonde und -schaufel. \nKursinhalte:\nInhalte: Funktionsweise des LVS-Gerätes, LVS-Geräte-Check (Empfangs- und Sendekontrolle)\nHandhabung der Lawinensonde, Signalsuche, Grobsuche, Feinsuche, Punktortung\nFreischaufeln des Verschütteten \nAusrüstungs- und Materialkunde\nGrundwissen in Schnee- und Lawinenkunde. \nAnforderungen: Mitglied im DAV, Teilnahme an der Theorie- und Seminarreihe Lawinenkunde, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Finden und Ausgraben von Verschütteten durch sicheren Umgang mit dem LVS-Gerät, Einsatz von Sonde und Schaufel, Beurteilung von Gefahren im Vorfeld einer Skitour\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 160,- (EUR 120,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\nDamit alle ihre Reise optimal planen können, hier die wichtigsten Eckdaten zu den gemeinsamen Fahrtzeiten sowie den flexiblen Alternativen:\nSektionsbus Hinfahrt: Wir starten am Freitagmorgen gegen 06:00 Uhr.\nSektionsbus Rückfahrt: Die Rückkehr ist für Montagabend gegen 20:00 Uhr geplant.\nFlexible Optionen für deine Planung:\nFalls du nicht die gesamte Zeit dabei sein kannst oder eine andere Verbindung bevorzugst, ist das kein Problem! Folgende Möglichkeiten stehen dir offen:\nSpätere Hinfahrt: Du kannst auch erst am Freitagnachmittag oder -abend individuell anreisen.\nFrühzeitige Abreise: Wenn du früher zurück musst, kannst du die Heimreise am Sonntagnachmittag gegen 16 Uhr antreten – hier bietet sich beispielsweise für eine Verbindung mit der Bahn an.\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acb48f567344b53bb11f6a3",
+          "bookable_start": "2026-12-18",
+          "bookable_end": "2026-12-21",
+          "free_places": 5,
+          "max_places": 6,
+          "bookable_places": 5,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6acb629467344b53bb129605",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 4,
+            "to": 3
+          },
+          "free_places": {
+            "from": 4,
+            "to": 3
+          }
+        },
+        "current": {
+          "id": "6acb629467344b53bb129605",
+          "number": "2026AUS_043",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2026-12-02",
+          "date_to": "2026-12-16",
+          "locations": [
+            "Deutscher Alpenverein Sektion Heidelberg"
+          ],
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acb629467344b53bb129609",
+          "bookable_start": "2026-12-02",
+          "bookable_end": "2026-12-16",
+          "free_places": 3,
+          "max_places": 12,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6acb629467344b53bb129605",
+          "number": "2026AUS_043",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2026-12-02",
+          "date_to": "2026-12-16",
+          "locations": [
+            "Deutscher Alpenverein Sektion Heidelberg"
+          ],
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acb629467344b53bb129609",
+          "bookable_start": "2026-12-02",
+          "bookable_end": "2026-12-16",
+          "free_places": 4,
+          "max_places": 12,
+          "bookable_places": 4,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6afda213d4feedc675efa79f",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 4,
+            "to": 3
+          },
+          "free_places": {
+            "from": 4,
+            "to": 3
           }
         },
         "current": {
@@ -41,9 +354,9 @@
           "bookable_id": "6afda213d4feedc675efa7a4",
           "bookable_start": "2027-02-25",
           "bookable_end": "2027-02-28",
-          "free_places": 4,
+          "free_places": 3,
           "max_places": 6,
-          "bookable_places": 4,
+          "bookable_places": 3,
           "waitlist_active": true,
           "bookable_canceled": false
         },
@@ -68,7 +381,7 @@
           "bookable_start": "2027-02-25",
           "bookable_end": "2027-02-28",
           "free_places": 4,
-          "max_places": 5,
+          "max_places": 6,
           "bookable_places": 4,
           "waitlist_active": true,
           "bookable_canceled": false

@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-20T14:30:43.754738+00:00",
+  "timestamp": "2026-11-21T13:49:48.900194+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 80,
+  "tour_count": 81,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -970,13 +970,13 @@
         "Heidelberg Hbf. S 1"
       ],
       "description": "Bad Dürkheim Hardenburg, Wachenheim (Schlusseinkehr)\n18,5 Km; 550 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:04 Uhr S 1 Richtung Homburg\n-Anmeldung nicht erforderlich-",
-      "bookable_id": "6a918e45c28f2b6de7dee970",
-      "bookable_start": "2026-11-20",
-      "bookable_end": "2026-11-20",
+      "bookable_id": null,
+      "bookable_start": "",
+      "bookable_end": "",
       "free_places": null,
       "max_places": null,
       "bookable_places": null,
-      "waitlist_active": true,
+      "waitlist_active": null,
       "bookable_canceled": false
     },
     {
@@ -1298,9 +1298,9 @@
       "bookable_id": "6aa9056d2a789853eea2c140",
       "bookable_start": "2026-11-22",
       "bookable_end": "2026-11-22",
-      "free_places": 3,
+      "free_places": 4,
       "max_places": 9,
-      "bookable_places": 3,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1374,9 +1374,9 @@
       "bookable_id": "6acb48f567344b53bb11f6a3",
       "bookable_start": "2026-12-18",
       "bookable_end": "2026-12-21",
-      "free_places": 5,
+      "free_places": 4,
       "max_places": 6,
-      "bookable_places": 5,
+      "bookable_places": 4,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1400,9 +1400,9 @@
       "bookable_id": "6acb629467344b53bb129609",
       "bookable_start": "2026-12-02",
       "bookable_end": "2026-12-16",
-      "free_places": 4,
+      "free_places": 3,
       "max_places": 12,
-      "bookable_places": 4,
+      "bookable_places": 3,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -2014,9 +2014,34 @@
       "bookable_id": "6afda213d4feedc675efa7a4",
       "bookable_start": "2027-02-25",
       "bookable_end": "2027-02-28",
-      "free_places": 4,
+      "free_places": 3,
       "max_places": 6,
-      "bookable_places": 4,
+      "bookable_places": 3,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6afc57092b2f912ac1cfb168",
+      "number": "202700506_B_001",
+      "title": "Trekking auf dem Skye Trail – Schottland (Zeitraum 06.-30.05.2027)",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Bergsteigen"
+      ],
+      "date_from": "2027-05-06",
+      "date_to": "2027-05-06",
+      "locations": [
+        "Isle of Skye"
+      ],
+      "description": "Führungstour: 8–9 Tage im Zeitraum 06.–30.05.2027 \nTrekking auf dem Skye Trail – Schottland \nDie Isle of Skye gehört zu den landschaftlich spektakulärsten Regionen Schottlands. Der rund 130 km lange Skye Trail führt vom nördlichsten Zipfel der Insel bis nach Broadford im Süden. Unterwegs erwarten uns schroffe Bergketten, bizarre Felsformationen, einsame Küstenlandschaften, weite Moorgebiete und beeindruckende Ausblicke auf den Atlantik. \nZu den landschaftlichen Höhepunkten gehören der spektakuläre Trotternish Ridge mit dem Old Man of Storr und dem Quiraing, die wilde Küstenlandschaft der Insel sowie die beeindruckende Bergkulisse der Cuillin Mountains. \nAnders als der bekannte West Highland Way ist der Skye Trail kein ausgebauter Fernwanderweg. Die Route ist nicht markiert und führt über längere Abschnitte durch wegloses, unwegsames Gelände. Wir wandern über steile Grashänge, felsige Bergpfade, ausgesetzte Küstenwege und durch teilweise sumpfige Moorlandschaften. Besonders die lange Überschreitung des Trotternish Ridge mit ihren steilen Auf- und Abstiegen und wenigen Ausweichmöglichkeiten ist anspruchsvoll. \nWir sind bewusst früh in der Wandersaison unterwegs. Der Mai gehört zu den vergleichsweise trockenen Monaten auf Skye, und das Risiko, von den berüchtigten schottischen Stechmücken (Midges) geplagt zu werden, ist noch gering. Dafür müssen wir in höheren Lagen mit einzelnen Altschneefeldern und möglicherweise winterlichen Bedingungen rechnen. \nWir sind mit dem Zelt unterwegs, was uns eine große Flexibilität bei der Reiseroute und der wetterabhängigen Planung unserer Tagesetappen gibt. Je nach Etappenziel übernachten wir auf Campingplätzen oder an geeigneten Plätzen in der Natur. Zwischendurch werden wir auch einige Nächte in einfachen Herbergen oder Hostels verbringen. \nAnforderungen: \nDie Tour richtet sich an erfahrene, konditionsstarke Bergwanderer und ist deutlich anspruchsvoller als klassische Fernwanderwege wie der West Highland Way. \nWir sind durchschnittlich 7–9 Stunden täglich unterwegs, auf einzelnen Etappen auch länger. Du solltest Kondition für Tagesetappen von 15–25 km mit voller Trekkingausrüstung (Zelt, Schlafsack und Verpflegung) mitbringen. Auf der Überschreitung des Trotternish Ridge sind zudem zahlreiche Auf- und Abstiege mit insgesamt erheblichen Höhenmetern zu bewältigen. \nVorausgesetzt werden sehr gute Trittsicherheit auch in weglosem, steilem und rutschigem Gelände, Schwindelfreiheit auf ausgesetzten Passagen sowie Erfahrung mit anspruchsvollen Bergwanderungen. Du solltest außerdem mit rauem Wetter, starkem Wind, Regen und schlechter Sicht zurechtkommen. Einzelne Bachquerungen können bei starkem Regen schwierig oder unpassierbar werden. Verbleibende Altschneefelder können gegebenenfalls Anpassungen der Route erforderlich machen. \nAblauf & Kosten: \nUm die Flugkosten möglichst gering zu halten (Ziel unter 300 Euro), buchen wir nach der Vorbesprechung gemeinsam innerhalb des angegebenen Zeitfensters. Geplant sind insgesamt 9–10 Reisetage einschließlich An- und Abreise. \nIch rechne mit 2–3 Übernachtungen in einfachen Herbergen oder Hostels (ca. 50–70 Euro pro Nacht). Ansonsten fallen Transferkosten sowie Kosten für Verpflegung und Campingplätze an. Die genaue Tourenplanung erfolgt in Abhängigkeit von den Flugverbindungen, den verfügbaren Unterkünften und den Wetterverhältnissen. \nFür die Einreise nach Großbritannien sind ein gültiger Reisepass und eine elektronische Einreisegenehmigung (ETA) erforderlich. \nAnmeldeschluss: 04.01.2027 \nVorbesprechung (virtuell): 13.01.2027, 19:30 Uhr \nTeilnehmer: 6 \n \nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag",
+      "bookable_id": "6afc57092b2f912ac1cfb16b",
+      "bookable_start": "2027-05-06",
+      "bookable_end": "2027-05-06",
+      "free_places": 7,
+      "max_places": 7,
+      "bookable_places": 7,
       "waitlist_active": true,
       "bookable_canceled": false
     }
