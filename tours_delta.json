@@ -1,29 +1,402 @@
 {
-  "timestamp": "2026-11-22T13:42:55.542407+00:00",
-  "previous_timestamp": "2026-11-21T13:49:48.900194+00:00",
+  "timestamp": "2026-11-23T16:42:39.146175+00:00",
+  "previous_timestamp": "2026-11-22T13:42:55.535510+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
-    "modified": 1
+    "modified": 6
   },
   "changes": {
     "added": [],
     "removed": [],
     "modified": [
       {
-        "id": "6afda213d4feedc675efa79f",
+        "id": "6a918f403c8ac3a04abf8260",
         "changed_fields": [
-          "bookable_places",
-          "free_places"
+          "description",
+          "locations"
         ],
         "changes": {
-          "bookable_places": {
-            "from": 3,
-            "to": 2
+          "description": {
+            "from": "N.D.\nAbschlusseinkehr im Gasthaus \"Zum Schwanen\" in Neckarsteinach ab 13:00 Uhr\n-Anmeldung unbedingt erforderlich- bis 04.12.2026!",
+            "to": "Haltestelle Neckargemünd-Altstadt, Bockfelsenhütte, Rainbach, Neckarsteinach,\n Abschlusseinkehr im Gasthaus \"Zum Schwanen\" in Neckarsteinach  um13:00 Uhr\n7 Km; 94 Hm; Gehzeit ca. 2,5 Std.\nWanderführer: Bodo\n -Anmeldung für Schlusseinkehr unbedingt erforderlich- bis 04.12.2026!"
+          },
+          "locations": {
+            "from": [
+              "NN"
+            ],
+            "to": [
+              "Heidelberg Hbf. S 1"
+            ]
+          }
+        },
+        "current": {
+          "id": "6a918f403c8ac3a04abf8260",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-12-11",
+          "date_to": "2026-12-11",
+          "locations": [
+            "Heidelberg Hbf. S 1"
+          ],
+          "description": "Haltestelle Neckargemünd-Altstadt, Bockfelsenhütte, Rainbach, Neckarsteinach,\n Abschlusseinkehr im Gasthaus \"Zum Schwanen\" in Neckarsteinach  um13:00 Uhr\n7 Km; 94 Hm; Gehzeit ca. 2,5 Std.\nWanderführer: Bodo\n -Anmeldung für Schlusseinkehr unbedingt erforderlich- bis 04.12.2026!",
+          "bookable_id": "6a918f403c8ac3a04abf8262",
+          "bookable_start": "2026-12-11",
+          "bookable_end": "2026-12-11",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6a918f403c8ac3a04abf8260",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Wandern"
+          ],
+          "date_from": "2026-12-11",
+          "date_to": "2026-12-11",
+          "locations": [
+            "NN"
+          ],
+          "description": "N.D.\nAbschlusseinkehr im Gasthaus \"Zum Schwanen\" in Neckarsteinach ab 13:00 Uhr\n-Anmeldung unbedingt erforderlich- bis 04.12.2026!",
+          "bookable_id": "6a918f403c8ac3a04abf8262",
+          "bookable_start": "2026-12-11",
+          "bookable_end": "2026-12-11",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6aa9056d2a789853eea2c13e",
+        "changed_fields": [
+          "bookable_end",
+          "free_places",
+          "bookable_id",
+          "waitlist_active",
+          "max_places",
+          "bookable_start",
+          "bookable_places"
+        ],
+        "changes": {
+          "bookable_end": {
+            "from": "2026-11-22",
+            "to": ""
           },
           "free_places": {
+            "from": 4,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "6aa9056d2a789853eea2c140",
+            "to": null
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "max_places": {
+            "from": 9,
+            "to": null
+          },
+          "bookable_start": {
+            "from": "2026-11-22",
+            "to": ""
+          },
+          "bookable_places": {
+            "from": 4,
+            "to": null
+          }
+        },
+        "current": {
+          "id": "6aa9056d2a789853eea2c13e",
+          "number": "261122B_003",
+          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-11-22",
+          "date_to": "2026-11-22",
+          "locations": [
+            "Odenwald"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6aa9056d2a789853eea2c13e",
+          "number": "261122B_003",
+          "title": "ECO: 22.11.2026 Sportwanderung im Odenwald",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Sportwandern"
+          ],
+          "date_from": "2026-11-22",
+          "date_to": "2026-11-22",
+          "locations": [
+            "Odenwald"
+          ],
+          "description": "Es ist eine ca. einstündige Mittagseinkehr geplant (die Möglichkeiten dafür im Odenwald sind allerdings begrenzt).\n\nmax. Teilnehmerzahl: 9\nVorbesprechung: per E-Mail\nTreffpunkt: Anfahrt per Zug. Details werden den Angemeldeten ca. 1 Woche vor der Wanderung bekannt gegeben.\n\nAnforderungen: \nFitness für eine ca. 34 km lange Wanderung mit ca. 1.200 hm mit einer Durchschnittgeschwindigkeit von ca. 5 km/h\nMitgliedschaft im Alpenverein\n\nAnmeldeschluss: Fr, 13.11.26 unter Angabe des Zustiegsbahnhofs und ob die Beteiligung an einem Gruppenticket erwünscht ist.",
+          "bookable_id": "6aa9056d2a789853eea2c140",
+          "bookable_start": "2026-11-22",
+          "bookable_end": "2026-11-22",
+          "free_places": 4,
+          "max_places": 9,
+          "bookable_places": 4,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6acb629467344b53bb129605",
+        "changed_fields": [
+          "free_places",
+          "max_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
             "from": 3,
-            "to": 2
+            "to": 4
+          },
+          "max_places": {
+            "from": 12,
+            "to": 15
+          },
+          "bookable_places": {
+            "from": 3,
+            "to": 5
+          }
+        },
+        "current": {
+          "id": "6acb629467344b53bb129605",
+          "number": "2026AUS_043",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2026-12-02",
+          "date_to": "2026-12-16",
+          "locations": [
+            "Deutscher Alpenverein Sektion Heidelberg"
+          ],
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acb629467344b53bb129609",
+          "bookable_start": "2026-12-02",
+          "bookable_end": "2026-12-16",
+          "free_places": 4,
+          "max_places": 15,
+          "bookable_places": 5,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6acb629467344b53bb129605",
+          "number": "2026AUS_043",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2026-12-02",
+          "date_to": "2026-12-16",
+          "locations": [
+            "Deutscher Alpenverein Sektion Heidelberg"
+          ],
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:00 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acb629467344b53bb129609",
+          "bookable_start": "2026-12-02",
+          "bookable_end": "2026-12-16",
+          "free_places": 3,
+          "max_places": 12,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6acc66ed67344b53bb164e12",
+        "changed_fields": [
+          "free_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 7,
+            "to": 6
+          },
+          "bookable_places": {
+            "from": 7,
+            "to": 6
+          }
+        },
+        "current": {
+          "id": "6acc66ed67344b53bb164e12",
+          "number": "2027AUS_005",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-01-07",
+          "date_to": "2027-01-13",
+          "locations": [
+            "Deutscher Alpenverein Sektion Heidelberg"
+          ],
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acc66ed67344b53bb164e14",
+          "bookable_start": "2027-01-07",
+          "bookable_end": "2027-01-13",
+          "free_places": 6,
+          "max_places": 12,
+          "bookable_places": 6,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6acc66ed67344b53bb164e12",
+          "number": "2027AUS_005",
+          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-01-07",
+          "date_to": "2027-01-13",
+          "locations": [
+            "Deutscher Alpenverein Sektion Heidelberg"
+          ],
+          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
+          "bookable_id": "6acc66ed67344b53bb164e14",
+          "bookable_start": "2027-01-07",
+          "bookable_end": "2027-01-13",
+          "free_places": 7,
+          "max_places": 12,
+          "bookable_places": 7,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6af575babe461bb584627120",
+        "changed_fields": [
+          "description"
+        ],
+        "changes": {
+          "description": {
+            "from": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise lange Bergtouren mit Gehzeiten von 8-9 Stunden sowie 1.300 bis 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4.\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis 9 Stunden Gehzeit und 1.300 bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
+            "to": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise lange Bergtouren mit Gehzeiten von 8-9 Stunden sowie 1.300 bis 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4.\n\nGeplanter Tourenverlauf\nBei stabilen Wetterverhältnissen und passenden Bedingungen ist folgende Tourenwoche vorgesehen. Je nach Wetter, Verhältnissen und Gruppenzusammensetzung können Anpassungen erforderlich sein.\nTag 1 - Kościelec (2155 m)\nZum Auftakt erwartet uns gleich ein Highlight der Hohen Tatra: der markante Kościelec, oft auch als „polnisches Matterhorn“ bezeichnet. Die aussichtsreiche Rundtour führt durch das Gąsienicowa-Tal auf einen der schönsten Gipfel der polnischen Tatra.\nCa. 17 km, 1.200 Hm, 7 Std., Schwierigkeit bis T4\nTag 2 - Szpiglasowy Wierch (2172 m)\nLange, abwechslungsreiche Rundtour durch die beeindruckende Seenlandschaft der Tatra. Vom Tal der Fünf Seen führt die Route auf den aussichtsreichen Gipfel des Szpiglasowy Wierch und weiter zum berühmten Bergsee Morskie Oko.\nCa. 24 km, 1.300 Hm, 9 Std., Schwierigkeit bis T3\nTag 3 - Gratwanderung über die Czerwone Wierchy\nNach der langen Tour des Vortages gönnen wir uns etwas Unterstützung durch die Seilbahn auf den Kasprowy Wierch. Von dort folgt eine landschaftlich großartige Gratwanderung über die Czerwone Wierchy mit herrlichen Ausblicken in die Westtatra bis nach Kiry.\nCa. 13 km, 500 Hm Aufstieg, 1.500 Hm Abstieg, 5-6 Std., T2\nTag 4 - Anspruchsvolle Gipfel- oder Passüberschreitung\nJe nach Bedingungen, Wetter und Gruppenzusammensetzung stehen mehrere attraktive Varianten zur Auswahl:\nVariante 1: Świnica (2301 m)\nÜberschreitung der Świnica mit Abstieg zum Kasprowy Wierch und Talfahrt per Seilbahn. Die Tour beinhaltet ausgesetzte Passagen und drahtseilgesicherte Abschnitte.\nCa. 13 km, 1.550 Hm Aufstieg, 600 Hm Abstieg, 6-7 Std., bis T4+\nVariante 2: Zawrat-Pass (2159 m)\nAnspruchsvolle Bergtour zum berühmten Zawrat-Sattel mit anschließendem Abstieg durch das landschaftlich reizvolle Tal der Fünf Seen.\nCa. 19,5 km, 1.250 Hm Aufstieg und 1.250 Hm Abstieg, ca. 8 Std., bis T4\nVariante 3: Kozi Wierch (2291 m)\nAufstieg über den Żleb Kulczyńskiego auf den Kozi Wierch, den höchsten vollständig auf polnischem Staatsgebiet liegenden Gipfel der Tatra. Der Abstieg erfolgt durch das Tal der Fünf Seen. Diese Tour verbindet alpinen Charakter mit spektakulären Ausblicken.\nCa. 20 km, 1.450 Hm Aufstieg und 1.450 Hm Abstieg, ca. 8,5-9 Std., bis T4\nTag 5 - Giewont (1895 m)\nDer markante Giewont, Wahrzeichen und Hausberg von Zakopane, darf bei einer Tatra-Woche nicht fehlen. Die aussichtsreiche Rundtour führt auf einen der bekanntesten Gipfel Polens.\nCa. 15 km, 900 Hm Aufstieg, 1.000 Hm Abstieg, 6 Std., bis T3\nTag 6 - Przełęcz pod Chłopkiem (2307 m)\nEine lange, beeindruckende Tour in die wilde Hochgebirgswelt der Tatra. Der Großteil der Strecke verläuft zunächst auf breiten Wegen, bevor ab Morskie Oko ein schmaler und spektakulärer Bergpfad mit grandiosen Ausblicken beginnt.\nCa. 24 km, 1.350 Hm Auf- und Abstieg, 9 Std., bis T4\nTag 7 - Krzyżne-Pass (2112 m)\nZum Abschluss durchqueren wir zwei der schönsten Täler der Hohen Tatra. Die Überschreitung des Krzyżne verbindet das Gąsienicowa-Tal mit dem Tal der Fünf Seen und bietet nochmals eindrucksvolle Panoramablicke.\nCa. 20 km, 1.350 Hm Aufstieg, 1.380 Hm Abstieg, 8,5 Std., T2\nAlternativprogramm\nFür Schlechtwettertage oder zur Anpassung an die Gruppenverfassung stehen mehrere kürzere und einfachere Touren zur Verfügung 😊\n\nUnterkunft\nUnterkunft in einem familiären Gästehaus in Zakopane:\nPokoje Gościnne Stoch\n🔗 www.pokojestoch.pl\nKosten bei aktuellem Wechselkurs: ca. 25 € pro Person und Nacht im Doppelzimmer.\n\nWeitere Kosten\n\nAn- und Abreise\nVerpflegung\nSeilbahnen (voraussichtlich 2 Fahrten): ca. 30-35 € je Fahrt\nWochenkarte Tatra-Nationalpark: ca. 15-20 €\nTransfers zu den Ausgangspunkten: ca. 3-8 € pro Strecke und Person\nHinweis: Die angegebenen Touren stellen eine optimistische Planung dar. Wetter, Wegverhältnisse und Sicherheitsaspekte haben stets Vorrang. Änderungen des Programms bleiben daher ausdrücklich vorbehalten.\n \nTourencharakter und Anforderungen: \nAnspruchsvolle alpine Bergwanderungen bis T3/T4. \nAbsolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung.\n Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. \nSehr gute Kondition für lange Tourentage mit bis 9 Stunden Gehzeit und 1.300 bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\n\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell."
+          }
+        },
+        "current": {
+          "id": "6af575babe461bb584627120",
+          "number": "20270828_B_001",
+          "title": "Bergsteigen in der Hohen Tatra – Anspruchsvolle Bergtouren rund um Zakopane (28.08.-05.09.2027)",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Bergsteigen"
+          ],
+          "date_from": "2027-08-28",
+          "date_to": "2027-09-05",
+          "locations": [
+            "Zakopane, Polen"
+          ],
+          "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise lange Bergtouren mit Gehzeiten von 8-9 Stunden sowie 1.300 bis 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4.\n\nGeplanter Tourenverlauf\nBei stabilen Wetterverhältnissen und passenden Bedingungen ist folgende Tourenwoche vorgesehen. Je nach Wetter, Verhältnissen und Gruppenzusammensetzung können Anpassungen erforderlich sein.\nTag 1 - Kościelec (2155 m)\nZum Auftakt erwartet uns gleich ein Highlight der Hohen Tatra: der markante Kościelec, oft auch als „polnisches Matterhorn“ bezeichnet. Die aussichtsreiche Rundtour führt durch das Gąsienicowa-Tal auf einen der schönsten Gipfel der polnischen Tatra.\nCa. 17 km, 1.200 Hm, 7 Std., Schwierigkeit bis T4\nTag 2 - Szpiglasowy Wierch (2172 m)\nLange, abwechslungsreiche Rundtour durch die beeindruckende Seenlandschaft der Tatra. Vom Tal der Fünf Seen führt die Route auf den aussichtsreichen Gipfel des Szpiglasowy Wierch und weiter zum berühmten Bergsee Morskie Oko.\nCa. 24 km, 1.300 Hm, 9 Std., Schwierigkeit bis T3\nTag 3 - Gratwanderung über die Czerwone Wierchy\nNach der langen Tour des Vortages gönnen wir uns etwas Unterstützung durch die Seilbahn auf den Kasprowy Wierch. Von dort folgt eine landschaftlich großartige Gratwanderung über die Czerwone Wierchy mit herrlichen Ausblicken in die Westtatra bis nach Kiry.\nCa. 13 km, 500 Hm Aufstieg, 1.500 Hm Abstieg, 5-6 Std., T2\nTag 4 - Anspruchsvolle Gipfel- oder Passüberschreitung\nJe nach Bedingungen, Wetter und Gruppenzusammensetzung stehen mehrere attraktive Varianten zur Auswahl:\nVariante 1: Świnica (2301 m)\nÜberschreitung der Świnica mit Abstieg zum Kasprowy Wierch und Talfahrt per Seilbahn. Die Tour beinhaltet ausgesetzte Passagen und drahtseilgesicherte Abschnitte.\nCa. 13 km, 1.550 Hm Aufstieg, 600 Hm Abstieg, 6-7 Std., bis T4+\nVariante 2: Zawrat-Pass (2159 m)\nAnspruchsvolle Bergtour zum berühmten Zawrat-Sattel mit anschließendem Abstieg durch das landschaftlich reizvolle Tal der Fünf Seen.\nCa. 19,5 km, 1.250 Hm Aufstieg und 1.250 Hm Abstieg, ca. 8 Std., bis T4\nVariante 3: Kozi Wierch (2291 m)\nAufstieg über den Żleb Kulczyńskiego auf den Kozi Wierch, den höchsten vollständig auf polnischem Staatsgebiet liegenden Gipfel der Tatra. Der Abstieg erfolgt durch das Tal der Fünf Seen. Diese Tour verbindet alpinen Charakter mit spektakulären Ausblicken.\nCa. 20 km, 1.450 Hm Aufstieg und 1.450 Hm Abstieg, ca. 8,5-9 Std., bis T4\nTag 5 - Giewont (1895 m)\nDer markante Giewont, Wahrzeichen und Hausberg von Zakopane, darf bei einer Tatra-Woche nicht fehlen. Die aussichtsreiche Rundtour führt auf einen der bekanntesten Gipfel Polens.\nCa. 15 km, 900 Hm Aufstieg, 1.000 Hm Abstieg, 6 Std., bis T3\nTag 6 - Przełęcz pod Chłopkiem (2307 m)\nEine lange, beeindruckende Tour in die wilde Hochgebirgswelt der Tatra. Der Großteil der Strecke verläuft zunächst auf breiten Wegen, bevor ab Morskie Oko ein schmaler und spektakulärer Bergpfad mit grandiosen Ausblicken beginnt.\nCa. 24 km, 1.350 Hm Auf- und Abstieg, 9 Std., bis T4\nTag 7 - Krzyżne-Pass (2112 m)\nZum Abschluss durchqueren wir zwei der schönsten Täler der Hohen Tatra. Die Überschreitung des Krzyżne verbindet das Gąsienicowa-Tal mit dem Tal der Fünf Seen und bietet nochmals eindrucksvolle Panoramablicke.\nCa. 20 km, 1.350 Hm Aufstieg, 1.380 Hm Abstieg, 8,5 Std., T2\nAlternativprogramm\nFür Schlechtwettertage oder zur Anpassung an die Gruppenverfassung stehen mehrere kürzere und einfachere Touren zur Verfügung 😊\n\nUnterkunft\nUnterkunft in einem familiären Gästehaus in Zakopane:\nPokoje Gościnne Stoch\n🔗 www.pokojestoch.pl\nKosten bei aktuellem Wechselkurs: ca. 25 € pro Person und Nacht im Doppelzimmer.\n\nWeitere Kosten\n\nAn- und Abreise\nVerpflegung\nSeilbahnen (voraussichtlich 2 Fahrten): ca. 30-35 € je Fahrt\nWochenkarte Tatra-Nationalpark: ca. 15-20 €\nTransfers zu den Ausgangspunkten: ca. 3-8 € pro Strecke und Person\nHinweis: Die angegebenen Touren stellen eine optimistische Planung dar. Wetter, Wegverhältnisse und Sicherheitsaspekte haben stets Vorrang. Änderungen des Programms bleiben daher ausdrücklich vorbehalten.\n \nTourencharakter und Anforderungen: \nAnspruchsvolle alpine Bergwanderungen bis T3/T4. \nAbsolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung.\n Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. \nSehr gute Kondition für lange Tourentage mit bis 9 Stunden Gehzeit und 1.300 bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\n\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
+          "bookable_id": "6af575babe461bb584627122",
+          "bookable_start": "2027-08-28",
+          "bookable_end": "2027-09-05",
+          "free_places": 8,
+          "max_places": 9,
+          "bookable_places": 8,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6af575babe461bb584627120",
+          "number": "20270828_B_001",
+          "title": "Bergsteigen in der Hohen Tatra – Anspruchsvolle Bergtouren rund um Zakopane (28.08.-05.09.2027)",
+          "type": "TOUR",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Bergsteigen"
+          ],
+          "date_from": "2027-08-28",
+          "date_to": "2027-09-05",
+          "locations": [
+            "Zakopane, Polen"
+          ],
+          "description": "Die Hohe Tatra begeistert mit einer beeindruckenden alpinen Landschaft, schroffen Gipfeln, ausgesetzten Graten und anspruchsvollen Bergwegen. Von unserem festen Standort in Zakopane aus erkunden wir die polnische Seite der Hohen Tatra.\nUns erwarten abwechslungsreiche, anspruchsvolle und teilweise lange Bergtouren mit Gehzeiten von 8-9 Stunden sowie 1.300 bis 1.500 Höhenmetern jeweils im Auf- und Abstieg. Die Routen verlaufen überwiegend auf Bergwegen im Schwierigkeitsbereich T3-T4.\nTourencharakter und Anforderungen: Anspruchsvolle alpine Bergwanderungen bis T3/T4. Absolute Trittsicherheit und Schwindelfreiheit sowie Erfahrung im anspruchsvollen alpinen Gelände sind Voraussetzung. Sicherheit im Umgang mit ausgesetzten und teilweise sehr steilen Passagen ist zwingend erforderlich. Sehr gute Kondition für lange Tourentage mit bis 9 Stunden Gehzeit und 1.300 bis zu 1.500 Höhenmetern im Auf- und Abstieg wird vorausgesetzt.\nMitgliedschaft im Alpenverein, ab 18 Jahren.\nUnterkunft: Wir wohnen in einer zentral gelegenen Unterkunft in Zakopane in Doppelzimmern mit eigenem Bad und WC. Eine Gemeinschaftsküche sowie ein Aufenthaltsraum stehen uns ebenfalls zur Verfügung.\nDie Unterkunft ist ohne Verpflegung. Wir können morgens gemeinsam in der Küche frühstücken. Abends besteht die Möglichkeit, gemeinsam in Zakopane essen zu gehen oder sich nach Lust und Laune selbst etwas in der Küche zuzubereiten.\nAnzahlung/Storno: Bei der Anmeldung ist eine Anzahlung von 75 € pro Person zu leisten. Diese Anzahlung entspricht gleichzeitig den Stornokosten und wird bei einer Absage nicht erstattet (es sei denn der TN der storniert findet selbst eine(n) Nachfolger(in).\n\nMitglieder von Fremdsektionen zahlen EUR 10,- je Tourentag\n\nVortreffen: Wird noch bekannt gegeben\nAnreise: Individuell.",
+          "bookable_id": "6af575babe461bb584627122",
+          "bookable_start": "2027-08-28",
+          "bookable_end": "2027-09-05",
+          "free_places": 8,
+          "max_places": 9,
+          "bookable_places": 8,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      },
+      {
+        "id": "6afda213d4feedc675efa79f",
+        "changed_fields": [
+          "free_places",
+          "max_places",
+          "bookable_places"
+        ],
+        "changes": {
+          "free_places": {
+            "from": 2,
+            "to": 3
+          },
+          "max_places": {
+            "from": 6,
+            "to": 7
+          },
+          "bookable_places": {
+            "from": 2,
+            "to": 3
           }
         },
         "current": {
@@ -46,9 +419,9 @@
           "bookable_id": "6afda213d4feedc675efa7a4",
           "bookable_start": "2027-02-25",
           "bookable_end": "2027-02-28",
-          "free_places": 2,
-          "max_places": 6,
-          "bookable_places": 2,
+          "free_places": 3,
+          "max_places": 7,
+          "bookable_places": 3,
           "waitlist_active": true,
           "bookable_canceled": false
         },
@@ -72,9 +445,9 @@
           "bookable_id": "6afda213d4feedc675efa7a4",
           "bookable_start": "2027-02-25",
           "bookable_end": "2027-02-28",
-          "free_places": 3,
+          "free_places": 2,
           "max_places": 6,
-          "bookable_places": 3,
+          "bookable_places": 2,
           "waitlist_active": true,
           "bookable_canceled": false
         }
