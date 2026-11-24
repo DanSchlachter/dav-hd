@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-11-23T16:42:39.140465+00:00",
+  "timestamp": "2026-11-24T16:38:36.262709+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
-  "tour_count": 81,
+  "tour_count": 82,
   "tours": [
     {
       "id": "69a854c02d4becde2f9ba537",
@@ -2042,6 +2042,31 @@
       "free_places": 7,
       "max_places": 7,
       "bookable_places": 7,
+      "waitlist_active": true,
+      "bookable_canceled": false
+    },
+    {
+      "id": "6b04bee6a665ba0753c37715",
+      "number": "270201SKI_G009",
+      "title": "Saisonstart Maighelshütte",
+      "type": "TOUR",
+      "canceled": false,
+      "cancel_reason": null,
+      "categories": [
+        "Skibergsteigen"
+      ],
+      "date_from": "2027-01-02",
+      "date_to": "2027-01-06",
+      "locations": [
+        "Maighels-Hütte SAC"
+      ],
+      "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSaisonstart Maighelshütte \n2.1. - 6.1.2027 \n Mittelschwere Touren rund um die Maighelshütte. Anreise am Samstag bis Hospental, dort LVS-Training und ggf. kleine Eingehtour. Übernachtung in der Jugendherberge Hospental. Am Sonntag Aufstieg zur Maighelshütte, von dort je nach Bedingungen mittelschwere Touren, am 6. Januar Abfahrt nach Andermatt. \nFalls die Tour abgesagt werden muss, entstehen Stornierungsgebühren! \nUnterkunft: Mehrbettzimmer (Jugendherberge Hospental), Lager (Maighelshütte) \nAnforderungen: S2, K1-2, A0-1 \nMaximale Teilnehmerzahl: 5 \n\nkatrin.schaller@alpenverein-heidelberg.de\n06227-381776",
+      "bookable_id": "6b04bee6a665ba0753c37717",
+      "bookable_start": "2027-01-02",
+      "bookable_end": "2027-01-06",
+      "free_places": 0,
+      "max_places": 0,
+      "bookable_places": 0,
       "waitlist_active": true,
       "bookable_canceled": false
     }
