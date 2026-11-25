@@ -1,40 +1,84 @@
 {
-  "timestamp": "2026-11-24T16:38:36.272370+00:00",
-  "previous_timestamp": "2026-11-23T16:42:39.140465+00:00",
+  "timestamp": "2026-11-25T16:21:08.628298+00:00",
+  "previous_timestamp": "2026-11-24T16:38:36.262709+00:00",
   "summary": {
-    "added": 1,
+    "added": 0,
     "removed": 0,
-    "modified": 0
+    "modified": 1
   },
   "changes": {
-    "added": [
-      {
-        "id": "6b04bee6a665ba0753c37715",
-        "number": "270201SKI_G009",
-        "title": "Saisonstart Maighelshütte",
-        "type": "TOUR",
-        "canceled": false,
-        "cancel_reason": null,
-        "categories": [
-          "Skibergsteigen"
-        ],
-        "date_from": "2027-01-02",
-        "date_to": "2027-01-06",
-        "locations": [
-          "Maighels-Hütte SAC"
-        ],
-        "description": "Hinweis zur Anmeldung:\nDiese Tour wird grundsätzlich als Warteliste geführt, auch wenn noch Plätze verfügbar sind!\n\nDie Teilnahme wird vom Tourenleiter individuell bestätigt, wobei die für die Tour erforderliche Erfahrung und Eignung berücksichtigt werden. Bitte nehmt nach der Anmeldung selbstständig Kontakt mit dem Tourenleiter auf.\n\nSaisonstart Maighelshütte \n2.1. - 6.1.2027 \n Mittelschwere Touren rund um die Maighelshütte. Anreise am Samstag bis Hospental, dort LVS-Training und ggf. kleine Eingehtour. Übernachtung in der Jugendherberge Hospental. Am Sonntag Aufstieg zur Maighelshütte, von dort je nach Bedingungen mittelschwere Touren, am 6. Januar Abfahrt nach Andermatt. \nFalls die Tour abgesagt werden muss, entstehen Stornierungsgebühren! \nUnterkunft: Mehrbettzimmer (Jugendherberge Hospental), Lager (Maighelshütte) \nAnforderungen: S2, K1-2, A0-1 \nMaximale Teilnehmerzahl: 5 \n\nkatrin.schaller@alpenverein-heidelberg.de\n06227-381776",
-        "bookable_id": "6b04bee6a665ba0753c37717",
-        "bookable_start": "2027-01-02",
-        "bookable_end": "2027-01-06",
-        "free_places": 0,
-        "max_places": 0,
-        "bookable_places": 0,
-        "waitlist_active": true,
-        "bookable_canceled": false
-      }
-    ],
+    "added": [],
     "removed": [],
-    "modified": []
+    "modified": [
+      {
+        "id": "6acc6d6959257517ccaf763b",
+        "changed_fields": [
+          "bookable_places",
+          "free_places"
+        ],
+        "changes": {
+          "bookable_places": {
+            "from": 4,
+            "to": 3
+          },
+          "free_places": {
+            "from": 4,
+            "to": 3
+          }
+        },
+        "current": {
+          "id": "6acc6d6959257517ccaf763b",
+          "number": "2027AUS_008",
+          "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-01-18",
+          "date_to": "2027-01-21",
+          "locations": [
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
+          ],
+          "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\neigene Anreise in Fahrgemeinschaften oder mit der Bahn\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acc6d6a59257517ccaf763d",
+          "bookable_start": "2027-01-18",
+          "bookable_end": "2027-01-21",
+          "free_places": 3,
+          "max_places": 6,
+          "bookable_places": 3,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        },
+        "previous": {
+          "id": "6acc6d6959257517ccaf763b",
+          "number": "2027AUS_008",
+          "title": "Sicher in den Winter: Fresh-Up für Tourenplanung & LVS",
+          "type": "COURSE",
+          "canceled": false,
+          "cancel_reason": null,
+          "categories": [
+            "Ausbildungskurse",
+            "Skibergsteigen"
+          ],
+          "date_from": "2027-01-18",
+          "date_to": "2027-01-21",
+          "locations": [
+            "Sattelbergalm, 6156 Neder, Gries am Brenner, Österreich"
+          ],
+          "description": "Bist du bereit für die erste Spur im Schnee? Bevor es auf die Gipfel geht, bringen wir dein Wissen und deine Lawinen-Ausrüstung auf den neuesten Stand, damit du sicher und top vorbereitet in die Saison startest! Praxis im Gelände statt reiner Theorie\nKursziel: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nKursfokus & Inhalte\n\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\nFür wen?\nFür alle DAV-Mitglieder, mit Schneeschuhen oder Tourenski Ausrüstung, die bereits einen (Praxis)LVS-Kurs absolviert haben und nun Wintertouren-Erfahrung sammeln möchten und ihre Routine auffrischen bzw. festigen wollen.\nKursinhalte:\nFundierte Tourenplanung Zeitgemäß und digital im Team planen\nLawinenbeurteilung aufgrund der Tourenplanung: Routine festigen und Gefahren richtig einschätzen\nNotfallausrüstung: Auffrischung Effizienter Umgang mit LVS & Rettungsmitteln\n\nAnforderungen: Mitglied im DAV, Teilnahme am Praxis LVS-Ausbildung, allgemeine Sportlichkeit. Ausrüstung \nAusrüstung: LVS-Gerät incl. Batterien (min. digitales 3-Antennen-Gerät), Lawinenschaufel und -sonde, Ski-/Teleskopstöcke, weiteres bei der Vorbesprechung. Skitourenski/Splitboard mit passenden Fellen und Harscheisen. Schneeschuhgänger sind ebenfalls willkommen. Tourenmaterial (Ski, Felle, Schuhe, Harscheisen oder Schneeschuhe) kann geliehen werden. \nMindestalter: ab 18 Jahre \nZiele: Gemeinsam planen, Risiken minimieren und im Ernstfall richtig handeln.\nDauer: 4 Tage \nOrt: Obernberg (Wipptal) am Brenner \nVorbesprechung: wird noch mitgeteilt\nGebühr (ermässigt): EUR 120,- (EUR 90,-) \nTeilnehmerzahl: 4-6 \n \nUnterkunft und Verpflegung:\nWir wohnen in der Sattelbergalm in Gries am Brenner, Österreich\nDie Kosten für die Halbpension sind nicht in der Kursgebühr enthalten und müssen vor Ort selbst bezahlt werden (EUR  85,-/Nacht ) \n\nAnreise:\neigene Anreise in Fahrgemeinschaften oder mit der Bahn\n\nFür ALLE Fragen steht dir die Kursleitung gerne zur Verfügung\n\nBitte nehmt vor der Anmeldung Kontakt mit dem Kursleiter auf\nmichael.pfisterer@alpenverein-heidelberg.de",
+          "bookable_id": "6acc6d6a59257517ccaf763d",
+          "bookable_start": "2027-01-18",
+          "bookable_end": "2027-01-21",
+          "free_places": 4,
+          "max_places": 6,
+          "bookable_places": 4,
+          "waitlist_active": true,
+          "bookable_canceled": false
+        }
+      }
+    ]
   }
 }
