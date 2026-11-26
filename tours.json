@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T16:21:08.622673+00:00",
+  "timestamp": "2026-11-26T15:56:04.347965+00:00",
   "source": "https://api.yolawo.de/widgets/698376bd0d53ced0ad924a59/offers",
   "tour_count": 82,
   "tours": [
@@ -1117,9 +1117,9 @@
       "date_from": "2026-12-16",
       "date_to": "2026-12-16",
       "locations": [
-        "NN"
+        "Heidelberg Hbf. RB 68"
       ],
-      "description": "N.D.",
+      "description": "Bensheim Auerbach, Schloss Auerbach, Waldgasthaus \"Am Borstein\" (Einkehr), Fürstenlager, Bahnhof Auerbach.\n16 Km; 590 Hm; Gehzeit ca. 4,5 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:26 Uhr RB 68 Richtung Frankfurt\n-Anmeldung nicht erforderlich-",
       "bookable_id": "6a91919b3c8ac3a04abf9ffc",
       "bookable_start": "2026-12-16",
       "bookable_end": "2026-12-16",
@@ -1400,9 +1400,9 @@
       "bookable_id": "6acb629467344b53bb129609",
       "bookable_start": "2026-12-02",
       "bookable_end": "2026-12-16",
-      "free_places": 4,
+      "free_places": 2,
       "max_places": 15,
-      "bookable_places": 5,
+      "bookable_places": 3,
       "waitlist_active": true,
       "bookable_canceled": false
     },
@@ -1686,9 +1686,9 @@
       "bookable_id": "6ad1d2da108f1685efc3b8e0",
       "bookable_start": "2027-01-12",
       "bookable_end": "2027-01-19",
-      "free_places": 8,
+      "free_places": 7,
       "max_places": 10,
-      "bookable_places": 8,
+      "bookable_places": 7,
       "waitlist_active": true,
       "bookable_canceled": false
     },
