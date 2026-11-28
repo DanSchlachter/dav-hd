@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-11-27T15:44:50.227924+00:00",
-  "previous_timestamp": "2026-11-26T15:56:04.347965+00:00",
+  "timestamp": "2026-11-28T14:40:35.455514+00:00",
+  "previous_timestamp": "2026-11-27T15:44:50.220694+00:00",
   "summary": {
     "added": 0,
     "removed": 0,
@@ -11,70 +11,78 @@
     "removed": [],
     "modified": [
       {
-        "id": "6acc66ed67344b53bb164e12",
+        "id": "6a918e9a3c8ac3a04abf7734",
         "changed_fields": [
-          "free_places",
-          "bookable_places"
+          "bookable_end",
+          "bookable_start",
+          "waitlist_active",
+          "bookable_id"
         ],
         "changes": {
-          "free_places": {
-            "from": 6,
-            "to": 4
+          "bookable_end": {
+            "from": "2026-11-27",
+            "to": ""
           },
-          "bookable_places": {
-            "from": 6,
-            "to": 4
+          "bookable_start": {
+            "from": "2026-11-27",
+            "to": ""
+          },
+          "waitlist_active": {
+            "from": true,
+            "to": null
+          },
+          "bookable_id": {
+            "from": "6a918e9a3c8ac3a04abf7736",
+            "to": null
           }
         },
         "current": {
-          "id": "6acc66ed67344b53bb164e12",
-          "number": "2027AUS_005",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
-          "type": "COURSE",
+          "id": "6a918e9a3c8ac3a04abf7734",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Ausbildungskurse",
-            "Skibergsteigen"
+            "Wandern"
           ],
-          "date_from": "2027-01-07",
-          "date_to": "2027-01-13",
+          "date_from": "2026-11-27",
+          "date_to": "2026-11-27",
           "locations": [
-            "Deutscher Alpenverein Sektion Heidelberg"
+            "Heidelberg Hbf S 7"
           ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acc66ed67344b53bb164e14",
-          "bookable_start": "2027-01-07",
-          "bookable_end": "2027-01-13",
-          "free_places": 4,
-          "max_places": 12,
-          "bookable_places": 4,
-          "waitlist_active": true,
+          "description": "Hoffenheim, Dietmar Hopp-Stadion, Wanderparkplatz, Daisbach, Sinsheim (Schlusseinkehr)\n14 Km; 150 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung  Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
+          "bookable_id": null,
+          "bookable_start": "",
+          "bookable_end": "",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
+          "waitlist_active": null,
           "bookable_canceled": false
         },
         "previous": {
-          "id": "6acc66ed67344b53bb164e12",
-          "number": "2027AUS_005",
-          "title": "LVS-Ausbildung - Theorie: Lawinenkunde - Risiko und Tourenplanung (2 Abende)",
-          "type": "COURSE",
+          "id": "6a918e9a3c8ac3a04abf7734",
+          "number": null,
+          "title": "Freitagswanderung",
+          "type": "TOUR",
           "canceled": false,
           "cancel_reason": null,
           "categories": [
-            "Ausbildungskurse",
-            "Skibergsteigen"
+            "Wandern"
           ],
-          "date_from": "2027-01-07",
-          "date_to": "2027-01-13",
+          "date_from": "2026-11-27",
+          "date_to": "2026-11-27",
           "locations": [
-            "Deutscher Alpenverein Sektion Heidelberg"
+            "Heidelberg Hbf S 7"
           ],
-          "description": "Sicherheit im winterlichen Gebirge – LVS Theorie Block\nLawinen gehören zu den größten Gefahren im winterlichen Gebirge, aber sie lassen sich mit Wissen, Erfahrung und Übung besser einschätzen.\nIn unseren Kursen zur Lawinenkunde und Lawinenverschütteten-Suche (LVS) lernst du, wie du Risiken erkennst, Touren sicher planst und im Notfall schnell und richtig reagierst. Dabei erfährst du, wie stark Wetterfaktoren wie zum Beispiel Neuschnee, Wind oder Temperaturschwankungen die Stabilität der Schneedecke beeinflussen. Zudem lernst du die Unterschiede zwischen Schneebrett-, Lockerschnee- und Gleitschneelawinen kennen und somit mögliche Gefahrenstellen im Gelände besser zu meiden.\nDieser Theorie Block ist Voraussetzung für die Teilnahme am LVS-Training Praxis.\n  \nAnforderungen: Mitglied im DAV\nAusrüstung: Schreibunterlagen\nMindestalter: ab 16 Jahre \nZiele: theoretische Grundlagen zur Lawinenkunde und Tourenplanung\nDauer: 2 Abende ab 18:45 bis ca. 22:00 Uhr \nOrt: Alpenverein Heidelberg, großer Seminarraum\nVorbesprechung: keine\nGebühr (ermässigt): EUR 15,- (EUR 10,-) \nTeilnehmerzahl: max. 12\n\n\nHinweis: der Besuch dieses Theorieblockes alleine ermöglicht keine Teilnahme an Schnee- oder Skitouren der Sektion.",
-          "bookable_id": "6acc66ed67344b53bb164e14",
-          "bookable_start": "2027-01-07",
-          "bookable_end": "2027-01-13",
-          "free_places": 6,
-          "max_places": 12,
-          "bookable_places": 6,
+          "description": "Hoffenheim, Dietmar Hopp-Stadion, Wanderparkplatz, Daisbach, Sinsheim (Schlusseinkehr)\n14 Km; 150 Hm; Gehzeit ca. 4 Std.\nAbfahrt Heidelberg Hauptbahnhof 08:31 Uhr S 7 Richtung  Sinsheim\nWanderführer steigt in Neckargemünd zu\n-Anmeldung nicht erforderlich-",
+          "bookable_id": "6a918e9a3c8ac3a04abf7736",
+          "bookable_start": "2026-11-27",
+          "bookable_end": "2026-11-27",
+          "free_places": null,
+          "max_places": null,
+          "bookable_places": null,
           "waitlist_active": true,
           "bookable_canceled": false
         }
